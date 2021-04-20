@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+td.details-control {
+    background: url('https://datatables.net/examples/resources/details_open.png') no-repeat center center;
+    cursor: pointer;
+}
+tr.shown td.details-control {
+    background: url('https://datatables.net/examples/resources/details_close.png') no-repeat center center;
+}
+.centerTdClass {
+    text-align: center;
+}
+</style>
+<link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">
+
+<script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>    
+
+<script>
+/* Formatting function for row details - modify as you need */
+
+function format ( d ) {
+   // `d` is the original data object for the row
+   var tableStart = '<table class="uk-table uk-text-center uk-alert uk-alert-warning" cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">';
+
+   var tableEnd = '</table>';
+
+   var lineEntityID = '<tr>'+
+                         '<td>entityID:</td>'+
+                         '<td>'+d.entityID+'</td>'+
+                      '</tr>';
+
+   var lineAttrRequired = '<tr>'+
+                             '<td>Requested Attributes:</td>'+
+                             '<td>'+d.resourceAttributes.required+'</td>'+
+                          '</tr>';
+
+   var lineAttrRequested = '<tr>'+
+                              '<td>Optional Attributtes:</td>'+
+                              '<td>'+d.resourceAttributes.requested+'</td>'+
+                           '</tr>';
+
+   var lineCtcSupp =  '<tr>'+
+                         '<td>Support Contact:</td>'+
+                         '<td>'+d.resourceContacts.support+'</td>'+
+                      '</tr>';
+
+   var lineCtcAdmin = '<tr>'+
+                         '<td>Administrative Contact:</td>'+
+                         '<td>'+d.resourceContacts.administrative+'</td>'+
+                      '</tr>';
+
+   if (d.resourceAttributes.required == '') {
+      lineAttrRequired =
+         '<tr style="display: none;">'+
+           '<td>Requested Attributes:</td>'+
+           '<td>'+d.resourceAttributes.required+'</td>'+
+         '</tr>';
+   }
+
+   if (d.resourceAttributes.requested == '') {
+      lineAttrRequested =
+         '<tr style="display: none;">'+
+           '<td>Optional Attributtes:</td>'+
+           '<td>'+d.resourceAttributes.requested+'</td>'+
+         '</tr>';
+   }
+
+   if (d.resourceContacts.support == '') {
+      lineCtcSupp =
+         '<tr style="display: none;">'+
+           '<td>Support Contact:</td>'+
+           '<td>'+d.resourceContacts.support+'</td>'+
+          '</tr>';
+   }
+
+   if (d.resourceContacts.administrative == '') {
+      lineCtcAdmin =
+         '<tr style="display: none;">'+
+           '<td>Administrative Contact:</td>'+
+           '<td>'+d.resourceContacts.administrative+'</td>'+
+         '</tr>';
+   }
+
+   return tableStart+lineEntityID+lineAttrRequired+lineAttrRequested+lineCtcSupp+lineCtcAdmin+tableEnd;
+
+}
+$(document).ready(function() {
+    var table = $('#example').DataTable( {
+        scrollY:        '50vh',
+        scrollX: true,
+        scrollCollapse: true,
+        paging:         false,
+        "ajax": {
+            "url": "https://surfnet-niels.github.io/data/9cea6a7818b06b010acac00aa292200ca45b00d2.json",
+            "dataSrc": ""
+        },
+        "columns": [
+            { "data": "id" },
+			{
+                "className":      'details-control',
+                "orderable":      false,
+                "data":           "",
+                "defaultContent": ''
+            },
+            { "data": "resourceName" }, 
+	    { "data": "info", className: "centerTdClass" },
+            { "data": "privacy", className: "centerTdClass" },
+	    { "data": "resourceContacts.technical" },
+            { "data": "resourceProvider" }   
+        ],
+        "columnDefs": [
+            {
+                "targets": [ 0 ],
+                "visible": false
+		   }
+        ],
+        "order": [[1, 'asc']]
+    } );
+     
+    // Add event listener for opening and closing details
+    $('#example tbody').on('click', 'td.details-control', function () {
+        var tr = $(this).closest('tr');
+        var row = table.row( tr );
+ 
+        if ( row.child.isShown() ) {
+            // This row is already open - close it
+            row.child.hide();
+            tr.removeClass('shown');
+        }
+        else {
+            // Open this row
+            row.child( format(row.data()) ).show();
+            tr.addClass('shown');
+        }
+    } );
+} );
+</script>
+</head>
+<body>
+
+<h1>Hello Catalog!</h1>
+
+<div class="uk-overflow-container"> 
+
+<table id="example" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>id</th>
+		<th></th>
+		<th width="30%">Service</th>
+		<th width="5%">Info</th>
+		<th width="5%">Privacy</th>
+		<th width="35%">Technical Contact</th>
+        <th width="25%">Vendor</th>
+        </tr>
+        </thead>
+        <!--<tfoot>
+            <tr>
+                <th>id</th>
+                <th>Servizio</th>
+                <th>Url</th>
+                <th>Attributi</th>
+                <th>Fornitore</th>
+            </tr>
+        </tfoot>-->
+    </table>
+</div>
+
+
+</body>
+</html>
+
+

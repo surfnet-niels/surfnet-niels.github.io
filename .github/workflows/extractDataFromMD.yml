@@ -1,0 +1,38 @@
+# This workflow will install Python, run the script and push teh results to its own repo
+name: Metadata Scraper
+on:
+  push:
+    branches: [ main ]
+  schedule:
+  - cron: "0 */1 * * *"    
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repo contents
+      uses: actions/checkout@v2
+      
+    - name: Set up Python 3.9
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.9
+        
+    - name: Execute py script
+      run: python scripts/extractDataFromMD.py
+    
+    - name: commit files
+      run: |
+        git config --local user.email "niels.vandijk@surfnet.nl"
+        git config --local user.name "Niels van Dijk"
+        git add -A
+        git commit --allow-empty -m "update data" -a
+          
+    - name: push changes
+      uses: ad-m/github-push-action@v0.6.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: main
+    
+    
