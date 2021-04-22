@@ -466,13 +466,17 @@ def parseSPs(ra_hash, inputfile, outputpath, namespaces):
           serviceName = getDisplayName(EntityDescriptor,namespaces,'sp')
 
           # Build Resource Info Pages
-          info = "<ul>"
+          #info = "<ul>"
+          info = {}
           for lng in infoDict:
             flag = lng
             if lng == "en":
                 flag = "gb"
-            info = info + "<li><a href='"+infoDict[lng]+ "' target='_blank'><img src='https://flagcdn.com/24x18/"+flag+".png' alt='Info "+lng.upper()+"' height='18' width='24' /></a></li>"
-          info = info + "</ul>"
+            #info = info + "<li><a href='"+infoDict[lng]+ "' target='_blank'><img src='https://flagcdn.com/24x18/"+flag+".png' alt='Info "+lng.upper()+"' height='18' width='24' /></a></li>"
+          #info = info + "</ul>"
+            info[lng] = infoDict[lng]
+          #info = info + "</ul>"
+
 
           # Build Resource Privacy Pages
           privacy = "<ul>"
