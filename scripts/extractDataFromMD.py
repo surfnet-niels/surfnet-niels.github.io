@@ -402,7 +402,8 @@ def getContacts(EntityDescriptor,namespaces,contactType='technical'):
            else:
               contactsList.append(ctc.text)
 
-    return '<br/>'.join(contactsList)
+    #return '<br/>'.join(contactsList)
+    return 'contactsList
 
 def parseSPs(ra_hash, inputfile, outputpath, namespaces):
    p("Working on: " + inputfile, LOGDEBUG) 
