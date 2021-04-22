@@ -469,23 +469,12 @@ def parseSPs(ra_hash, inputfile, outputpath, namespaces):
           #info = "<ul>"
           info = {}
           for lng in infoDict:
-            flag = lng
-            if lng == "en":
-                flag = "gb"
-            #info = info + "<li><a href='"+infoDict[lng]+ "' target='_blank'><img src='https://flagcdn.com/24x18/"+flag+".png' alt='Info "+lng.upper()+"' height='18' width='24' /></a></li>"
-          #info = info + "</ul>"
             info[lng] = infoDict[lng]
-          #info = info + "</ul>"
-
-
+  
           # Build Resource Privacy Pages
-          privacy = "<ul>"
+          privacy = {}
           for lng in privacyDict:
-            flag = lng
-            if lng == "en":
-                flag = "gb"
-            privacy = privacy + "<li><a href='"+privacyDict[lng]+ "' target='_blank'><img src='https://flagcdn.com/24x18/"+flag+".png' alt='Info "+lng.upper()+"' height='18' width='24' /></a></li>"
-          privacy = privacy + "</ul>"
+            privacy[lng] = privacyDict[lng]
 
           # Get Requested Attributes
           requestedAttributes = getRequestedAttribute(EntityDescriptor,namespaces)
