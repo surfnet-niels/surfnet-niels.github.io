@@ -56,12 +56,12 @@ def is_file_older_than_x_days(file, days=1):
         return False
 
 def fetchXML(url, file_path):
-  #try:
+  try:
     urllib.request.urlretrieve(url, file_path)
     return True
-  #except:
-  #  p("ERROR: Could not download URL: " + url, LOGDEBUG)
-  #  return False
+  except:
+    p("ERROR: Could not download URL: " + url, LOGDEBUG)
+    return False
 
 def parseMetadataXML(file_path):
     try:
@@ -131,37 +131,27 @@ def hashSHA1(aString):
     return hashlib.sha1(aString.encode('utf-8')).hexdigest()
 
 # Get MDUI Descriptions
-def getDescriptions(EntityDescriptor,namespaces,entType='idp'):
-
+def getDescriptions(EntityDescriptor,namespaces,entType='sp'):
     description_list = list()
-    if (entType.lower() == 'idp'):
-       entityType = "./md:IDPSSODescriptor"
-    if (entType.lower() == 'sp'):
-       entityType = "./md:SPSSODescriptor"
+    entityType = "./md:SPSSODescriptor"
 
     descriptions = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Description" % entityType, namespaces)
 
     if (len(descriptions) != 0):
        for desc in descriptions:
-           descriptions_dict = dict()
-           descriptions_dict['value'] = desc.text
-           descriptions_dict['lang'] = desc.get("{http://www.w3.org/XML/1998/namespace}lang")
-           description_list.append(descriptions_dict)
-    
+           lang = desc.get("{http://www.w3.org/XML/1998/namespace}lang")
+           description_list.append({lang: desc.text})
+   
     return description_list
 
 
 # Get MDUI Logo BIG
-def getLogoBig(EntityDescriptor,namespaces,entType='idp'):
+def getLogoBig(EntityDescriptor,namespaces,entType='sp'):
 
-    entityType = ""
-    if (entType.lower() == 'idp'):
-       entityType = "./md:IDPSSODescriptor"
-    if (entType.lower() == 'sp'):
-       entityType = "./md:SPSSODescriptor"
+    entityType = "./md:SPSSODescriptor"
     
     logoUrl = ""
-    logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo[@xml:lang='it']" % entityType,namespaces)
+    logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo[@xml:lang='en']" % entityType,namespaces)
     if (len(logos) != 0):
        for logo in logos:
            logoHeight = logo.get("height")
@@ -175,53 +165,35 @@ def getLogoBig(EntityDescriptor,namespaces,entType='idp'):
                  logoUrl = logo.text
                  return logoUrl
     else:
-       logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo[@xml:lang='en']" % entityType,namespaces)
+       logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo" % entityType,namespaces)
        if (len(logos) != 0):
           for logo in logos:
-              logoHeight = logo.get("height")
-              logoWidth = logo.get("width")
-              if (logoHeight != logoWidth):
-                 # Avoid "embedded" logos
-                 if ("data:image" in logo.text):
-                    logoUrl = "embeddedLogo"
-                    return logoUrl
-                 else:
-                    logoUrl = logo.text
-                    return logoUrl
+             logoHeight = logo.get("height")
+             logoWidth = logo.get("width")
+             if (logoHeight != logoWidth):
+              # Avoid "embedded" logos
+                if ("data:image" in logo.text):
+                   logoUrl = "embeddedLogo"
+                   return logoUrl
+                else:
+                   logoUrl = logo.text
+                   return logoUrl
        else:
-           logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo" % entityType,namespaces)
-           if (len(logos) != 0):
-              for logo in logos:
-                  logoHeight = logo.get("height")
-                  logoWidth = logo.get("width")
-                  if (logoHeight != logoWidth):
-                     # Avoid "embedded" logos
-                     if ("data:image" in logo.text):
-                        logoUrl = "embeddedLogo"
-                        return logoUrl
-                     else:
-                        logoUrl = logo.text
-                        return logoUrl
-           else:
-              return ""
+          return ""
 
 
 # Get MDUI Logo SMALL
-def getLogoSmall(EntityDescriptor,namespaces,entType='idp'):
-    entityType = ""
-    if (entType.lower() == 'idp'):
-       entityType = "./md:IDPSSODescriptor"
-    if (entType.lower() == 'sp'):
-       entityType = "./md:SPSSODescriptor"
+def getLogoSmall(EntityDescriptor,namespaces,entType='sp'):
+    entityType = "./md:SPSSODescriptor"
     
     logoUrl = ""
-    logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo[@xml:lang='it']" % entityType,namespaces)
+    logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo[@xml:lang='en']" % entityType,namespaces)
     if (len(logos) != 0):
        for logo in logos:
            logoHeight = logo.get("height")
            logoWidth = logo.get("width")
            if (logoHeight == logoWidth):
-              # Avoid "embedded" logos
+           # Avoid "embedded" logos
               if ("data:image" in logo.text):
                  logoUrl = "embeddedLogo"
                  return logoUrl
@@ -229,93 +201,91 @@ def getLogoSmall(EntityDescriptor,namespaces,entType='idp'):
                  logoUrl = logo.text
                  return logoUrl
     else:
-       logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo[@xml:lang='en']" % entityType,namespaces)
+       logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo" % entityType,namespaces)
        if (len(logos) != 0):
           for logo in logos:
               logoHeight = logo.get("height")
               logoWidth = logo.get("width")
               if (logoHeight == logoWidth):
-                 # Avoid "embedded" logos
-                 if ("data:image" in logo.text):
-                    logoUrl = "embeddedLogo"
-                    return logoUrl
-                 else:
-                    logoUrl = logo.text
-                    return logoUrl
+              # Avoid "embedded" logos
+                  if ("data:image" in logo.text):
+                     logoUrl = "embeddedLogo"
+                     return logoUrl
+                  else:
+                     logoUrl = logo.text
+                     return logoUrl
        else:
-           logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo" % entityType,namespaces)
-           if (len(logos) != 0):
-              for logo in logos:
-                  logoHeight = logo.get("height")
-                  logoWidth = logo.get("width")
-                  if (logoHeight == logoWidth):
-                     # Avoid "embedded" logos
-                     if ("data:image" in logo.text):
-                        logoUrl = "embeddedLogo"
-                        return logoUrl
-                     else:
-                        logoUrl = logo.text
-                        return logoUrl
-           else:
-              return ""
+           return ""
 
 
 # Get ServiceName
-def getServiceName(EntityDescriptor,namespaces):
-    serviceName = EntityDescriptor.find("./md:SPSSODescriptor/md:AttributeConsumingService/md:ServiceName[@xml:lang='it']", namespaces)
-    if (serviceName != None):
-       return serviceName.text
+def getServiceName(EntityDescriptor,namespaces,lang='en'):
+    entityType = "./md:SPSSODescriptor"
+    name_dict = dict()    
+    name_dict["en"] = getEntityID(EntityDescriptor,namespaces) 
+    
+    serviceNames = EntityDescriptor.findall("%s/md:AttributeConsumingService/md:ServiceName" % entityType,namespaces)
+    if (serviceNames != None):
+       for sn in serviceNames:
+          lang = sn.get("{http://www.w3.org/XML/1998/namespace}lang")
+          name_dict[lang] = sn.text
+
+    return name_dict
+
+# Get Organization info
+def getOrganizationInfo(EntityDescriptor, namespaces,lang='en'):
+    orgNames = EntityDescriptor.findall("./md:Organization/md:OrganizationName",namespaces)
+    orgDspNames = EntityDescriptor.findall("./md:Organization/md:OrganizationDisplayName",namespaces)
+    orgUrls = EntityDescriptor.findall("./md:Organization/md:OrganizationURL",namespaces)
+    
+    org_dict = {"name": [],"displayname":[],"url":[]};
+
+    if (orgNames != None):
+       for org in orgNames:
+          lang = org.get("{http://www.w3.org/XML/1998/namespace}lang")
+          #org_dict["name"][lang] = org.text
+          org_dict["name"].append({lang: org.text})
+    
+    if (orgDspNames != None):
+       for orgdsn in orgDspNames:
+          lang = orgdsn.get("{http://www.w3.org/XML/1998/namespace}lang")
+          #org_dict["displayname"][lang] = orgdsn.text
+          org_dict["displayname"].append({lang: orgdsn.text})
+
+    
+    if (orgUrls != None):
+       for orgurl in orgUrls:
+          lang = orgurl.get("{http://www.w3.org/XML/1998/namespace}lang")
+          #if lang not in org_dict["url"]:
+          #  org_dict["url"].update({lang: orgurl.text})
+          #org_dict["url"][lang] = orgurl.text
+          org_dict["url"].append({lang: orgurl.text})
+    
+    return org_dict
+
+
+# Get DisplayName or ServiceName
+def getName(EntityDescriptor, namespaces, entType='sp'):
+    entityType = "./md:SPSSODescriptor"
+    name_dict = dict() 
+    
+    name_dict["en"] = getEntityID(EntityDescriptor,namespaces) 
+    displayNames = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:DisplayName" % entityType,namespaces)
+    displayNames == None
+
+    if (displayNames != None):
+        for dn in displayNames:
+          lang = dn.get("{http://www.w3.org/XML/1998/namespace}lang")
+          name_dict[lang] = dn.text
     else:
-       serviceName = EntityDescriptor.find("./md:SPSSODescriptor/md:AttributeConsumingService/md:ServiceName[@xml:lang='en']", namespaces)
-       if (serviceName != None):
-          return serviceName.text
-       else:
-          return ""
+       name_dict = getServiceName(EntityDescriptor,namespaces)
 
-
-# Get Organization Name
-def getOrganizationName(EntityDescriptor, namespaces,lang='it'):
-    orgName = EntityDescriptor.find("./md:Organization/md:OrganizationName[@xml:lang='%s']" % lang,namespaces)
-
-    if (orgName != None):
-       return orgName.text
-    else:
-       return ""
-
-
-# Get DisplayName
-def getDisplayName(EntityDescriptor, namespaces, entType='idp'):
-    entityType = ""
-    if (entType.lower() == 'idp'):
-       entityType = "./md:IDPSSODescriptor"
-    if (entType.lower() == 'sp'):
-       entityType = "./md:SPSSODescriptor"
-
-    displayName = EntityDescriptor.find("%s/md:Extensions/mdui:DisplayName[@xml:lang='it']" % entityType,namespaces)
-
-    if (displayName != None):
-       return displayName.text
-    else:
-       displayName = EntityDescriptor.find("%s/md:Extensions/mdui:DisplayName[@xml:lang='en']" % entityType,namespaces)
-       if (displayName != None):
-          return displayName.text
-       else:
-          if (entType == 'sp'):
-             displayName = getServiceName(EntityDescriptor,namespaces)
-             if (displayName != None):
-                return displayName
-             else:
-                return ""
-          else:
-             displayName = getOrganizationName(EntityDescriptor,namespaces)
-             return displayName
+    return name_dict
 
     
 # Get MDUI InformationURLs
-def getInformationURLs(EntityDescriptor,namespaces,entType='idp'):
-    entityType = ""
-    if (entType.lower() == 'sp'):
-       entityType = "./md:SPSSODescriptor"
+def getInformationURLs(EntityDescriptor,namespaces,entType='sp'):
+    entityType = "./md:SPSSODescriptor"
 
     info_pages = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:InformationURL" % entityType, namespaces)
 
@@ -328,10 +298,8 @@ def getInformationURLs(EntityDescriptor,namespaces,entType='idp'):
 
 
 # Get MDUI PrivacyStatementURLs
-def getPrivacyStatementURLs(EntityDescriptor,namespaces,entType='idp'):
-    entityType = ""
-    if (entType.lower() == 'sp'):
-       entityType = "./md:SPSSODescriptor"
+def getPrivacyStatementURLs(EntityDescriptor,namespaces,entType='sp'):
+    entityType = "./md:SPSSODescriptor"
 
     privacy_pages = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:PrivacyStatementURL" % entityType, namespaces)
 
@@ -341,17 +309,6 @@ def getPrivacyStatementURLs(EntityDescriptor,namespaces,entType='idp'):
         privacy_dict[lang] = pp.text
 
     return privacy_dict
-
-
-# Get OrganizationURL
-def getOrganizationURL(EntityDescriptor,namespaces,lang='it'):
-    orgUrl = EntityDescriptor.find("./md:Organization/md:OrganizationURL[@xml:lang='%s']" % lang,namespaces)
-
-    if (orgUrl != None):
-       return orgUrl.text
-    else:
-       return ""
-
 
 # Get RequestedAttribute
 def getRequestedAttribute(EntityDescriptor,namespaces):
@@ -373,69 +330,72 @@ def getRequestedAttribute(EntityDescriptor,namespaces):
 
     return requestedAttributes
 
+# Get entity categories
+def getEntityCatagories(EntityDescriptor,namespaces):
+    #entityType = "./md:SPSSODescriptor"
+    entityCats = EntityDescriptor.findall("./md:Extensions/mdattr:EntityAttributes/saml:Attribute[@Name='http://macedir.org/entity-category']/saml:AttributeValue", namespaces)
+
+    ecs = []
+    if (len(entityCats) != 0):
+       for ec in entityCats:
+           ecs.append(ec.text)
+    return ecs
+
+# Get Sirtfi
+def getSirtfiSupport(EntityDescriptor,namespaces):
+    sirtfiCats = EntityDescriptor.findall("./md:Extensions/mdattr:EntityAttributes/saml:Attribute[@Name='urn:oasis:names:tc:SAML:attribute:assurance-certification']/saml:AttributeValue", namespaces)
+
+    sirtfiSupport = []
+    if (len(sirtfiCats) != 0):
+       for sirtfi in sirtfiCats:
+           sirtfiSupport.append(sirtfi.text)
+    return sirtfiSupport    
 
 # Get Contacts
-def getContacts(EntityDescriptor,namespaces,contactType='technical'):
-    #ToDo: add a more strict scan for securtiy as 'other may also be used in another way'
+def getAllContacts(EntityDescriptor,namespaces):
+    contactsDict = list()
+    
+    contacts = EntityDescriptor.findall("./md:ContactPerson", namespaces)
+    for c in contacts:
+        contactTypeDict = {"type": [],"name":[],"email":[]};
+        ctype = c.get('contactType')
+        
+        cname = ""
+        if ctype != None:
+            contactTypeDict["type"] = ctype
+            
+            if ctype == "other":
+                #Test if this is SIRTFI 
+                securityContacts = EntityDescriptor.findall("./md:ContactPerson[@contactType='other'][@remd:contactType='http://refeds.org/metadata/contactType/security']", namespaces)
+                if (len(securityContacts) != None):
+                    contactTypeDict["type"] = "security"
+ 
+            contactsEmail = EntityDescriptor.findall("./md:ContactPerson[@contactType='"+ctype+"']/md:EmailAddress", namespaces)
+            if (len(contactsEmail) != 0):
+                contactTypeDict['email'] = contactsEmail[0].text
+            contactsGivenName = EntityDescriptor.findall("./md:ContactPerson[@contactType='"+ctype+"']/md:GivenName", namespaces)
+            if (len(contactsGivenName) != 0):
+                cname = contactsGivenName[0].text
+            contactsSurName = EntityDescriptor.findall("./md:ContactPerson[@contactType='"+ctype+"']/md:SurName", namespaces)
+            if (len(contactsSurName) != 0):
+                cname = cname + contactsSurName[0].text 
+         
+            if (len(cname) != 0):
+             contactTypeDict['name'] = cname
 
-    contactsList = list()
-    contacts = EntityDescriptor.findall("./md:ContactPerson[@contactType='"+contactType.lower()+"']/md:EmailAddress", namespaces)
-    contactsGivenName = EntityDescriptor.findall("./md:ContactPerson[@contactType='"+contactType.lower()+"']/md:GivenName", namespaces)
-    contactsSurName = EntityDescriptor.findall("./md:ContactPerson[@contactType='"+contactType.lower()+"']/md:SurName", namespaces)
+        contactsDict.append(contactTypeDict)
 
-    cname = "" 
-    if (len(contactsGivenName) != 0):
-       for cgn in contactsGivenName:
-           cname = cgn.text
+    return contactsDict
 
-    if (len(contactsSurName) != 0):
-       for csn in contactsSurName:
-           cname = cname + " " + csn.text
-   
-    if (len(cname) != 0):
-       contactsList.append(cname.strip())              
-
-    if (len(contacts) != 0):
-       for ctc in contacts:
-           if ctc.text.startswith("mailto:"):
-              contactsList.append(ctc.text.replace("mailto:", ""))
-           else:
-              contactsList.append(ctc.text)
-
-    #return '<br/>'.join(contactsList)
-    return contactsList
-
+def mkAcmeData(entityID):
+    # This is fake curated data just so we have some example
+    curated = '[{ "catalogID": "%s", "entityID": "%s" ,"service": { "licence": "FALSE", "mfa required": "FALSE", "tenancy": "single", "service type": "other", "landing_page": "https://example.org/acmp_sp"}, "vendor": { "vendor_name": "ACME Inc.", "vendor information": "ACME product line is featuring outlandish products that fail or backfire catastrophically at the worst possible times", "vendor logo": "images/acme.jpeg", "vendor support pages": "https://example.org/acme/support", "vendor website": "https://example.org/acme"} }]' % (hashSHA1(entityID), entityID)
+      
+    return json.loads(curated)
+    
 def parseSPs(ra_hash, inputfile, outputpath, namespaces):
    p("Working on: " + inputfile, LOGDEBUG) 
     
-   # JSON SP Output:
-   # [
-   #   {
-   #     "id": #_sha1-hash-over-entityID_#,
-   #     "resourceName": "#_resource-display-name_#",
-   #     "resourceProvider": "#_organization-name-linked_#",
-   #     "resourceAttributes": {
-   #        "required": [
-   #                      "eduPersonPrincipalName",
-   #                      "email",
-   #                      "givenName",
-   #                      "surname"
-   #                    ],
-   #        "requested": []
-   #     },
-   #     "entityID": "#_entityID-resource_#",
-   #     "resourceContacts": {
-   #        "technical": [
-   #                       "#_email-address-list_#"
-   #                     ],
-   #        "support": [],
-   #        "administrative": []
-   #     },
-   #     "info": "<a href='#_info-url-it_#'>IT</a>, <a href='#_info-url-en_#'>EN</a>",
-   #     "privacy": "<a href='#_privacy-url-it_#'>IT</a>, <a href='#_privacy-url-en_#'>EN</a>"
-   #   }
-   # ]
-
    tree = ET.parse(inputfile)
    root = tree.getroot()
    sp = root.findall("./md:EntityDescriptor[md:SPSSODescriptor]", namespaces)
@@ -446,6 +406,7 @@ def parseSPs(ra_hash, inputfile, outputpath, namespaces):
    #cont_id = ""
 
    for EntityDescriptor in sp:
+      #list_sps = list()
       info = ""
       privacy = ""
       
@@ -453,85 +414,44 @@ def parseSPs(ra_hash, inputfile, outputpath, namespaces):
       entityID = getEntityID(EntityDescriptor,namespaces)
       
       if entityID == entityID:
-          
+#      if entityID == "https://sp.exprodo.com/shibboleth":          
+#      if entityID == "https://attribute-viewer.aai.switch.ch/shibboleth":          
           # Get hashed entityID
           cont_id = hashSHA1(entityID)
 
-          # Get InformationURL
-          infoDict = getInformationURLs(EntityDescriptor, namespaces, 'sp')
-
-          # Get PrivacyStatementURL
-          privacyDict = getPrivacyStatementURLs(EntityDescriptor, namespaces, 'sp')
-
-          # Get ServiceName
-          serviceName = getDisplayName(EntityDescriptor,namespaces,'sp')
-
-          # Build Resource Info Pages
-          #info = "<ul>"
-          info = {}
-          for lng in infoDict:
-            info[lng] = infoDict[lng]
-  
-          # Build Resource Privacy Pages
-          privacy = {}
-          for lng in privacyDict:
-            privacy[lng] = privacyDict[lng]
-
-          # Get Requested Attributes
-          requestedAttributes = getRequestedAttribute(EntityDescriptor,namespaces)
-
-          # Get Organization Name
-
-          orgName = getOrganizationName(EntityDescriptor,namespaces,'it')
-          if (orgName == ""):
-             orgName = getOrganizationName(EntityDescriptor,namespaces,'en')
-
-          # Get Organization Page
-          orgUrl = getOrganizationURL(EntityDescriptor,namespaces,'it')
-          if (orgUrl == ""):
-             orgUrl = getOrganizationURL(EntityDescriptor,namespaces,'en')
-         
-          orgName = "<a href='%s' target='_blank'>%s</a>" % (orgUrl,orgName)
-
-          # Get Contacts
-          techContacts = getContacts(EntityDescriptor, namespaces, 'technical')
-          suppContacts = getContacts(EntityDescriptor, namespaces, 'support')
-          adminContacts = getContacts(EntityDescriptor, namespaces, 'administrative')
-          securityContacts = getContacts(EntityDescriptor, namespaces, 'other')
-
-
-          contacts = OrderedDict([
-             ('technical', techContacts),
-             ('support', suppContacts),
-             ('administrative', adminContacts),
-             ('security', securityContacts),
-          ])
-
           # Build SP JSON Dictionary
           sp = OrderedDict([
-            ('id',cont_id),
-            ('resourceName',serviceName),
-            ('resourceProvider', orgName),
-            ('resourceAttributes',requestedAttributes),
-            ('entityID',entityID),
-            ('resourceContacts',contacts),
-            ('info', info),
-            ('privacy', privacy)
+            ('catalogID',           cont_id),
+            ('entityID',            entityID),
+            ('resourceName',        getName(EntityDescriptor,namespaces,'sp')),
+            ('resourceProvider',    getOrganizationInfo(EntityDescriptor, namespaces)),
+            ('resourceAttributes',  getRequestedAttribute(EntityDescriptor,namespaces)),
+            ('descriptions',        getDescriptions(EntityDescriptor,namespaces)),
+            ('resourceContacts',    getAllContacts(EntityDescriptor, namespaces)),
+            ('info',                getInformationURLs(EntityDescriptor, namespaces, 'sp')),
+            ('privacy',             getPrivacyStatementURLs(EntityDescriptor, namespaces, 'sp')),
+            ('entityCategories',    getEntityCatagories(EntityDescriptor,namespaces)),
+            ('SirtfiSupport',       getSirtfiSupport(EntityDescriptor,namespaces))
           ])     
 
-      # per SP outup
-      #path = all_outputpath + "/" + cont_id + ".json"
-      #Path(all_outputpath).mkdir(parents=True, exist_ok=True)
-      #result_sp = open(path, "w",encoding=None)
-      #result_sp.write(json.dumps(sp,sort_keys=False, indent=4, ensure_ascii=False,separators=(',', ':')))
-      #result_sp.close()
+          #per SP curated output
+          path = outputpath + "catalog/"
+          file_path = path + cont_id + ".json"
+          Path(path).mkdir(parents=True, exist_ok=True)
 
-      list_sps.append(sp)
+          # THis is for demo purposes only
+          curated_spdata = open(file_path, "w",encoding=None)
+          curated_spdata.write(json.dumps(mkAcmeData(entityID),sort_keys=False, indent=4, ensure_ascii=False,separators=(',', ':')))
+          curated_spdata.close()
 
-   #all SPs in one fed 
-   path = outputpath + "/" + ra_hash + ".json"
-   Path(outputpath).mkdir(parents=True, exist_ok=True)
-   result_sps = open(path, "w",encoding=None)
+          # add Sp to list of per federation SPs
+          list_sps.append(sp)
+
+   #write out all SPs in one fed to a single file
+   path = outputpath + "fed/"
+   file_path = path + ra_hash + ".json"
+   Path(path).mkdir(parents=True, exist_ok=True)
+   result_sps = open(file_path, "w",encoding=None)
    result_sps.write(json.dumps(list_sps,sort_keys=False, indent=4, ensure_ascii=False,separators=(',', ':')))
    result_sps.close()
 
@@ -557,7 +477,8 @@ def main(argv):
       'mdattr': 'urn:oasis:names:tc:SAML:metadata:attribute',
       'saml': 'urn:oasis:names:tc:SAML:2.0:assertion',
       'ds': 'http://www.w3.org/2000/09/xmldsig#',
-      'mdui': 'urn:oasis:names:tc:SAML:metadata:ui'
+      'mdui': 'urn:oasis:names:tc:SAML:metadata:ui',
+      'remd': 'http://refeds.org/metadata'
    }
 
    # First load RA config
