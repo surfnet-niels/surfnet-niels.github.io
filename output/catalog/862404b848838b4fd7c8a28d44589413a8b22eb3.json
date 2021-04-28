@@ -1,0 +1,20 @@
+[
+    {
+        "catalogID":"862404b848838b4fd7c8a28d44589413a8b22eb3",
+        "entityID":"https://idpproxy-ucpath-qa.universityofcalifornia.edu/ucpath",
+        "service":{
+            "licence":"FALSE",
+            "mfa required":"FALSE",
+            "tenancy":"single",
+            "service type":"other",
+            "landing_page":"https://example.org/acmp_sp"
+        },
+        "vendor":{
+            "vendor_name":"ACME Inc.",
+            "vendor information":"ACME product line is featuring outlandish products that fail or backfire catastrophically at the worst possible times",
+            "vendor logo":"images/acme.jpeg",
+            "vendor support pages":"https://example.org/acme/support",
+            "vendor website":"https://example.org/acme"
+        }
+    }
+]
