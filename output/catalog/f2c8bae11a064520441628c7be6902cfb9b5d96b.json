@@ -1,0 +1,20 @@
+[
+    {
+        "catalogID":"f2c8bae11a064520441628c7be6902cfb9b5d96b",
+        "entityID":"https://iam-virgo.cloud.cnaf.infn.it",
+        "service":{
+            "licence":"FALSE",
+            "mfa required":"FALSE",
+            "tenancy":"single",
+            "service type":"other",
+            "landing_page":"https://example.org/acmp_sp"
+        },
+        "vendor":{
+            "vendor_name":"ACME Inc.",
+            "vendor information":"ACME product line is featuring outlandish products that fail or backfire catastrophically at the worst possible times",
+            "vendor logo":"images/acme.jpeg",
+            "vendor support pages":"https://example.org/acme/support",
+            "vendor website":"https://example.org/acme"
+        }
+    }
+]

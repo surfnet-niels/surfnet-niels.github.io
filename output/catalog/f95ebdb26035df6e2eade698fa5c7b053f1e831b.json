@@ -1,0 +1,20 @@
+[
+    {
+        "catalogID":"f95ebdb26035df6e2eade698fa5c7b053f1e831b",
+        "entityID":"https://starrez.uvm.edu/StarRezWeb/",
+        "service":{
+            "licence":"FALSE",
+            "mfa required":"FALSE",
+            "tenancy":"single",
+            "service type":"other",
+            "landing_page":"https://example.org/acmp_sp"
+        },
+        "vendor":{
+            "vendor_name":"ACME Inc.",
+            "vendor information":"ACME product line is featuring outlandish products that fail or backfire catastrophically at the worst possible times",
+            "vendor logo":"images/acme.jpeg",
+            "vendor support pages":"https://example.org/acme/support",
+            "vendor website":"https://example.org/acme"
+        }
+    }
+]

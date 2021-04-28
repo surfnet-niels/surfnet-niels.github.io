@@ -1,0 +1,20 @@
+[
+    {
+        "catalogID":"4dc1347a4f753d02c84aa811cc31c702b98f4e70",
+        "entityID":"https://testsp.safire.ac.za/Shibboleth.sso/Metadata",
+        "service":{
+            "licence":"FALSE",
+            "mfa required":"FALSE",
+            "tenancy":"single",
+            "service type":"other",
+            "landing_page":"https://example.org/acmp_sp"
+        },
+        "vendor":{
+            "vendor_name":"ACME Inc.",
+            "vendor information":"ACME product line is featuring outlandish products that fail or backfire catastrophically at the worst possible times",
+            "vendor logo":"images/acme.jpeg",
+            "vendor support pages":"https://example.org/acme/support",
+            "vendor website":"https://example.org/acme"
+        }
+    }
+]

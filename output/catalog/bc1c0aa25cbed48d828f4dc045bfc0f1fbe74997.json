@@ -1,0 +1,20 @@
+[
+    {
+        "catalogID":"bc1c0aa25cbed48d828f4dc045bfc0f1fbe74997",
+        "entityID":"http://totalcard.net/portal/ccis",
+        "service":{
+            "licence":"FALSE",
+            "mfa required":"FALSE",
+            "tenancy":"single",
+            "service type":"other",
+            "landing_page":"https://example.org/acmp_sp"
+        },
+        "vendor":{
+            "vendor_name":"ACME Inc.",
+            "vendor information":"ACME product line is featuring outlandish products that fail or backfire catastrophically at the worst possible times",
+            "vendor logo":"images/acme.jpeg",
+            "vendor support pages":"https://example.org/acme/support",
+            "vendor website":"https://example.org/acme"
+        }
+    }
+]

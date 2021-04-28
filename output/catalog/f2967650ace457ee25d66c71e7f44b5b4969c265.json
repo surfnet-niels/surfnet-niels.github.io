@@ -1,0 +1,20 @@
+[
+    {
+        "catalogID":"f2967650ace457ee25d66c71e7f44b5b4969c265",
+        "entityID":"urn:mace:saml2v2.no:services:com.itslearning.verification",
+        "service":{
+            "licence":"FALSE",
+            "mfa required":"FALSE",
+            "tenancy":"single",
+            "service type":"other",
+            "landing_page":"https://example.org/acmp_sp"
+        },
+        "vendor":{
+            "vendor_name":"ACME Inc.",
+            "vendor information":"ACME product line is featuring outlandish products that fail or backfire catastrophically at the worst possible times",
+            "vendor logo":"images/acme.jpeg",
+            "vendor support pages":"https://example.org/acme/support",
+            "vendor website":"https://example.org/acme"
+        }
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "catalogID":"2b36f0a99852f449fc69d99386ba3719220b39d3",
+        "entityID":"https://api.vod.filmwerte.de/authorize/idp-9323aed5-e2cf-4182-9c01-66cebabd8558/saml2",
+        "service":{
+            "licence":"FALSE",
+            "mfa required":"FALSE",
+            "tenancy":"single",
+            "service type":"other",
+            "landing_page":"https://example.org/acmp_sp"
+        },
+        "vendor":{
+            "vendor_name":"ACME Inc.",
+            "vendor information":"ACME product line is featuring outlandish products that fail or backfire catastrophically at the worst possible times",
+            "vendor logo":"images/acme.jpeg",
+            "vendor support pages":"https://example.org/acme/support",
+            "vendor website":"https://example.org/acme"
+        }
+    }
+]
