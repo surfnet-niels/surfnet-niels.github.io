@@ -413,9 +413,9 @@ def parseSPs(ra_hash, inputfile, outputpath, namespaces):
       # Get entityID
       entityID = getEntityID(EntityDescriptor,namespaces)
       
-      if entityID == entityID:
+#      if entityID == entityID:
 #      if entityID == "https://sp.exprodo.com/shibboleth":          
-#      if entityID == "https://attribute-viewer.aai.switch.ch/shibboleth":          
+      if entityID == "https://attribute-viewer.aai.switch.ch/shibboleth":          
           # Get hashed entityID
           cont_id = hashSHA1(entityID)
 
