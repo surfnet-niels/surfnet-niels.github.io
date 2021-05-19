@@ -113,6 +113,8 @@ def setRAdata(raconf, input_path, edugain_ra_uri, entities):
      RAs[ra]["ra_hash"] = hashSHA1(ra)
      RAs[ra]["country_code"] = raconf[ra]["country_code"]
      RAs[ra]["filepath"] = []
+     RAs[ra]["langs"] = raconf[ra]["langs"]
+     RAs[ra]["pref_lang"] = raconf[ra]["pref_lang"]
 
   return RAs
 
@@ -131,26 +133,29 @@ def hashSHA1(aString):
     return hashlib.sha1(aString.encode('utf-8')).hexdigest()
 
 # Get MDUI Descriptions
-def getDescriptions(EntityDescriptor,namespaces,entType='sp'):
+def getDescriptions(EntityDescriptor,namespaces,lang="en"):
     description_list = list()
     entityType = "./md:SPSSODescriptor"
 
     descriptions = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Description" % entityType, namespaces)
-
+    
     if (len(descriptions) != 0):
        for desc in descriptions:
-           lang = desc.get("{http://www.w3.org/XML/1998/namespace}lang")
-           description_list.append({lang: desc.text})
-   
-    return description_list
+           if (lang == desc.get("{http://www.w3.org/XML/1998/namespace}lang")):
+             return desc.text
+
+    return ""
+
+    #return description_list
 
 
 # Get MDUI Logo BIG
-def getLogoBig(EntityDescriptor,namespaces,entType='sp'):
+def getLogoBig(EntityDescriptor,namespaces,lang="en"):
 
     entityType = "./md:SPSSODescriptor"
     
     logoUrl = ""
+    #ToDo: Should the logo also be lang specific?
     logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo[@xml:lang='en']" % entityType,namespaces)
     if (len(logos) != 0):
        for logo in logos:
@@ -183,10 +188,11 @@ def getLogoBig(EntityDescriptor,namespaces,entType='sp'):
 
 
 # Get MDUI Logo SMALL
-def getLogoSmall(EntityDescriptor,namespaces,entType='sp'):
+def getLogoSmall(EntityDescriptor,namespaces,lang="en"):
     entityType = "./md:SPSSODescriptor"
     
     logoUrl = ""
+    #ToDo: Should the logo also be lang specific?
     logos = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:Logo[@xml:lang='en']" % entityType,namespaces)
     if (len(logos) != 0):
        for logo in logos:
@@ -221,16 +227,16 @@ def getLogoSmall(EntityDescriptor,namespaces,entType='sp'):
 # Get ServiceName
 def getServiceName(EntityDescriptor,namespaces,lang='en'):
     entityType = "./md:SPSSODescriptor"
-    name_dict = dict()    
-    name_dict["en"] = getEntityID(EntityDescriptor,namespaces) 
+    # Make sure we have at least the entityID
+    name = getEntityID(EntityDescriptor,namespaces) 
     
     serviceNames = EntityDescriptor.findall("%s/md:AttributeConsumingService/md:ServiceName" % entityType,namespaces)
     if (serviceNames != None):
        for sn in serviceNames:
-          lang = sn.get("{http://www.w3.org/XML/1998/namespace}lang")
-          name_dict[lang] = sn.text
+          if (lang == sn.get("{http://www.w3.org/XML/1998/namespace}lang")):
+                name = sn.text
 
-    return name_dict
+    return name
 
 # Get Organization info
 def getOrganizationInfo(EntityDescriptor, namespaces,lang='en'):
@@ -242,76 +248,67 @@ def getOrganizationInfo(EntityDescriptor, namespaces,lang='en'):
 
     if (orgNames != None):
        for org in orgNames:
-          lang = org.get("{http://www.w3.org/XML/1998/namespace}lang")
-          #org_dict["name"][lang] = org.text
-          org_dict["name"].append({lang: org.text})
+          if (lang == org.get("{http://www.w3.org/XML/1998/namespace}lang")):
+            org_dict["name"] = org.text
     
     if (orgDspNames != None):
        for orgdsn in orgDspNames:
-          lang = orgdsn.get("{http://www.w3.org/XML/1998/namespace}lang")
-          #org_dict["displayname"][lang] = orgdsn.text
-          org_dict["displayname"].append({lang: orgdsn.text})
+          if (lang == orgdsn.get("{http://www.w3.org/XML/1998/namespace}lang")):
+            org_dict["displayname"] = orgdsn.text
 
     
     if (orgUrls != None):
        for orgurl in orgUrls:
           lang = orgurl.get("{http://www.w3.org/XML/1998/namespace}lang")
-          #if lang not in org_dict["url"]:
-          #  org_dict["url"].update({lang: orgurl.text})
-          #org_dict["url"][lang] = orgurl.text
-          org_dict["url"].append({lang: orgurl.text})
+          if (lang == orgurl.get("{http://www.w3.org/XML/1998/namespace}lang")):
+            org_dict["url"] = orgurl.text
     
     return org_dict
 
 
 # Get DisplayName or ServiceName
-def getName(EntityDescriptor, namespaces, entType='sp'):
+def getName(EntityDescriptor, namespaces, lang='en'):
     entityType = "./md:SPSSODescriptor"
-    name_dict = dict() 
+    name = getServiceName(EntityDescriptor,namespaces)
     
-    name_dict["en"] = getEntityID(EntityDescriptor,namespaces) 
     displayNames = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:DisplayName" % entityType,namespaces)
-    displayNames == None
 
     if (displayNames != None):
         for dn in displayNames:
-          lang = dn.get("{http://www.w3.org/XML/1998/namespace}lang")
-          name_dict[lang] = dn.text
-    else:
-       name_dict = getServiceName(EntityDescriptor,namespaces)
+          if (lang == dn.get("{http://www.w3.org/XML/1998/namespace}lang")):
+            name = dn.text
 
-    return name_dict
+    return name
 
-    
 # Get MDUI InformationURLs
-def getInformationURLs(EntityDescriptor,namespaces,entType='sp'):
+def getInformationURLs(EntityDescriptor,namespaces, lang='en'):
     entityType = "./md:SPSSODescriptor"
+    info = ""
 
     info_pages = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:InformationURL" % entityType, namespaces)
 
-    info_dict = dict()
     for infop in info_pages:
-        lang = infop.get("{http://www.w3.org/XML/1998/namespace}lang")
-        info_dict[lang] = infop.text
+        if (lang == infop.get("{http://www.w3.org/XML/1998/namespace}lang")):
+            info = infop.text
 
-    return info_dict
+    return info
 
 
 # Get MDUI PrivacyStatementURLs
-def getPrivacyStatementURLs(EntityDescriptor,namespaces,entType='sp'):
+def getPrivacyStatementURLs(EntityDescriptor,namespaces, lang='en'):
     entityType = "./md:SPSSODescriptor"
+    privacy = ""
 
     privacy_pages = EntityDescriptor.findall("%s/md:Extensions/mdui:UIInfo/mdui:PrivacyStatementURL" % entityType, namespaces)
 
-    privacy_dict = dict()
     for pp in privacy_pages:
-        lang = pp.get("{http://www.w3.org/XML/1998/namespace}lang")
-        privacy_dict[lang] = pp.text
+        if (lang == pp.get("{http://www.w3.org/XML/1998/namespace}lang")):
+            privacy = pp.text
 
-    return privacy_dict
+    return privacy
 
 # Get RequestedAttribute
-def getRequestedAttribute(EntityDescriptor,namespaces):
+def getRequestedAttribute(EntityDescriptor,namespaces, lang='en'):
     reqAttr = EntityDescriptor.findall("./md:SPSSODescriptor/md:AttributeConsumingService/md:RequestedAttribute", namespaces)
 
     requireList = list()
@@ -392,8 +389,46 @@ def mkAcmeData(entityID):
     curated = '[{ "catalogID": "%s", "entityID": "%s" ,"service": { "licence": "FALSE", "mfa required": "FALSE", "tenancy": "single", "service type": "other", "landing_page": "https://example.org/acmp_sp"}, "vendor": { "vendor_name": "ACME Inc.", "vendor information": "ACME product line is featuring outlandish products that fail or backfire catastrophically at the worst possible times", "vendor logo": "images/acme.jpeg", "vendor support pages": "https://example.org/acme/support", "vendor website": "https://example.org/acme"} }]' % (hashSHA1(entityID), entityID)
       
     return json.loads(curated)
+
+def mkContentID(entityID):
+    # Get hashed entityID
+    return hashSHA1(entityID)
+
+def mkJsonRecord(EntityDescriptor, namespaces, lang="en"):
+    # Build SP JSON Dictionary
+    entityID = getEntityID(EntityDescriptor,namespaces)
     
-def parseSPs(ra_hash, inputfile, outputpath, namespaces):
+    spdata = OrderedDict([
+        ('catalogID',           mkContentID(entityID)),
+        ('entityID',            entityID),
+        ('resourceName',        getName(EntityDescriptor,namespaces,lang)),
+        ('resourceProvider',    getOrganizationInfo(EntityDescriptor, namespaces,lang)),
+        ('resourceAttributes',  getRequestedAttribute(EntityDescriptor,namespaces)),
+        ('description',         getDescriptions(EntityDescriptor,namespaces,lang)),
+        ('resourceContacts',    getAllContacts(EntityDescriptor, namespaces)),
+        ('info',                getInformationURLs(EntityDescriptor, namespaces,lang)),
+        ('privacy',             getPrivacyStatementURLs(EntityDescriptor, namespaces,lang)),
+        ('entityCategories',    getEntityCatagories(EntityDescriptor,namespaces)),
+        ('SirtfiSupport',       getSirtfiSupport(EntityDescriptor,namespaces))
+    ])  
+    
+    return [spdata]
+
+def mkJsonList(EntityDescriptor, namespaces, lang="en"):
+    # Build SP JSON Dictionary
+    entityID = getEntityID(EntityDescriptor,namespaces)
+    
+    spdata = OrderedDict([
+        ('catalogID',           mkContentID(entityID)),
+        ('resourceName',        getName(EntityDescriptor,namespaces,lang)),
+        ('resourceProvider',    getOrganizationInfo(EntityDescriptor, namespaces,lang)),
+        ('description',         getDescriptions(EntityDescriptor,namespaces,lang)),
+    ])  
+    
+    return spdata
+
+    
+def parseSPs(ra_hash, inputfile, outputpath, namespaces, pref_lang, langs):
    p("Working on: " + inputfile, LOGDEBUG) 
     
    tree = ET.parse(inputfile)
@@ -409,43 +444,57 @@ def parseSPs(ra_hash, inputfile, outputpath, namespaces):
       #list_sps = list()
       info = ""
       privacy = ""
+      now = datetime.datetime.now()
       
       # Get entityID
       entityID = getEntityID(EntityDescriptor,namespaces)
+      cont_id = mkContentID(entityID)
+    
       
-#      if entityID == entityID:
+      if entityID == entityID:
 #      if entityID == "https://sp.exprodo.com/shibboleth":          
-      if entityID == "https://attribute-viewer.aai.switch.ch/shibboleth":          
-          # Get hashed entityID
-          cont_id = hashSHA1(entityID)
+#      if entityID == "https://attribute-viewer.aai.switch.ch/shibboleth":          
 
-          # Build SP JSON Dictionary
-          sp = OrderedDict([
-            ('catalogID',           cont_id),
-            ('entityID',            entityID),
-            ('resourceName',        getName(EntityDescriptor,namespaces,'sp')),
-            ('resourceProvider',    getOrganizationInfo(EntityDescriptor, namespaces)),
-            ('resourceAttributes',  getRequestedAttribute(EntityDescriptor,namespaces)),
-            ('descriptions',        getDescriptions(EntityDescriptor,namespaces)),
-            ('resourceContacts',    getAllContacts(EntityDescriptor, namespaces)),
-            ('info',                getInformationURLs(EntityDescriptor, namespaces, 'sp')),
-            ('privacy',             getPrivacyStatementURLs(EntityDescriptor, namespaces, 'sp')),
-            ('entityCategories',    getEntityCatagories(EntityDescriptor,namespaces)),
-            ('SirtfiSupport',       getSirtfiSupport(EntityDescriptor,namespaces))
-          ])     
+          sp_detailed = dict((
+            ('generated',           now.strftime("%Y-%m-%d %H:%M")),
+#            ('supported_languages', langs),
+#            ('preferred_language',  pref_lang),
+            ('en',                  mkJsonRecord(EntityDescriptor, namespaces,"en")),
+            ('fr',                  mkJsonRecord(EntityDescriptor, namespaces,"fr")),
+            ('it',                  mkJsonRecord(EntityDescriptor, namespaces,"it")),
+            ('de',                  mkJsonRecord(EntityDescriptor, namespaces,"de"))
+          ))
+               
+#         sp_listentry = dict((
+#            ('generated',           now.strftime("%Y-%m-%d %H:%M")),
+#            ('supported_languages', langs),
+#            ('preferred_language',  pref_lang),
+#            ('en',                  mkJsonList(EntityDescriptor, namespaces,"en")),
+#            ('fr',                  mkJsonList(EntityDescriptor, namespaces,"fr")),
+#            ('de',                  mkJsonList(EntityDescriptor, namespaces,"de"))
+#          ))
+
+          sp_listentry = mkJsonList(EntityDescriptor, namespaces,"en")
 
           #per SP curated output
+          # THis is for demo purposes only
           path = outputpath + "catalog/"
           file_path = path + cont_id + ".json"
           Path(path).mkdir(parents=True, exist_ok=True)
-
-          # THis is for demo purposes only
           curated_spdata = open(file_path, "w",encoding=None)
           curated_spdata.write(json.dumps(mkAcmeData(entityID),sort_keys=False, indent=4, ensure_ascii=False,separators=(',', ':')))
           curated_spdata.close()
 
+          #write per SPdata to file
+          path = outputpath + "fed/"
+          file_path = path + cont_id + ".json"
+          Path(path).mkdir(parents=True, exist_ok=True)
+          result_sps = open(file_path, "w",encoding=None)
+          result_sps.write(json.dumps(sp_detailed,sort_keys=False, indent=4, ensure_ascii=False,separators=(',', ':')))
+          result_sps.close()
+
           # add Sp to list of per federation SPs
-          list_sps.append(sp)
+          list_sps.append(sp_listentry)
 
    #write out all SPs in one fed to a single file
    path = outputpath + "fed/"
@@ -490,7 +539,7 @@ def main(argv):
    # eduGAOIn only
    RAs[EDUGAIN_RA_URI]["filepath"] = fetchMetadata(RAs[EDUGAIN_RA_URI]["md_url"], RAs[EDUGAIN_RA_URI]["ra_name"], INPUT_PATH)
    # Now loop over RAs files to extract SP metadata and work that into a json
-   parseSPs(RAs[EDUGAIN_RA_URI]["ra_hash"], RAs[EDUGAIN_RA_URI]["filepath"][0], outputpath, namespaces)
+   parseSPs(RAs[EDUGAIN_RA_URI]["ra_hash"], RAs[EDUGAIN_RA_URI]["filepath"][0], outputpath, namespaces, RAs[EDUGAIN_RA_URI]["pref_lang"], RAs[EDUGAIN_RA_URI]["langs"])
 
    # For each RA process the entities
 #   for ra in RAs.keys():

@@ -14,102 +14,247 @@ tr.shown td.details-control {
 }
 </style>
 <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.24/css/jquery.dataTables.css">
-
 <script type="text/javascript" charset="utf8" src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.24/js/jquery.dataTables.js"></script>    
 
 <script>
 /* Formatting function for row details - modify as you need */
+function formatEntitySAMLDetails(d, lang="en") {
+    var data = d[lang][0];
+   
+    var tbody = '';
+    $.each(data, function (i, d) {
+        tbody += '<tr><td valign="top"  width=20%>' + formatEntityName(i) + '</td><td valign="top"  width=80%>' + formatEntityData(i,d) + '</td></tr>';
+    });
+    return '<div id="samlDetails" style="width: 100%; float: left; top: 20px"><table width="100%">' + tbody + '</table></div>';
+} 
 
-function format ( d ) {
-   // `d` is the original data object for the row
-   var tableStart = '<table class="uk-table uk-text-center uk-alert uk-alert-warning" cellpadding="5" cellspacing="0" border="0" style="padding-left:50px;">';
+function formatEntityCatalogDetails(d, lang="en") {
+    var data = d[0];
+    console.log(data);
+    var tbody = '';
+    $.each(data, function (i, d) {
+        if (i != "catalogID" && i != "entityID") {
+            tbody += '<tr><td valign="top" width=20%>' + formatEntityName(i) + '</td><td valign="top" width=80%>' + formatEntityData(i,d) + '</td></tr>';
+        }
+    });
+    return '<div id="catalogDetails" style="width: 100%;  float: left; top: 20px"><table width="100%">' + tbody + '</table></div>';
+} 
 
-   var tableEnd = '</table>';
-
-   var lineEntityID = '<tr>'+
-                         '<td>entityID:</td>'+
-                         '<td>'+d.entityID+'</td>'+
-                      '</tr>';
-
-   var lineAttrRequired = '<tr>'+
-                             '<td>Requested Attributes:</td>'+
-                             '<td>'+d.resourceAttributes.required+'</td>'+
-                          '</tr>';
-
-   var lineAttrRequested = '<tr>'+
-                              '<td>Optional Attributtes:</td>'+
-                              '<td>'+d.resourceAttributes.requested+'</td>'+
-                           '</tr>';
-
-   var lineCtcSupp =  '<tr>'+
-                         '<td>Support Contact:</td>'+
-                         '<td>'+d.resourceContacts.support+'</td>'+
-                      '</tr>';
-
-   var lineCtcAdmin = '<tr>'+
-                         '<td>Administrative Contact:</td>'+
-                         '<td>'+d.resourceContacts.administrative+'</td>'+
-                      '</tr>';
-
-   if (d.resourceAttributes.required == '') {
-      lineAttrRequired =
-         '<tr style="display: none;">'+
-           '<td>Requested Attributes:</td>'+
-           '<td>'+d.resourceAttributes.required+'</td>'+
-         '</tr>';
-   }
-
-   if (d.resourceAttributes.requested == '') {
-      lineAttrRequested =
-         '<tr style="display: none;">'+
-           '<td>Optional Attributtes:</td>'+
-           '<td>'+d.resourceAttributes.requested+'</td>'+
-         '</tr>';
-   }
-
-   if (d.resourceContacts.support == '') {
-      lineCtcSupp =
-         '<tr style="display: none;">'+
-           '<td>Support Contact:</td>'+
-           '<td>'+d.resourceContacts.support+'</td>'+
-          '</tr>';
-   }
-
-   if (d.resourceContacts.administrative == '') {
-      lineCtcAdmin =
-         '<tr style="display: none;">'+
-           '<td>Administrative Contact:</td>'+
-           '<td>'+d.resourceContacts.administrative+'</td>'+
-         '</tr>';
-   }
-
-   return tableStart+lineEntityID+lineAttrRequired+lineAttrRequested+lineCtcSupp+lineCtcAdmin+tableEnd;
-
+function mkdetailsHeader(d, lang="en") {
+    return '<div id="entityDetailsHeader" style="height: 50px; padding: 10px;" background-color: lightgreen; ><h2>' + d.resourceName + '</h2></div>';
 }
+
+function fetchEntityDetails(d, callback, lang="en") {
+    $.when( 
+        $.ajax({
+            url:'/output/fed/'+ d.catalogID +'.json',
+            dataType: "json",
+            error: function () {
+                $('#output').html('Bummer: there was an error fetching SAML details!');
+            }
+        }), 
+        $.ajax({
+            url:'/output/catalog/'+ d.catalogID +'.json',
+            dataType: "json",
+            error: function () {
+                $('#output').html('Bummer: there was an error fetching Catalog details!');
+            }
+        }) 
+        
+    ).done(function( samldata, catdata ) {
+        samlDetails = "";
+        catalogDetails = "";
+        detailsHeader = mkdetailsHeader(d);
+        
+        if (samldata[1] == 'success') {
+            samlDetails = formatEntitySAMLDetails(samldata[0]);
+        }
+        if (catdata[1] == 'success') {
+            catalogDetails = formatEntityCatalogDetails(catdata[0]);
+        }
+        
+        callback($( '<div id="entityDetails" style="background-color: white; border: 2px dashed rgb(0, 128, 0); position: fixed; top: 200px; left: 200px; width: 80%; margin: auto; padding: 10px;">' + detailsHeader + '<div id="entityDetailsContent" style="height: 500px; overflow:auto;">' + samlDetails + catalogDetails + '</div></div>' )).show();
+    });
+} 
+
+function asURL(url) {
+    var icon = '<svg width="18px" height="18px" viewBox="0 0 24 24"><g id="external_link" class="icon_svg-stroke" stroke="#666" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"><polyline points="17 13.5 17 19.5 5 19.5 5 7.5 11 7.5"></polyline><path d="M14,4.5 L20,4.5 L20,10.5 M20,4.5 L11,13.5"></path></g></svg>';
+    return "<a target='top' href='" + url + "'>"+url+"</a>" + icon;
+}
+
+function asList(name, arr, showheader=false, showlink=false) {
+    r = "";
+    if (showheader) {
+        r += name + ":</br></br> ";
+    }
+    $.each(arr.sort(), function (i,d) {
+        if (showlink) 
+            r += '&nbsp;&nbsp;'+asURL(d)+'</br>';
+        else {
+            r += '&nbsp;&nbsp;'+d+'</br>';
+        }
+    });
+    return r;
+}
+
+function upcaseFirst(str) {
+        return str[0].toUpperCase() + str.substring(1)
+}
+
+function formatEntityName(n, lang="en") {
+    m=n;
+    //ToDo: Fetch this from a config file   
+       
+    switch(n) {
+      case "catalogID":
+        m = "catalog ID:"
+        break;
+      case "entityID":
+        m = "entityID:"
+        break;
+      case "resourceName":
+        m = "Service Name:"
+        break;
+      case "resourceProvider":
+        m = "Service Provider:"
+        break;
+      case "description":
+        m = "Description:"
+        break;        
+      case "privacy":
+        m = "Privacy policy:"
+        break;    
+      case "info":
+        m = "More information:"
+        break;  
+      case "SirtfiSupport":
+        m = "Sirtfi support:"
+        break;    
+      case "entityCategories":
+        m = "Entity categories:"
+        break;       
+      case "resourceContacts":
+        m = "Contact information:"
+        break;
+      case "resourceAttributes":
+        m = "Personal Data:"
+        break;
+      case "service":
+        m = "Service details:"
+        break;
+      case "vendor":
+        m = "Service Provider details:"
+        break;
+    };
+    return m;
+}
+
+function formatEntityData(n, v) {
+    f = v;
+    
+    switch(n) {
+      case "resourceProvider":
+        f = v.displayname
+        break;
+      case "description":
+        if (v.indexOf("http") >= 0) {
+            f = asURL(v);
+        }
+        break;
+      case "privacy":
+        f = asURL(v);
+        break;    
+      case "info":
+        f = asURL(v);
+        break;  
+      case "SirtfiSupport":
+        f = asURL(v);
+        break;    
+      case "entityCategories":
+        f = asList(n, v, false, true);
+        break;        
+      case "resourceContacts":
+        f = "<table>";
+        $.each(v, function (i,d) {
+            f += "<tr>";
+            $.each(d, function (j,e) {
+                f += "<td>"
+                switch(j) {
+                case "type":
+                    f += upcaseFirst(e) +' contact: ';
+                    f += "</td><td>"
+                    break;
+                case "name":
+                    f += e +' ';
+                    break;
+                case "email":
+                    f += '(<a href="'+ e +'">'+e.split(":")[1]+'</a>)';
+                    break;
+                }
+                f += "</td>";   
+            });
+            f += "</tr>";
+        });
+        f += "</table>";
+        break;
+      case "resourceAttributes":
+        f = "<table><tr>";
+        if (v.required.length) {
+            f += "<td valign='top'>";
+            f += asList("Required", v.required, true); 
+            f += "</td>";
+        }
+        if ((v.required.length) && (v.requested.length)) {
+          f += "</tr><tr>";
+        }
+        if (v.requested.length) {
+            f += "<td valign='top'>";
+            f += asList("Requested", v.requested, true); 
+            f += "</td>";
+        }
+        f += "</tr></table>";
+        break;
+      case "service":
+        f = "<table>";
+        $.each(v, function (i,d) {
+            f+= '<tr><td valign="top">' + i + '</td><td valign="top">' + d + '</td></tr>';
+        });
+        f += "</table>";
+        break;
+      case "vendor":
+        f = "<table>";
+        $.each(v, function (i,d) {
+            f+= '<tr><td valign="top">' + i + '</td><td valign="top">' + d + '</td></tr>';
+        });
+        f += "</table>";break;
+      default:
+        // Nothing to do, just let this function return the default value
+    };
+    return f;
+}
+
 $(document).ready(function() {
-    var table = $('#example').DataTable( {
-        scrollY:        '50vh',
-        scrollX: true,
-        scrollCollapse: true,
+    var table = $('#entityList').DataTable( {
+        scrollY:        '75vh',
+        scrollX:        true,
+        scrollCollapse: false,
         paging:         false,
+        
         "ajax": {
-            "url": "https://surfnet-niels.github.io/output/fed/9cea6a7818b06b010acac00aa292200ca45b00d2.json",
+            "url": "/output/fed/9cea6a7818b06b010acac00aa292200ca45b00d2.json",
             "dataSrc": ""
         },
         "columns": [
-            { "data": "id" },
+            { "data": "catalogID" },
 			{
                 "className":      'details-control',
                 "orderable":      false,
                 "data":           "",
                 "defaultContent": ''
             },
-            { "data": "resourceName" }, 
-	    { "data": "info", className: "centerTdClass" },
-            { "data": "privacy", className: "centerTdClass" },
-	    { "data": "resourceContacts.technical" },
-            { "data": "resourceProvider" }   
+            { "data": "resourceName" },
+            { "data": "resourceProvider.displayname" }
         ],
         "columnDefs": [
             {
@@ -121,10 +266,10 @@ $(document).ready(function() {
     } );
      
     // Add event listener for opening and closing details
-    $('#example tbody').on('click', 'td.details-control', function () {
+    $('#entityList tbody').on('click', 'td.details-control', function () {
         var tr = $(this).closest('tr');
         var row = table.row( tr );
- 
+
         if ( row.child.isShown() ) {
             // This row is already open - close it
             row.child.hide();
@@ -132,7 +277,8 @@ $(document).ready(function() {
         }
         else {
             // Open this row
-            row.child( format(row.data()) ).show();
+            //row.child( format(row.data()) ).show();
+            fetchEntityDetails(row.data(), row.child);
             tr.addClass('shown');
         }
     } );
@@ -144,32 +290,17 @@ $(document).ready(function() {
 <h1>Hello Catalog!</h1>
 
 <div class="uk-overflow-container"> 
-
-<table id="example" class="display" style="width:100%">
-        <thead>
-            <tr>
-                <th>id</th>
-		<th></th>
-		<th width="30%">Service</th>
-		<th width="5%">Info</th>
-		<th width="5%">Privacy</th>
-		<th width="35%">Technical Contact</th>
-        <th width="25%">Vendor</th>
-        </tr>
-        </thead>
-        <!--<tfoot>
-            <tr>
-                <th>id</th>
-                <th>Servizio</th>
-                <th>Url</th>
-                <th>Attributi</th>
-                <th>Fornitore</th>
-            </tr>
-        </tfoot>-->
-    </table>
+<table id="entityList" class="display" style="width:100%">
+    <thead>
+    <tr>
+        <th width="5%">catalogID</th>
+        <th width="5%"></th>
+        <th width="40%">Service Name</th>
+        <th width="40%">Service Provider</th>
+    </tr>
+    </thead>
+</table>
 </div>
-
-
 </body>
 </html>
 

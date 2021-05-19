@@ -2,92 +2,128 @@
 	"https://www.edugain.org": {
 		"name": "eduGAIN",
 		"country_code": "",
-		"md_url": ["http://mds.edugain.org"]
+		"md_url": ["http://mds.edugain.org"],
+        "langs": ["en", "fr", "de", "it", "nl", "dk"],
+        "pref_lang": "en"
 	},
     "http://www.heanet.ie": {
 		"name": "Edugate",
 		"country_code": "ie",
-		"md_url": ["https://edugate.heanet.ie/edugate-federation-metadata-signed.xml"]
+		"md_url": ["https://edugate.heanet.ie/edugate-federation-metadata-signed.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},
     "http://www.eduid.cz/": {
 		"name": "eduID.cz",
 		"country_code": "cz",
-		"md_url": ["https://metadata.eduid.cz/entities/eduid"]
+		"md_url": ["https://metadata.eduid.cz/entities/eduid"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	}, 
     "http://eduid.hu": {
 		"name": "eduId.hu",
 		"country_code": "hu",
-		"md_url": ["http://metadata.eduid.hu/current/href.xml"]
+		"md_url": ["http://metadata.eduid.hu/current/href.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},
     "http://eduid.lu": {
 		"name": "eduID Luxembourg",
 		"country_code": "lu",
-		"md_url": ["https://www.eduid.lu/metadata/upstream.xml"]
+		"md_url": ["https://www.eduid.lu/metadata/upstream.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},  
     "http://feide.no/": {
 		"name": "FEIDE",
 		"country_code": "no",
-		"md_url": ["https://idp.feide.no/simplesaml/saml2/idp/metadata.php"]
+		"md_url": ["https://idp.feide.no/simplesaml/saml2/idp/metadata.php"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},   
     "https://federation.renater.fr/": {
 		"name": "FER",
 		"country_code": "fr",
-		"md_url": ["https://pub.federation.renater.fr/metadata/renater/main/main-all-renater-metadata.xml"]
+		"md_url": ["https://pub.federation.renater.fr/metadata/renater/main/main-all-renater-metadata.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},
 	"https://incommon.org": {
 		"name": "InCommon",
 		"country_code": "us",
-		"md_url": ["https://mdq.incommon.org/entities"]
+		"md_url": ["https://mdq.incommon.org/entities"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},
     "http://eduid.at": {
 		"name": "Aconet",
 		"country_code": "at",
-		"md_url": ["https://eduid.at/md/aconet-registered.xml"]
+		"md_url": ["https://eduid.at/md/aconet-registered.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},
     "http://ukfederation.org.uk": {
 		"name": "UK federation",
 		"country_code": "uk",
-		"md_url": ["http://metadata.ukfederation.org.uk/ukfederation-metadata.xml"]
+		"md_url": ["http://metadata.ukfederation.org.uk/ukfederation-metadata.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	}, 
     "https://aai.pionier.net.pl": {
 		"name": "Pionier",
 		"country_code": "pl",
-		"md_url": ["http://aai.pionier.net.pl/pionierid.xml"]
+		"md_url": ["http://aai.pionier.net.pl/pionierid.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	}, 
     "https://www.wayf.dk": {
 		"name": "WAYF",
 		"country_code": "dk",
-		"md_url": ["https://metadata.wayf.dk/birk-idp.xml"]
+		"md_url": ["https://metadata.wayf.dk/birk-idp.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},
     "https://www.aai.dfn.de": {
 		"name": "DFN-AAI",
 		"country_code": "de",
-		"md_url": ["http://www.aai.dfn.de/fileadmin/metadata/dfn-aai-basic-metadata.xml", "http://www.aai.dfn.de/fileadmin/metadata/dfn-aai-sp-metadata.xml"]
+		"md_url": ["http://www.aai.dfn.de/fileadmin/metadata/dfn-aai-basic-metadata.xml", "http://www.aai.dfn.de/fileadmin/metadata/dfn-aai-sp-metadata.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},  
     "http://aai.grnet.gr/": {
 		"name": "DELOS - GRNET AAI Federation",
 		"country_code": "gr",
-		"md_url": ["https://md.aai.grnet.gr/aggregates/grnet-metadata.xml"]
+		"md_url": ["https://md.aai.grnet.gr/aggregates/grnet-metadata.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},  
     "http://www.csc.fi/haka": {
 		"name": "HAKA",
 		"country_code": "fi",
-		"md_url": ["https://haka.funet.fi/metadata/haka-metadata.xml"]
+		"md_url": ["https://haka.funet.fi/metadata/haka-metadata.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	}, 
     "http://www.idem.garr.it/": {
 		"name": "IDEM",
 		"country_code": "it",
-		"md_url": ["http://md.idem.garr.it/metadata/edugain2idem-metadata-sha256.xml"]
+		"md_url": ["http://md.idem.garr.it/metadata/edugain2idem-metadata-sha256.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},  
     "http://laife.lanet.lv/": {
 		"name": "LAIFE",
 		"country_code": "lv",
-		"md_url": ["https://laife.lanet.lv/metadata/laife-metadata.xml"]
+		"md_url": ["https://laife.lanet.lv/metadata/laife-metadata.xml"],
+        "langs": ["en"],
+        "pref_lang": "en"
 	},      
     "http://www.surfconext.nl/": {
 		"name": "SURFconext",
 		"country_code": "nl",
-		"md_url": ["https://metadata.surfconext.nl/idps-metadata.xml"]
+		"md_url": ["https://metadata.surfconext.nl/idps-metadata.xml"],
+        "langs": ["en", "nl"],
+        "pref_lang": "nl"
 	}
 }
 
