@@ -1,0 +1,175 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"74a9205aa16eac18dd95f81828b9ad8f73ca0515",
+            "entityID":"https://vetucation.vu-wien.ac.at/shibboleth",
+            "resourceName":"Vetucation",
+            "resourceProvider":{
+                "name":"University of Veterinary Medicine Vienna",
+                "displayname":"University of Veterinary Medicine Vienna",
+                "url":"http://www.vetmeduni.ac.at/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "mail",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"Vetucation is the e-learning platform of the University of Veterinary Medicine Vienna. Its purpose is the management of teaching and learning contents and the support of face-to-face teaching with various online communication and collaboration tools.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"E-LearningSupport Team",
+                    "email":"mailto:elearning@vetmeduni.ac.at"
+                },
+                {
+                    "type":"technical",
+                    "name":"E-LearningSupport Team",
+                    "email":"mailto:elearning@vetmeduni.ac.at"
+                }
+            ],
+            "info":"https://vetucation.vetmeduni.ac.at/",
+            "privacy":"https://www.vetmeduni.ac.at/en/infos/vetucation-privacy-policy-shibboleth/",
+            "entityCategories":[
+                "http://aai.dfn.de/category/vetmed-member",
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"74a9205aa16eac18dd95f81828b9ad8f73ca0515",
+            "entityID":"https://vetucation.vu-wien.ac.at/shibboleth",
+            "resourceName":"Vetucation",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.vetmeduni.ac.at/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "mail",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"E-LearningSupport Team",
+                    "email":"mailto:elearning@vetmeduni.ac.at"
+                },
+                {
+                    "type":"technical",
+                    "name":"E-LearningSupport Team",
+                    "email":"mailto:elearning@vetmeduni.ac.at"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://aai.dfn.de/category/vetmed-member",
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"74a9205aa16eac18dd95f81828b9ad8f73ca0515",
+            "entityID":"https://vetucation.vu-wien.ac.at/shibboleth",
+            "resourceName":"Vetucation",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.vetmeduni.ac.at/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "mail",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"E-LearningSupport Team",
+                    "email":"mailto:elearning@vetmeduni.ac.at"
+                },
+                {
+                    "type":"technical",
+                    "name":"E-LearningSupport Team",
+                    "email":"mailto:elearning@vetmeduni.ac.at"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://aai.dfn.de/category/vetmed-member",
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"74a9205aa16eac18dd95f81828b9ad8f73ca0515",
+            "entityID":"https://vetucation.vu-wien.ac.at/shibboleth",
+            "resourceName":"Vetucation",
+            "resourceProvider":{
+                "name":"Veterinärmedizinische Universität Wien",
+                "displayname":"Veterinärmedizinische Universität Wien",
+                "url":"http://www.vetmeduni.ac.at/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "mail",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"Vetucation ist die e-learning Plattform der Vetmeduni Vienna. Sie dient der Verwaltung von Lehr- und Lernmaterial und Unterstützung der Präsenzlehre mit Online Kommunikations- und Kollaborations-Tools.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"E-LearningSupport Team",
+                    "email":"mailto:elearning@vetmeduni.ac.at"
+                },
+                {
+                    "type":"technical",
+                    "name":"E-LearningSupport Team",
+                    "email":"mailto:elearning@vetmeduni.ac.at"
+                }
+            ],
+            "info":"https://vetucation.vetmeduni.ac.at/",
+            "privacy":"",
+            "entityCategories":[
+                "http://aai.dfn.de/category/vetmed-member",
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"75f290e637f1e4decf6e43ec4954cbb195cbc5ab",
+            "entityID":"https://rns.release-check.edugain.org/shibboleth",
+            "resourceName":"EARC - REFEDS Research and Scholarship with Requested Attributes Test",
+            "resourceProvider":{
+                "name":"Greek Research and Technology Network - GRNET",
+                "displayname":"Greek Research and Technology Network - GRNET",
+                "url":"https://grnet.gr/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"EARC - REFEDS Research and Scholarship with Requested Attributes Test",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                }
+            ],
+            "info":"https://release-check.edugain.org/",
+            "privacy":"https://release-check.edugain.org/privacy",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"75f290e637f1e4decf6e43ec4954cbb195cbc5ab",
+            "entityID":"https://rns.release-check.edugain.org/shibboleth",
+            "resourceName":"EARC - REFEDS Research and Scholarship with Requested Attributes Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://grnet.gr/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"75f290e637f1e4decf6e43ec4954cbb195cbc5ab",
+            "entityID":"https://rns.release-check.edugain.org/shibboleth",
+            "resourceName":"EARC - REFEDS Research and Scholarship with Requested Attributes Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://grnet.gr/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"75f290e637f1e4decf6e43ec4954cbb195cbc5ab",
+            "entityID":"https://rns.release-check.edugain.org/shibboleth",
+            "resourceName":"EARC - REFEDS Research and Scholarship with Requested Attributes Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://grnet.gr/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"f3b1b91085624a52be0158d0118db69b59a395b9",
+            "entityID":"https://smucommencement.universitytickets.com/shibboleth",
+            "resourceName":"SMU Commencement - UniversityTickets SSO",
+            "resourceProvider":{
+                "name":"UniversityTickets",
+                "displayname":"UniversityTickets",
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.universitytickets.com/downloads/privacypolicy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f3b1b91085624a52be0158d0118db69b59a395b9",
+            "entityID":"https://smucommencement.universitytickets.com/shibboleth",
+            "resourceName":"SMU Commencement - UniversityTickets SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f3b1b91085624a52be0158d0118db69b59a395b9",
+            "entityID":"https://smucommencement.universitytickets.com/shibboleth",
+            "resourceName":"SMU Commencement - UniversityTickets SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f3b1b91085624a52be0158d0118db69b59a395b9",
+            "entityID":"https://smucommencement.universitytickets.com/shibboleth",
+            "resourceName":"SMU Commencement - UniversityTickets SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

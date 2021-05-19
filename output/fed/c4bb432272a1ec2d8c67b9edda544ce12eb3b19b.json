@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"c4bb432272a1ec2d8c67b9edda544ce12eb3b19b",
+            "entityID":"https://iugrad.webadmit.org/shibboleth",
+            "resourceName":"IU Grad",
+            "resourceProvider":{
+                "name":"Liaison Holdings LLC d/b/a Liaison International LLC",
+                "displayname":"Liaison Holdings LLC d/b/a Liaison International LLC",
+                "url":"http://www.liaisonedu.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Margitich",
+                    "email":"mailto:mmargitich@liaison-intl.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Pierre Fortin Carrier",
+                    "email":"mailto:pfortincarrier@liaisonedu.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Richard Weir",
+                    "email":"mailto:rweir@liaisonedu.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.liaisonedu.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c4bb432272a1ec2d8c67b9edda544ce12eb3b19b",
+            "entityID":"https://iugrad.webadmit.org/shibboleth",
+            "resourceName":"https://iugrad.webadmit.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.liaisonedu.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Margitich",
+                    "email":"mailto:mmargitich@liaison-intl.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Pierre Fortin Carrier",
+                    "email":"mailto:pfortincarrier@liaisonedu.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Richard Weir",
+                    "email":"mailto:rweir@liaisonedu.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c4bb432272a1ec2d8c67b9edda544ce12eb3b19b",
+            "entityID":"https://iugrad.webadmit.org/shibboleth",
+            "resourceName":"https://iugrad.webadmit.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.liaisonedu.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Margitich",
+                    "email":"mailto:mmargitich@liaison-intl.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Pierre Fortin Carrier",
+                    "email":"mailto:pfortincarrier@liaisonedu.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Richard Weir",
+                    "email":"mailto:rweir@liaisonedu.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c4bb432272a1ec2d8c67b9edda544ce12eb3b19b",
+            "entityID":"https://iugrad.webadmit.org/shibboleth",
+            "resourceName":"https://iugrad.webadmit.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.liaisonedu.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Margitich",
+                    "email":"mailto:mmargitich@liaison-intl.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Pierre Fortin Carrier",
+                    "email":"mailto:pfortincarrier@liaisonedu.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Richard Weir",
+                    "email":"mailto:rweir@liaisonedu.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

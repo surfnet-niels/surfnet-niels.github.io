@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"09fece915e8ea3acfa0a116413c603dbb3cecba1",
+            "entityID":"https://sp.catalog.clarin.eu",
+            "resourceName":"CLARIN CMDI metadata (prod)",
+            "resourceProvider":{
+                "name":"e459",
+                "displayname":"CLARIN ERIC",
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"For the Component Registry, Virtual Language Observatory.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:clarin@clarin.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:sysops@clarin.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:sysops@clarin.eu"
+                }
+            ],
+            "info":"https://www.clarin.eu/applications",
+            "privacy":"https://catalog.clarin.eu/privacy_statement.xhtml",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"09fece915e8ea3acfa0a116413c603dbb3cecba1",
+            "entityID":"https://sp.catalog.clarin.eu",
+            "resourceName":"CLARIN CMDI metadata (prod)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:clarin@clarin.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:sysops@clarin.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:sysops@clarin.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"09fece915e8ea3acfa0a116413c603dbb3cecba1",
+            "entityID":"https://sp.catalog.clarin.eu",
+            "resourceName":"CLARIN CMDI metadata (prod)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:clarin@clarin.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:sysops@clarin.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:sysops@clarin.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"09fece915e8ea3acfa0a116413c603dbb3cecba1",
+            "entityID":"https://sp.catalog.clarin.eu",
+            "resourceName":"CLARIN CMDI Metadaten (prod)",
+            "resourceProvider":{
+                "name":"e459",
+                "displayname":"CLARIN ERIC",
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"Für die Component Registry, das Virtual Language Observatory.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:clarin@clarin.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:sysops@clarin.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"DieterVan Uytvanck",
+                    "email":"mailto:sysops@clarin.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"2053a5d03a1ac7c1211c1ec55901b7f304253a70",
+            "entityID":"https://ufphotography.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter University of Florida - University Relations",
+            "resourceProvider":{
+                "name":"PhotoShelter, Inc.",
+                "displayname":"PhotoShelter, Inc.",
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"PhotoShelter University of Florida - University Relations SSO Portal",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Libris Client Services",
+                    "email":"mailto:librissupport@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.photoshelter.com/support/privacy-2018",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2053a5d03a1ac7c1211c1ec55901b7f304253a70",
+            "entityID":"https://ufphotography.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter University of Florida - University Relations",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Libris Client Services",
+                    "email":"mailto:librissupport@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2053a5d03a1ac7c1211c1ec55901b7f304253a70",
+            "entityID":"https://ufphotography.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter University of Florida - University Relations",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Libris Client Services",
+                    "email":"mailto:librissupport@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2053a5d03a1ac7c1211c1ec55901b7f304253a70",
+            "entityID":"https://ufphotography.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter University of Florida - University Relations",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Libris Client Services",
+                    "email":"mailto:librissupport@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

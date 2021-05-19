@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"5927f9d40814c870f2ca0afed6670b8ae93727b9",
+            "entityID":"https://keystone.cloud.garrservices.it:5000/shibboleth",
+            "resourceName":"GARR Federated Cloud",
+            "resourceProvider":{
+                "name":"Consortium GARR",
+                "displayname":"GARR Federated Cloud provided by Consortium GARR",
+                "url":"https://cloud.garr.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email"
+                ],
+                "requested":[
+                    "commonName",
+                    "givenName",
+                    "surname",
+                    "displayName"
+                ]
+            },
+            "description":"GARR Federated Cloud",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Cloud Support",
+                    "email":"mailto:cloud-support@garr.it"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cloud Support",
+                    "email":"mailto:cloud-support@garr.it"
+                }
+            ],
+            "info":"https://cloud.garr.it",
+            "privacy":"https://cloud.garr.it/terms/privacy",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"5927f9d40814c870f2ca0afed6670b8ae93727b9",
+            "entityID":"https://keystone.cloud.garrservices.it:5000/shibboleth",
+            "resourceName":"GARR Federated Cloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://cloud.garr.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email"
+                ],
+                "requested":[
+                    "commonName",
+                    "givenName",
+                    "surname",
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Cloud Support",
+                    "email":"mailto:cloud-support@garr.it"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cloud Support",
+                    "email":"mailto:cloud-support@garr.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"5927f9d40814c870f2ca0afed6670b8ae93727b9",
+            "entityID":"https://keystone.cloud.garrservices.it:5000/shibboleth",
+            "resourceName":"GARR Federated Cloud",
+            "resourceProvider":{
+                "name":"Consortium GARR",
+                "displayname":"GARR Federated Cloud erogato da Consortium GARR",
+                "url":"https://cloud.garr.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email"
+                ],
+                "requested":[
+                    "commonName",
+                    "givenName",
+                    "surname",
+                    "displayName"
+                ]
+            },
+            "description":"GARR Federated Cloud",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Cloud Support",
+                    "email":"mailto:cloud-support@garr.it"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cloud Support",
+                    "email":"mailto:cloud-support@garr.it"
+                }
+            ],
+            "info":"https://cloud.garr.it",
+            "privacy":"https://cloud.garr.it/terms/privacy",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"5927f9d40814c870f2ca0afed6670b8ae93727b9",
+            "entityID":"https://keystone.cloud.garrservices.it:5000/shibboleth",
+            "resourceName":"GARR Federated Cloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://cloud.garr.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email"
+                ],
+                "requested":[
+                    "commonName",
+                    "givenName",
+                    "surname",
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Cloud Support",
+                    "email":"mailto:cloud-support@garr.it"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cloud Support",
+                    "email":"mailto:cloud-support@garr.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

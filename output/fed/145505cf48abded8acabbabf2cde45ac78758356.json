@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"145505cf48abded8acabbabf2cde45ac78758356",
+            "entityID":"https://bionimbus-pdc.opensciencedatacloud.org/shibboleth",
+            "resourceName":"Bionimbus PDC Console",
+            "resourceProvider":{
+                "name":"Open Commons Consortium (OCC)",
+                "displayname":"Open Commons Consortium (OCC)",
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"We provide and support cloud computing and storage services for the scientific research community. The OSDC is run by the Open Commons Consortium, a non-profit organization whose primary goal is to support scientific advances by working with researchers in a variety of disciplines.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Raymond Powell",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Lily Ko",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                }
+            ],
+            "info":"https://bionimbus-pdc.opensciencedatacloud.org",
+            "privacy":"https://bionimbus-pdc.opensciencedatacloud.org/misc/privacy.txt",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"145505cf48abded8acabbabf2cde45ac78758356",
+            "entityID":"https://bionimbus-pdc.opensciencedatacloud.org/shibboleth",
+            "resourceName":"Bionimbus PDC Console",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Raymond Powell",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Lily Ko",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"145505cf48abded8acabbabf2cde45ac78758356",
+            "entityID":"https://bionimbus-pdc.opensciencedatacloud.org/shibboleth",
+            "resourceName":"Bionimbus PDC Console",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Raymond Powell",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Lily Ko",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"145505cf48abded8acabbabf2cde45ac78758356",
+            "entityID":"https://bionimbus-pdc.opensciencedatacloud.org/shibboleth",
+            "resourceName":"Bionimbus PDC Console",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Raymond Powell",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Lily Ko",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@opensciencedatacloud.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

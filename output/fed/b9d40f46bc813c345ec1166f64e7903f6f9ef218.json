@@ -1,0 +1,175 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"b9d40f46bc813c345ec1166f64e7903f6f9ef218",
+            "entityID":"https://elearning.unimib.it/simplesaml/module.php/saml/sp/metadata.php/elearning-unimib-idem-sp",
+            "resourceName":"e-LEARNING and ONLINE LEARNING provided by UNIMIB",
+            "resourceProvider":{
+                "name":"University of Milano-Bicocca",
+                "displayname":"e-LEARNING and ONLINE LEARNING provided by University of Milano-Bicocca",
+                "url":"https://www.unimib.it/unimib-international"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email",
+                    "givenName",
+                    "surname"
+                ],
+                "requested":[
+                    "preferredLanguage",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"e-LEARNING and ONLINE LEARNING",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Area SI - e-Learning Administrator",
+                    "email":"mailto:idem@unimib.it"
+                },
+                {
+                    "type":"technical",
+                    "name":"Area SI - e-Learning Administrator",
+                    "email":"mailto:idem@unimib.it"
+                }
+            ],
+            "info":"https://elearning.unimib.it/mod/page/view.php?id=168394&lang=en",
+            "privacy":"https://elearning.unimib.it/mod/page/view.php?id=168394&lang=en",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b9d40f46bc813c345ec1166f64e7903f6f9ef218",
+            "entityID":"https://elearning.unimib.it/simplesaml/module.php/saml/sp/metadata.php/elearning-unimib-idem-sp",
+            "resourceName":"e-LEARNING and ONLINE LEARNING provided by UNIMIB",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.unimib.it/unimib-international"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email",
+                    "givenName",
+                    "surname"
+                ],
+                "requested":[
+                    "preferredLanguage",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Area SI - e-Learning Administrator",
+                    "email":"mailto:idem@unimib.it"
+                },
+                {
+                    "type":"technical",
+                    "name":"Area SI - e-Learning Administrator",
+                    "email":"mailto:idem@unimib.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b9d40f46bc813c345ec1166f64e7903f6f9ef218",
+            "entityID":"https://elearning.unimib.it/simplesaml/module.php/saml/sp/metadata.php/elearning-unimib-idem-sp",
+            "resourceName":"e-LEARNING e DIDATTICA ONLINE erogato da UNIMIB",
+            "resourceProvider":{
+                "name":"Università di Milano-Bicocca",
+                "displayname":"e-LEARNING e DIDATTICA ONLINE erogato da Università di Milano-Bicocca",
+                "url":"https://www.unimib.it/unimib-international"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email",
+                    "givenName",
+                    "surname"
+                ],
+                "requested":[
+                    "preferredLanguage",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"e-LEARNING e DIDATTICA ONLINE",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Area SI - e-Learning Administrator",
+                    "email":"mailto:idem@unimib.it"
+                },
+                {
+                    "type":"technical",
+                    "name":"Area SI - e-Learning Administrator",
+                    "email":"mailto:idem@unimib.it"
+                }
+            ],
+            "info":"https://elearning.unimib.it/mod/page/view.php?id=168394&lang=it",
+            "privacy":"https://elearning.unimib.it/mod/page/view.php?id=168394&lang=it",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b9d40f46bc813c345ec1166f64e7903f6f9ef218",
+            "entityID":"https://elearning.unimib.it/simplesaml/module.php/saml/sp/metadata.php/elearning-unimib-idem-sp",
+            "resourceName":"e-LEARNING and ONLINE LEARNING provided by UNIMIB",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.unimib.it/unimib-international"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email",
+                    "givenName",
+                    "surname"
+                ],
+                "requested":[
+                    "preferredLanguage",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Area SI - e-Learning Administrator",
+                    "email":"mailto:idem@unimib.it"
+                },
+                {
+                    "type":"technical",
+                    "name":"Area SI - e-Learning Administrator",
+                    "email":"mailto:idem@unimib.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

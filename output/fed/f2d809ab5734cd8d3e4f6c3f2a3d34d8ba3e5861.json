@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"f2d809ab5734cd8d3e4f6c3f2a3d34d8ba3e5861",
+            "entityID":"https://cluster-test.apps.upenn.edu/shibboleth",
+            "resourceName":"Penn ISC application test cluster LCF",
+            "resourceProvider":{
+                "name":"University of Pennsylvania",
+                "displayname":"University of Pennsylvania",
+                "url":"http://www.upenn.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UPenn Information Security",
+                    "email":"mailto:security@isc.upenn.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"http://www.upenn.edu/about/privacy_policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f2d809ab5734cd8d3e4f6c3f2a3d34d8ba3e5861",
+            "entityID":"https://cluster-test.apps.upenn.edu/shibboleth",
+            "resourceName":"Penn ISC application test cluster LCF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.upenn.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UPenn Information Security",
+                    "email":"mailto:security@isc.upenn.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f2d809ab5734cd8d3e4f6c3f2a3d34d8ba3e5861",
+            "entityID":"https://cluster-test.apps.upenn.edu/shibboleth",
+            "resourceName":"Penn ISC application test cluster LCF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.upenn.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UPenn Information Security",
+                    "email":"mailto:security@isc.upenn.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f2d809ab5734cd8d3e4f6c3f2a3d34d8ba3e5861",
+            "entityID":"https://cluster-test.apps.upenn.edu/shibboleth",
+            "resourceName":"Penn ISC application test cluster LCF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.upenn.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UPenn Information Security",
+                    "email":"mailto:security@isc.upenn.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

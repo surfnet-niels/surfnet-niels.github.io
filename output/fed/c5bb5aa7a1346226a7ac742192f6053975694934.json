@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"c5bb5aa7a1346226a7ac742192f6053975694934",
+            "entityID":"https://confluence.et-test.psu.edu/shibboleth",
+            "resourceName":"Confluence test wiki",
+            "resourceProvider":{
+                "name":"The Pennsylvania State University",
+                "displayname":"Penn State",
+                "url":"http://www.psu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rich Cropp",
+                    "email":"mailto:rac@psu.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security, Office of Information Security",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"http://www.psu.edu/web-privacy-statement",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c5bb5aa7a1346226a7ac742192f6053975694934",
+            "entityID":"https://confluence.et-test.psu.edu/shibboleth",
+            "resourceName":"Confluence test wiki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.psu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rich Cropp",
+                    "email":"mailto:rac@psu.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security, Office of Information Security",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c5bb5aa7a1346226a7ac742192f6053975694934",
+            "entityID":"https://confluence.et-test.psu.edu/shibboleth",
+            "resourceName":"Confluence test wiki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.psu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rich Cropp",
+                    "email":"mailto:rac@psu.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security, Office of Information Security",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c5bb5aa7a1346226a7ac742192f6053975694934",
+            "entityID":"https://confluence.et-test.psu.edu/shibboleth",
+            "resourceName":"Confluence test wiki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.psu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rich Cropp",
+                    "email":"mailto:rac@psu.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security, Office of Information Security",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

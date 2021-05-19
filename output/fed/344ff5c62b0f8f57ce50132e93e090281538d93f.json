@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"344ff5c62b0f8f57ce50132e93e090281538d93f",
+            "entityID":"https://auth.wisr.io/shibboleth",
+            "resourceName":"Wisr SSO",
+            "resourceProvider":{
+                "name":"Wisr, Inc.",
+                "displayname":"Wisr, Inc.",
+                "url":"https://getwisr.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "o"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"Provides single sign on support for Wisr via your institutions's identity provider.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Knific",
+                    "email":"mailto:john@wisr.io"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kris Ciccarello",
+                    "email":"mailto:kris@wisr.io"
+                },
+                {
+                    "type":"security",
+                    "name":"Daniel DeBiase",
+                    "email":"mailto:ddebiase@wisr.io"
+                }
+            ],
+            "info":"https://auth.wisr.io/shibboleth",
+            "privacy":"https://www.wisr.io/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"344ff5c62b0f8f57ce50132e93e090281538d93f",
+            "entityID":"https://auth.wisr.io/shibboleth",
+            "resourceName":"Wisr SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://getwisr.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "o"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Knific",
+                    "email":"mailto:john@wisr.io"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kris Ciccarello",
+                    "email":"mailto:kris@wisr.io"
+                },
+                {
+                    "type":"security",
+                    "name":"Daniel DeBiase",
+                    "email":"mailto:ddebiase@wisr.io"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"344ff5c62b0f8f57ce50132e93e090281538d93f",
+            "entityID":"https://auth.wisr.io/shibboleth",
+            "resourceName":"Wisr SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://getwisr.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "o"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Knific",
+                    "email":"mailto:john@wisr.io"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kris Ciccarello",
+                    "email":"mailto:kris@wisr.io"
+                },
+                {
+                    "type":"security",
+                    "name":"Daniel DeBiase",
+                    "email":"mailto:ddebiase@wisr.io"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"344ff5c62b0f8f57ce50132e93e090281538d93f",
+            "entityID":"https://auth.wisr.io/shibboleth",
+            "resourceName":"Wisr SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://getwisr.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "o"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Knific",
+                    "email":"mailto:john@wisr.io"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kris Ciccarello",
+                    "email":"mailto:kris@wisr.io"
+                },
+                {
+                    "type":"security",
+                    "name":"Daniel DeBiase",
+                    "email":"mailto:ddebiase@wisr.io"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

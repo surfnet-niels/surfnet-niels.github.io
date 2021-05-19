@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f671ebbdf727a4e5c3941c3a544d63d43f0e14a9",
+            "entityID":"https://veoci.com/saml/sp",
+            "resourceName":"Veoci",
+            "resourceProvider":{
+                "name":"GreyWall Software d/b/a Veoci",
+                "displayname":"GreyWall Software d/b/a Veoci",
+                "url":"https://www.veoci.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Veoci SAML 2.0 SP",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Drew Mazurek",
+                    "email":"mailto:drew@veoci.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tamas Simon",
+                    "email":"mailto:simon@veoci.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nathaniel Ellis",
+                    "email":"mailto:nathaniel@veoci.com"
+                }
+            ],
+            "info":"https://www.veoci.com",
+            "privacy":"https://veoci.com/legal/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f671ebbdf727a4e5c3941c3a544d63d43f0e14a9",
+            "entityID":"https://veoci.com/saml/sp",
+            "resourceName":"Veoci",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.veoci.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Drew Mazurek",
+                    "email":"mailto:drew@veoci.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tamas Simon",
+                    "email":"mailto:simon@veoci.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nathaniel Ellis",
+                    "email":"mailto:nathaniel@veoci.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f671ebbdf727a4e5c3941c3a544d63d43f0e14a9",
+            "entityID":"https://veoci.com/saml/sp",
+            "resourceName":"Veoci",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.veoci.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Drew Mazurek",
+                    "email":"mailto:drew@veoci.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tamas Simon",
+                    "email":"mailto:simon@veoci.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nathaniel Ellis",
+                    "email":"mailto:nathaniel@veoci.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f671ebbdf727a4e5c3941c3a544d63d43f0e14a9",
+            "entityID":"https://veoci.com/saml/sp",
+            "resourceName":"Veoci",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.veoci.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Drew Mazurek",
+                    "email":"mailto:drew@veoci.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tamas Simon",
+                    "email":"mailto:simon@veoci.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nathaniel Ellis",
+                    "email":"mailto:nathaniel@veoci.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

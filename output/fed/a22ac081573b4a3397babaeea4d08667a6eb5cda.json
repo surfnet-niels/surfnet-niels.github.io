@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"a22ac081573b4a3397babaeea4d08667a6eb5cda",
+            "entityID":"https://ventiv.ucop.edu",
+            "resourceName":"Ventiv RCA  UCOP",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"Risk Services the document is to outline the approach being proposed to authenticate and authorize user- identity for RCA SSO.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Administrative",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a22ac081573b4a3397babaeea4d08667a6eb5cda",
+            "entityID":"https://ventiv.ucop.edu",
+            "resourceName":"Ventiv RCA  UCOP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Administrative",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a22ac081573b4a3397babaeea4d08667a6eb5cda",
+            "entityID":"https://ventiv.ucop.edu",
+            "resourceName":"Ventiv RCA  UCOP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Administrative",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a22ac081573b4a3397babaeea4d08667a6eb5cda",
+            "entityID":"https://ventiv.ucop.edu",
+            "resourceName":"Ventiv RCA  UCOP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Administrative",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

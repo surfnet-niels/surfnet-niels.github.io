@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"a012a2d330ec6e14391403bdea7b219bc03b1d25",
+            "entityID":"https://brandeisuniversity.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - Brandeis University",
+            "resourceProvider":{
+                "name":"PhotoShelter, Inc.",
+                "displayname":"PhotoShelter, Inc.",
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"PhotoShelter Brandeis University SSO Portal",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands CS",
+                    "email":"mailto:support@photoshelter.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.photoshelter.com/support/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a012a2d330ec6e14391403bdea7b219bc03b1d25",
+            "entityID":"https://brandeisuniversity.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - Brandeis University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands CS",
+                    "email":"mailto:support@photoshelter.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a012a2d330ec6e14391403bdea7b219bc03b1d25",
+            "entityID":"https://brandeisuniversity.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - Brandeis University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands CS",
+                    "email":"mailto:support@photoshelter.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a012a2d330ec6e14391403bdea7b219bc03b1d25",
+            "entityID":"https://brandeisuniversity.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - Brandeis University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands CS",
+                    "email":"mailto:support@photoshelter.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

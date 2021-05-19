@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"4e0507c4aae85923a7bb1350bf6eb2a6e7c96620",
+            "entityID":"https://eams-pf.llnl.gov",
+            "resourceName":"LLNL EAMS Hub SP",
+            "resourceProvider":{
+                "name":"Lawrence Livermore National Security, LLC",
+                "displayname":"Lawrence Livermore National Laboratory",
+                "url":"http://llnl.gov"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Lawrence Livermore National Laboratory Enterprise Access Management System Hub Service Provider",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Partner Gateway Support",
+                    "email":"mailto:pg-support@llnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LLNL PartnerGateway Administrator",
+                    "email":"mailto:pg-support@llnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LLNL PartnerGateway Adminstrator",
+                    "email":"mailto:pg-support@llnl.gov"
+                }
+            ],
+            "info":"https://partnergateway.llnl.gov/pg",
+            "privacy":"https://www.llnl.gov/disclaimer",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"4e0507c4aae85923a7bb1350bf6eb2a6e7c96620",
+            "entityID":"https://eams-pf.llnl.gov",
+            "resourceName":"LLNL EAMS Hub SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://llnl.gov"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Partner Gateway Support",
+                    "email":"mailto:pg-support@llnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LLNL PartnerGateway Administrator",
+                    "email":"mailto:pg-support@llnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LLNL PartnerGateway Adminstrator",
+                    "email":"mailto:pg-support@llnl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"4e0507c4aae85923a7bb1350bf6eb2a6e7c96620",
+            "entityID":"https://eams-pf.llnl.gov",
+            "resourceName":"LLNL EAMS Hub SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://llnl.gov"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Partner Gateway Support",
+                    "email":"mailto:pg-support@llnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LLNL PartnerGateway Administrator",
+                    "email":"mailto:pg-support@llnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LLNL PartnerGateway Adminstrator",
+                    "email":"mailto:pg-support@llnl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"4e0507c4aae85923a7bb1350bf6eb2a6e7c96620",
+            "entityID":"https://eams-pf.llnl.gov",
+            "resourceName":"LLNL EAMS Hub SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://llnl.gov"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Partner Gateway Support",
+                    "email":"mailto:pg-support@llnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LLNL PartnerGateway Administrator",
+                    "email":"mailto:pg-support@llnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LLNL PartnerGateway Adminstrator",
+                    "email":"mailto:pg-support@llnl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

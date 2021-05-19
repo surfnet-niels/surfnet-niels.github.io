@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"cab217278cdaf7e7239c537ba151f49816b62b5a",
+            "entityID":"https://uchicago.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":"Stellic Inc",
+                "displayname":"Stellic Inc",
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.stellic.com",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"cab217278cdaf7e7239c537ba151f49816b62b5a",
+            "entityID":"https://uchicago.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"cab217278cdaf7e7239c537ba151f49816b62b5a",
+            "entityID":"https://uchicago.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"cab217278cdaf7e7239c537ba151f49816b62b5a",
+            "entityID":"https://uchicago.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

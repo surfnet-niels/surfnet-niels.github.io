@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"4afe5ef156ec31dbf36eac7fd80e989010af3197",
+            "entityID":"https://redcap-phone.ctsi.ufl.edu/sp",
+            "resourceName":"CTSI RedCAP for UF",
+            "resourceProvider":{
+                "name":"University of Florida",
+                "displayname":"University of Florida",
+                "url":"http://www.ufl.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Clinical and Translational Science Institute REDCAP",
+                    "email":"mailto:info@ctsi.ufl.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AHC Unix Team",
+                    "email":"mailto:AHC_UNIX@shands.ufl.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UF Security Team",
+                    "email":"mailto:security@ufl.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://ufhealth.org/website-privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"4afe5ef156ec31dbf36eac7fd80e989010af3197",
+            "entityID":"https://redcap-phone.ctsi.ufl.edu/sp",
+            "resourceName":"CTSI RedCAP for UF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ufl.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Clinical and Translational Science Institute REDCAP",
+                    "email":"mailto:info@ctsi.ufl.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AHC Unix Team",
+                    "email":"mailto:AHC_UNIX@shands.ufl.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UF Security Team",
+                    "email":"mailto:security@ufl.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"4afe5ef156ec31dbf36eac7fd80e989010af3197",
+            "entityID":"https://redcap-phone.ctsi.ufl.edu/sp",
+            "resourceName":"CTSI RedCAP for UF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ufl.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Clinical and Translational Science Institute REDCAP",
+                    "email":"mailto:info@ctsi.ufl.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AHC Unix Team",
+                    "email":"mailto:AHC_UNIX@shands.ufl.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UF Security Team",
+                    "email":"mailto:security@ufl.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"4afe5ef156ec31dbf36eac7fd80e989010af3197",
+            "entityID":"https://redcap-phone.ctsi.ufl.edu/sp",
+            "resourceName":"CTSI RedCAP for UF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ufl.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Clinical and Translational Science Institute REDCAP",
+                    "email":"mailto:info@ctsi.ufl.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AHC Unix Team",
+                    "email":"mailto:AHC_UNIX@shands.ufl.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UF Security Team",
+                    "email":"mailto:security@ufl.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

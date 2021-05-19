@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f81a3d2efce0fcec6f7abfcf94a6c89c1eb4b4c7",
+            "entityID":"https://uwhousing.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - University of Wisconsin - Madison, University Housing",
+            "resourceProvider":{
+                "name":"PhotoShelter, Inc.",
+                "displayname":"PhotoShelter, Inc.",
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"PhotoShelter University of Wisconsin - Madison, University Housing SSO Portal",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Libris CS",
+                    "email":"mailto:libris-cs@photoshelter.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.photoshelter.com/support/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f81a3d2efce0fcec6f7abfcf94a6c89c1eb4b4c7",
+            "entityID":"https://uwhousing.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - University of Wisconsin - Madison, University Housing",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Libris CS",
+                    "email":"mailto:libris-cs@photoshelter.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f81a3d2efce0fcec6f7abfcf94a6c89c1eb4b4c7",
+            "entityID":"https://uwhousing.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - University of Wisconsin - Madison, University Housing",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Libris CS",
+                    "email":"mailto:libris-cs@photoshelter.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f81a3d2efce0fcec6f7abfcf94a6c89c1eb4b4c7",
+            "entityID":"https://uwhousing.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - University of Wisconsin - Madison, University Housing",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Libris CS",
+                    "email":"mailto:libris-cs@photoshelter.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

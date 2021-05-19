@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"50d7141fa18e147edaae3fd7e932745d85aa99bf",
+            "entityID":"https://app.teamsparx.com/api/saml2/metadata",
+            "resourceName":"Team Sparx™",
+            "resourceProvider":{
+                "name":"Florida Atlantic University",
+                "displayname":"Florida Atlantic University",
+                "url":"http://www.fau.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"TeamSparX helps researchers collaborate and pursue funding opportunities across the nation.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Luis Perez",
+                    "email":"mailto:luis@teamsparx.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Stepan Mazokha",
+                    "email":"mailto:stephan@teamsparx.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Luis Perez",
+                    "email":"mailto:luis@teamsparx.com"
+                }
+            ],
+            "info":"https://teamsparx.com",
+            "privacy":"https://www.fau.edu/privacypolicy.php",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"50d7141fa18e147edaae3fd7e932745d85aa99bf",
+            "entityID":"https://app.teamsparx.com/api/saml2/metadata",
+            "resourceName":"Team Sparx™",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.fau.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Luis Perez",
+                    "email":"mailto:luis@teamsparx.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Stepan Mazokha",
+                    "email":"mailto:stephan@teamsparx.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Luis Perez",
+                    "email":"mailto:luis@teamsparx.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"50d7141fa18e147edaae3fd7e932745d85aa99bf",
+            "entityID":"https://app.teamsparx.com/api/saml2/metadata",
+            "resourceName":"Team Sparx™",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.fau.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Luis Perez",
+                    "email":"mailto:luis@teamsparx.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Stepan Mazokha",
+                    "email":"mailto:stephan@teamsparx.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Luis Perez",
+                    "email":"mailto:luis@teamsparx.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"50d7141fa18e147edaae3fd7e932745d85aa99bf",
+            "entityID":"https://app.teamsparx.com/api/saml2/metadata",
+            "resourceName":"Team Sparx™",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.fau.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Luis Perez",
+                    "email":"mailto:luis@teamsparx.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Stepan Mazokha",
+                    "email":"mailto:stephan@teamsparx.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Luis Perez",
+                    "email":"mailto:luis@teamsparx.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

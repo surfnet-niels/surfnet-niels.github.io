@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"400bd79ac2663c56fe346e3e2a750856622024ff",
+            "entityID":"https://shibboleth.badgepass.com/uic",
+            "resourceName":"UIC",
+            "resourceProvider":{
+                "name":"BadgePass Inc.",
+                "displayname":"BadgePass Inc.",
+                "url":"http://badgepass.com/index.php"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Nathan Hughes",
+                    "email":"mailto:nathan.hughes@badgepass.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tech Support",
+                    "email":"mailto:tech.support@badgepass.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tech Security",
+                    "email":"mailto:tech.support@badgepass.com"
+                }
+            ],
+            "info":"https://totalcard.net",
+            "privacy":"https://totalcard.net:2025/sds/tc05i/web/Privacy%20Policy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"400bd79ac2663c56fe346e3e2a750856622024ff",
+            "entityID":"https://shibboleth.badgepass.com/uic",
+            "resourceName":"UIC",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://badgepass.com/index.php"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Nathan Hughes",
+                    "email":"mailto:nathan.hughes@badgepass.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tech Support",
+                    "email":"mailto:tech.support@badgepass.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tech Security",
+                    "email":"mailto:tech.support@badgepass.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"400bd79ac2663c56fe346e3e2a750856622024ff",
+            "entityID":"https://shibboleth.badgepass.com/uic",
+            "resourceName":"UIC",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://badgepass.com/index.php"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Nathan Hughes",
+                    "email":"mailto:nathan.hughes@badgepass.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tech Support",
+                    "email":"mailto:tech.support@badgepass.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tech Security",
+                    "email":"mailto:tech.support@badgepass.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"400bd79ac2663c56fe346e3e2a750856622024ff",
+            "entityID":"https://shibboleth.badgepass.com/uic",
+            "resourceName":"UIC",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://badgepass.com/index.php"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Nathan Hughes",
+                    "email":"mailto:nathan.hughes@badgepass.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tech Support",
+                    "email":"mailto:tech.support@badgepass.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tech Security",
+                    "email":"mailto:tech.support@badgepass.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

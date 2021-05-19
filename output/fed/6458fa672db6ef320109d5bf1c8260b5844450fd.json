@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"6458fa672db6ef320109d5bf1c8260b5844450fd",
+            "entityID":"https://ewusso.assetworkssso.io/shibboleth",
+            "resourceName":"ASSETWORKS EWUSP",
+            "resourceProvider":{
+                "name":"AssetWorks",
+                "displayname":"AssetWorks",
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"SP for Assetworks LLC",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"http://www.assetworks.com/wp-content/uploads/2015/10/Privacy_Policy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"6458fa672db6ef320109d5bf1c8260b5844450fd",
+            "entityID":"https://ewusso.assetworkssso.io/shibboleth",
+            "resourceName":"ASSETWORKS EWUSP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"6458fa672db6ef320109d5bf1c8260b5844450fd",
+            "entityID":"https://ewusso.assetworkssso.io/shibboleth",
+            "resourceName":"ASSETWORKS EWUSP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"6458fa672db6ef320109d5bf1c8260b5844450fd",
+            "entityID":"https://ewusso.assetworkssso.io/shibboleth",
+            "resourceName":"ASSETWORKS EWUSP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

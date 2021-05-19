@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"6be4d1a37339e1f79645d1bd21d8a4dd5369f0f0",
+            "entityID":"https://sso.cccmypath.org/simplesaml/module.php/saml/sp/metadata.php",
+            "resourceName":"CCCMyPath Proxy Gateway Production",
+            "resourceProvider":{
+                "name":"California Community Colleges Chancellors Office",
+                "displayname":"California Community Colleges Chancellors Office",
+                "url":"http://www.cccco.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"CCCMyPath Proxy Gateway to system wide services & 3rd party vendors",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tim Calhoon",
+                    "email":"mailto:tcalhoon@ccctechcenter.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Holden",
+                    "email":"mailto:jholden@ccctechcenter.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Lou DelZompo",
+                    "email":"mailto:ldelzompo@ccctechcenter.org"
+                }
+            ],
+            "info":"http://ccctechcenter.org",
+            "privacy":"https://sso.cccmypath.org/privacy.php",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"6be4d1a37339e1f79645d1bd21d8a4dd5369f0f0",
+            "entityID":"https://sso.cccmypath.org/simplesaml/module.php/saml/sp/metadata.php",
+            "resourceName":"https://sso.cccmypath.org/simplesaml/module.php/saml/sp/metadata.php",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cccco.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tim Calhoon",
+                    "email":"mailto:tcalhoon@ccctechcenter.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Holden",
+                    "email":"mailto:jholden@ccctechcenter.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Lou DelZompo",
+                    "email":"mailto:ldelzompo@ccctechcenter.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"6be4d1a37339e1f79645d1bd21d8a4dd5369f0f0",
+            "entityID":"https://sso.cccmypath.org/simplesaml/module.php/saml/sp/metadata.php",
+            "resourceName":"https://sso.cccmypath.org/simplesaml/module.php/saml/sp/metadata.php",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cccco.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tim Calhoon",
+                    "email":"mailto:tcalhoon@ccctechcenter.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Holden",
+                    "email":"mailto:jholden@ccctechcenter.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Lou DelZompo",
+                    "email":"mailto:ldelzompo@ccctechcenter.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"6be4d1a37339e1f79645d1bd21d8a4dd5369f0f0",
+            "entityID":"https://sso.cccmypath.org/simplesaml/module.php/saml/sp/metadata.php",
+            "resourceName":"https://sso.cccmypath.org/simplesaml/module.php/saml/sp/metadata.php",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cccco.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tim Calhoon",
+                    "email":"mailto:tcalhoon@ccctechcenter.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Holden",
+                    "email":"mailto:jholden@ccctechcenter.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Lou DelZompo",
+                    "email":"mailto:ldelzompo@ccctechcenter.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

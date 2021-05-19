@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"083a71f21582592697ba09e16181e149e9ddf815",
+            "entityID":"https://lists.lbl.gov/shibboleth",
+            "resourceName":"LBL Lists",
+            "resourceProvider":{
+                "name":"Lawrence Berkeley National Laboratory",
+                "displayname":"Lawrence Berkeley National Laboratory",
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"LBL Self-Service mailing list manager",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Collaboration Services Group",
+                    "email":"mailto:collaborate@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Listmaster",
+                    "email":"mailto:listmaster@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"https://commons.lbl.gov/x/TQFdAw",
+            "privacy":"https://www.lbl.gov/disclaimers/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"083a71f21582592697ba09e16181e149e9ddf815",
+            "entityID":"https://lists.lbl.gov/shibboleth",
+            "resourceName":"LBL Lists",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Collaboration Services Group",
+                    "email":"mailto:collaborate@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Listmaster",
+                    "email":"mailto:listmaster@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"083a71f21582592697ba09e16181e149e9ddf815",
+            "entityID":"https://lists.lbl.gov/shibboleth",
+            "resourceName":"LBL Lists",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Collaboration Services Group",
+                    "email":"mailto:collaborate@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Listmaster",
+                    "email":"mailto:listmaster@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"083a71f21582592697ba09e16181e149e9ddf815",
+            "entityID":"https://lists.lbl.gov/shibboleth",
+            "resourceName":"LBL Lists",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Collaboration Services Group",
+                    "email":"mailto:collaborate@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Listmaster",
+                    "email":"mailto:listmaster@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

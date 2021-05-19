@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"1c884e744aee08c67ce650cb6c9253325bafab81",
+            "entityID":"https://sp-staging.perlego.com/entity",
+            "resourceName":"Perlego Staging",
+            "resourceProvider":{
+                "name":"Perlego Limited",
+                "displayname":"Perlego Limited",
+                "url":"https://www.perlego.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "sn",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.perlego.com/privacy-policy",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1c884e744aee08c67ce650cb6c9253325bafab81",
+            "entityID":"https://sp-staging.perlego.com/entity",
+            "resourceName":"Perlego Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.perlego.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "sn",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1c884e744aee08c67ce650cb6c9253325bafab81",
+            "entityID":"https://sp-staging.perlego.com/entity",
+            "resourceName":"Perlego Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.perlego.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "sn",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1c884e744aee08c67ce650cb6c9253325bafab81",
+            "entityID":"https://sp-staging.perlego.com/entity",
+            "resourceName":"Perlego Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.perlego.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "sn",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"2176a9c5747c6a9e5b1b88ea12edff8b3d129765",
+            "entityID":"https://uwmtest.dlcdev.com/sites/all/libraries/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"UWM EthosCE Test",
+            "resourceProvider":{
+                "name":"DLC Solutions, LLC",
+                "displayname":"DLC Solutions, LLC",
+                "url":"http://www.dlc-solutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Test environment for the University of Wisconsin - Madison EthosCE learning management system.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.wisc.edu/privacy-statement/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2176a9c5747c6a9e5b1b88ea12edff8b3d129765",
+            "entityID":"https://uwmtest.dlcdev.com/sites/all/libraries/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"UWM EthosCE Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dlc-solutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2176a9c5747c6a9e5b1b88ea12edff8b3d129765",
+            "entityID":"https://uwmtest.dlcdev.com/sites/all/libraries/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"UWM EthosCE Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dlc-solutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2176a9c5747c6a9e5b1b88ea12edff8b3d129765",
+            "entityID":"https://uwmtest.dlcdev.com/sites/all/libraries/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"UWM EthosCE Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dlc-solutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ewolfe@dlc-solutions.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

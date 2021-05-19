@@ -1,0 +1,155 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"c5036b6385115a9550b2ee38befd476a7dcca5ef",
+            "entityID":"https://account.ilabt.imec.be/shibboleth",
+            "resourceName":"imec iLab.t",
+            "resourceProvider":{
+                "name":"imec iLab.t",
+                "displayname":"imec iLab.t",
+                "url":"https://ilabt.imec.be"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "organisation"
+                ]
+            },
+            "description":"imec iLab.t provides the infrastructure for the imec IDLab research group.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"imec iLab.tHelpdesk",
+                    "email":"mailto:helpdesk@ilabt.imec.be"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c5036b6385115a9550b2ee38befd476a7dcca5ef",
+            "entityID":"https://account.ilabt.imec.be/shibboleth",
+            "resourceName":"imec iLab.t",
+            "resourceProvider":{
+                "name":"imec iLab.t",
+                "displayname":"imec iLab.t",
+                "url":"https://ilabt.imec.be"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "organisation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"imec iLab.tHelpdesk",
+                    "email":"mailto:helpdesk@ilabt.imec.be"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c5036b6385115a9550b2ee38befd476a7dcca5ef",
+            "entityID":"https://account.ilabt.imec.be/shibboleth",
+            "resourceName":"imec iLab.t",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://ilabt.imec.be"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "organisation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"imec iLab.tHelpdesk",
+                    "email":"mailto:helpdesk@ilabt.imec.be"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c5036b6385115a9550b2ee38befd476a7dcca5ef",
+            "entityID":"https://account.ilabt.imec.be/shibboleth",
+            "resourceName":"imec iLab.t",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://ilabt.imec.be"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "organisation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"imec iLab.tHelpdesk",
+                    "email":"mailto:helpdesk@ilabt.imec.be"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

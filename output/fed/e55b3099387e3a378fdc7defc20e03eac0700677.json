@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"e55b3099387e3a378fdc7defc20e03eac0700677",
+            "entityID":"https://ucdavis.curricunet.com/shibboleth",
+            "resourceName":"CurricUNET META",
+            "resourceProvider":{
+                "name":"Governet",
+                "displayname":"Governet",
+                "url":"http://governet.net/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"CurricUNET Meta Service Provider",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                }
+            ],
+            "info":"https://curriqunet.com/sso-policy",
+            "privacy":"https://curriqunet.com/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e55b3099387e3a378fdc7defc20e03eac0700677",
+            "entityID":"https://ucdavis.curricunet.com/shibboleth",
+            "resourceName":"CurricUNET META",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://governet.net/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e55b3099387e3a378fdc7defc20e03eac0700677",
+            "entityID":"https://ucdavis.curricunet.com/shibboleth",
+            "resourceName":"CurricUNET META",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://governet.net/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e55b3099387e3a378fdc7defc20e03eac0700677",
+            "entityID":"https://ucdavis.curricunet.com/shibboleth",
+            "resourceName":"CurricUNET META",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://governet.net/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Troy High",
+                    "email":"mailto:troyhigh@curriqunet.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"b60969e79b8e2ec9e157a7fd68c21360e3aaee2d",
+            "entityID":"https://connect.arc-ts.umich.edu/shibboleth",
+            "resourceName":"ARC Connect",
+            "resourceProvider":{
+                "name":"University of Michigan",
+                "displayname":"University of Michigan",
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"ARC Connect allows researchers to access the computing power of U-M High Performance Computing (HPC) resources interactively and graphically using a web browser or a Virtual Network Computing (VNC) client. This graphical user interface enables easy use of desktop versions of popular software programs like Matlab and R, backed by the high performance and large memory capabilities of the Univeristy of Michigan clusters.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Flux Support Staff",
+                    "email":"mailto:flux-support-staff@umich.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ARC-TS",
+                    "email":"mailto:hpc-support@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@umich.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Flux Working Group",
+                    "email":"mailto:flux-support-wg@umich.edu"
+                }
+            ],
+            "info":"https://connect.arc-ts.umich.edu/",
+            "privacy":"https://arc-ts.umich.edu/arc-connect/privacy-notice/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b60969e79b8e2ec9e157a7fd68c21360e3aaee2d",
+            "entityID":"https://connect.arc-ts.umich.edu/shibboleth",
+            "resourceName":"ARC Connect",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Flux Support Staff",
+                    "email":"mailto:flux-support-staff@umich.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ARC-TS",
+                    "email":"mailto:hpc-support@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@umich.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Flux Working Group",
+                    "email":"mailto:flux-support-wg@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b60969e79b8e2ec9e157a7fd68c21360e3aaee2d",
+            "entityID":"https://connect.arc-ts.umich.edu/shibboleth",
+            "resourceName":"ARC Connect",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Flux Support Staff",
+                    "email":"mailto:flux-support-staff@umich.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ARC-TS",
+                    "email":"mailto:hpc-support@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@umich.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Flux Working Group",
+                    "email":"mailto:flux-support-wg@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b60969e79b8e2ec9e157a7fd68c21360e3aaee2d",
+            "entityID":"https://connect.arc-ts.umich.edu/shibboleth",
+            "resourceName":"ARC Connect",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Flux Support Staff",
+                    "email":"mailto:flux-support-staff@umich.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ARC-TS",
+                    "email":"mailto:hpc-support@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@umich.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Flux Working Group",
+                    "email":"mailto:flux-support-wg@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

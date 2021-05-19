@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"dce5b2d01d7e7cb538840737afc6edd27c9e57e0",
+            "entityID":"https://shibboleth.dev.aop.cambridge.org/shibboleth-sp",
+            "resourceName":"Cambridge University Press – DEV Shibboleth SP",
+            "resourceProvider":{
+                "name":"Cambridge University Press",
+                "displayname":"Cambridge University Press",
+                "url":"http://www.cambridge.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Development environment for Cambridge Shibboleth SP",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Pam Auty",
+                    "email":"mailto:pauty@cambridge.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Maning",
+                    "email":"mailto:kmaning@cambridge.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Naveen Janarthanan",
+                    "email":"mailto:njanarthanan@cambridge.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Pam Auty",
+                    "email":"mailto:pauty@cambridge.org"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.cambridge.org/about-us/legal-notices/privacy-notice/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"dce5b2d01d7e7cb538840737afc6edd27c9e57e0",
+            "entityID":"https://shibboleth.dev.aop.cambridge.org/shibboleth-sp",
+            "resourceName":"Cambridge University Press – DEV Shibboleth SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cambridge.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Pam Auty",
+                    "email":"mailto:pauty@cambridge.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Maning",
+                    "email":"mailto:kmaning@cambridge.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Naveen Janarthanan",
+                    "email":"mailto:njanarthanan@cambridge.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Pam Auty",
+                    "email":"mailto:pauty@cambridge.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"dce5b2d01d7e7cb538840737afc6edd27c9e57e0",
+            "entityID":"https://shibboleth.dev.aop.cambridge.org/shibboleth-sp",
+            "resourceName":"Cambridge University Press – DEV Shibboleth SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cambridge.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Pam Auty",
+                    "email":"mailto:pauty@cambridge.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Maning",
+                    "email":"mailto:kmaning@cambridge.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Naveen Janarthanan",
+                    "email":"mailto:njanarthanan@cambridge.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Pam Auty",
+                    "email":"mailto:pauty@cambridge.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"dce5b2d01d7e7cb538840737afc6edd27c9e57e0",
+            "entityID":"https://shibboleth.dev.aop.cambridge.org/shibboleth-sp",
+            "resourceName":"Cambridge University Press – DEV Shibboleth SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cambridge.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Pam Auty",
+                    "email":"mailto:pauty@cambridge.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Maning",
+                    "email":"mailto:kmaning@cambridge.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Naveen Janarthanan",
+                    "email":"mailto:njanarthanan@cambridge.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Pam Auty",
+                    "email":"mailto:pauty@cambridge.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

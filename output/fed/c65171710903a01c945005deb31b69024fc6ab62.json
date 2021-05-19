@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"c65171710903a01c945005deb31b69024fc6ab62",
+            "entityID":"https://vvc.niif.hu/shibboleth",
+            "resourceName":"NIIF Voice Video Collaboration Service",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "mobile",
+                    "displayName"
+                ]
+            },
+            "description":"Community and support portal of NIIF collaboration services, which provides tools and information to access NIIF collaboration services like VoIP and Videoconferencing (MCU booking, videoconference recording, streaming, etc.)",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"NIIF AAINIIF AAI",
+                    "email":"mailto:aai@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Video AdminVideo Admin",
+                    "email":"mailto:video-admin@niif.hu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Video AdminVideo Admin",
+                    "email":"mailto:video-admin@niif.hu"
+                }
+            ],
+            "info":"http://vvc.niif.hu/",
+            "privacy":"http://vvc.niif.hu/",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c65171710903a01c945005deb31b69024fc6ab62",
+            "entityID":"https://vvc.niif.hu/shibboleth",
+            "resourceName":"NIIF Voice Video Collaboration Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "mobile",
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"NIIF AAINIIF AAI",
+                    "email":"mailto:aai@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Video AdminVideo Admin",
+                    "email":"mailto:video-admin@niif.hu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Video AdminVideo Admin",
+                    "email":"mailto:video-admin@niif.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c65171710903a01c945005deb31b69024fc6ab62",
+            "entityID":"https://vvc.niif.hu/shibboleth",
+            "resourceName":"NIIF Voice Video Collaboration Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "mobile",
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"NIIF AAINIIF AAI",
+                    "email":"mailto:aai@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Video AdminVideo Admin",
+                    "email":"mailto:video-admin@niif.hu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Video AdminVideo Admin",
+                    "email":"mailto:video-admin@niif.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c65171710903a01c945005deb31b69024fc6ab62",
+            "entityID":"https://vvc.niif.hu/shibboleth",
+            "resourceName":"NIIF Voice Video Collaboration Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "mobile",
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"NIIF AAINIIF AAI",
+                    "email":"mailto:aai@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Video AdminVideo Admin",
+                    "email":"mailto:video-admin@niif.hu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Video AdminVideo Admin",
+                    "email":"mailto:video-admin@niif.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

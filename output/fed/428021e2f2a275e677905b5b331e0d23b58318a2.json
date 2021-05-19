@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"428021e2f2a275e677905b5b331e0d23b58318a2",
+            "entityID":"https://us.api.concursolutions.com/saml2",
+            "resourceName":"Concur Travel and Expense",
+            "resourceProvider":{
+                "name":"Concur Technologies, Inc",
+                "displayname":"Concur Technologies, Inc",
+                "url":"https://www.concur.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.concur.com/en-us/processor-privacy-statement",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"428021e2f2a275e677905b5b331e0d23b58318a2",
+            "entityID":"https://us.api.concursolutions.com/saml2",
+            "resourceName":"Concur Travel and Expense",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.concur.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"428021e2f2a275e677905b5b331e0d23b58318a2",
+            "entityID":"https://us.api.concursolutions.com/saml2",
+            "resourceName":"Concur Travel and Expense",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.concur.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"428021e2f2a275e677905b5b331e0d23b58318a2",
+            "entityID":"https://us.api.concursolutions.com/saml2",
+            "resourceName":"Concur Travel and Expense",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.concur.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Concur Core Services",
+                    "email":"mailto:core-services@groups.sap.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

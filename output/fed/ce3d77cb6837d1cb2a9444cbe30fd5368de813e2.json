@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"ce3d77cb6837d1cb2a9444cbe30fd5368de813e2",
+            "entityID":"https://staging2.clic-ctsa.org",
+            "resourceName":"Center for Leading Innovation and Collaboration",
+            "resourceProvider":{
+                "name":"University of Rochester",
+                "displayname":"University of Rochester",
+                "url":"http://www.rochester.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"Test Site for The Center for Leading Innovation and Collaboration (CLIC) is a one-stop-shop for all your clinical and translational research needs.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Robert J White",
+                    "email":"mailto:RobertJ_White@URMC.Rochester.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Melissa Trayhan",
+                    "email":"mailto:melissa_trayhan@urmc.rochester.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Incident Response",
+                    "email":"mailto:abuse@rochester.edu"
+                }
+            ],
+            "info":"https://staging2.clic-ctsa.org/pages/about-clic",
+            "privacy":"https://www.urmc.rochester.edu/privacy/privacy-statement.aspx",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ce3d77cb6837d1cb2a9444cbe30fd5368de813e2",
+            "entityID":"https://staging2.clic-ctsa.org",
+            "resourceName":"Center for Leading Innovation and Collaboration",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.rochester.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Robert J White",
+                    "email":"mailto:RobertJ_White@URMC.Rochester.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Melissa Trayhan",
+                    "email":"mailto:melissa_trayhan@urmc.rochester.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Incident Response",
+                    "email":"mailto:abuse@rochester.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ce3d77cb6837d1cb2a9444cbe30fd5368de813e2",
+            "entityID":"https://staging2.clic-ctsa.org",
+            "resourceName":"Center for Leading Innovation and Collaboration",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.rochester.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Robert J White",
+                    "email":"mailto:RobertJ_White@URMC.Rochester.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Melissa Trayhan",
+                    "email":"mailto:melissa_trayhan@urmc.rochester.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Incident Response",
+                    "email":"mailto:abuse@rochester.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ce3d77cb6837d1cb2a9444cbe30fd5368de813e2",
+            "entityID":"https://staging2.clic-ctsa.org",
+            "resourceName":"Center for Leading Innovation and Collaboration",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.rochester.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Robert J White",
+                    "email":"mailto:RobertJ_White@URMC.Rochester.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Melissa Trayhan",
+                    "email":"mailto:melissa_trayhan@urmc.rochester.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Incident Response",
+                    "email":"mailto:abuse@rochester.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"690cbddb96852026b98e96edbf3c8680da24a94c",
+            "entityID":"https://mis.jlab.org/sp/simplesaml",
+            "resourceName":"JLab MIS SP Proxy",
+            "resourceProvider":{
+                "name":"Thomas Jefferson National Accelerator Facility",
+                "displayname":"Thomas Jefferson National Accelerator Facility",
+                "url":"http://www.jlab.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "o"
+                ],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                }
+            ],
+            "info":"https://misportal.jlab.org/simplesaml/module.php/jlab/info.php",
+            "privacy":"https://misportal.jlab.org/simplesaml/module.php/jlab/notice.php",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"690cbddb96852026b98e96edbf3c8680da24a94c",
+            "entityID":"https://mis.jlab.org/sp/simplesaml",
+            "resourceName":"JLab MIS SP Proxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jlab.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "o"
+                ],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"690cbddb96852026b98e96edbf3c8680da24a94c",
+            "entityID":"https://mis.jlab.org/sp/simplesaml",
+            "resourceName":"JLab MIS SP Proxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jlab.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "o"
+                ],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"690cbddb96852026b98e96edbf3c8680da24a94c",
+            "entityID":"https://mis.jlab.org/sp/simplesaml",
+            "resourceName":"JLab MIS SP Proxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jlab.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "o"
+                ],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Jefferson Lab MIS Dept",
+                    "email":"mailto:mis-webapps@jlab.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

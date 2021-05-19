@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"06b9ddeb28e69b7ab5b663f1259fa07f7359a81c",
+            "entityID":"https://shib.courseleaf.com/shibboleth",
+            "resourceName":"CourseLeaf",
+            "resourceProvider":{
+                "name":"Leepfrog Technologies, Inc.",
+                "displayname":"Leepfrog Technologies, Inc.",
+                "url":"http://www.leepfrog.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"Leepfrog Technologies CourseLeaf",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Leepfrog Shibboleth Support",
+                    "email":"mailto:shibmaster@leepfrog.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                }
+            ],
+            "info":"http://courseleaf.com",
+            "privacy":"https://www.leepfrog.com/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"06b9ddeb28e69b7ab5b663f1259fa07f7359a81c",
+            "entityID":"https://shib.courseleaf.com/shibboleth",
+            "resourceName":"CourseLeaf",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.leepfrog.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Leepfrog Shibboleth Support",
+                    "email":"mailto:shibmaster@leepfrog.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"06b9ddeb28e69b7ab5b663f1259fa07f7359a81c",
+            "entityID":"https://shib.courseleaf.com/shibboleth",
+            "resourceName":"CourseLeaf",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.leepfrog.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Leepfrog Shibboleth Support",
+                    "email":"mailto:shibmaster@leepfrog.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"06b9ddeb28e69b7ab5b663f1259fa07f7359a81c",
+            "entityID":"https://shib.courseleaf.com/shibboleth",
+            "resourceName":"CourseLeaf",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.leepfrog.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Leepfrog Shibboleth Support",
+                    "email":"mailto:shibmaster@leepfrog.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Wes Bachman",
+                    "email":"mailto:wbachman@leepfrog.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

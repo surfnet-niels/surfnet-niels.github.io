@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"7e3caf1b9ba01e2c7bf00f2f36ca8764035e48ec",
+            "entityID":"https://xoc-staging.sp.comcast.com",
+            "resourceName":"Xfinity On Campus - Test",
+            "resourceProvider":{
+                "name":"Comcast Corporation",
+                "displayname":"Comcast Corporation",
+                "url":"http://www.comcast.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "cn",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"Xfinity On Campus Test SP",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://my.xfinity.com/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7e3caf1b9ba01e2c7bf00f2f36ca8764035e48ec",
+            "entityID":"https://xoc-staging.sp.comcast.com",
+            "resourceName":"Xfinity On Campus - Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.comcast.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "cn",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7e3caf1b9ba01e2c7bf00f2f36ca8764035e48ec",
+            "entityID":"https://xoc-staging.sp.comcast.com",
+            "resourceName":"Xfinity On Campus - Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.comcast.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "cn",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7e3caf1b9ba01e2c7bf00f2f36ca8764035e48ec",
+            "entityID":"https://xoc-staging.sp.comcast.com",
+            "resourceName":"Xfinity On Campus - Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.comcast.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "cn",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

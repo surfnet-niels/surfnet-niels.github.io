@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"8789ee5ae61f7e84ced8d76188f777fd274d9705",
+            "entityID":"https://www.citiprogram.org/shibboleth",
+            "resourceName":"CITI Program",
+            "resourceProvider":{
+                "name":"Collaborative Institutional Training Initiative (CITI Program)",
+                "displayname":"Collaborative Institutional Training Initiative (CITI Program)",
+                "url":"https://www.citiprogram.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"CITI Program, a Division of BRANY. Our mission is to promote the public's trust in the research enterprise by providing high quality, peer reviewed, web based, research education materials to enhance the integrity and professionalism of investigators and staff conducting research.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Cynthia Cruciger",
+                    "email":"mailto:ccruciger@citiprogram.org"
+                },
+                {
+                    "type":"support",
+                    "name":"CITI SSO Support",
+                    "email":"mailto:shibboleth@citiprogram.org"
+                },
+                {
+                    "type":"security",
+                    "name":"CITI SSO Security",
+                    "email":"mailto:security@citiprogram.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CITI SSO Administrators",
+                    "email":"mailto:info@citiprogram.org"
+                }
+            ],
+            "info":"https://www.citiprogram.org/index.cfm?pageID=1",
+            "privacy":"https://about.citiprogram.org/en/privacy-policy/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"8789ee5ae61f7e84ced8d76188f777fd274d9705",
+            "entityID":"https://www.citiprogram.org/shibboleth",
+            "resourceName":"CITI Program",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.citiprogram.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Cynthia Cruciger",
+                    "email":"mailto:ccruciger@citiprogram.org"
+                },
+                {
+                    "type":"support",
+                    "name":"CITI SSO Support",
+                    "email":"mailto:shibboleth@citiprogram.org"
+                },
+                {
+                    "type":"security",
+                    "name":"CITI SSO Security",
+                    "email":"mailto:security@citiprogram.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CITI SSO Administrators",
+                    "email":"mailto:info@citiprogram.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"8789ee5ae61f7e84ced8d76188f777fd274d9705",
+            "entityID":"https://www.citiprogram.org/shibboleth",
+            "resourceName":"CITI Program",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.citiprogram.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Cynthia Cruciger",
+                    "email":"mailto:ccruciger@citiprogram.org"
+                },
+                {
+                    "type":"support",
+                    "name":"CITI SSO Support",
+                    "email":"mailto:shibboleth@citiprogram.org"
+                },
+                {
+                    "type":"security",
+                    "name":"CITI SSO Security",
+                    "email":"mailto:security@citiprogram.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CITI SSO Administrators",
+                    "email":"mailto:info@citiprogram.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"8789ee5ae61f7e84ced8d76188f777fd274d9705",
+            "entityID":"https://www.citiprogram.org/shibboleth",
+            "resourceName":"CITI Program",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.citiprogram.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Cynthia Cruciger",
+                    "email":"mailto:ccruciger@citiprogram.org"
+                },
+                {
+                    "type":"support",
+                    "name":"CITI SSO Support",
+                    "email":"mailto:shibboleth@citiprogram.org"
+                },
+                {
+                    "type":"security",
+                    "name":"CITI SSO Security",
+                    "email":"mailto:security@citiprogram.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CITI SSO Administrators",
+                    "email":"mailto:info@citiprogram.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

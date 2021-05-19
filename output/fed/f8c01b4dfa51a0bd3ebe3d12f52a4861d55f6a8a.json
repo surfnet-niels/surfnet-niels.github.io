@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f8c01b4dfa51a0bd3ebe3d12f52a4861d55f6a8a",
+            "entityID":"https://doku.tid.dfn.de/shibboleth",
+            "resourceName":"DFN Trust & Identity Services Documentation",
+            "resourceProvider":{
+                "name":"e15",
+                "displayname":"German National Research and Education Network, DFN",
+                "url":"http://www.dfn.de/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"DFN Trust & Identity Services Documentation and Wiki",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"DFN AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"security",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"support",
+                    "name":"DFN TID Team",
+                    "email":"mailto:ti@dfn.de"
+                },
+                {
+                    "type":"administrative",
+                    "name":"DFN AAI Support",
+                    "email":"mailto:hotline@aai.dfn.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f8c01b4dfa51a0bd3ebe3d12f52a4861d55f6a8a",
+            "entityID":"https://doku.tid.dfn.de/shibboleth",
+            "resourceName":"DFN Trust & Identity Services Documentation",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dfn.de/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"DFN AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"security",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"support",
+                    "name":"DFN TID Team",
+                    "email":"mailto:ti@dfn.de"
+                },
+                {
+                    "type":"administrative",
+                    "name":"DFN AAI Support",
+                    "email":"mailto:hotline@aai.dfn.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f8c01b4dfa51a0bd3ebe3d12f52a4861d55f6a8a",
+            "entityID":"https://doku.tid.dfn.de/shibboleth",
+            "resourceName":"DFN Trust & Identity Services Documentation",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dfn.de/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"DFN AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"security",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"support",
+                    "name":"DFN TID Team",
+                    "email":"mailto:ti@dfn.de"
+                },
+                {
+                    "type":"administrative",
+                    "name":"DFN AAI Support",
+                    "email":"mailto:hotline@aai.dfn.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f8c01b4dfa51a0bd3ebe3d12f52a4861d55f6a8a",
+            "entityID":"https://doku.tid.dfn.de/shibboleth",
+            "resourceName":"DFN Trust & Identity Services Dokumentation",
+            "resourceProvider":{
+                "name":"e15",
+                "displayname":"DFN-Verein - Deutsches Forschungsnetz",
+                "url":"http://www.dfn.de/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"DFN Trust & Identity Services Dokumentation und Wiki",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"DFN AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"security",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"support",
+                    "name":"DFN TID Team",
+                    "email":"mailto:ti@dfn.de"
+                },
+                {
+                    "type":"administrative",
+                    "name":"DFN AAI Support",
+                    "email":"mailto:hotline@aai.dfn.de"
+                }
+            ],
+            "info":"",
+            "privacy":"https://doku.tid.dfn.de/de:dse",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

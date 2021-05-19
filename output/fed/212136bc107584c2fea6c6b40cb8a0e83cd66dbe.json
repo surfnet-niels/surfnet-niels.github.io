@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"212136bc107584c2fea6c6b40cb8a0e83cd66dbe",
+            "entityID":"https://tuftsdramadancetickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"Tufts University / UniversityTickets SSO - Tufts Drama",
+            "resourceProvider":{
+                "name":"UniversityTickets",
+                "displayname":"UniversityTickets",
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.universitytickets.com/downloads/privacypolicy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"212136bc107584c2fea6c6b40cb8a0e83cd66dbe",
+            "entityID":"https://tuftsdramadancetickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"Tufts University / UniversityTickets SSO - Tufts Drama",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"212136bc107584c2fea6c6b40cb8a0e83cd66dbe",
+            "entityID":"https://tuftsdramadancetickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"Tufts University / UniversityTickets SSO - Tufts Drama",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"212136bc107584c2fea6c6b40cb8a0e83cd66dbe",
+            "entityID":"https://tuftsdramadancetickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"Tufts University / UniversityTickets SSO - Tufts Drama",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"240a8f8b853844d99c082a9abb0128de28ec1fb6",
+            "entityID":"https://slfs-test.uits.indiana.edu/adfs/services/trust",
+            "resourceName":"Kumo Login (Test)",
+            "resourceProvider":{
+                "name":"Indiana University",
+                "displayname":"Indiana University",
+                "url":"http://www.indiana.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Cloud Storage Connector",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mark Lynch",
+                    "email":"mailto:lynch@iu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Satish Garneni",
+                    "email":"mailto:sgarneni@iu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UISO",
+                    "email":"mailto:uiso@iu.edu"
+                }
+            ],
+            "info":"https://kumo.iu.edu",
+            "privacy":"https://it.iu.edu/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"240a8f8b853844d99c082a9abb0128de28ec1fb6",
+            "entityID":"https://slfs-test.uits.indiana.edu/adfs/services/trust",
+            "resourceName":"https://slfs-test.uits.indiana.edu/adfs/services/trust",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.indiana.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mark Lynch",
+                    "email":"mailto:lynch@iu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Satish Garneni",
+                    "email":"mailto:sgarneni@iu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UISO",
+                    "email":"mailto:uiso@iu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"240a8f8b853844d99c082a9abb0128de28ec1fb6",
+            "entityID":"https://slfs-test.uits.indiana.edu/adfs/services/trust",
+            "resourceName":"https://slfs-test.uits.indiana.edu/adfs/services/trust",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.indiana.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mark Lynch",
+                    "email":"mailto:lynch@iu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Satish Garneni",
+                    "email":"mailto:sgarneni@iu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UISO",
+                    "email":"mailto:uiso@iu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"240a8f8b853844d99c082a9abb0128de28ec1fb6",
+            "entityID":"https://slfs-test.uits.indiana.edu/adfs/services/trust",
+            "resourceName":"https://slfs-test.uits.indiana.edu/adfs/services/trust",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.indiana.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mark Lynch",
+                    "email":"mailto:lynch@iu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Satish Garneni",
+                    "email":"mailto:sgarneni@iu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UISO",
+                    "email":"mailto:uiso@iu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

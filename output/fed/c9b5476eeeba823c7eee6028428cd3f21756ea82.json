@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"c9b5476eeeba823c7eee6028428cd3f21756ea82",
+            "entityID":"https://blackboard.ue.org/auth-saml/saml/SSO/alias/_120_1",
+            "resourceName":"UE_SSO_GEORGETOWN",
+            "resourceProvider":{
+                "name":"United Educators Management Company",
+                "displayname":"United Educators Management Company",
+                "url":"https://www.ue.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"United Educators - Blackboard LMS for Georgetown University",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"security",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                }
+            ],
+            "info":"https://www.ue.org/about-me",
+            "privacy":"https://www.ue.org/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c9b5476eeeba823c7eee6028428cd3f21756ea82",
+            "entityID":"https://blackboard.ue.org/auth-saml/saml/SSO/alias/_120_1",
+            "resourceName":"UE_SSO_GEORGETOWN",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.ue.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"security",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c9b5476eeeba823c7eee6028428cd3f21756ea82",
+            "entityID":"https://blackboard.ue.org/auth-saml/saml/SSO/alias/_120_1",
+            "resourceName":"UE_SSO_GEORGETOWN",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.ue.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"security",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c9b5476eeeba823c7eee6028428cd3f21756ea82",
+            "entityID":"https://blackboard.ue.org/auth-saml/saml/SSO/alias/_120_1",
+            "resourceName":"UE_SSO_GEORGETOWN",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.ue.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"security",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

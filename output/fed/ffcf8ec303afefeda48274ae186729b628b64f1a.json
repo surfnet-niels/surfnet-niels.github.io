@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"ffcf8ec303afefeda48274ae186729b628b64f1a",
+            "entityID":"https://science-cloud.hu/simplesamlphp",
+            "resourceName":"ELKH Cloud",
+            "resourceProvider":{
+                "name":"SZTAKI - Computer and Automation Research Institute",
+                "displayname":"SZTAKI - Computer and Automation Research Institute",
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "email",
+                    "telephoneNumber",
+                    "ou",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "OrganizationName",
+                    "uid"
+                ]
+            },
+            "description":"ELKH Cloud",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                }
+            ],
+            "info":"https://science-cloud.hu",
+            "privacy":"https://science-cloud.hu/adatkezelesi-nyilatkozat",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ffcf8ec303afefeda48274ae186729b628b64f1a",
+            "entityID":"https://science-cloud.hu/simplesamlphp",
+            "resourceName":"ELKH Cloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "email",
+                    "telephoneNumber",
+                    "ou",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "OrganizationName",
+                    "uid"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ffcf8ec303afefeda48274ae186729b628b64f1a",
+            "entityID":"https://science-cloud.hu/simplesamlphp",
+            "resourceName":"ELKH Cloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "email",
+                    "telephoneNumber",
+                    "ou",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "OrganizationName",
+                    "uid"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ffcf8ec303afefeda48274ae186729b628b64f1a",
+            "entityID":"https://science-cloud.hu/simplesamlphp",
+            "resourceName":"ELKH Cloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "email",
+                    "telephoneNumber",
+                    "ou",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "OrganizationName",
+                    "uid"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Karsa Jozsef RigoKarsa Jozsef Rigo",
+                    "email":"mailto:karsa@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

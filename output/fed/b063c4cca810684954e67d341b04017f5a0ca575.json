@@ -1,0 +1,151 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"b063c4cca810684954e67d341b04017f5a0ca575",
+            "entityID":"https://access.libnova.com/shibboleth",
+            "resourceName":"LIBNOVA Access",
+            "resourceProvider":{
+                "name":"Libnova SL",
+                "displayname":"Libnova SL",
+                "url":"https://www.libnova.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"Access to LIBNOVA Digital Preservation Solutions",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Pedro ÁngelMartínez",
+                    "email":"mailto:pedroangelmartinez@libnova.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"AdrianIlie",
+                    "email":"mailto:adrian@libnova.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b063c4cca810684954e67d341b04017f5a0ca575",
+            "entityID":"https://access.libnova.com/shibboleth",
+            "resourceName":"LIBNOVA Access",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.libnova.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Pedro ÁngelMartínez",
+                    "email":"mailto:pedroangelmartinez@libnova.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"AdrianIlie",
+                    "email":"mailto:adrian@libnova.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b063c4cca810684954e67d341b04017f5a0ca575",
+            "entityID":"https://access.libnova.com/shibboleth",
+            "resourceName":"LIBNOVA Access",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.libnova.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Pedro ÁngelMartínez",
+                    "email":"mailto:pedroangelmartinez@libnova.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"AdrianIlie",
+                    "email":"mailto:adrian@libnova.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b063c4cca810684954e67d341b04017f5a0ca575",
+            "entityID":"https://access.libnova.com/shibboleth",
+            "resourceName":"LIBNOVA Access",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.libnova.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Pedro ÁngelMartínez",
+                    "email":"mailto:pedroangelmartinez@libnova.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"AdrianIlie",
+                    "email":"mailto:adrian@libnova.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

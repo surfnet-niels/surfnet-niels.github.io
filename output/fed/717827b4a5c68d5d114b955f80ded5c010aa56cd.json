@@ -1,0 +1,163 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"717827b4a5c68d5d114b955f80ded5c010aa56cd",
+            "entityID":"https://drive-idp-proxy.sunet.se/sp",
+            "resourceName":"Sunet Drive Satosa GW",
+            "resourceProvider":{
+                "name":"SUNET",
+                "displayname":"Swedish University Network (SUNET)",
+                "url":"https://www.sunet.se"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Satosa GW to bridge SAML authentication for Sunet Drive",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Richard Freitag",
+                    "email":"mailto:freitag@sunet.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jonas Hagström",
+                    "email":"mailto:jonas@nordu.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                }
+            ],
+            "info":"https://www.sunet.se/about-sunet/",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"717827b4a5c68d5d114b955f80ded5c010aa56cd",
+            "entityID":"https://drive-idp-proxy.sunet.se/sp",
+            "resourceName":"https://drive-idp-proxy.sunet.se/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.sunet.se"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Richard Freitag",
+                    "email":"mailto:freitag@sunet.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jonas Hagström",
+                    "email":"mailto:jonas@nordu.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"717827b4a5c68d5d114b955f80ded5c010aa56cd",
+            "entityID":"https://drive-idp-proxy.sunet.se/sp",
+            "resourceName":"https://drive-idp-proxy.sunet.se/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.sunet.se"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Richard Freitag",
+                    "email":"mailto:freitag@sunet.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jonas Hagström",
+                    "email":"mailto:jonas@nordu.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"717827b4a5c68d5d114b955f80ded5c010aa56cd",
+            "entityID":"https://drive-idp-proxy.sunet.se/sp",
+            "resourceName":"https://drive-idp-proxy.sunet.se/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.sunet.se"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Richard Freitag",
+                    "email":"mailto:freitag@sunet.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jonas Hagström",
+                    "email":"mailto:jonas@nordu.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

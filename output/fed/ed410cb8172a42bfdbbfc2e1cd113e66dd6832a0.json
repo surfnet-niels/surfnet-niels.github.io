@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"ed410cb8172a42bfdbbfc2e1cd113e66dd6832a0",
+            "entityID":"https://alshub2.dev.als.lbl.gov/shibboleth",
+            "resourceName":"ALSHub Dev Instance",
+            "resourceProvider":{
+                "name":"Lawrence Berkeley National Laboratory",
+                "displayname":"Lawrence Berkeley National Laboratory",
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rosario Núñez",
+                    "email":"mailto:maria.nunez@softtek.com"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.lbl.gov/disclaimers/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ed410cb8172a42bfdbbfc2e1cd113e66dd6832a0",
+            "entityID":"https://alshub2.dev.als.lbl.gov/shibboleth",
+            "resourceName":"ALSHub Dev Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rosario Núñez",
+                    "email":"mailto:maria.nunez@softtek.com"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ed410cb8172a42bfdbbfc2e1cd113e66dd6832a0",
+            "entityID":"https://alshub2.dev.als.lbl.gov/shibboleth",
+            "resourceName":"ALSHub Dev Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rosario Núñez",
+                    "email":"mailto:maria.nunez@softtek.com"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ed410cb8172a42bfdbbfc2e1cd113e66dd6832a0",
+            "entityID":"https://alshub2.dev.als.lbl.gov/shibboleth",
+            "resourceName":"ALSHub Dev Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rosario Núñez",
+                    "email":"mailto:maria.nunez@softtek.com"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

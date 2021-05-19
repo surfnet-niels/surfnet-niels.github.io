@@ -1,0 +1,231 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"07e5216b9a88ec0d2b687f09fa9075d3a63b107e",
+            "entityID":"https://vho.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - vho",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"VIDEOTORIUM - vho",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"https://vho.videotorium.hu/",
+            "privacy":"http://videotorium.hu/hu/adatkezelesi",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"07e5216b9a88ec0d2b687f09fa9075d3a63b107e",
+            "entityID":"https://vho.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - vho",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"07e5216b9a88ec0d2b687f09fa9075d3a63b107e",
+            "entityID":"https://vho.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - vho",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"07e5216b9a88ec0d2b687f09fa9075d3a63b107e",
+            "entityID":"https://vho.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - vho",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

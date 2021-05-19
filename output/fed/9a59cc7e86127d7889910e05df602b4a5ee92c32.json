@@ -1,0 +1,223 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"9a59cc7e86127d7889910e05df602b4a5ee92c32",
+            "entityID":"https://acs.i2portal.com/saml",
+            "resourceName":"DLT I2 Portal",
+            "resourceProvider":{
+                "name":"DLT Solutions",
+                "displayname":"DLT Solutions",
+                "url":"http://www.dlt.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"DLT I2 Portal",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Greg Agana",
+                    "email":"mailto:greg.agana@dlt.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Nissley",
+                    "email":"mailto:adam.nissley@dlt.com"
+                },
+                {
+                    "type":"security",
+                    "name":"James Soliday",
+                    "email":"mailto:james.soliday@dlt.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Nissley",
+                    "email":"mailto:adam.nissley@dlt.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.dlt.com/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"9a59cc7e86127d7889910e05df602b4a5ee92c32",
+            "entityID":"https://acs.i2portal.com/saml",
+            "resourceName":"DLT I2 Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dlt.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Greg Agana",
+                    "email":"mailto:greg.agana@dlt.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Nissley",
+                    "email":"mailto:adam.nissley@dlt.com"
+                },
+                {
+                    "type":"security",
+                    "name":"James Soliday",
+                    "email":"mailto:james.soliday@dlt.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Nissley",
+                    "email":"mailto:adam.nissley@dlt.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"9a59cc7e86127d7889910e05df602b4a5ee92c32",
+            "entityID":"https://acs.i2portal.com/saml",
+            "resourceName":"DLT I2 Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dlt.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Greg Agana",
+                    "email":"mailto:greg.agana@dlt.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Nissley",
+                    "email":"mailto:adam.nissley@dlt.com"
+                },
+                {
+                    "type":"security",
+                    "name":"James Soliday",
+                    "email":"mailto:james.soliday@dlt.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Nissley",
+                    "email":"mailto:adam.nissley@dlt.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"9a59cc7e86127d7889910e05df602b4a5ee92c32",
+            "entityID":"https://acs.i2portal.com/saml",
+            "resourceName":"DLT I2 Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dlt.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Greg Agana",
+                    "email":"mailto:greg.agana@dlt.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Nissley",
+                    "email":"mailto:adam.nissley@dlt.com"
+                },
+                {
+                    "type":"security",
+                    "name":"James Soliday",
+                    "email":"mailto:james.soliday@dlt.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Nissley",
+                    "email":"mailto:adam.nissley@dlt.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

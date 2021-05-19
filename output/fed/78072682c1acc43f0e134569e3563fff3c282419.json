@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"78072682c1acc43f0e134569e3563fff3c282419",
+            "entityID":"https://uic.blackboard.com/shibboleth-sp",
+            "resourceName":"University of Illinois at Chicago - Blackboard Learn",
+            "resourceProvider":{
+                "name":"Blackboard, Inc",
+                "displayname":"Blackboard, Inc",
+                "url":"http://www.blackboard.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"This is the University of Illinois at Chicago Production Blackboard Service",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                }
+            ],
+            "info":"http://www.blackboard.com",
+            "privacy":"https://registrar.uic.edu/campus_policies/records_policy.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"78072682c1acc43f0e134569e3563fff3c282419",
+            "entityID":"https://uic.blackboard.com/shibboleth-sp",
+            "resourceName":"https://uic.blackboard.com/shibboleth-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.blackboard.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"78072682c1acc43f0e134569e3563fff3c282419",
+            "entityID":"https://uic.blackboard.com/shibboleth-sp",
+            "resourceName":"https://uic.blackboard.com/shibboleth-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.blackboard.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"78072682c1acc43f0e134569e3563fff3c282419",
+            "entityID":"https://uic.blackboard.com/shibboleth-sp",
+            "resourceName":"https://uic.blackboard.com/shibboleth-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.blackboard.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

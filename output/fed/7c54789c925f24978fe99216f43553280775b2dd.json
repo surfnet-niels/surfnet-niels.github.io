@@ -1,0 +1,215 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"7c54789c925f24978fe99216f43553280775b2dd",
+            "entityID":"https://api.oreilly.review/samlsp",
+            "resourceName":"QA NON PRODUCTION SP for O'Reilly Media",
+            "resourceProvider":{
+                "name":"O'Reilly Media Inc.",
+                "displayname":"O'Reilly Media Inc.",
+                "url":"https://www.oreilly.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"O'Reilly Media SP for QA, testing, and other non-production activities",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jesse Banning",
+                    "email":"mailto:platform-integration@oreilly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Integration Sercices",
+                    "email":"mailto:platform-integration@oreilly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Matt Kirk",
+                    "email":"mailto:security-feedback@oreilly.com"
+                },
+                {
+                    "type":"support",
+                    "name":"O'Reilly Customer Care",
+                    "email":"mailto:customercare@oreilly.com"
+                }
+            ],
+            "info":"https://www.oreilly.com/",
+            "privacy":"https://www.oreilly.com/privacy.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7c54789c925f24978fe99216f43553280775b2dd",
+            "entityID":"https://api.oreilly.review/samlsp",
+            "resourceName":"QA NON PRODUCTION SP for O'Reilly Media",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.oreilly.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jesse Banning",
+                    "email":"mailto:platform-integration@oreilly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Integration Sercices",
+                    "email":"mailto:platform-integration@oreilly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Matt Kirk",
+                    "email":"mailto:security-feedback@oreilly.com"
+                },
+                {
+                    "type":"support",
+                    "name":"O'Reilly Customer Care",
+                    "email":"mailto:customercare@oreilly.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7c54789c925f24978fe99216f43553280775b2dd",
+            "entityID":"https://api.oreilly.review/samlsp",
+            "resourceName":"QA NON PRODUCTION SP for O'Reilly Media",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.oreilly.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jesse Banning",
+                    "email":"mailto:platform-integration@oreilly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Integration Sercices",
+                    "email":"mailto:platform-integration@oreilly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Matt Kirk",
+                    "email":"mailto:security-feedback@oreilly.com"
+                },
+                {
+                    "type":"support",
+                    "name":"O'Reilly Customer Care",
+                    "email":"mailto:customercare@oreilly.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7c54789c925f24978fe99216f43553280775b2dd",
+            "entityID":"https://api.oreilly.review/samlsp",
+            "resourceName":"QA NON PRODUCTION SP for O'Reilly Media",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.oreilly.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jesse Banning",
+                    "email":"mailto:platform-integration@oreilly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Integration Sercices",
+                    "email":"mailto:platform-integration@oreilly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Matt Kirk",
+                    "email":"mailto:security-feedback@oreilly.com"
+                },
+                {
+                    "type":"support",
+                    "name":"O'Reilly Customer Care",
+                    "email":"mailto:customercare@oreilly.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

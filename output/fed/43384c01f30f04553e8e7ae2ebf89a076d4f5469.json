@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"43384c01f30f04553e8e7ae2ebf89a076d4f5469",
+            "entityID":"https://identity.lbl.gov/prod/tokenmanagement",
+            "resourceName":"LBL MFA Token Management Application",
+            "resourceProvider":{
+                "name":"Lawrence Berkeley National Laboratory",
+                "displayname":"Lawrence Berkeley National Laboratory",
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"Users of LBL's systems that require multifactor authentication use this application to manage their MFA tokens.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity Group",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"https://commons.lbl.gov/x/8ARmBQ",
+            "privacy":"https://www.lbl.gov/disclaimers/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"43384c01f30f04553e8e7ae2ebf89a076d4f5469",
+            "entityID":"https://identity.lbl.gov/prod/tokenmanagement",
+            "resourceName":"LBL MFA Token Management Application",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity Group",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"43384c01f30f04553e8e7ae2ebf89a076d4f5469",
+            "entityID":"https://identity.lbl.gov/prod/tokenmanagement",
+            "resourceName":"LBL MFA Token Management Application",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity Group",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"43384c01f30f04553e8e7ae2ebf89a076d4f5469",
+            "entityID":"https://identity.lbl.gov/prod/tokenmanagement",
+            "resourceName":"LBL MFA Token Management Application",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity Group",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

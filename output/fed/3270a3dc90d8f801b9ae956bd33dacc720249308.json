@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"3270a3dc90d8f801b9ae956bd33dacc720249308",
+            "entityID":"https://3d.labs.stonybrook.edu/shibboleth",
+            "resourceName":"3D Labs at Stony Brook",
+            "resourceProvider":{
+                "name":"Stony Brook University",
+                "displayname":"Stony Brook University",
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Gary Halada",
+                    "email":"mailto:gary.halada@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.stonybrook.edu/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"3270a3dc90d8f801b9ae956bd33dacc720249308",
+            "entityID":"https://3d.labs.stonybrook.edu/shibboleth",
+            "resourceName":"3D Labs at Stony Brook",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Gary Halada",
+                    "email":"mailto:gary.halada@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"3270a3dc90d8f801b9ae956bd33dacc720249308",
+            "entityID":"https://3d.labs.stonybrook.edu/shibboleth",
+            "resourceName":"3D Labs at Stony Brook",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Gary Halada",
+                    "email":"mailto:gary.halada@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"3270a3dc90d8f801b9ae956bd33dacc720249308",
+            "entityID":"https://3d.labs.stonybrook.edu/shibboleth",
+            "resourceName":"3D Labs at Stony Brook",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Gary Halada",
+                    "email":"mailto:gary.halada@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

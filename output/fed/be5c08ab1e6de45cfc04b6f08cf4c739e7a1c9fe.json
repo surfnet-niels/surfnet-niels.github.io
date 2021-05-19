@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"be5c08ab1e6de45cfc04b6f08cf4c739e7a1c9fe",
+            "entityID":"https://dropbox.com/sp",
+            "resourceName":"Dropbox",
+            "resourceProvider":{
+                "name":"Dropbox, Inc.",
+                "displayname":"Dropbox, Inc.",
+                "url":"http://www.dropbox.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Evgeniy Chervonenko",
+                    "email":"mailto:yev@dropbox.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Marshall Kurtz",
+                    "email":"mailto:marshall@dropbox.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incommon Security at Dropbox",
+                    "email":"mailto:incommon@dropbox.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.dropbox.com/terms#privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"be5c08ab1e6de45cfc04b6f08cf4c739e7a1c9fe",
+            "entityID":"https://dropbox.com/sp",
+            "resourceName":"Dropbox",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dropbox.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Evgeniy Chervonenko",
+                    "email":"mailto:yev@dropbox.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Marshall Kurtz",
+                    "email":"mailto:marshall@dropbox.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incommon Security at Dropbox",
+                    "email":"mailto:incommon@dropbox.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"be5c08ab1e6de45cfc04b6f08cf4c739e7a1c9fe",
+            "entityID":"https://dropbox.com/sp",
+            "resourceName":"Dropbox",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dropbox.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Evgeniy Chervonenko",
+                    "email":"mailto:yev@dropbox.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Marshall Kurtz",
+                    "email":"mailto:marshall@dropbox.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incommon Security at Dropbox",
+                    "email":"mailto:incommon@dropbox.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"be5c08ab1e6de45cfc04b6f08cf4c739e7a1c9fe",
+            "entityID":"https://dropbox.com/sp",
+            "resourceName":"Dropbox",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dropbox.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Evgeniy Chervonenko",
+                    "email":"mailto:yev@dropbox.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Marshall Kurtz",
+                    "email":"mailto:marshall@dropbox.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incommon Security at Dropbox",
+                    "email":"mailto:incommon@dropbox.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"c9fff3892b7d8271b35714433b5f4363825c7ca9",
+            "entityID":"https://hpc-wayf.sdu.dk/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"DeIC National HPC Centre, SDU",
+            "resourceProvider":{
+                "name":"University of Southern Denmark",
+                "displayname":"University of Southern Denmark",
+                "url":"http://www.sdu.dk/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "cn",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "organizationName",
+                    "schacHomeOrganization"
+                ],
+                "requested":[]
+            },
+            "description":"The purpose is to manage user access to the HPC centre.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LasseBirnbaum Jensen",
+                    "email":"mailto:lasse@sdu.dk"
+                }
+            ],
+            "info":"https://www.deic.dk/en/HPCCenter_SDU",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c9fff3892b7d8271b35714433b5f4363825c7ca9",
+            "entityID":"https://hpc-wayf.sdu.dk/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"DeIC National HPC Centre, SDU",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sdu.dk/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "cn",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "organizationName",
+                    "schacHomeOrganization"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LasseBirnbaum Jensen",
+                    "email":"mailto:lasse@sdu.dk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c9fff3892b7d8271b35714433b5f4363825c7ca9",
+            "entityID":"https://hpc-wayf.sdu.dk/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"DeIC National HPC Centre, SDU",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sdu.dk/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "cn",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "organizationName",
+                    "schacHomeOrganization"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LasseBirnbaum Jensen",
+                    "email":"mailto:lasse@sdu.dk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c9fff3892b7d8271b35714433b5f4363825c7ca9",
+            "entityID":"https://hpc-wayf.sdu.dk/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"DeIC National HPC Centre, SDU",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sdu.dk/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "cn",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "organizationName",
+                    "schacHomeOrganization"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LasseBirnbaum Jensen",
+                    "email":"mailto:lasse@sdu.dk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

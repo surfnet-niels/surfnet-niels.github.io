@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"225a34fe25c6f97a61ca20fc709d850d645aeba7",
+            "entityID":"https://colostatesp.assetworkssso.io/shibboleth",
+            "resourceName":"Assetworks Colostate SP",
+            "resourceProvider":{
+                "name":"AssetWorks",
+                "displayname":"AssetWorks",
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"http://www.assetworks.com/wp-content/uploads/2015/10/Privacy_Policy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"225a34fe25c6f97a61ca20fc709d850d645aeba7",
+            "entityID":"https://colostatesp.assetworkssso.io/shibboleth",
+            "resourceName":"Assetworks Colostate SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"225a34fe25c6f97a61ca20fc709d850d645aeba7",
+            "entityID":"https://colostatesp.assetworkssso.io/shibboleth",
+            "resourceName":"Assetworks Colostate SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"225a34fe25c6f97a61ca20fc709d850d645aeba7",
+            "entityID":"https://colostatesp.assetworkssso.io/shibboleth",
+            "resourceName":"Assetworks Colostate SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steven Denning-Garrison",
+                    "email":"mailto:steven.denning-garrison@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

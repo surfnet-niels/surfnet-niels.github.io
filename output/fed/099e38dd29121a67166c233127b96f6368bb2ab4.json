@@ -1,0 +1,175 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"099e38dd29121a67166c233127b96f6368bb2ab4",
+            "entityID":"https://vikestickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"VikesTickets Service",
+            "resourceProvider":{
+                "name":"UniversityTickets",
+                "displayname":"UniversityTickets",
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"The online ticketing service for all Vikes! University of Victoria.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"http://govikesgo.com/sports/2016/10/4/privacy-policy.aspx",
+            "privacy":"https://www.universitytickets.com/downloads/privacypolicy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"099e38dd29121a67166c233127b96f6368bb2ab4",
+            "entityID":"https://vikestickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"VikesTickets Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"099e38dd29121a67166c233127b96f6368bb2ab4",
+            "entityID":"https://vikestickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"VikesTickets Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"099e38dd29121a67166c233127b96f6368bb2ab4",
+            "entityID":"https://vikestickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"VikesTickets Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

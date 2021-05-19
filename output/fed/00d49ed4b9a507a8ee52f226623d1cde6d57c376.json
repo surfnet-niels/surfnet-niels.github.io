@@ -1,0 +1,155 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"00d49ed4b9a507a8ee52f226623d1cde6d57c376",
+            "entityID":"https://dmponline.dcc.ac.uk/shibboleth",
+            "resourceName":"DMP Online",
+            "resourceProvider":{
+                "name":"University of Edinburgh",
+                "displayname":"Digital Curation Centre",
+                "url":"http://www.dcc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"DMP Online is a data management planning tool provided by the Digital Curation Centre.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:info@dcc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:info@dcc.ac.uk"
+                }
+            ],
+            "info":"http://www.dcc.ac.uk/dmponline",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"00d49ed4b9a507a8ee52f226623d1cde6d57c376",
+            "entityID":"https://dmponline.dcc.ac.uk/shibboleth",
+            "resourceName":"Digital Curation Centre - DMP Online",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dcc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:info@dcc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:info@dcc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"00d49ed4b9a507a8ee52f226623d1cde6d57c376",
+            "entityID":"https://dmponline.dcc.ac.uk/shibboleth",
+            "resourceName":"Digital Curation Centre - DMP Online",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dcc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:info@dcc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:info@dcc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"00d49ed4b9a507a8ee52f226623d1cde6d57c376",
+            "entityID":"https://dmponline.dcc.ac.uk/shibboleth",
+            "resourceName":"Digital Curation Centre - DMP Online",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dcc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:info@dcc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:info@dcc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

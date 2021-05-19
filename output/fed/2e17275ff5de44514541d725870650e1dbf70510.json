@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"2e17275ff5de44514541d725870650e1dbf70510",
+            "entityID":"https://reg.tid.dfn.de/shibboleth",
+            "resourceName":"Registration for TID Wiki",
+            "resourceProvider":{
+                "name":"e15",
+                "displayname":"German National Research and Education Network, DFN",
+                "url":"http://www.dfn.de/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"Registration for TID Wiki",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"support",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"administrative",
+                    "name":"WolfgangPempe",
+                    "email":"mailto:aai@dfn.de"
+                },
+                {
+                    "type":"security",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2e17275ff5de44514541d725870650e1dbf70510",
+            "entityID":"https://reg.tid.dfn.de/shibboleth",
+            "resourceName":"Registration for TID Wiki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dfn.de/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"support",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"administrative",
+                    "name":"WolfgangPempe",
+                    "email":"mailto:aai@dfn.de"
+                },
+                {
+                    "type":"security",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2e17275ff5de44514541d725870650e1dbf70510",
+            "entityID":"https://reg.tid.dfn.de/shibboleth",
+            "resourceName":"Registration for TID Wiki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dfn.de/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"support",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"administrative",
+                    "name":"WolfgangPempe",
+                    "email":"mailto:aai@dfn.de"
+                },
+                {
+                    "type":"security",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2e17275ff5de44514541d725870650e1dbf70510",
+            "entityID":"https://reg.tid.dfn.de/shibboleth",
+            "resourceName":"Registrierung für TID Wiki",
+            "resourceProvider":{
+                "name":"e15",
+                "displayname":"DFN-Verein - Deutsches Forschungsnetz",
+                "url":"http://www.dfn.de/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"Registrierung für TID Wiki",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"support",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                },
+                {
+                    "type":"administrative",
+                    "name":"WolfgangPempe",
+                    "email":"mailto:aai@dfn.de"
+                },
+                {
+                    "type":"security",
+                    "name":"DFN-AAI Team",
+                    "email":"mailto:hotline@aai.dfn.de"
+                }
+            ],
+            "info":"",
+            "privacy":"https://reg.tid.dfn.de/datenschutz.html",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

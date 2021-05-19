@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"07a9a79b9ade846340984b9b5f4ffe632e749f47",
+            "entityID":"https://shsu.universitytickets.com/shibboleth-sp",
+            "resourceName":"UniversityTickets SSO",
+            "resourceProvider":{
+                "name":"UniversityTickets",
+                "displayname":"UniversityTickets",
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Gordon Capreol",
+                    "email":"mailto:gcapreol@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.universitytickets.com/downloads/privacypolicy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"07a9a79b9ade846340984b9b5f4ffe632e749f47",
+            "entityID":"https://shsu.universitytickets.com/shibboleth-sp",
+            "resourceName":"UniversityTickets SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Gordon Capreol",
+                    "email":"mailto:gcapreol@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"07a9a79b9ade846340984b9b5f4ffe632e749f47",
+            "entityID":"https://shsu.universitytickets.com/shibboleth-sp",
+            "resourceName":"UniversityTickets SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Gordon Capreol",
+                    "email":"mailto:gcapreol@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"07a9a79b9ade846340984b9b5f4ffe632e749f47",
+            "entityID":"https://shsu.universitytickets.com/shibboleth-sp",
+            "resourceName":"UniversityTickets SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Gordon Capreol",
+                    "email":"mailto:gcapreol@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

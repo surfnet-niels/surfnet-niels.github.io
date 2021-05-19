@@ -1,0 +1,147 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"4c659d02ba37886e126f6892eef78c15522e16ba",
+            "entityID":"https://demo.eduopen.org/shibboleth",
+            "resourceName":"Eduopen Network provided by Unimore",
+            "resourceProvider":{
+                "name":"University of Modena e Reggio Emilia",
+                "displayname":"Eduopen Network provided by Unimore",
+                "url":"http://www.eduopen.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "surname",
+                    "email",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Test portal for providing demonstration courses for EDUOPEN Network in a federated environment",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"TommasoMinerva",
+                    "email":"mailto:cea@unimore.it"
+                }
+            ],
+            "info":"https://demo.eduopen.org/local/staticpage/view.php?page=EDUOPEN_terms_privacy&lang=en",
+            "privacy":"https://demo.eduopen.org/local/staticpage/view.php?page=EDUOPEN_terms_privacy&lang=en",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"4c659d02ba37886e126f6892eef78c15522e16ba",
+            "entityID":"https://demo.eduopen.org/shibboleth",
+            "resourceName":"Eduopen Network provided by Unimore",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.eduopen.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "surname",
+                    "email",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"TommasoMinerva",
+                    "email":"mailto:cea@unimore.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"4c659d02ba37886e126f6892eef78c15522e16ba",
+            "entityID":"https://demo.eduopen.org/shibboleth",
+            "resourceName":"Eduopen Network fornito da Unimore",
+            "resourceProvider":{
+                "name":"Università di Modena e Reggio Emilia",
+                "displayname":"Eduopen Network fornito da Unimore",
+                "url":"http://www.eduopen.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "surname",
+                    "email",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Portale di test per l'erogazione dei corsi dimostrativi per la rete EDUOPEN in un ambiente federato",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"TommasoMinerva",
+                    "email":"mailto:cea@unimore.it"
+                }
+            ],
+            "info":"https://demo.eduopen.org/local/staticpage/view.php?page=EDUOPEN_terms_privacy&lang=it",
+            "privacy":"https://demo.eduopen.org/local/staticpage/view.php?page=EDUOPEN_terms_privacy&lang=it",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"4c659d02ba37886e126f6892eef78c15522e16ba",
+            "entityID":"https://demo.eduopen.org/shibboleth",
+            "resourceName":"Eduopen Network provided by Unimore",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.eduopen.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "surname",
+                    "email",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"TommasoMinerva",
+                    "email":"mailto:cea@unimore.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

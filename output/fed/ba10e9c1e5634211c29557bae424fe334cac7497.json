@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"ba10e9c1e5634211c29557bae424fe334cac7497",
+            "entityID":"https://okstate.dserec.com/sp",
+            "resourceName":"DSE RecCenter (OK State)",
+            "resourceProvider":{
+                "name":"DSE Rec, LLC",
+                "displayname":"DSE Rec, LLC",
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"DSE- Rec Management Software",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"https://www.dserec.com",
+            "privacy":"https://www.dserec.com/privacy_policy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ba10e9c1e5634211c29557bae424fe334cac7497",
+            "entityID":"https://okstate.dserec.com/sp",
+            "resourceName":"DSE RecCenter (OK State)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ba10e9c1e5634211c29557bae424fe334cac7497",
+            "entityID":"https://okstate.dserec.com/sp",
+            "resourceName":"DSE RecCenter (OK State)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ba10e9c1e5634211c29557bae424fe334cac7497",
+            "entityID":"https://okstate.dserec.com/sp",
+            "resourceName":"DSE RecCenter (OK State)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

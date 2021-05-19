@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"37f38a93c6684da71319b05f7eb19bd46ae0ed15",
+            "entityID":"https://research-sp.malone.edu/shibboleth",
+            "resourceName":"Malone University Research",
+            "resourceProvider":{
+                "name":"Malone University",
+                "displayname":"Malone University",
+                "url":"http://www.malone.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Malone University Research Service Provider",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Malone Research InCommon Technical",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Malone Research InCommon Administrative",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Malone Research InCommon Support",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Malone Research InCommon Security",
+                    "email":"mailto:incommon@malone.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://helpdesk.malone.edu/helpdesk/WebObjects/Helpdesk.woa/wa/FaqActions/view?faqId=355",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"37f38a93c6684da71319b05f7eb19bd46ae0ed15",
+            "entityID":"https://research-sp.malone.edu/shibboleth",
+            "resourceName":"Malone University Research",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.malone.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Malone Research InCommon Technical",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Malone Research InCommon Administrative",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Malone Research InCommon Support",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Malone Research InCommon Security",
+                    "email":"mailto:incommon@malone.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"37f38a93c6684da71319b05f7eb19bd46ae0ed15",
+            "entityID":"https://research-sp.malone.edu/shibboleth",
+            "resourceName":"Malone University Research",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.malone.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Malone Research InCommon Technical",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Malone Research InCommon Administrative",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Malone Research InCommon Support",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Malone Research InCommon Security",
+                    "email":"mailto:incommon@malone.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"37f38a93c6684da71319b05f7eb19bd46ae0ed15",
+            "entityID":"https://research-sp.malone.edu/shibboleth",
+            "resourceName":"Malone University Research",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.malone.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Malone Research InCommon Technical",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Malone Research InCommon Administrative",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Malone Research InCommon Support",
+                    "email":"mailto:incommon@malone.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Malone Research InCommon Security",
+                    "email":"mailto:incommon@malone.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

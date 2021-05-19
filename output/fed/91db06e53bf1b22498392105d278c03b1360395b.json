@@ -1,0 +1,243 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"91db06e53bf1b22498392105d278c03b1360395b",
+            "entityID":"https://sp-proxy.cern.ch/saml2sp/saml2_backend.xml",
+            "resourceName":"CERN Online Services",
+            "resourceProvider":{
+                "name":"cern.ch",
+                "displayname":"CERN",
+                "url":"http://www.cern.ch/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonAffiliation",
+                    "email",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "surname",
+                    "eduPersonTargetedID",
+                    "commonName",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
+                ],
+                "requested":[
+                    "eduPersonUniqueId",
+                    "eduPersonOrcid"
+                ]
+            },
+            "description":"CERN (European Organization for Nuclear Research)",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"support",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"technical",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"technical",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                }
+            ],
+            "info":"https://cern.ch",
+            "privacy":"https://home.cern/data-privacy-protection-statement",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"91db06e53bf1b22498392105d278c03b1360395b",
+            "entityID":"https://sp-proxy.cern.ch/saml2sp/saml2_backend.xml",
+            "resourceName":"CERN Online Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cern.ch/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonAffiliation",
+                    "email",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "surname",
+                    "eduPersonTargetedID",
+                    "commonName",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
+                ],
+                "requested":[
+                    "eduPersonUniqueId",
+                    "eduPersonOrcid"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"support",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"technical",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"technical",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"91db06e53bf1b22498392105d278c03b1360395b",
+            "entityID":"https://sp-proxy.cern.ch/saml2sp/saml2_backend.xml",
+            "resourceName":"CERN Online Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cern.ch/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonAffiliation",
+                    "email",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "surname",
+                    "eduPersonTargetedID",
+                    "commonName",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
+                ],
+                "requested":[
+                    "eduPersonUniqueId",
+                    "eduPersonOrcid"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"support",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"technical",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"technical",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"91db06e53bf1b22498392105d278c03b1360395b",
+            "entityID":"https://sp-proxy.cern.ch/saml2sp/saml2_backend.xml",
+            "resourceName":"CERN Online Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cern.ch/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonAffiliation",
+                    "email",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "surname",
+                    "eduPersonTargetedID",
+                    "commonName",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
+                ],
+                "requested":[
+                    "eduPersonUniqueId",
+                    "eduPersonOrcid"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"support",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"technical",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                },
+                {
+                    "type":"technical",
+                    "name":"CERNService Desk",
+                    "email":"mailto:service-desk@cern.ch"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

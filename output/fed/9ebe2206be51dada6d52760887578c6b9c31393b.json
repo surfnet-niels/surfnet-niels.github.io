@@ -1,0 +1,235 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"9ebe2206be51dada6d52760887578c6b9c31393b",
+            "entityID":"https://niif.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - NIIF Program",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"Videotorium site of NIIF Program",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"http://niif.videotorium.hu/en",
+            "privacy":"http://videotorium.hu/en/privacy",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"9ebe2206be51dada6d52760887578c6b9c31393b",
+            "entityID":"https://niif.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - NIIF Program",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"9ebe2206be51dada6d52760887578c6b9c31393b",
+            "entityID":"https://niif.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - NIIF Program",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"9ebe2206be51dada6d52760887578c6b9c31393b",
+            "entityID":"https://niif.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - NIIF Program",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

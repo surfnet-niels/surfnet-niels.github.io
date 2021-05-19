@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"e34388bf4b68e4fe6d164b61d994756055cf9c95",
+            "entityID":"https://ncihub.org/login/shibboleth",
+            "resourceName":"NCI Community Hub",
+            "resourceProvider":{
+                "name":"Purdue University Main Campus",
+                "displayname":"Purdue University Main Campus",
+                "url":"http://www.purdue.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"National Cancer Informatics Community Hub - A Collaborative for Informatics in Cancer Research",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ishwar Chandramouliswaran",
+                    "email":"mailto:contact@ncihub.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Snyder",
+                    "email":"mailto:support@ncihub.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Purdue Security Team",
+                    "email":"mailto:abuse@purdue.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Snyder",
+                    "email":"mailto:support@ncihub.org"
+                }
+            ],
+            "info":"https://ncihub.org/about",
+            "privacy":"https://ncihub.org/legal/privacy",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e34388bf4b68e4fe6d164b61d994756055cf9c95",
+            "entityID":"https://ncihub.org/login/shibboleth",
+            "resourceName":"NCI Community Hub",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.purdue.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ishwar Chandramouliswaran",
+                    "email":"mailto:contact@ncihub.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Snyder",
+                    "email":"mailto:support@ncihub.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Purdue Security Team",
+                    "email":"mailto:abuse@purdue.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Snyder",
+                    "email":"mailto:support@ncihub.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e34388bf4b68e4fe6d164b61d994756055cf9c95",
+            "entityID":"https://ncihub.org/login/shibboleth",
+            "resourceName":"NCI Community Hub",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.purdue.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ishwar Chandramouliswaran",
+                    "email":"mailto:contact@ncihub.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Snyder",
+                    "email":"mailto:support@ncihub.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Purdue Security Team",
+                    "email":"mailto:abuse@purdue.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Snyder",
+                    "email":"mailto:support@ncihub.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e34388bf4b68e4fe6d164b61d994756055cf9c95",
+            "entityID":"https://ncihub.org/login/shibboleth",
+            "resourceName":"NCI Community Hub",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.purdue.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ishwar Chandramouliswaran",
+                    "email":"mailto:contact@ncihub.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Snyder",
+                    "email":"mailto:support@ncihub.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Purdue Security Team",
+                    "email":"mailto:abuse@purdue.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Snyder",
+                    "email":"mailto:support@ncihub.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

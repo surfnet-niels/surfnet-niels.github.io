@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"b949ec4d92c655c2ed1b7c26be4316c0ba061c5a",
+            "entityID":"https://blackboard.ue.org/auth-saml/saml/SSO/alias/_117_1",
+            "resourceName":"UE_SSO_UAH",
+            "resourceProvider":{
+                "name":"United Educators Management Company",
+                "displayname":"United Educators Management Company",
+                "url":"https://www.ue.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"United Educators - Blackboard LMS for University of Alabama - Huntsville",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                }
+            ],
+            "info":"https://www.ue.org/about-me",
+            "privacy":"https://www.ue.org/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b949ec4d92c655c2ed1b7c26be4316c0ba061c5a",
+            "entityID":"https://blackboard.ue.org/auth-saml/saml/SSO/alias/_117_1",
+            "resourceName":"UE_SSO_UAH",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.ue.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b949ec4d92c655c2ed1b7c26be4316c0ba061c5a",
+            "entityID":"https://blackboard.ue.org/auth-saml/saml/SSO/alias/_117_1",
+            "resourceName":"UE_SSO_UAH",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.ue.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b949ec4d92c655c2ed1b7c26be4316c0ba061c5a",
+            "entityID":"https://blackboard.ue.org/auth-saml/saml/SSO/alias/_117_1",
+            "resourceName":"UE_SSO_UAH",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.ue.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Williams",
+                    "email":"mailto:jjwilliams@ue.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

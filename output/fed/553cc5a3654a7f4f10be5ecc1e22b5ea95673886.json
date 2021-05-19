@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"553cc5a3654a7f4f10be5ecc1e22b5ea95673886",
+            "entityID":"https://fae.illinois.edu/shibboleth",
+            "resourceName":"Functional Accessibility Evaluator",
+            "resourceProvider":{
+                "name":"University of Illinois at Urbana-Champaign",
+                "displayname":"University of Illinois at Urbana-Champaign",
+                "url":"http://illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"Evaluates web pages for WCAG 2.0 web accessibility requirements and generates a report",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jon Gunderson",
+                    "email":"mailto:jongund@illinois.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jon Gunderson",
+                    "email":"mailto:jongund@illinois.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Office",
+                    "email":"mailto:security@illinois.edu"
+                }
+            ],
+            "info":"https://fae.illinois.edu/abouts/",
+            "privacy":"https://fae.illinois.edu/abouts/privacy/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"553cc5a3654a7f4f10be5ecc1e22b5ea95673886",
+            "entityID":"https://fae.illinois.edu/shibboleth",
+            "resourceName":"Functional Accessibility Evaluator",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jon Gunderson",
+                    "email":"mailto:jongund@illinois.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jon Gunderson",
+                    "email":"mailto:jongund@illinois.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Office",
+                    "email":"mailto:security@illinois.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"553cc5a3654a7f4f10be5ecc1e22b5ea95673886",
+            "entityID":"https://fae.illinois.edu/shibboleth",
+            "resourceName":"Functional Accessibility Evaluator",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jon Gunderson",
+                    "email":"mailto:jongund@illinois.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jon Gunderson",
+                    "email":"mailto:jongund@illinois.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Office",
+                    "email":"mailto:security@illinois.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"553cc5a3654a7f4f10be5ecc1e22b5ea95673886",
+            "entityID":"https://fae.illinois.edu/shibboleth",
+            "resourceName":"Functional Accessibility Evaluator",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jon Gunderson",
+                    "email":"mailto:jongund@illinois.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jon Gunderson",
+                    "email":"mailto:jongund@illinois.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Office",
+                    "email":"mailto:security@illinois.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

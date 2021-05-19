@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"99395571ddf6be1a3d3fe9b14d3c5dd26b8293da",
+            "entityID":"https://events.prace-ri.eu/shibboleth",
+            "resourceName":"PRACE events portal",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "telephoneNumber",
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"https://events.prace-ri.eu/",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                }
+            ],
+            "info":"https://www.prace-ri.eu/",
+            "privacy":"http://www.prace-ri.eu/IMG/pdf/PRACEGDPRDataProtectionPolicy201804.pdf",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"99395571ddf6be1a3d3fe9b14d3c5dd26b8293da",
+            "entityID":"https://events.prace-ri.eu/shibboleth",
+            "resourceName":"PRACE events portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "telephoneNumber",
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"99395571ddf6be1a3d3fe9b14d3c5dd26b8293da",
+            "entityID":"https://events.prace-ri.eu/shibboleth",
+            "resourceName":"PRACE events portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "telephoneNumber",
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"99395571ddf6be1a3d3fe9b14d3c5dd26b8293da",
+            "entityID":"https://events.prace-ri.eu/shibboleth",
+            "resourceName":"PRACE events portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "telephoneNumber",
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"PRACE indico adminPRACE indico admin",
+                    "email":"mailto:prace-indico-admin@niif.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

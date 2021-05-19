@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"8ce263cf71718b3da4f53a24992742080e13a685",
+            "entityID":"https://sp.opensonar.cls.ru.nl/shibboleth",
+            "resourceName":"CLST OpenSoNaR",
+            "resourceProvider":{
+                "name":"e459",
+                "displayname":"CLARIN ERIC",
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"Web services and web applications developed and/or maintained by the Centre of Language and Speech technology at the Radboud University.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Henkvan den Heuvel",
+                    "email":"mailto:h.vandenheuvel@let.ru.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"WesselStoop",
+                    "email":"mailto:admin@cls.ru.nl"
+                },
+                {
+                    "type":"technical",
+                    "name":"Maartenvan Gompel",
+                    "email":"mailto:admin@cls.ru.nl"
+                }
+            ],
+            "info":"https://webservices-lst.science.ru.nl/portal/",
+            "privacy":"https://applejack.science.ru.nl/privacy.html",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"8ce263cf71718b3da4f53a24992742080e13a685",
+            "entityID":"https://sp.opensonar.cls.ru.nl/shibboleth",
+            "resourceName":"CLST OpenSoNaR",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Henkvan den Heuvel",
+                    "email":"mailto:h.vandenheuvel@let.ru.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"WesselStoop",
+                    "email":"mailto:admin@cls.ru.nl"
+                },
+                {
+                    "type":"technical",
+                    "name":"Maartenvan Gompel",
+                    "email":"mailto:admin@cls.ru.nl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"8ce263cf71718b3da4f53a24992742080e13a685",
+            "entityID":"https://sp.opensonar.cls.ru.nl/shibboleth",
+            "resourceName":"CLST OpenSoNaR",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Henkvan den Heuvel",
+                    "email":"mailto:h.vandenheuvel@let.ru.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"WesselStoop",
+                    "email":"mailto:admin@cls.ru.nl"
+                },
+                {
+                    "type":"technical",
+                    "name":"Maartenvan Gompel",
+                    "email":"mailto:admin@cls.ru.nl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"8ce263cf71718b3da4f53a24992742080e13a685",
+            "entityID":"https://sp.opensonar.cls.ru.nl/shibboleth",
+            "resourceName":"CLST OpenSoNaR",
+            "resourceProvider":{
+                "name":"e459",
+                "displayname":"CLARIN ERIC",
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"Web services and web applications developed and/or maintained by the Centre of Language and Speech technology at the Radboud University.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Henkvan den Heuvel",
+                    "email":"mailto:h.vandenheuvel@let.ru.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"WesselStoop",
+                    "email":"mailto:admin@cls.ru.nl"
+                },
+                {
+                    "type":"technical",
+                    "name":"Maartenvan Gompel",
+                    "email":"mailto:admin@cls.ru.nl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

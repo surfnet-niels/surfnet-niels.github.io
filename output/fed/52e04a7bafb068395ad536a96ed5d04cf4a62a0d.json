@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"52e04a7bafb068395ad536a96ed5d04cf4a62a0d",
+            "entityID":"https://ue.blackboard.com/auth-saml/saml/SSO/alias/_111_1",
+            "resourceName":"UE Blackboard Production SP",
+            "resourceProvider":{
+                "name":"Blackboard, Inc",
+                "displayname":"Blackboard, Inc",
+                "url":"http://www.blackboard.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"Blackboard Learn for UE.org",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Mike Kruft",
+                    "email":"mailto:mkruft@ue.org"
+                }
+            ],
+            "info":"https://www.blackboard.com/index.html",
+            "privacy":"https://www.edurisksolutions.org/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"52e04a7bafb068395ad536a96ed5d04cf4a62a0d",
+            "entityID":"https://ue.blackboard.com/auth-saml/saml/SSO/alias/_111_1",
+            "resourceName":"UE Blackboard Production SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.blackboard.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Mike Kruft",
+                    "email":"mailto:mkruft@ue.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"52e04a7bafb068395ad536a96ed5d04cf4a62a0d",
+            "entityID":"https://ue.blackboard.com/auth-saml/saml/SSO/alias/_111_1",
+            "resourceName":"UE Blackboard Production SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.blackboard.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Mike Kruft",
+                    "email":"mailto:mkruft@ue.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"52e04a7bafb068395ad536a96ed5d04cf4a62a0d",
+            "entityID":"https://ue.blackboard.com/auth-saml/saml/SSO/alias/_111_1",
+            "resourceName":"UE Blackboard Production SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.blackboard.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jeff Kelley",
+                    "email":"mailto:jeff.kelley@blackboard.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Mike Kruft",
+                    "email":"mailto:mkruft@ue.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

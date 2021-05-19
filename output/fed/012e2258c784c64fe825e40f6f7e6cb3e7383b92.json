@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"012e2258c784c64fe825e40f6f7e6cb3e7383b92",
+            "entityID":"https://rstudio.internal.cloud.unizin.org/shibboleth",
+            "resourceName":"Unizin - RStudio",
+            "resourceProvider":{
+                "name":"Unizin",
+                "displayname":"Unizin",
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Statistical and data-analysis software.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                }
+            ],
+            "info":"https://resources.unizin.org/pages/viewpage.action?pageId=8618368",
+            "privacy":"https://community.unizin.org/privacy_policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"012e2258c784c64fe825e40f6f7e6cb3e7383b92",
+            "entityID":"https://rstudio.internal.cloud.unizin.org/shibboleth",
+            "resourceName":"https://rstudio.internal.cloud.unizin.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"012e2258c784c64fe825e40f6f7e6cb3e7383b92",
+            "entityID":"https://rstudio.internal.cloud.unizin.org/shibboleth",
+            "resourceName":"https://rstudio.internal.cloud.unizin.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"012e2258c784c64fe825e40f6f7e6cb3e7383b92",
+            "entityID":"https://rstudio.internal.cloud.unizin.org/shibboleth",
+            "resourceName":"https://rstudio.internal.cloud.unizin.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"SRE Team",
+                    "email":"mailto:sre@unizin.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

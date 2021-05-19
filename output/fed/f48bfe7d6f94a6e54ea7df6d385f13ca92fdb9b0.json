@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f48bfe7d6f94a6e54ea7df6d385f13ca92fdb9b0",
+            "entityID":"https://gsu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Georgia State University Sites",
+            "resourceProvider":{
+                "name":"Edublogs",
+                "displayname":"Edublogs",
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub Sysadmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://incsub.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f48bfe7d6f94a6e54ea7df6d385f13ca92fdb9b0",
+            "entityID":"https://gsu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Georgia State University Sites",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub Sysadmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f48bfe7d6f94a6e54ea7df6d385f13ca92fdb9b0",
+            "entityID":"https://gsu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Georgia State University Sites",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub Sysadmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f48bfe7d6f94a6e54ea7df6d385f13ca92fdb9b0",
+            "entityID":"https://gsu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Georgia State University Sites",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub Sysadmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

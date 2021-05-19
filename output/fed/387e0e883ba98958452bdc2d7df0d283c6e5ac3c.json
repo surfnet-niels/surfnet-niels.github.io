@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"387e0e883ba98958452bdc2d7df0d283c6e5ac3c",
+            "entityID":"https://fed.ccp.xcal.tv",
+            "resourceName":"Xfinity On Campus Fed",
+            "resourceProvider":{
+                "name":"Comcast Corporation",
+                "displayname":"Comcast Corporation",
+                "url":"http://www.comcast.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"New Fed Server for XoC",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://my.xfinity.com/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"387e0e883ba98958452bdc2d7df0d283c6e5ac3c",
+            "entityID":"https://fed.ccp.xcal.tv",
+            "resourceName":"Xfinity On Campus Fed",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.comcast.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"387e0e883ba98958452bdc2d7df0d283c6e5ac3c",
+            "entityID":"https://fed.ccp.xcal.tv",
+            "resourceName":"Xfinity On Campus Fed",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.comcast.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"387e0e883ba98958452bdc2d7df0d283c6e5ac3c",
+            "entityID":"https://fed.ccp.xcal.tv",
+            "resourceName":"Xfinity On Campus Fed",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.comcast.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Smith",
+                    "email":"mailto:Jason_G_Smith@cable.comcast.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

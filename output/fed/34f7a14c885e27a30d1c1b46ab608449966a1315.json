@@ -1,0 +1,131 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"34f7a14c885e27a30d1c1b46ab608449966a1315",
+            "entityID":"https://grouper.idem.garr.it/shibboleth",
+            "resourceName":"IDEM Grouper SP",
+            "resourceProvider":{
+                "name":"Consortium GARR",
+                "displayname":"Grouper provided by Consortium GARR",
+                "url":"http://www.garr.it/b/eng"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"Grouper SP for IDEM provided by GARR",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IDEMHelp",
+                    "email":"mailto:idem-help@garr.it"
+                }
+            ],
+            "info":"https://grouper.idem.garr.it/grouper-sp/en/info.html",
+            "privacy":"https://grouper.idem.garr.it/grouper-sp/en/privacy.html",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"34f7a14c885e27a30d1c1b46ab608449966a1315",
+            "entityID":"https://grouper.idem.garr.it/shibboleth",
+            "resourceName":"IDEM Grouper SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.garr.it/b/eng"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IDEMHelp",
+                    "email":"mailto:idem-help@garr.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"34f7a14c885e27a30d1c1b46ab608449966a1315",
+            "entityID":"https://grouper.idem.garr.it/shibboleth",
+            "resourceName":"IDEM Grouper SP",
+            "resourceProvider":{
+                "name":"Consortium GARR",
+                "displayname":"Grouper erogato da Consortium GARR",
+                "url":"http://www.garr.it/b/eng"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"Grouper SP per IDEM fornito da GARR",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IDEMHelp",
+                    "email":"mailto:idem-help@garr.it"
+                }
+            ],
+            "info":"https://grouper.idem.garr.it/grouper-sp/it/info.html",
+            "privacy":"https://grouper.idem.garr.it/grouper-sp/it/privacy.html",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"34f7a14c885e27a30d1c1b46ab608449966a1315",
+            "entityID":"https://grouper.idem.garr.it/shibboleth",
+            "resourceName":"IDEM Grouper SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.garr.it/b/eng"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IDEMHelp",
+                    "email":"mailto:idem-help@garr.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

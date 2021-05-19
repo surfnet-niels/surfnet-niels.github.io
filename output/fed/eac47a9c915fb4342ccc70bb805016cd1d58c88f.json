@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"eac47a9c915fb4342ccc70bb805016cd1d58c88f",
+            "entityID":"https://csusb.inkcloud.me/sso",
+            "resourceName":"Ink Portal for California State University, San Bernardino",
+            "resourceProvider":{
+                "name":"Ink Labs Inc.",
+                "displayname":"Ink Labs Inc.",
+                "url":"https://inkcloud.me/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"Ink Portal for California State University, San Bernardino",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                }
+            ],
+            "info":"",
+            "privacy":"https://web.inkcloud.me/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"eac47a9c915fb4342ccc70bb805016cd1d58c88f",
+            "entityID":"https://csusb.inkcloud.me/sso",
+            "resourceName":"Ink Portal for California State University, San Bernardino",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://inkcloud.me/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"eac47a9c915fb4342ccc70bb805016cd1d58c88f",
+            "entityID":"https://csusb.inkcloud.me/sso",
+            "resourceName":"Ink Portal for California State University, San Bernardino",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://inkcloud.me/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"eac47a9c915fb4342ccc70bb805016cd1d58c88f",
+            "entityID":"https://csusb.inkcloud.me/sso",
+            "resourceName":"Ink Portal for California State University, San Bernardino",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://inkcloud.me/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support",
+                    "email":"mailto:admin@inkcloud.me"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

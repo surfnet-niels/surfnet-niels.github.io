@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"8b94c234bb4faaafd7fb69906ea689cab2378b81",
+            "entityID":"https://commons.lbl.gov/sp/shibboleth",
+            "resourceName":"Berkeley Lab Commons",
+            "resourceProvider":{
+                "name":"Lawrence Berkeley National Laboratory",
+                "displayname":"Lawrence Berkeley National Laboratory",
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"Berkeley Lab Commons is the Lawrence Berkeley National Laboratory's enterprise wiki (Confluence)",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL IT IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"LBL Collaboration Services Group",
+                    "email":"mailto:collaborate@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"https://commons.lbl.gov/display/itdivision/Commons",
+            "privacy":"https://www.lbl.gov/disclaimers/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"8b94c234bb4faaafd7fb69906ea689cab2378b81",
+            "entityID":"https://commons.lbl.gov/sp/shibboleth",
+            "resourceName":"Berkeley Lab Commons",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL IT IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"LBL Collaboration Services Group",
+                    "email":"mailto:collaborate@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"8b94c234bb4faaafd7fb69906ea689cab2378b81",
+            "entityID":"https://commons.lbl.gov/sp/shibboleth",
+            "resourceName":"Berkeley Lab Commons",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL IT IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"LBL Collaboration Services Group",
+                    "email":"mailto:collaborate@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"8b94c234bb4faaafd7fb69906ea689cab2378b81",
+            "entityID":"https://commons.lbl.gov/sp/shibboleth",
+            "resourceName":"Berkeley Lab Commons",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL IT IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"LBL Collaboration Services Group",
+                    "email":"mailto:collaborate@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

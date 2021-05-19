@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"50b4b1ae946b9e8ecb9539d6e97e2c2142bc7a9e",
+            "entityID":"https://sztaki.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - Hungarian Academy of Science Institute for Computer Science and Control",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"Videotorium site of MTA SZTAKI",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"http://sztaki.videotorium.hu/",
+            "privacy":"http://videotorium.hu/en/privacy",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"50b4b1ae946b9e8ecb9539d6e97e2c2142bc7a9e",
+            "entityID":"https://sztaki.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - Hungarian Academy of Science Institute for Computer Science and Control",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"50b4b1ae946b9e8ecb9539d6e97e2c2142bc7a9e",
+            "entityID":"https://sztaki.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - Hungarian Academy of Science Institute for Computer Science and Control",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"50b4b1ae946b9e8ecb9539d6e97e2c2142bc7a9e",
+            "entityID":"https://sztaki.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - Hungarian Academy of Science Institute for Computer Science and Control",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

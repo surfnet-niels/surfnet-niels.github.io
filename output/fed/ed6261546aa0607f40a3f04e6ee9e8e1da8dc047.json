@@ -1,0 +1,231 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"ed6261546aa0607f40a3f04e6ee9e8e1da8dc047",
+            "entityID":"https://cilogon.org/shibboleth",
+            "resourceName":"CILogon",
+            "resourceProvider":{
+                "name":"University of Illinois at Urbana-Champaign",
+                "displayname":"National Center for Supercomputing Applications",
+                "url":"http://www.ncsa.illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"CILogon facilitates secure access to CyberInfrastructure (CI).",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"support",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"NCSA Security",
+                    "email":"mailto:security@ncsa.illinois.edu"
+                }
+            ],
+            "info":"http://www.cilogon.org/faq",
+            "privacy":"https://ca.cilogon.org/policy/privacy",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ed6261546aa0607f40a3f04e6ee9e8e1da8dc047",
+            "entityID":"https://cilogon.org/shibboleth",
+            "resourceName":"CILogon",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ncsa.illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"support",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"NCSA Security",
+                    "email":"mailto:security@ncsa.illinois.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ed6261546aa0607f40a3f04e6ee9e8e1da8dc047",
+            "entityID":"https://cilogon.org/shibboleth",
+            "resourceName":"CILogon",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ncsa.illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"support",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"NCSA Security",
+                    "email":"mailto:security@ncsa.illinois.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ed6261546aa0607f40a3f04e6ee9e8e1da8dc047",
+            "entityID":"https://cilogon.org/shibboleth",
+            "resourceName":"CILogon",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ncsa.illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"support",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CILogon Support",
+                    "email":"mailto:help@cilogon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"NCSA Security",
+                    "email":"mailto:security@ncsa.illinois.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

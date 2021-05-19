@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"31d3742c78cbbf57fb66da80c3779036d6a79d51",
+            "entityID":"https://jhutickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"JHU / UniversityTickets SSO",
+            "resourceProvider":{
+                "name":"UniversityTickets",
+                "displayname":"UniversityTickets",
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Gordon Capreol",
+                    "email":"mailto:gcapreol@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.universitytickets.com/downloads/privacypolicy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"31d3742c78cbbf57fb66da80c3779036d6a79d51",
+            "entityID":"https://jhutickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"JHU / UniversityTickets SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Gordon Capreol",
+                    "email":"mailto:gcapreol@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"31d3742c78cbbf57fb66da80c3779036d6a79d51",
+            "entityID":"https://jhutickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"JHU / UniversityTickets SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Gordon Capreol",
+                    "email":"mailto:gcapreol@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"31d3742c78cbbf57fb66da80c3779036d6a79d51",
+            "entityID":"https://jhutickets.universitytickets.com/shibboleth-sp",
+            "resourceName":"JHU / UniversityTickets SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://universitytickets.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Gordon Capreol",
+                    "email":"mailto:gcapreol@universitytickets.com"
+                },
+                {
+                    "type":"security",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"UniversityTickets Support",
+                    "email":"mailto:support@universitytickets.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

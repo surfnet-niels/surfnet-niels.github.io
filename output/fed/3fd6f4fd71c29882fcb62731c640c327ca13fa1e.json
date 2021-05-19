@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"3fd6f4fd71c29882fcb62731c640c327ca13fa1e",
+            "entityID":"https://wiki.osris.org",
+            "resourceName":"OSiRIS Wiki",
+            "resourceProvider":{
+                "name":"University of Michigan",
+                "displayname":"University of Michigan",
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"OSiRIS project wiki. OSiRIS is a distributed research data storage platform.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Benjeman Meekhof",
+                    "email":"mailto:bmeekhof@umich.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Benjeman Meekhof",
+                    "email":"mailto:bmeekhof@umich.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Shawn McKee",
+                    "email":"mailto:smckee@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@umich.edu"
+                }
+            ],
+            "info":"http://www.osris.org",
+            "privacy":"http://www.osris.org/privacy.html",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"3fd6f4fd71c29882fcb62731c640c327ca13fa1e",
+            "entityID":"https://wiki.osris.org",
+            "resourceName":"OSiRIS Wiki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Benjeman Meekhof",
+                    "email":"mailto:bmeekhof@umich.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Benjeman Meekhof",
+                    "email":"mailto:bmeekhof@umich.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Shawn McKee",
+                    "email":"mailto:smckee@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"3fd6f4fd71c29882fcb62731c640c327ca13fa1e",
+            "entityID":"https://wiki.osris.org",
+            "resourceName":"OSiRIS Wiki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Benjeman Meekhof",
+                    "email":"mailto:bmeekhof@umich.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Benjeman Meekhof",
+                    "email":"mailto:bmeekhof@umich.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Shawn McKee",
+                    "email":"mailto:smckee@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"3fd6f4fd71c29882fcb62731c640c327ca13fa1e",
+            "entityID":"https://wiki.osris.org",
+            "resourceName":"OSiRIS Wiki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Benjeman Meekhof",
+                    "email":"mailto:bmeekhof@umich.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Benjeman Meekhof",
+                    "email":"mailto:bmeekhof@umich.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Shawn McKee",
+                    "email":"mailto:smckee@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

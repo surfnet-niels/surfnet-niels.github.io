@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"85b57bded6c2c47151fb2e827150b648b9ff28a5",
+            "entityID":"https://proxy.sram.surf.nl/metadata/backend.xml",
+            "resourceName":"SURF Research Access Management",
+            "resourceProvider":{
+                "name":"SURF",
+                "displayname":"SURF",
+                "url":"https://www.surf.nl/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "sn",
+                    "givenName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonOrcid",
+                    "eduPersonAssurance",
+                    "schacHomeOrganization",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"SURF Research Access Management",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                },
+                {
+                    "type":"administrative",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                }
+            ],
+            "info":"https://www.surf.nl/en/surf-research-access-management-collaborating-easily-and-securely-in-research-services",
+            "privacy":"https://wiki.surfnet.nl/display/SRAM/SRAM+-+Privacy+Policy",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"85b57bded6c2c47151fb2e827150b648b9ff28a5",
+            "entityID":"https://proxy.sram.surf.nl/metadata/backend.xml",
+            "resourceName":"SURF Research Access Management",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.surf.nl/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "sn",
+                    "givenName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonOrcid",
+                    "eduPersonAssurance",
+                    "schacHomeOrganization",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                },
+                {
+                    "type":"administrative",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"85b57bded6c2c47151fb2e827150b648b9ff28a5",
+            "entityID":"https://proxy.sram.surf.nl/metadata/backend.xml",
+            "resourceName":"SURF Research Access Management",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.surf.nl/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "sn",
+                    "givenName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonOrcid",
+                    "eduPersonAssurance",
+                    "schacHomeOrganization",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                },
+                {
+                    "type":"administrative",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"85b57bded6c2c47151fb2e827150b648b9ff28a5",
+            "entityID":"https://proxy.sram.surf.nl/metadata/backend.xml",
+            "resourceName":"SURF Research Access Management",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.surf.nl/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "sn",
+                    "givenName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonOrcid",
+                    "eduPersonAssurance",
+                    "schacHomeOrganization",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                },
+                {
+                    "type":"administrative",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"SURF Research Access Management",
+                    "email":"mailto:sram-beheer@surf.nl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

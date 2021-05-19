@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"64d00cc89702c2d058ff3b8eb7f2660e145bc962",
+            "entityID":"https://indico.kfki.hu/shibboleth",
+            "resourceName":"Indico @ Wigner Research Centre for Physics",
+            "resourceProvider":{
+                "name":"Wigner Research Centre for Physics",
+                "displayname":"Wigner Research Centre for Physics",
+                "url":"https://wigner.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Indico @ Wigner Research Centre for Physics",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                }
+            ],
+            "info":"https://indico.kfki.hu/",
+            "privacy":"https://wigner.hu/szhk/wigner-fk-eduid-adatkezelesi-szabalyzata",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"64d00cc89702c2d058ff3b8eb7f2660e145bc962",
+            "entityID":"https://indico.kfki.hu/shibboleth",
+            "resourceName":"Indico @ Wigner Research Centre for Physics",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://wigner.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"64d00cc89702c2d058ff3b8eb7f2660e145bc962",
+            "entityID":"https://indico.kfki.hu/shibboleth",
+            "resourceName":"Indico @ Wigner Research Centre for Physics",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://wigner.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"64d00cc89702c2d058ff3b8eb7f2660e145bc962",
+            "entityID":"https://indico.kfki.hu/shibboleth",
+            "resourceName":"Indico @ Wigner Research Centre for Physics",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://wigner.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Wigner AAIWigner AAI",
+                    "email":"mailto:aai@wigner.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

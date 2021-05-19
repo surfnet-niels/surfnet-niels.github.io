@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"b63287e8ccd5dee24dbe63b176af4f5dba67ab86",
+            "entityID":"https://saml-sp.mtiapp.northwestern.edu/",
+            "resourceName":"Northwestern University Media Technology Innovation",
+            "resourceProvider":{
+                "name":"Northwestern University",
+                "displayname":"Northwestern University",
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "o"
+                ]
+            },
+            "description":"SP for multiple MTI applications",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Sam Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Northwestern Information Security",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://policies.northwestern.edu/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b63287e8ccd5dee24dbe63b176af4f5dba67ab86",
+            "entityID":"https://saml-sp.mtiapp.northwestern.edu/",
+            "resourceName":"Northwestern University Media Technology Innovation",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Sam Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Northwestern Information Security",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b63287e8ccd5dee24dbe63b176af4f5dba67ab86",
+            "entityID":"https://saml-sp.mtiapp.northwestern.edu/",
+            "resourceName":"Northwestern University Media Technology Innovation",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Sam Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Northwestern Information Security",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b63287e8ccd5dee24dbe63b176af4f5dba67ab86",
+            "entityID":"https://saml-sp.mtiapp.northwestern.edu/",
+            "resourceName":"Northwestern University Media Technology Innovation",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Sam Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Northwestern Information Security",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

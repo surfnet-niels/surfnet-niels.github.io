@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"58ea188390d71aa33705d4b0fbc2b99176c277fd",
+            "entityID":"https://ardeas.hampshire.edu/shibboleth",
+            "resourceName":"Dev Five College Compass - Digital Collections",
+            "resourceProvider":{
+                "name":"Hampshire College",
+                "displayname":"Hampshire College",
+                "url":"http://www.hampshire.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"Development server for Five College Compass - Digital Collections",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.hampshire.edu/it/hampshire-college-digital-privacy-statement",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"58ea188390d71aa33705d4b0fbc2b99176c277fd",
+            "entityID":"https://ardeas.hampshire.edu/shibboleth",
+            "resourceName":"Dev Five College Compass - Digital Collections",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.hampshire.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"58ea188390d71aa33705d4b0fbc2b99176c277fd",
+            "entityID":"https://ardeas.hampshire.edu/shibboleth",
+            "resourceName":"Dev Five College Compass - Digital Collections",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.hampshire.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"58ea188390d71aa33705d4b0fbc2b99176c277fd",
+            "entityID":"https://ardeas.hampshire.edu/shibboleth",
+            "resourceName":"Dev Five College Compass - Digital Collections",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.hampshire.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Hampshire College System Administrators",
+                    "email":"mailto:sysadmins@hampshire.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

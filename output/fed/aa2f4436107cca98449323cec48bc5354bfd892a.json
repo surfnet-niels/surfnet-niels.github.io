@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"aa2f4436107cca98449323cec48bc5354bfd892a",
+            "entityID":"https://myla.sit.cloud.unizin.org/shibboleth",
+            "resourceName":"Unizin - My Learning Analytics",
+            "resourceProvider":{
+                "name":"Unizin",
+                "displayname":"Unizin",
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                }
+            ],
+            "info":"https://sites.google.com/umich.edu/my-learning-analytics-help/home/about-myla",
+            "privacy":"https://sites.google.com/umich.edu/my-learning-analytics-help/home/privacy-policy",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"aa2f4436107cca98449323cec48bc5354bfd892a",
+            "entityID":"https://myla.sit.cloud.unizin.org/shibboleth",
+            "resourceName":"Unizin - My Learning Analytics",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"aa2f4436107cca98449323cec48bc5354bfd892a",
+            "entityID":"https://myla.sit.cloud.unizin.org/shibboleth",
+            "resourceName":"Unizin - My Learning Analytics",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"aa2f4436107cca98449323cec48bc5354bfd892a",
+            "entityID":"https://myla.sit.cloud.unizin.org/shibboleth",
+            "resourceName":"Unizin - My Learning Analytics",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

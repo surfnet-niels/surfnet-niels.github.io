@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"b4a3933fa009d2f1c046da18551d91672f47ca08",
+            "entityID":"https://auth.teamworksapp.com/Shibboleth",
+            "resourceName":"Teamworks",
+            "resourceProvider":{
+                "name":"Teamworks Innovations",
+                "displayname":"Teamworks Innovations",
+                "url":"https://www.teamworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"Teamworks is the leading provider of communication and collaboration tools to collegiate and professional athletic organizations.",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                }
+            ],
+            "info":"https://www.teamworks.com",
+            "privacy":"https://www.teamworks.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b4a3933fa009d2f1c046da18551d91672f47ca08",
+            "entityID":"https://auth.teamworksapp.com/Shibboleth",
+            "resourceName":"Teamworks",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.teamworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b4a3933fa009d2f1c046da18551d91672f47ca08",
+            "entityID":"https://auth.teamworksapp.com/Shibboleth",
+            "resourceName":"Teamworks",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.teamworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b4a3933fa009d2f1c046da18551d91672f47ca08",
+            "entityID":"https://auth.teamworksapp.com/Shibboleth",
+            "resourceName":"Teamworks",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.teamworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Team",
+                    "email":"mailto:sso@teamworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

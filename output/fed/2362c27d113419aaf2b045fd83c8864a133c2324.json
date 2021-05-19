@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"2362c27d113419aaf2b045fd83c8864a133c2324",
+            "entityID":"https://proxy.c4e.niif.hu/shibboleth",
+            "resourceName":"Cloud for Education",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"Cloud for Education (Hungarian cloud services for research and education)",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"https://c4e.niif.hu/",
+            "privacy":"https://kifu.gov.hu",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2362c27d113419aaf2b045fd83c8864a133c2324",
+            "entityID":"https://proxy.c4e.niif.hu/shibboleth",
+            "resourceName":"Cloud for Education",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2362c27d113419aaf2b045fd83c8864a133c2324",
+            "entityID":"https://proxy.c4e.niif.hu/shibboleth",
+            "resourceName":"Cloud for Education",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2362c27d113419aaf2b045fd83c8864a133c2324",
+            "entityID":"https://proxy.c4e.niif.hu/shibboleth",
+            "resourceName":"Cloud for Education",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

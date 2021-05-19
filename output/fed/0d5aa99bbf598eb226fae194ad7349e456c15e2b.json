@@ -1,0 +1,163 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"0d5aa99bbf598eb226fae194ad7349e456c15e2b",
+            "entityID":"https://uat.roots.ucop.edu/shibboleth",
+            "resourceName":"Redwood Roots UAT",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"UAT Service Provider for Redwood Roots",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"0d5aa99bbf598eb226fae194ad7349e456c15e2b",
+            "entityID":"https://uat.roots.ucop.edu/shibboleth",
+            "resourceName":"https://uat.roots.ucop.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"0d5aa99bbf598eb226fae194ad7349e456c15e2b",
+            "entityID":"https://uat.roots.ucop.edu/shibboleth",
+            "resourceName":"https://uat.roots.ucop.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"0d5aa99bbf598eb226fae194ad7349e456c15e2b",
+            "entityID":"https://uat.roots.ucop.edu/shibboleth",
+            "resourceName":"https://uat.roots.ucop.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

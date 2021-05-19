@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"082cd8c1bc46fb13ca6b5294400cbf2e9e6d373b",
+            "entityID":"https://eprotocoldev.stanford.edu/",
+            "resourceName":"Stanford eProtocol Relying Dashboard DEV",
+            "resourceProvider":{
+                "name":"Stanford University",
+                "displayname":"Stanford University",
+                "url":"http://www.stanford.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"The Stanford - Research Compliance Office (RCO) is responsible for oversight and management of Stanford’s Administrative (Compliance) Panels and ensures compliance with applicable policies, accreditation standards and external regulations.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"AS Financial Infra",
+                    "email":"mailto:as-fss-infra@lists.stanford.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Team",
+                    "email":"mailto:shibboleth-team@lists.stanford.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Office",
+                    "email":"mailto:securityofficer@stanford.edu"
+                }
+            ],
+            "info":"https://researchcompliance.stanford.edu/",
+            "privacy":"https://www.stanford.edu/site/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"082cd8c1bc46fb13ca6b5294400cbf2e9e6d373b",
+            "entityID":"https://eprotocoldev.stanford.edu/",
+            "resourceName":"Stanford eProtocol Relying Dashboard DEV",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.stanford.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"AS Financial Infra",
+                    "email":"mailto:as-fss-infra@lists.stanford.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Team",
+                    "email":"mailto:shibboleth-team@lists.stanford.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Office",
+                    "email":"mailto:securityofficer@stanford.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"082cd8c1bc46fb13ca6b5294400cbf2e9e6d373b",
+            "entityID":"https://eprotocoldev.stanford.edu/",
+            "resourceName":"Stanford eProtocol Relying Dashboard DEV",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.stanford.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"AS Financial Infra",
+                    "email":"mailto:as-fss-infra@lists.stanford.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Team",
+                    "email":"mailto:shibboleth-team@lists.stanford.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Office",
+                    "email":"mailto:securityofficer@stanford.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"082cd8c1bc46fb13ca6b5294400cbf2e9e6d373b",
+            "entityID":"https://eprotocoldev.stanford.edu/",
+            "resourceName":"Stanford eProtocol Relying Dashboard DEV",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.stanford.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"AS Financial Infra",
+                    "email":"mailto:as-fss-infra@lists.stanford.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Team",
+                    "email":"mailto:shibboleth-team@lists.stanford.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Office",
+                    "email":"mailto:securityofficer@stanford.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

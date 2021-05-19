@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"d73b53e2ee0d79861416979d6d8927a9f59964d8",
+            "entityID":"https://cluster-prod.apps.upenn.edu/shibboleth",
+            "resourceName":"Penn ISC application cluster LCF",
+            "resourceProvider":{
+                "name":"University of Pennsylvania",
+                "displayname":"University of Pennsylvania",
+                "url":"http://www.upenn.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UPenn Information Security",
+                    "email":"mailto:security@isc.upenn.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"http://www.upenn.edu/about/privacy_policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d73b53e2ee0d79861416979d6d8927a9f59964d8",
+            "entityID":"https://cluster-prod.apps.upenn.edu/shibboleth",
+            "resourceName":"Penn ISC application cluster LCF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.upenn.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UPenn Information Security",
+                    "email":"mailto:security@isc.upenn.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d73b53e2ee0d79861416979d6d8927a9f59964d8",
+            "entityID":"https://cluster-prod.apps.upenn.edu/shibboleth",
+            "resourceName":"Penn ISC application cluster LCF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.upenn.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UPenn Information Security",
+                    "email":"mailto:security@isc.upenn.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d73b53e2ee0d79861416979d6d8927a9f59964d8",
+            "entityID":"https://cluster-prod.apps.upenn.edu/shibboleth",
+            "resourceName":"Penn ISC application cluster LCF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.upenn.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UPenn Information Security",
+                    "email":"mailto:security@isc.upenn.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ISC ASTT",
+                    "email":"mailto:astt_idm@lists.upenn.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

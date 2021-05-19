@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"ad7aa3eaf9f161b7f4d71df3b1801270562a684b",
+            "entityID":"https://sso.stage-12twenty.com/sp",
+            "resourceName":"12Twenty SP - Stage (v2)",
+            "resourceProvider":{
+                "name":"12Twenty Inc.",
+                "displayname":"12Twenty Inc.",
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"12Twenty Service Provider for Stage environment (v2)",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"https://www.12twenty.com",
+            "privacy":"https://www.12twenty.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ad7aa3eaf9f161b7f4d71df3b1801270562a684b",
+            "entityID":"https://sso.stage-12twenty.com/sp",
+            "resourceName":"12Twenty SP - Stage (v2)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ad7aa3eaf9f161b7f4d71df3b1801270562a684b",
+            "entityID":"https://sso.stage-12twenty.com/sp",
+            "resourceName":"12Twenty SP - Stage (v2)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ad7aa3eaf9f161b7f4d71df3b1801270562a684b",
+            "entityID":"https://sso.stage-12twenty.com/sp",
+            "resourceName":"12Twenty SP - Stage (v2)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Admin Team",
+                    "email":"mailto:devadminteam@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

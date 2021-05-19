@@ -1,0 +1,123 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"b79521da3a7bfa0d6d252fedaa65cfc42d93b3bf",
+            "entityID":"https://www.torrossa.com/shibboleth",
+            "resourceName":"Casalini Libri",
+            "resourceProvider":{
+                "name":"Casalini Libri",
+                "displayname":"Torrossa full text platform provided by Casalini Libri",
+                "url":"http://www.casalini.it?lingua=ENG"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Casalini Libri's full text platform",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CEDCasalini",
+                    "email":"mailto:ced@casalini.it"
+                }
+            ],
+            "info":"http://www.casalini.it/torrossa/privacy_shibboleth.asp?LINGUA=ING",
+            "privacy":"http://www.casalini.it/torrossa/privacy_shibboleth.asp?LINGUA=ING",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b79521da3a7bfa0d6d252fedaa65cfc42d93b3bf",
+            "entityID":"https://www.torrossa.com/shibboleth",
+            "resourceName":"Casalini Libri",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.casalini.it?lingua=ENG"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"La plateforme fulltext de Casalini Libri",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CEDCasalini",
+                    "email":"mailto:ced@casalini.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b79521da3a7bfa0d6d252fedaa65cfc42d93b3bf",
+            "entityID":"https://www.torrossa.com/shibboleth",
+            "resourceName":"Casalini Libri",
+            "resourceProvider":{
+                "name":"Casalini Libri",
+                "displayname":"Torrossa full text platform erogato da Casalini Libri",
+                "url":"http://www.casalini.it?lingua=ENG"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"La piattaforma full text di Casalini Libri",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CEDCasalini",
+                    "email":"mailto:ced@casalini.it"
+                }
+            ],
+            "info":"http://www.casalini.it/torrossa/privacy_shibboleth.asp?LINGUA=ITA",
+            "privacy":"http://www.casalini.it/torrossa/privacy_shibboleth.asp?LINGUA=ITA",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b79521da3a7bfa0d6d252fedaa65cfc42d93b3bf",
+            "entityID":"https://www.torrossa.com/shibboleth",
+            "resourceName":"Casalini Libri",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.casalini.it?lingua=ENG"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Casalini Libris Volltext-Plattform",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CEDCasalini",
+                    "email":"mailto:ced@casalini.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

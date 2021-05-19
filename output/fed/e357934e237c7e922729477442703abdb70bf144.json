@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"e357934e237c7e922729477442703abdb70bf144",
+            "entityID":"https://dev.repropedia.org/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"Acquia Dev",
+            "resourceProvider":{
+                "name":"Northwestern University",
+                "displayname":"Northwestern University",
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Acquia Dev",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Northwestern Information Security",
+                    "email":"mailto:security@northwestern.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Samuel Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.it.northwestern.edu/policies/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e357934e237c7e922729477442703abdb70bf144",
+            "entityID":"https://dev.repropedia.org/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://dev.repropedia.org/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Northwestern Information Security",
+                    "email":"mailto:security@northwestern.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Samuel Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e357934e237c7e922729477442703abdb70bf144",
+            "entityID":"https://dev.repropedia.org/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://dev.repropedia.org/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Northwestern Information Security",
+                    "email":"mailto:security@northwestern.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Samuel Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e357934e237c7e922729477442703abdb70bf144",
+            "entityID":"https://dev.repropedia.org/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://dev.repropedia.org/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Northwestern Information Security",
+                    "email":"mailto:security@northwestern.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Samuel Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

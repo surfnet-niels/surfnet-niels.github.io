@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"66b3fd58d30b2f4ac3020cc73e61ac284718192f",
+            "entityID":"https://cert-manager.com/shibboleth",
+            "resourceName":"Sectigo Certificate Manager",
+            "resourceProvider":{
+                "name":"Sectigo",
+                "displayname":"Sectigo",
+                "url":"https://sectigo.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "schacHomeOrganization",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                }
+            ],
+            "info":"https://sectigo.com/enterprise/sectigo-certificate-manager",
+            "privacy":"https://sectigo.com/privacy-portal",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"66b3fd58d30b2f4ac3020cc73e61ac284718192f",
+            "entityID":"https://cert-manager.com/shibboleth",
+            "resourceName":"Sectigo Certificate Manager",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://sectigo.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "schacHomeOrganization",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"66b3fd58d30b2f4ac3020cc73e61ac284718192f",
+            "entityID":"https://cert-manager.com/shibboleth",
+            "resourceName":"Sectigo Certificate Manager",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://sectigo.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "schacHomeOrganization",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"66b3fd58d30b2f4ac3020cc73e61ac284718192f",
+            "entityID":"https://cert-manager.com/shibboleth",
+            "resourceName":"Sectigo Certificate Manager",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://sectigo.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "schacHomeOrganization",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Alexey Pavlenko",
+                    "email":"mailto:samlcontact@sectigo.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

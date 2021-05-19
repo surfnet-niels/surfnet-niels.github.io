@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"0774e04ac67a3f11eec4168f3c2f2989bbda1990",
+            "entityID":"https://www.dev-overleaf.com/saml/ukamf/sp/entity",
+            "resourceName":"Overleaf (Development / Test)",
+            "resourceProvider":{
+                "name":"Writelatex Limited",
+                "displayname":"Overleaf (Development / Test)",
+                "url":"https://www.dev-overleaf.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "sn",
+                    "eduPersonOrgDN",
+                    "eduPersonOrgUnitDN",
+                    "eduPersonOrcid",
+                    "preferredLanguage"
+                ]
+            },
+            "description":"(Development / Test Environment) The easy to use, online, collaborative LaTeX editor.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Overleaf Support",
+                    "email":"mailto:support@overleaf.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Overleaf Support",
+                    "email":"mailto:support@overleaf.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"0774e04ac67a3f11eec4168f3c2f2989bbda1990",
+            "entityID":"https://www.dev-overleaf.com/saml/ukamf/sp/entity",
+            "resourceName":"Overleaf (Development / Test)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dev-overleaf.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "sn",
+                    "eduPersonOrgDN",
+                    "eduPersonOrgUnitDN",
+                    "eduPersonOrcid",
+                    "preferredLanguage"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Overleaf Support",
+                    "email":"mailto:support@overleaf.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Overleaf Support",
+                    "email":"mailto:support@overleaf.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"0774e04ac67a3f11eec4168f3c2f2989bbda1990",
+            "entityID":"https://www.dev-overleaf.com/saml/ukamf/sp/entity",
+            "resourceName":"Overleaf (Development / Test)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dev-overleaf.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "sn",
+                    "eduPersonOrgDN",
+                    "eduPersonOrgUnitDN",
+                    "eduPersonOrcid",
+                    "preferredLanguage"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Overleaf Support",
+                    "email":"mailto:support@overleaf.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Overleaf Support",
+                    "email":"mailto:support@overleaf.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"0774e04ac67a3f11eec4168f3c2f2989bbda1990",
+            "entityID":"https://www.dev-overleaf.com/saml/ukamf/sp/entity",
+            "resourceName":"Overleaf (Development / Test)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dev-overleaf.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "sn",
+                    "eduPersonOrgDN",
+                    "eduPersonOrgUnitDN",
+                    "eduPersonOrcid",
+                    "preferredLanguage"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Overleaf Support",
+                    "email":"mailto:support@overleaf.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Overleaf Support",
+                    "email":"mailto:support@overleaf.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

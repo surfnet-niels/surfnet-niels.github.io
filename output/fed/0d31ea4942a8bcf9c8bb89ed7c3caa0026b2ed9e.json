@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"0d31ea4942a8bcf9c8bb89ed7c3caa0026b2ed9e",
+            "entityID":"https://heurisztika.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - heurisztika",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"VIDEOTORIUM - heurisztika",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"https://heurisztika.videotorium.hu/",
+            "privacy":"http://videotorium.hu/hu/adatkezelesi",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"0d31ea4942a8bcf9c8bb89ed7c3caa0026b2ed9e",
+            "entityID":"https://heurisztika.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - heurisztika",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"0d31ea4942a8bcf9c8bb89ed7c3caa0026b2ed9e",
+            "entityID":"https://heurisztika.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - heurisztika",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"0d31ea4942a8bcf9c8bb89ed7c3caa0026b2ed9e",
+            "entityID":"https://heurisztika.videotorium.hu/shibboleth",
+            "resourceName":"VIDEOTORIUM - heurisztika",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Videotorium AdminVideotorium Admin",
+                    "email":"mailto:admin@videotorium.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

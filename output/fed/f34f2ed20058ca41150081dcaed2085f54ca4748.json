@@ -1,0 +1,155 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f34f2ed20058ca41150081dcaed2085f54ca4748",
+            "entityID":"https://noec.release-check.edugain.org/shibboleth",
+            "resourceName":"EARC - No Entity Category Test",
+            "resourceProvider":{
+                "name":"Greek Research and Technology Network - GRNET",
+                "displayname":"Greek Research and Technology Network - GRNET",
+                "url":"https://grnet.gr/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"EARC - No Entity Category Test",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                }
+            ],
+            "info":"https://release-check.edugain.org/",
+            "privacy":"https://release-check.edugain.org/privacy",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f34f2ed20058ca41150081dcaed2085f54ca4748",
+            "entityID":"https://noec.release-check.edugain.org/shibboleth",
+            "resourceName":"EARC - No Entity Category Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://grnet.gr/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f34f2ed20058ca41150081dcaed2085f54ca4748",
+            "entityID":"https://noec.release-check.edugain.org/shibboleth",
+            "resourceName":"EARC - No Entity Category Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://grnet.gr/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f34f2ed20058ca41150081dcaed2085f54ca4748",
+            "entityID":"https://noec.release-check.edugain.org/shibboleth",
+            "resourceName":"EARC - No Entity Category Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://grnet.gr/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduGAIN SupportTeam",
+                    "email":"mailto:support@edugain.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

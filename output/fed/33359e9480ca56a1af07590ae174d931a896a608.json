@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"33359e9480ca56a1af07590ae174d931a896a608",
+            "entityID":"https://va-testing.datacommons.io/login/cognito",
+            "resourceName":"Gen3 VA+InCommon Test",
+            "resourceProvider":{
+                "name":"Open Commons Consortium (OCC)",
+                "displayname":"Open Commons Consortium (OCC)",
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"Gen3 VA+InCommon Test",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Leah Salvatore",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Fantix King",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Reuben Pasquini",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                }
+            ],
+            "info":"https://gen3.org",
+            "privacy":"https://gen3.org",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"33359e9480ca56a1af07590ae174d931a896a608",
+            "entityID":"https://va-testing.datacommons.io/login/cognito",
+            "resourceName":"Gen3 VA+InCommon Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Leah Salvatore",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Fantix King",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Reuben Pasquini",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"33359e9480ca56a1af07590ae174d931a896a608",
+            "entityID":"https://va-testing.datacommons.io/login/cognito",
+            "resourceName":"Gen3 VA+InCommon Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Leah Salvatore",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Fantix King",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Reuben Pasquini",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"33359e9480ca56a1af07590ae174d931a896a608",
+            "entityID":"https://va-testing.datacommons.io/login/cognito",
+            "resourceName":"Gen3 VA+InCommon Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Leah Salvatore",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Fantix King",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Reuben Pasquini",
+                    "email":"mailto:planx-devops@lists.uchicago.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

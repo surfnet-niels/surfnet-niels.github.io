@@ -1,0 +1,219 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"ef437380dbbbe0307b3a465279dd94394d330f6f",
+            "entityID":"https://dash-stg.cdlib.org/shibboleth",
+            "resourceName":"Dryad Stage Instance",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Dryad Stage Test Instance  - Dryad makes research data discoverable, freely reusable, and citable.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Daniella Lowenberg",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                }
+            ],
+            "info":"https://dryad-stg.cdlib.org/stash/our_mission",
+            "privacy":"https://cdlib.org/about/policies-and-guidelines/privacy-policy/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ef437380dbbbe0307b3a465279dd94394d330f6f",
+            "entityID":"https://dash-stg.cdlib.org/shibboleth",
+            "resourceName":"Dryad Stage Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Daniella Lowenberg",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ef437380dbbbe0307b3a465279dd94394d330f6f",
+            "entityID":"https://dash-stg.cdlib.org/shibboleth",
+            "resourceName":"Dryad Stage Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Daniella Lowenberg",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ef437380dbbbe0307b3a465279dd94394d330f6f",
+            "entityID":"https://dash-stg.cdlib.org/shibboleth",
+            "resourceName":"Dryad Stage Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Daniella Lowenberg",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,223 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"949b607cedd0365d203cd39fc05a49eed2582b90",
+            "entityID":"https://gw-astronomy.org/shibboleth-sp",
+            "resourceName":"Gravitational Wave Astronomy Community Registry",
+            "resourceProvider":{
+                "name":"University of Wisconsin-Milwaukee",
+                "displayname":"University of Wisconsin-Milwaukee",
+                "url":"http://www.uwm.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Gravitational Wave Astronomy Community Registry used to support collaboration across astronomy and astrophysics projects.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Warren Anderson",
+                    "email":"mailto:anders15@uwm.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Manske",
+                    "email":"mailto:manskema@uwm.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UWM CGCA Admins",
+                    "email":"mailto:cgca-admins@uwm.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"LIGO Scientific Collaboration Security Committee",
+                    "email":"mailto:lsc-seccomm@ligo.org"
+                }
+            ],
+            "info":"https://gw-astronomy.org/registry/pages/public/sp_info",
+            "privacy":"https://gw-astronomy.org/registry/pages/public/privacy_info",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"949b607cedd0365d203cd39fc05a49eed2582b90",
+            "entityID":"https://gw-astronomy.org/shibboleth-sp",
+            "resourceName":"Gravitational Wave Astronomy Community Registry",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uwm.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Warren Anderson",
+                    "email":"mailto:anders15@uwm.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Manske",
+                    "email":"mailto:manskema@uwm.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UWM CGCA Admins",
+                    "email":"mailto:cgca-admins@uwm.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"LIGO Scientific Collaboration Security Committee",
+                    "email":"mailto:lsc-seccomm@ligo.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"949b607cedd0365d203cd39fc05a49eed2582b90",
+            "entityID":"https://gw-astronomy.org/shibboleth-sp",
+            "resourceName":"Gravitational Wave Astronomy Community Registry",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uwm.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Warren Anderson",
+                    "email":"mailto:anders15@uwm.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Manske",
+                    "email":"mailto:manskema@uwm.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UWM CGCA Admins",
+                    "email":"mailto:cgca-admins@uwm.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"LIGO Scientific Collaboration Security Committee",
+                    "email":"mailto:lsc-seccomm@ligo.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"949b607cedd0365d203cd39fc05a49eed2582b90",
+            "entityID":"https://gw-astronomy.org/shibboleth-sp",
+            "resourceName":"Gravitational Wave Astronomy Community Registry",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uwm.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Warren Anderson",
+                    "email":"mailto:anders15@uwm.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Manske",
+                    "email":"mailto:manskema@uwm.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UWM CGCA Admins",
+                    "email":"mailto:cgca-admins@uwm.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"LIGO Scientific Collaboration Security Committee",
+                    "email":"mailto:lsc-seccomm@ligo.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

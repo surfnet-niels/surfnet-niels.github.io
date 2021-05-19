@@ -1,0 +1,139 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"3aac53e8d5d0aa3268cce42c20d6a3ad81aa3524",
+            "entityID":"https://idp.csp.it/sp/shibboleth",
+            "resourceName":"WiFi Tower CSP",
+            "resourceProvider":{
+                "name":"CSP - innovation in ICT",
+                "displayname":"WiFi Tower provided by CSP",
+                "url":"http://www.csp.it/?lang=en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "email",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"Access to WiFi Tower provided by CSP",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SystemSupport",
+                    "email":"mailto:info-idem@csp.it"
+                }
+            ],
+            "info":"http://www.csp.it/federation/?lang=en",
+            "privacy":"http://www.csp.it/federation/?lang=en",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"3aac53e8d5d0aa3268cce42c20d6a3ad81aa3524",
+            "entityID":"https://idp.csp.it/sp/shibboleth",
+            "resourceName":"WiFi Tower CSP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.csp.it/?lang=en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "email",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SystemSupport",
+                    "email":"mailto:info-idem@csp.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"3aac53e8d5d0aa3268cce42c20d6a3ad81aa3524",
+            "entityID":"https://idp.csp.it/sp/shibboleth",
+            "resourceName":"WiFi Tower CSP",
+            "resourceProvider":{
+                "name":"CSP - innovazione nelle ICT",
+                "displayname":"WiFi Tower erogata da CSP",
+                "url":"http://www.csp.it/?lang=en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "email",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"Accesso alla rete WiFi Tower erogata da CSP",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SystemSupport",
+                    "email":"mailto:info-idem@csp.it"
+                }
+            ],
+            "info":"http://www.csp.it/federation/",
+            "privacy":"http://www.csp.it/federation/",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"3aac53e8d5d0aa3268cce42c20d6a3ad81aa3524",
+            "entityID":"https://idp.csp.it/sp/shibboleth",
+            "resourceName":"WiFi Tower CSP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.csp.it/?lang=en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "email",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SystemSupport",
+                    "email":"mailto:info-idem@csp.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

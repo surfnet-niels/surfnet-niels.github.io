@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"554a0f2284e344a7bb382d268ae08ad39bf33470",
+            "entityID":"https://moodle.up2u.kifu.hu/shibboleth",
+            "resourceName":"Moodle Up2U KIFÜ",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Moodle Up2U KIFÜ",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                }
+            ],
+            "info":"https://moodle.up2u.kifu.hu",
+            "privacy":"https://moodle.up2u.kifu.hu",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"554a0f2284e344a7bb382d268ae08ad39bf33470",
+            "entityID":"https://moodle.up2u.kifu.hu/shibboleth",
+            "resourceName":"Moodle Up2U KIFÜ",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"554a0f2284e344a7bb382d268ae08ad39bf33470",
+            "entityID":"https://moodle.up2u.kifu.hu/shibboleth",
+            "resourceName":"Moodle Up2U KIFÜ",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"554a0f2284e344a7bb382d268ae08ad39bf33470",
+            "entityID":"https://moodle.up2u.kifu.hu/shibboleth",
+            "resourceName":"Moodle Up2U KIFÜ",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tóth AndrásTóth András",
+                    "email":"mailto:toth.andras@kifu.gov.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

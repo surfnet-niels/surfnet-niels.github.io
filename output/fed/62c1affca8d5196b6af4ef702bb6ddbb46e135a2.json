@@ -1,0 +1,123 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"62c1affca8d5196b6af4ef702bb6ddbb46e135a2",
+            "entityID":"https://nous.nins.jp/shibboleth-sp",
+            "resourceName":"NINS Open Use System",
+            "resourceProvider":{
+                "name":"Inter-University Research Institute Corporation National Institutes of Natural Sciences",
+                "displayname":"NINS Open Use System",
+                "url":"http://www.nins.jp/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"NOUS is the database system to operate Open Use in the National Institutes of Natural Sciences (NINS).",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Research Support Section",
+                    "email":"mailto:nteam@nins.jp"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"62c1affca8d5196b6af4ef702bb6ddbb46e135a2",
+            "entityID":"https://nous.nins.jp/shibboleth-sp",
+            "resourceName":"NINS Open Use System",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.nins.jp/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Research Support Section",
+                    "email":"mailto:nteam@nins.jp"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"62c1affca8d5196b6af4ef702bb6ddbb46e135a2",
+            "entityID":"https://nous.nins.jp/shibboleth-sp",
+            "resourceName":"NINS Open Use System",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.nins.jp/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Research Support Section",
+                    "email":"mailto:nteam@nins.jp"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"62c1affca8d5196b6af4ef702bb6ddbb46e135a2",
+            "entityID":"https://nous.nins.jp/shibboleth-sp",
+            "resourceName":"NINS Open Use System",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.nins.jp/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Research Support Section",
+                    "email":"mailto:nteam@nins.jp"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f006eaa165455968b20259fdfe2b9eab55f6e78b",
+            "entityID":"https://wiki-cswarm.crc.nd.edu/shibboleth",
+            "resourceName":"CSWARM Wiki Instance",
+            "resourceProvider":{
+                "name":"University of Notre Dame",
+                "displayname":"University of Notre Dame",
+                "url":"http://www.nd.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"The Wiki server used by the C-SWARM project.  Developers use it for reporting on their progress of their tasks and to collaborate.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Antelmo Aguilar",
+                    "email":"mailto:aaguilar@nd.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Scott Hampton",
+                    "email":"mailto:shampton@nd.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"OIT Info Security",
+                    "email":"mailto:infosec@nd.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://policy.nd.edu",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f006eaa165455968b20259fdfe2b9eab55f6e78b",
+            "entityID":"https://wiki-cswarm.crc.nd.edu/shibboleth",
+            "resourceName":"CSWARM Wiki Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.nd.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Antelmo Aguilar",
+                    "email":"mailto:aaguilar@nd.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Scott Hampton",
+                    "email":"mailto:shampton@nd.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"OIT Info Security",
+                    "email":"mailto:infosec@nd.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f006eaa165455968b20259fdfe2b9eab55f6e78b",
+            "entityID":"https://wiki-cswarm.crc.nd.edu/shibboleth",
+            "resourceName":"CSWARM Wiki Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.nd.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Antelmo Aguilar",
+                    "email":"mailto:aaguilar@nd.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Scott Hampton",
+                    "email":"mailto:shampton@nd.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"OIT Info Security",
+                    "email":"mailto:infosec@nd.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f006eaa165455968b20259fdfe2b9eab55f6e78b",
+            "entityID":"https://wiki-cswarm.crc.nd.edu/shibboleth",
+            "resourceName":"CSWARM Wiki Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.nd.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Antelmo Aguilar",
+                    "email":"mailto:aaguilar@nd.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Scott Hampton",
+                    "email":"mailto:shampton@nd.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"OIT Info Security",
+                    "email":"mailto:infosec@nd.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

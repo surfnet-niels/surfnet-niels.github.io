@@ -1,0 +1,251 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"1ce9fca4efdcccc965e27fa265dcc3f54a6387fb",
+            "entityID":"https://proxy.acc.erasmus.eduteams.org/metadata/backend.xml",
+            "resourceName":"MyAcademicID IAM Service",
+            "resourceProvider":{
+                "name":"GEANT",
+                "displayname":"GEANT",
+                "url":"https://www.geant.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonTargetedID",
+                    "schacPersonalUniqueCode",
+                    "eduPersonOrcid",
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization",
+                    "eduPersonAssurance"
+                ],
+                "requested":[]
+            },
+            "description":"The MyAcademicID IAM Service provides Identity and Federated access management for the services of the European Student Card Initiative and the services directly supporting the digitisation of Erasmus+. The MyAcademicID IAM Service is provided by GÉANT using the eduTEAMS service.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"security",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                }
+            ],
+            "info":"https://wiki.geant.org/display/SM/MyAcademicID+Identity+and+Access+Management+Service",
+            "privacy":"https://wiki.geant.org/display/SM/Privacy+Notice",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1ce9fca4efdcccc965e27fa265dcc3f54a6387fb",
+            "entityID":"https://proxy.acc.erasmus.eduteams.org/metadata/backend.xml",
+            "resourceName":"MyAcademicID IAM Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.geant.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonTargetedID",
+                    "schacPersonalUniqueCode",
+                    "eduPersonOrcid",
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization",
+                    "eduPersonAssurance"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"security",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1ce9fca4efdcccc965e27fa265dcc3f54a6387fb",
+            "entityID":"https://proxy.acc.erasmus.eduteams.org/metadata/backend.xml",
+            "resourceName":"MyAcademicID IAM Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.geant.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonTargetedID",
+                    "schacPersonalUniqueCode",
+                    "eduPersonOrcid",
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization",
+                    "eduPersonAssurance"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"security",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1ce9fca4efdcccc965e27fa265dcc3f54a6387fb",
+            "entityID":"https://proxy.acc.erasmus.eduteams.org/metadata/backend.xml",
+            "resourceName":"MyAcademicID IAM Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.geant.org"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonTargetedID",
+                    "schacPersonalUniqueCode",
+                    "eduPersonOrcid",
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization",
+                    "eduPersonAssurance"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"support",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                },
+                {
+                    "type":"security",
+                    "name":"eduTEAMS Support",
+                    "email":"mailto:support+geant_erasmus@eduteams.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

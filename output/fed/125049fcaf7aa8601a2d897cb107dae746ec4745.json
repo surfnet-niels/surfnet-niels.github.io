@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"125049fcaf7aa8601a2d897cb107dae746ec4745",
+            "entityID":"https://eductest.pte.hu/simplesaml/module.php/saml/sp/metadata.php/eductest",
+            "resourceName":"EDUC Moodle Test",
+            "resourceProvider":{
+                "name":"University of Pécs",
+                "displayname":"University of Pécs",
+                "url":"http://english.pte.hu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "preferredLanguage",
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "niifPersonOrgID",
+                    "displayName",
+                    "niifEduPersonAttendedCourse",
+                    "eduPersonScopedAffiliation",
+                    "jpegPhoto",
+                    "OrganizationName"
+                ]
+            },
+            "description":"Moodle test for EDUC project",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Dékány PéterDékány Péter",
+                    "email":"mailto:dekany.peter@pte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Laufer TillaLaufer Tilla",
+                    "email":"mailto:laufer.tilla@pte.hu"
+                }
+            ],
+            "info":"https://eductest.pte.hu",
+            "privacy":"https://eductest.pte.hu",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"125049fcaf7aa8601a2d897cb107dae746ec4745",
+            "entityID":"https://eductest.pte.hu/simplesaml/module.php/saml/sp/metadata.php/eductest",
+            "resourceName":"EDUC Moodle Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://english.pte.hu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "preferredLanguage",
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "niifPersonOrgID",
+                    "displayName",
+                    "niifEduPersonAttendedCourse",
+                    "eduPersonScopedAffiliation",
+                    "jpegPhoto",
+                    "OrganizationName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Dékány PéterDékány Péter",
+                    "email":"mailto:dekany.peter@pte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Laufer TillaLaufer Tilla",
+                    "email":"mailto:laufer.tilla@pte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"125049fcaf7aa8601a2d897cb107dae746ec4745",
+            "entityID":"https://eductest.pte.hu/simplesaml/module.php/saml/sp/metadata.php/eductest",
+            "resourceName":"EDUC Moodle Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://english.pte.hu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "preferredLanguage",
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "niifPersonOrgID",
+                    "displayName",
+                    "niifEduPersonAttendedCourse",
+                    "eduPersonScopedAffiliation",
+                    "jpegPhoto",
+                    "OrganizationName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Dékány PéterDékány Péter",
+                    "email":"mailto:dekany.peter@pte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Laufer TillaLaufer Tilla",
+                    "email":"mailto:laufer.tilla@pte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"125049fcaf7aa8601a2d897cb107dae746ec4745",
+            "entityID":"https://eductest.pte.hu/simplesaml/module.php/saml/sp/metadata.php/eductest",
+            "resourceName":"EDUC Moodle Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://english.pte.hu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "preferredLanguage",
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "niifPersonOrgID",
+                    "displayName",
+                    "niifEduPersonAttendedCourse",
+                    "eduPersonScopedAffiliation",
+                    "jpegPhoto",
+                    "OrganizationName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Dékány PéterDékány Péter",
+                    "email":"mailto:dekany.peter@pte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Laufer TillaLaufer Tilla",
+                    "email":"mailto:laufer.tilla@pte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"b59aa0fcc5fb03c35222a2998efdf14903cefe4c",
+            "entityID":"https://baylor.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Blogs @ Baylor University",
+            "resourceProvider":{
+                "name":"Edublogs",
+                "displayname":"Edublogs",
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub Sysadmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://incsub.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b59aa0fcc5fb03c35222a2998efdf14903cefe4c",
+            "entityID":"https://baylor.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Blogs @ Baylor University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub Sysadmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b59aa0fcc5fb03c35222a2998efdf14903cefe4c",
+            "entityID":"https://baylor.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Blogs @ Baylor University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub Sysadmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b59aa0fcc5fb03c35222a2998efdf14903cefe4c",
+            "entityID":"https://baylor.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Blogs @ Baylor University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub Sysadmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

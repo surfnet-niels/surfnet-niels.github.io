@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"a436bda326aff245c742550ea248c4f823383ffe",
+            "entityID":"http://adfsgw.canarie.ca/adfs/services/trust",
+            "resourceName":"CANARIE Collaboration Gateway",
+            "resourceProvider":{
+                "name":"CANARIE",
+                "displayname":"CANARIE - Canada&#039;s Advanced Research and Innovation Network",
+                "url":"http://www.canarie.ca/en/about/aboutus"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "commonName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"Powered by Canadian Access Federation.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Network Operations Center",
+                    "email":"mailto:noc@canarie.ca"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CANARIE IT",
+                    "email":"mailto:canarieit@canarie.ca"
+                },
+                {
+                    "type":"support",
+                    "name":"CANARIE IT",
+                    "email":"mailto:canarieit@canarie.ca"
+                },
+                {
+                    "type":"security",
+                    "name":"CyberSecurity",
+                    "email":"mailto:cybersecurity@canarie.ca"
+                }
+            ],
+            "info":"https://tts.canarie.ca/otrs/public.pl?Action=PublicFAQZoom;ItemID=22",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a436bda326aff245c742550ea248c4f823383ffe",
+            "entityID":"http://adfsgw.canarie.ca/adfs/services/trust",
+            "resourceName":"Le portail des contenus sécurisés de CANARIE",
+            "resourceProvider":{
+                "name":"CANARIE",
+                "displayname":"CANARIE - Le réseau évolué de recherche et d&#039;innovation du Canada",
+                "url":"http://www.canarie.ca/en/about/aboutus"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "commonName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"Alimenté par la fédération canadienne d’accès.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Network Operations Center",
+                    "email":"mailto:noc@canarie.ca"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CANARIE IT",
+                    "email":"mailto:canarieit@canarie.ca"
+                },
+                {
+                    "type":"support",
+                    "name":"CANARIE IT",
+                    "email":"mailto:canarieit@canarie.ca"
+                },
+                {
+                    "type":"security",
+                    "name":"CyberSecurity",
+                    "email":"mailto:cybersecurity@canarie.ca"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a436bda326aff245c742550ea248c4f823383ffe",
+            "entityID":"http://adfsgw.canarie.ca/adfs/services/trust",
+            "resourceName":"CANARIE Collaboration Gateway",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.canarie.ca/en/about/aboutus"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "commonName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Network Operations Center",
+                    "email":"mailto:noc@canarie.ca"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CANARIE IT",
+                    "email":"mailto:canarieit@canarie.ca"
+                },
+                {
+                    "type":"support",
+                    "name":"CANARIE IT",
+                    "email":"mailto:canarieit@canarie.ca"
+                },
+                {
+                    "type":"security",
+                    "name":"CyberSecurity",
+                    "email":"mailto:cybersecurity@canarie.ca"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a436bda326aff245c742550ea248c4f823383ffe",
+            "entityID":"http://adfsgw.canarie.ca/adfs/services/trust",
+            "resourceName":"CANARIE Collaboration Gateway",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.canarie.ca/en/about/aboutus"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "commonName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Network Operations Center",
+                    "email":"mailto:noc@canarie.ca"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CANARIE IT",
+                    "email":"mailto:canarieit@canarie.ca"
+                },
+                {
+                    "type":"support",
+                    "name":"CANARIE IT",
+                    "email":"mailto:canarieit@canarie.ca"
+                },
+                {
+                    "type":"security",
+                    "name":"CyberSecurity",
+                    "email":"mailto:cybersecurity@canarie.ca"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

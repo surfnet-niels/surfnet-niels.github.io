@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f3006783a210018192e70ef1367fb024800918fa",
+            "entityID":"https://sso.dcri.org/sp",
+            "resourceName":"DCRI Authentication Proxy",
+            "resourceProvider":{
+                "name":"Cirrus Identity, Inc.",
+                "displayname":"Cirrus Identity, Inc.",
+                "url":"http://cirrusidentity.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"DCRI Authentication Proxy",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Dedra Chamberlin",
+                    "email":"mailto:dedra@cirrusidentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cirrus Identity Support",
+                    "email":"mailto:support@cirrusidentity.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Cirrus Identity Security",
+                    "email":"mailto:security@cirrusidentity.com"
+                }
+            ],
+            "info":"https://dcri.org/about/at-a-glance/",
+            "privacy":"https://www.cirrusidentity.com/privacy-policy",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f3006783a210018192e70ef1367fb024800918fa",
+            "entityID":"https://sso.dcri.org/sp",
+            "resourceName":"DCRI Authentication Proxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://cirrusidentity.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Dedra Chamberlin",
+                    "email":"mailto:dedra@cirrusidentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cirrus Identity Support",
+                    "email":"mailto:support@cirrusidentity.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Cirrus Identity Security",
+                    "email":"mailto:security@cirrusidentity.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f3006783a210018192e70ef1367fb024800918fa",
+            "entityID":"https://sso.dcri.org/sp",
+            "resourceName":"DCRI Authentication Proxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://cirrusidentity.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Dedra Chamberlin",
+                    "email":"mailto:dedra@cirrusidentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cirrus Identity Support",
+                    "email":"mailto:support@cirrusidentity.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Cirrus Identity Security",
+                    "email":"mailto:security@cirrusidentity.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f3006783a210018192e70ef1367fb024800918fa",
+            "entityID":"https://sso.dcri.org/sp",
+            "resourceName":"DCRI Authentication Proxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://cirrusidentity.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Dedra Chamberlin",
+                    "email":"mailto:dedra@cirrusidentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cirrus Identity Support",
+                    "email":"mailto:support@cirrusidentity.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Cirrus Identity Security",
+                    "email":"mailto:security@cirrusidentity.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

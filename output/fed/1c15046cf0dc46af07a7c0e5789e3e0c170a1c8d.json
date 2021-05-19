@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"1c15046cf0dc46af07a7c0e5789e3e0c170a1c8d",
+            "entityID":"https://nuq.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":"Stellic Inc",
+                "displayname":"Stellic Inc",
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.stellic.com",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1c15046cf0dc46af07a7c0e5789e3e0c170a1c8d",
+            "entityID":"https://nuq.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1c15046cf0dc46af07a7c0e5789e3e0c170a1c8d",
+            "entityID":"https://nuq.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1c15046cf0dc46af07a7c0e5789e3e0c170a1c8d",
+            "entityID":"https://nuq.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jiyda Moussa",
+                    "email":"mailto:jiyda@stellic.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

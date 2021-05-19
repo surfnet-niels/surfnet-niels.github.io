@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"1a214af75cc722df6827ba496cca5222e7b5e3f5",
+            "entityID":"https://tierprogram.internet2.edu/shibboleth",
+            "resourceName":"Trust and Identity Projects Portal",
+            "resourceProvider":{
+                "name":"Internet2",
+                "displayname":"Internet2",
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"This Portal contains all Internet2 Trust and Identity Related projects and timelines.  Its primary purpose is to serve as the authoritative repository for all cross-functional, community-facing activities.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                }
+            ],
+            "info":"https://www.internet2.edu/products-services/trust-identity/",
+            "privacy":"https://internet2.edu/community/about-us/policies/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1a214af75cc722df6827ba496cca5222e7b5e3f5",
+            "entityID":"https://tierprogram.internet2.edu/shibboleth",
+            "resourceName":"Trust and Identity Projects Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1a214af75cc722df6827ba496cca5222e7b5e3f5",
+            "entityID":"https://tierprogram.internet2.edu/shibboleth",
+            "resourceName":"Trust and Identity Projects Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1a214af75cc722df6827ba496cca5222e7b5e3f5",
+            "entityID":"https://tierprogram.internet2.edu/shibboleth",
+            "resourceName":"Trust and Identity Projects Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Services Group",
+                    "email":"mailto:techsupport@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

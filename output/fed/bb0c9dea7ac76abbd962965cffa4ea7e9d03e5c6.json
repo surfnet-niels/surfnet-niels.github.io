@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"bb0c9dea7ac76abbd962965cffa4ea7e9d03e5c6",
+            "entityID":"https://repo.sadilar.org/Shibboleth.sso/Metadata",
+            "resourceName":"SADiLaR Language Resource Repository",
+            "resourceProvider":{
+                "name":"South African Centre for Digital Language Resources",
+                "displayname":"SADiLaR",
+                "url":"https://www.sadilar.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "schacHomeOrganizationType"
+                ]
+            },
+            "description":"A digital repository of language resources, in various modalities, that are available for download from SADiLaR.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical support desk",
+                    "email":"mailto:support@sadilar.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Help desk",
+                    "email":"mailto:info@sadilar.org"
+                }
+            ],
+            "info":"https://www.sadilar.org/index.php/resources",
+            "privacy":"https://sadilar.org/index.php/13-procedures/84-privacy-policy",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"bb0c9dea7ac76abbd962965cffa4ea7e9d03e5c6",
+            "entityID":"https://repo.sadilar.org/Shibboleth.sso/Metadata",
+            "resourceName":"SADiLaR Language Resource Repository",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.sadilar.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "schacHomeOrganizationType"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical support desk",
+                    "email":"mailto:support@sadilar.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Help desk",
+                    "email":"mailto:info@sadilar.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"bb0c9dea7ac76abbd962965cffa4ea7e9d03e5c6",
+            "entityID":"https://repo.sadilar.org/Shibboleth.sso/Metadata",
+            "resourceName":"SADiLaR Language Resource Repository",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.sadilar.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "schacHomeOrganizationType"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical support desk",
+                    "email":"mailto:support@sadilar.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Help desk",
+                    "email":"mailto:info@sadilar.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"bb0c9dea7ac76abbd962965cffa4ea7e9d03e5c6",
+            "entityID":"https://repo.sadilar.org/Shibboleth.sso/Metadata",
+            "resourceName":"SADiLaR Language Resource Repository",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.sadilar.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "schacHomeOrganizationType"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical support desk",
+                    "email":"mailto:support@sadilar.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Help desk",
+                    "email":"mailto:info@sadilar.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

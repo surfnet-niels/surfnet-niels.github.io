@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"bfa48d352a2e0c41836913fe0af50a52e0ba2da4",
+            "entityID":"https://login.lite.isora.saltycloud.com/saml/metadata",
+            "resourceName":"UT Austin Saltycloud",
+            "resourceProvider":{
+                "name":"University of Texas at Austin",
+                "displayname":"University of Texas at Austin",
+                "url":"http://www.utexas.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"Saltycloud Security Apps",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                }
+            ],
+            "info":"https://www.saltycloud.com/",
+            "privacy":"https://www.saltycloud.com/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"bfa48d352a2e0c41836913fe0af50a52e0ba2da4",
+            "entityID":"https://login.lite.isora.saltycloud.com/saml/metadata",
+            "resourceName":"UT Austin Saltycloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.utexas.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"bfa48d352a2e0c41836913fe0af50a52e0ba2da4",
+            "entityID":"https://login.lite.isora.saltycloud.com/saml/metadata",
+            "resourceName":"UT Austin Saltycloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.utexas.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"bfa48d352a2e0c41836913fe0af50a52e0ba2da4",
+            "entityID":"https://login.lite.isora.saltycloud.com/saml/metadata",
+            "resourceName":"UT Austin Saltycloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.utexas.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jason Phelps",
+                    "email":"mailto:mute@utexas.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

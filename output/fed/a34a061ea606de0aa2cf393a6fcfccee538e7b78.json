@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"a34a061ea606de0aa2cf393a6fcfccee538e7b78",
+            "entityID":"https://identity.lbl.gov/prod/identitylinking",
+            "resourceName":"LBL Identity Linking Service",
+            "resourceProvider":{
+                "name":"Lawrence Berkeley National Laboratory",
+                "displayname":"Lawrence Berkeley National Laboratory",
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"This service is used to link LBL identities to federated identities, including InCommon entities and social providers.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity Group",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"https://commons.lbl.gov/x/WRmiBw",
+            "privacy":"https://www.lbl.gov/disclaimers/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a34a061ea606de0aa2cf393a6fcfccee538e7b78",
+            "entityID":"https://identity.lbl.gov/prod/identitylinking",
+            "resourceName":"LBL Identity Linking Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity Group",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a34a061ea606de0aa2cf393a6fcfccee538e7b78",
+            "entityID":"https://identity.lbl.gov/prod/identitylinking",
+            "resourceName":"LBL Identity Linking Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity Group",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a34a061ea606de0aa2cf393a6fcfccee538e7b78",
+            "entityID":"https://identity.lbl.gov/prod/identitylinking",
+            "resourceName":"LBL Identity Linking Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity Group",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

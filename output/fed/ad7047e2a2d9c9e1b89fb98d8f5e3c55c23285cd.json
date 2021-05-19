@@ -1,0 +1,147 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"ad7047e2a2d9c9e1b89fb98d8f5e3c55c23285cd",
+            "entityID":"https://login.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc Login",
+            "resourceProvider":{
+                "name":"Jisc",
+                "displayname":"Jisc Login",
+                "url":"http://www.jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"Jisc single login service.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Jisc Digital Resources IT Helpdesk",
+                    "email":"mailto:drit@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Digital Resources IT Helpdesk",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ad7047e2a2d9c9e1b89fb98d8f5e3c55c23285cd",
+            "entityID":"https://login.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc Login",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Jisc Digital Resources IT Helpdesk",
+                    "email":"mailto:drit@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Digital Resources IT Helpdesk",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ad7047e2a2d9c9e1b89fb98d8f5e3c55c23285cd",
+            "entityID":"https://login.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc Login",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Jisc Digital Resources IT Helpdesk",
+                    "email":"mailto:drit@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Digital Resources IT Helpdesk",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ad7047e2a2d9c9e1b89fb98d8f5e3c55c23285cd",
+            "entityID":"https://login.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc Login",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Jisc Digital Resources IT Helpdesk",
+                    "email":"mailto:drit@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Digital Resources IT Helpdesk",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

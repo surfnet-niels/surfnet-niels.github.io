@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"20a64bcd1966c7c52ff568b10dd2c54dc5072b22",
+            "entityID":"https://veo.vo.elte.hu/consent/simplesaml/module.php/saml/sp/metadata.php/veo-vo-eduid-sp",
+            "resourceName":"veo.vo.elte.hu Kooplex SP",
+            "resourceProvider":{
+                "name":"ELTE",
+                "displayname":"ELTE",
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"veo.vo.elte.hu Kooplex SP",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Visontai DavidVisontai David",
+                    "email":"mailto:david.visontai@complex.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Visontai DavidVisontai David",
+                    "email":"mailto:david.visontai@complex.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                }
+            ],
+            "info":"https://veo.vo.elte.hu",
+            "privacy":"https://www.elte.hu/kozerdeku/adatved_fnyomt",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"20a64bcd1966c7c52ff568b10dd2c54dc5072b22",
+            "entityID":"https://veo.vo.elte.hu/consent/simplesaml/module.php/saml/sp/metadata.php/veo-vo-eduid-sp",
+            "resourceName":"veo.vo.elte.hu Kooplex SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Visontai DavidVisontai David",
+                    "email":"mailto:david.visontai@complex.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Visontai DavidVisontai David",
+                    "email":"mailto:david.visontai@complex.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"20a64bcd1966c7c52ff568b10dd2c54dc5072b22",
+            "entityID":"https://veo.vo.elte.hu/consent/simplesaml/module.php/saml/sp/metadata.php/veo-vo-eduid-sp",
+            "resourceName":"veo.vo.elte.hu Kooplex SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Visontai DavidVisontai David",
+                    "email":"mailto:david.visontai@complex.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Visontai DavidVisontai David",
+                    "email":"mailto:david.visontai@complex.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"20a64bcd1966c7c52ff568b10dd2c54dc5072b22",
+            "entityID":"https://veo.vo.elte.hu/consent/simplesaml/module.php/saml/sp/metadata.php/veo-vo-eduid-sp",
+            "resourceName":"veo.vo.elte.hu Kooplex SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Visontai DavidVisontai David",
+                    "email":"mailto:david.visontai@complex.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Visontai DavidVisontai David",
+                    "email":"mailto:david.visontai@complex.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

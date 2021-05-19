@@ -1,0 +1,155 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"1420f18ead64d933bfdf153efcb89e96be882954",
+            "entityID":"https://shu.vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker SHU SP",
+            "resourceProvider":{
+                "name":"Vertigo Ventures Ltd",
+                "displayname":"VV-Impact Tracker SHU SP",
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"This VV-Impact Tracker service provider is used for SHU.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1420f18ead64d933bfdf153efcb89e96be882954",
+            "entityID":"https://shu.vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker SHU SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1420f18ead64d933bfdf153efcb89e96be882954",
+            "entityID":"https://shu.vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker SHU SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1420f18ead64d933bfdf153efcb89e96be882954",
+            "entityID":"https://shu.vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker SHU SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

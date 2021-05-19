@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"e44e6e07b84a8edf14d9429481bfc96db1def5e5",
+            "entityID":"https://pubs.acs.org/shibboleth",
+            "resourceName":"ACS Publications",
+            "resourceProvider":{
+                "name":"American Chemical Society",
+                "displayname":"American Chemical Society",
+                "url":"http://www.acs.org"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Publishes products and services for the practice and advancement of the chemical sciences.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ACS Pubs SAML support",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"ACS Pubs SAML technical",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ACS Pubs SAML admin",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ACS Pubs SAML security",
+                    "email":"mailto:acssaml@acs.org"
+                }
+            ],
+            "info":"http://pubs.acs.org/page/about-us.html",
+            "privacy":"https://www.acs.org/content/acs/en/privacy.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e44e6e07b84a8edf14d9429481bfc96db1def5e5",
+            "entityID":"https://pubs.acs.org/shibboleth",
+            "resourceName":"https://pubs.acs.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.acs.org"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ACS Pubs SAML support",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"ACS Pubs SAML technical",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ACS Pubs SAML admin",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ACS Pubs SAML security",
+                    "email":"mailto:acssaml@acs.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e44e6e07b84a8edf14d9429481bfc96db1def5e5",
+            "entityID":"https://pubs.acs.org/shibboleth",
+            "resourceName":"https://pubs.acs.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.acs.org"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ACS Pubs SAML support",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"ACS Pubs SAML technical",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ACS Pubs SAML admin",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ACS Pubs SAML security",
+                    "email":"mailto:acssaml@acs.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e44e6e07b84a8edf14d9429481bfc96db1def5e5",
+            "entityID":"https://pubs.acs.org/shibboleth",
+            "resourceName":"https://pubs.acs.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.acs.org"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ACS Pubs SAML support",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"ACS Pubs SAML technical",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ACS Pubs SAML admin",
+                    "email":"mailto:acssaml@acs.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ACS Pubs SAML security",
+                    "email":"mailto:acssaml@acs.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

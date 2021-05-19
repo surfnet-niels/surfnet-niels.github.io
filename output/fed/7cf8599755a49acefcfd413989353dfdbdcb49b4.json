@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"7cf8599755a49acefcfd413989353dfdbdcb49b4",
+            "entityID":"https://cloud.mta.hu/simplesamlphp",
+            "resourceName":"MTA Cloud portal",
+            "resourceProvider":{
+                "name":"SZTAKI - Computer and Automation Research Institute",
+                "displayname":"SZTAKI - Computer and Automation Research Institute",
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[
+                    "telephoneNumber",
+                    "ou",
+                    "cn",
+                    "OrganizationName",
+                    "uid"
+                ]
+            },
+            "description":"An informational portal for the cloud of the Hungarian Academy of Sciences (MTA Cloud) containing documentation, eduational materials and links to the cloud system.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                }
+            ],
+            "info":"https://cloud.mta.hu",
+            "privacy":"https://cloud.mta.hu",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7cf8599755a49acefcfd413989353dfdbdcb49b4",
+            "entityID":"https://cloud.mta.hu/simplesamlphp",
+            "resourceName":"MTA Cloud portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[
+                    "telephoneNumber",
+                    "ou",
+                    "cn",
+                    "OrganizationName",
+                    "uid"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7cf8599755a49acefcfd413989353dfdbdcb49b4",
+            "entityID":"https://cloud.mta.hu/simplesamlphp",
+            "resourceName":"MTA Cloud portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[
+                    "telephoneNumber",
+                    "ou",
+                    "cn",
+                    "OrganizationName",
+                    "uid"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7cf8599755a49acefcfd413989353dfdbdcb49b4",
+            "entityID":"https://cloud.mta.hu/simplesamlphp",
+            "resourceName":"MTA Cloud portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[
+                    "telephoneNumber",
+                    "ou",
+                    "cn",
+                    "OrganizationName",
+                    "uid"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tenczer SzabolcsTenczer Szabolcs",
+                    "email":"mailto:burgosz@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

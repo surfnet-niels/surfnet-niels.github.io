@@ -1,0 +1,167 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"c6ddd27ae6d928df51db3e9d05f3060bb8915b72",
+            "entityID":"https://bildung365.de/shibboleth",
+            "resourceName":"DrVis Software",
+            "resourceProvider":{
+                "name":"e383",
+                "displayname":"DrVis Software",
+                "url":"http://www.drvis.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"Inexpensive Microsoft Office and free Windows for students",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DrVis Support Teamofficesupport [at] drvis.com",
+                    "email":"mailto:officesupport@drvis.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DrVis Support TeamVogl",
+                    "email":"mailto:officesupport@drvis.com"
+                },
+                {
+                    "type":"security",
+                    "name":"DrVis Support Teamofficesupport [at] drvis.com",
+                    "email":"mailto:officesupport@drvis.com"
+                }
+            ],
+            "info":"https://bildung365.de/help/iisstart.htm",
+            "privacy":"https://www.officefuerbildung.de/Home/OfbPrivacyPolicyEN?reseller=5",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c6ddd27ae6d928df51db3e9d05f3060bb8915b72",
+            "entityID":"https://bildung365.de/shibboleth",
+            "resourceName":"DrVis Software",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.drvis.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DrVis Support Teamofficesupport [at] drvis.com",
+                    "email":"mailto:officesupport@drvis.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DrVis Support TeamVogl",
+                    "email":"mailto:officesupport@drvis.com"
+                },
+                {
+                    "type":"security",
+                    "name":"DrVis Support Teamofficesupport [at] drvis.com",
+                    "email":"mailto:officesupport@drvis.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c6ddd27ae6d928df51db3e9d05f3060bb8915b72",
+            "entityID":"https://bildung365.de/shibboleth",
+            "resourceName":"DrVis Software",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.drvis.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DrVis Support Teamofficesupport [at] drvis.com",
+                    "email":"mailto:officesupport@drvis.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DrVis Support TeamVogl",
+                    "email":"mailto:officesupport@drvis.com"
+                },
+                {
+                    "type":"security",
+                    "name":"DrVis Support Teamofficesupport [at] drvis.com",
+                    "email":"mailto:officesupport@drvis.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c6ddd27ae6d928df51db3e9d05f3060bb8915b72",
+            "entityID":"https://bildung365.de/shibboleth",
+            "resourceName":"DrVis Software",
+            "resourceProvider":{
+                "name":"e383",
+                "displayname":"DrVis Software",
+                "url":"http://www.drvis.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"Günstiges Microsoft Office und kostenloses Windows für Studierende",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DrVis Support Teamofficesupport [at] drvis.com",
+                    "email":"mailto:officesupport@drvis.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DrVis Support TeamVogl",
+                    "email":"mailto:officesupport@drvis.com"
+                },
+                {
+                    "type":"security",
+                    "name":"DrVis Support Teamofficesupport [at] drvis.com",
+                    "email":"mailto:officesupport@drvis.com"
+                }
+            ],
+            "info":"https://bildung365.de/help/iisstart.htm",
+            "privacy":"https://www.officefuerbildung.de/Home/OfbPrivacyPolicyDE?reseller=5",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"de64748103587c017bb8aa8717b535858760ac95",
+            "entityID":"https://crowd.sunet.se/shibboleth",
+            "resourceName":"Sunet Crowd Identity Management",
+            "resourceProvider":{
+                "name":"Sunet",
+                "displayname":"Sunet",
+                "url":"https://www.sunet.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"Sunet's Atlassian Crowd-service providing identity management for Sunet's Jira and Confluence",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"support",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Sunet Security Contact",
+                    "email":"mailto:abuse@sunet.se"
+                }
+            ],
+            "info":"https://wiki.sunet.se/",
+            "privacy":"https://wiki.sunet.se/display/info/Crowd+Privacy+Policy",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"de64748103587c017bb8aa8717b535858760ac95",
+            "entityID":"https://crowd.sunet.se/shibboleth",
+            "resourceName":"Sunet Crowd Identity\nManagement",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.sunet.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"support",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Sunet Security Contact",
+                    "email":"mailto:abuse@sunet.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"de64748103587c017bb8aa8717b535858760ac95",
+            "entityID":"https://crowd.sunet.se/shibboleth",
+            "resourceName":"Sunet Crowd Identity\nManagement",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.sunet.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"support",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Sunet Security Contact",
+                    "email":"mailto:abuse@sunet.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"de64748103587c017bb8aa8717b535858760ac95",
+            "entityID":"https://crowd.sunet.se/shibboleth",
+            "resourceName":"Sunet Crowd Identity\nManagement",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.sunet.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"support",
+                    "name":"Sunet NOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Sunet Security Contact",
+                    "email":"mailto:abuse@sunet.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

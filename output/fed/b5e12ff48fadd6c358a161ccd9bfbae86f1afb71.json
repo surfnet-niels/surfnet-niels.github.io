@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"b5e12ff48fadd6c358a161ccd9bfbae86f1afb71",
+            "entityID":"https://confluence.testbed.tier.internet2.edu/shibboleth",
+            "resourceName":"TIER Testbed Confluence",
+            "resourceProvider":{
+                "name":"Internet2",
+                "displayname":"Internet2",
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"A test Confluence instance to test attribute release.",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Paul Caskey",
+                    "email":"mailto:pcaskey@internet2.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Christopher Hubing",
+                    "email":"mailto:chubing@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nick Roy",
+                    "email":"mailto:nroy@internet2.edu"
+                }
+            ],
+            "info":"https://confluence.testbed.tier.internet2.edu/",
+            "privacy":"https://internet2.edu/community/about-us/policies/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b5e12ff48fadd6c358a161ccd9bfbae86f1afb71",
+            "entityID":"https://confluence.testbed.tier.internet2.edu/shibboleth",
+            "resourceName":"TIER Testbed Confluence",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Paul Caskey",
+                    "email":"mailto:pcaskey@internet2.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Christopher Hubing",
+                    "email":"mailto:chubing@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nick Roy",
+                    "email":"mailto:nroy@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b5e12ff48fadd6c358a161ccd9bfbae86f1afb71",
+            "entityID":"https://confluence.testbed.tier.internet2.edu/shibboleth",
+            "resourceName":"TIER Testbed Confluence",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Paul Caskey",
+                    "email":"mailto:pcaskey@internet2.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Christopher Hubing",
+                    "email":"mailto:chubing@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nick Roy",
+                    "email":"mailto:nroy@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b5e12ff48fadd6c358a161ccd9bfbae86f1afb71",
+            "entityID":"https://confluence.testbed.tier.internet2.edu/shibboleth",
+            "resourceName":"TIER Testbed Confluence",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"Paul Caskey",
+                    "email":"mailto:pcaskey@internet2.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Christopher Hubing",
+                    "email":"mailto:chubing@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nick Roy",
+                    "email":"mailto:nroy@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

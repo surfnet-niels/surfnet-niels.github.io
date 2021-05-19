@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"fa1aaf44c6f14c62bdc56ba8a9e262a774b2ef87",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-lsuhsc-sp",
+            "resourceName":"Protocol Builder - LSU Health Science Center",
+            "resourceProvider":{
+                "name":"Biomedical Research Alliance of New York (BRANY) d/b/a Protocol Builder",
+                "displayname":"Biomedical Research Alliance of New York (BRANY) d/b/a Protocol Builder",
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://protocolbuilderpro.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"fa1aaf44c6f14c62bdc56ba8a9e262a774b2ef87",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-lsuhsc-sp",
+            "resourceName":"Protocol Builder - LSU Health Science Center",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"fa1aaf44c6f14c62bdc56ba8a9e262a774b2ef87",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-lsuhsc-sp",
+            "resourceName":"Protocol Builder - LSU Health Science Center",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"fa1aaf44c6f14c62bdc56ba8a9e262a774b2ef87",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-lsuhsc-sp",
+            "resourceName":"Protocol Builder - LSU Health Science Center",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

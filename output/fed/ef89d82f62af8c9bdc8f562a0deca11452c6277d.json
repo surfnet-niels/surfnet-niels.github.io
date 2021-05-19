@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"ef89d82f62af8c9bdc8f562a0deca11452c6277d",
+            "entityID":"https://wikispaces.psu.edu/shibboleth",
+            "resourceName":"Penn State WikiSpaces",
+            "resourceProvider":{
+                "name":"The Pennsylvania State University",
+                "displayname":"Penn State",
+                "url":"http://www.psu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rich Cropp",
+                    "email":"mailto:rac@psu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Office of Information Security",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"https://wikispaces.psu.edu/dashboard.action",
+            "privacy":"http://www.psu.edu/web-privacy-statement",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ef89d82f62af8c9bdc8f562a0deca11452c6277d",
+            "entityID":"https://wikispaces.psu.edu/shibboleth",
+            "resourceName":"Penn State WikiSpaces",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.psu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rich Cropp",
+                    "email":"mailto:rac@psu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Office of Information Security",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ef89d82f62af8c9bdc8f562a0deca11452c6277d",
+            "entityID":"https://wikispaces.psu.edu/shibboleth",
+            "resourceName":"Penn State WikiSpaces",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.psu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rich Cropp",
+                    "email":"mailto:rac@psu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Office of Information Security",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ef89d82f62af8c9bdc8f562a0deca11452c6277d",
+            "entityID":"https://wikispaces.psu.edu/shibboleth",
+            "resourceName":"Penn State WikiSpaces",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.psu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Rich Cropp",
+                    "email":"mailto:rac@psu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Derek Morr",
+                    "email":"mailto:dvm105@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Office of Information Security",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"562ed17b6355b1f07c6ee10654235db8c467c385",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-yale-sp",
+            "resourceName":"Protocol Builder - Yale University",
+            "resourceProvider":{
+                "name":"Biomedical Research Alliance of New York (BRANY) d/b/a Protocol Builder",
+                "displayname":"Biomedical Research Alliance of New York (BRANY) d/b/a Protocol Builder",
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://protocolbuilderpro.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"562ed17b6355b1f07c6ee10654235db8c467c385",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-yale-sp",
+            "resourceName":"Protocol Builder - Yale University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"562ed17b6355b1f07c6ee10654235db8c467c385",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-yale-sp",
+            "resourceName":"Protocol Builder - Yale University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"562ed17b6355b1f07c6ee10654235db8c467c385",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-yale-sp",
+            "resourceName":"Protocol Builder - Yale University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

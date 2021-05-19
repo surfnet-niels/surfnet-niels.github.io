@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"323a591d6c27b01aabb2b5719f2e4e61ee0c6e94",
+            "entityID":"https://gitlab.uvm.edu/shibboleth",
+            "resourceName":"UVM GitLab",
+            "resourceProvider":{
+                "name":"University of Vermont",
+                "displayname":"University of Vermont",
+                "url":"http://www.uvm.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"GitLab instance hosted at the University of Vermont",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Systems Architecture",
+                    "email":"mailto:saa@uvm.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Mike Austin",
+                    "email":"mailto:mga@uvm.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UVM Security",
+                    "email":"mailto:security@uvm.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UVM Helpline",
+                    "email":"mailto:helpline@uvm.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"http://www.uvm.edu/policies/general_html/privacy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"323a591d6c27b01aabb2b5719f2e4e61ee0c6e94",
+            "entityID":"https://gitlab.uvm.edu/shibboleth",
+            "resourceName":"UVM GitLab",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uvm.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Systems Architecture",
+                    "email":"mailto:saa@uvm.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Mike Austin",
+                    "email":"mailto:mga@uvm.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UVM Security",
+                    "email":"mailto:security@uvm.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UVM Helpline",
+                    "email":"mailto:helpline@uvm.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"323a591d6c27b01aabb2b5719f2e4e61ee0c6e94",
+            "entityID":"https://gitlab.uvm.edu/shibboleth",
+            "resourceName":"UVM GitLab",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uvm.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Systems Architecture",
+                    "email":"mailto:saa@uvm.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Mike Austin",
+                    "email":"mailto:mga@uvm.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UVM Security",
+                    "email":"mailto:security@uvm.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UVM Helpline",
+                    "email":"mailto:helpline@uvm.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"323a591d6c27b01aabb2b5719f2e4e61ee0c6e94",
+            "entityID":"https://gitlab.uvm.edu/shibboleth",
+            "resourceName":"UVM GitLab",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uvm.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Systems Architecture",
+                    "email":"mailto:saa@uvm.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Mike Austin",
+                    "email":"mailto:mga@uvm.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UVM Security",
+                    "email":"mailto:security@uvm.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UVM Helpline",
+                    "email":"mailto:helpline@uvm.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

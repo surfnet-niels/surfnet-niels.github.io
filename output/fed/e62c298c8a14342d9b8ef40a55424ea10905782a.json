@@ -1,0 +1,147 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"e62c298c8a14342d9b8ef40a55424ea10905782a",
+            "entityID":"https://zetoc.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc Zetoc",
+            "resourceProvider":{
+                "name":"Jisc",
+                "displayname":"Jisc",
+                "url":"https://jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"Jisc Zetoc - monitoring and search service for global research publications",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Digital Resources IT",
+                    "email":"mailto:drit@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Digital Resources IT",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e62c298c8a14342d9b8ef40a55424ea10905782a",
+            "entityID":"https://zetoc.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc Zetoc",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Digital Resources IT",
+                    "email":"mailto:drit@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Digital Resources IT",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e62c298c8a14342d9b8ef40a55424ea10905782a",
+            "entityID":"https://zetoc.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc Zetoc",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Digital Resources IT",
+                    "email":"mailto:drit@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Digital Resources IT",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e62c298c8a14342d9b8ef40a55424ea10905782a",
+            "entityID":"https://zetoc.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc Zetoc",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Digital Resources IT",
+                    "email":"mailto:drit@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Digital Resources IT",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

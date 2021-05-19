@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"7c77aacbadf7c8b5bf1906d6d747e6dc3c4f294c",
+            "entityID":"http://adfs.umu.se/adfs/services/trust",
+            "resourceName":"Umea University",
+            "resourceProvider":{
+                "name":"Umea University",
+                "displayname":"Umeå University",
+                "url":"http://www.umu.se/english/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Umea University",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"UmU Incident Response Team",
+                    "email":"mailto:abuse@umu.se"
+                }
+            ],
+            "info":"http://www.umu.se/english",
+            "privacy":"https://www.umu.se/en/about-the-website/legal-information/processing-of-personal-data/",
+            "entityCategories":[],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7c77aacbadf7c8b5bf1906d6d747e6dc3c4f294c",
+            "entityID":"http://adfs.umu.se/adfs/services/trust",
+            "resourceName":"http://adfs.umu.se/adfs/services/trust",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umu.se/english/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"UmU Incident Response Team",
+                    "email":"mailto:abuse@umu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7c77aacbadf7c8b5bf1906d6d747e6dc3c4f294c",
+            "entityID":"http://adfs.umu.se/adfs/services/trust",
+            "resourceName":"http://adfs.umu.se/adfs/services/trust",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umu.se/english/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"UmU Incident Response Team",
+                    "email":"mailto:abuse@umu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7c77aacbadf7c8b5bf1906d6d747e6dc3c4f294c",
+            "entityID":"http://adfs.umu.se/adfs/services/trust",
+            "resourceName":"http://adfs.umu.se/adfs/services/trust",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umu.se/english/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"ITS datordrift",
+                    "email":"mailto:datordrift@its.umu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"UmU Incident Response Team",
+                    "email":"mailto:abuse@umu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

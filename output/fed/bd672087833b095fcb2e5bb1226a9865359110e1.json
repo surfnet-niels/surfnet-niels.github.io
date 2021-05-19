@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"bd672087833b095fcb2e5bb1226a9865359110e1",
+            "entityID":"https://sandbox.orcid.org/saml2/sp/1",
+            "resourceName":"ORCID Sandbox (test) SP",
+            "resourceProvider":{
+                "name":"ORCID, Inc",
+                "displayname":"ORCID",
+                "url":"http://orcid.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonUniqueId",
+                    "displayName",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"ORCID provides an identifier for individuals to use with their name as they engage in research, scholarship, and innovation activities. We provide open tools that enable transparent and trustworthy connections between researchers, their contributions, and affiliations. We provide this service to help people find information and to simplify reporting and analysis.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ORCID Support",
+                    "email":"mailto:support@orcid.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ORCID Team",
+                    "email":"mailto:info@orcid.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"ORCID Development Team",
+                    "email":"mailto:support@orcid.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ORCID Security Response Team",
+                    "email":"mailto:security@orcid.org"
+                }
+            ],
+            "info":"http://members.orcid.org/api/faq/sandbox-different-production-registry",
+            "privacy":"http://orcid.org/content/orcid-privacy-policy",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"bd672087833b095fcb2e5bb1226a9865359110e1",
+            "entityID":"https://sandbox.orcid.org/saml2/sp/1",
+            "resourceName":"ORCID Sandbox (test) SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://orcid.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonUniqueId",
+                    "displayName",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ORCID Support",
+                    "email":"mailto:support@orcid.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ORCID Team",
+                    "email":"mailto:info@orcid.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"ORCID Development Team",
+                    "email":"mailto:support@orcid.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ORCID Security Response Team",
+                    "email":"mailto:security@orcid.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"bd672087833b095fcb2e5bb1226a9865359110e1",
+            "entityID":"https://sandbox.orcid.org/saml2/sp/1",
+            "resourceName":"ORCID Sandbox (test) SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://orcid.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonUniqueId",
+                    "displayName",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ORCID Support",
+                    "email":"mailto:support@orcid.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ORCID Team",
+                    "email":"mailto:info@orcid.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"ORCID Development Team",
+                    "email":"mailto:support@orcid.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ORCID Security Response Team",
+                    "email":"mailto:security@orcid.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"bd672087833b095fcb2e5bb1226a9865359110e1",
+            "entityID":"https://sandbox.orcid.org/saml2/sp/1",
+            "resourceName":"ORCID Sandbox (test) SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://orcid.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonUniqueId",
+                    "displayName",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ORCID Support",
+                    "email":"mailto:support@orcid.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"ORCID Team",
+                    "email":"mailto:info@orcid.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"ORCID Development Team",
+                    "email":"mailto:support@orcid.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ORCID Security Response Team",
+                    "email":"mailto:security@orcid.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

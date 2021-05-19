@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"8f9e03435da5a95535024c730d3b4f773d8f5c0d",
+            "entityID":"https://stanford-uat.name-coach.com",
+            "resourceName":"NameCoach UAT Environment for Stanford University",
+            "resourceProvider":{
+                "name":"NameCoach",
+                "displayname":"NameCoach",
+                "url":"https://www.name-coach.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://cloud.name-coach.com/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"8f9e03435da5a95535024c730d3b4f773d8f5c0d",
+            "entityID":"https://stanford-uat.name-coach.com",
+            "resourceName":"NameCoach UAT Environment for Stanford University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.name-coach.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"8f9e03435da5a95535024c730d3b4f773d8f5c0d",
+            "entityID":"https://stanford-uat.name-coach.com",
+            "resourceName":"NameCoach UAT Environment for Stanford University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.name-coach.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"8f9e03435da5a95535024c730d3b4f773d8f5c0d",
+            "entityID":"https://stanford-uat.name-coach.com",
+            "resourceName":"NameCoach UAT Environment for Stanford University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.name-coach.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Green",
+                    "email":"mailto:jack@name-coach.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

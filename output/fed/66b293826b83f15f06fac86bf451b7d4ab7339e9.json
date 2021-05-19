@@ -1,0 +1,143 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"66b293826b83f15f06fac86bf451b7d4ab7339e9",
+            "entityID":"https://irus.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc: IRUS-UK",
+            "resourceProvider":{
+                "name":"Jisc",
+                "displayname":"Jisc: IRUS-UK",
+                "url":"https://jisc.ac.uk"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"IRUS-UK enables IRs to share and expose COUNTER statistics.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IRUS Helpdesk",
+                    "email":"mailto:help@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Group Infrastructure",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"66b293826b83f15f06fac86bf451b7d4ab7339e9",
+            "entityID":"https://irus.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc: IRUS-UK",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://jisc.ac.uk"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IRUS Helpdesk",
+                    "email":"mailto:help@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Group Infrastructure",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"66b293826b83f15f06fac86bf451b7d4ab7339e9",
+            "entityID":"https://irus.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc: IRUS-UK",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://jisc.ac.uk"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IRUS Helpdesk",
+                    "email":"mailto:help@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Group Infrastructure",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"66b293826b83f15f06fac86bf451b7d4ab7339e9",
+            "entityID":"https://irus.jisc.ac.uk/shibboleth",
+            "resourceName":"Jisc: IRUS-UK",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://jisc.ac.uk"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IRUS Helpdesk",
+                    "email":"mailto:help@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Group Infrastructure",
+                    "email":"mailto:drit@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

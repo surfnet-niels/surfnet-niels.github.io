@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"d0256aec7abee32bd4e0db7308f43b54a79a96e4",
+            "entityID":"https://examples.nren.ac.za/Shibboleth.sso/Metadata",
+            "resourceName":"SAFIRE Examples Service Provider",
+            "resourceProvider":{
+                "name":"Tertiary Education and Research Network of South Africa",
+                "displayname":"TENET",
+                "url":"https://www.tenet.ac.za/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedId",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrcid",
+                    "schacHomeOrganization",
+                    "preferredLanguage"
+                ]
+            },
+            "description":"A set of examples showing SAFIRE integration with various common applications.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"TENET Service Support Centre",
+                    "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"security",
+                    "name":"TENET SAFIRE Incident Response Team",
+                    "email":"mailto:safire-ops@lists.tenet.ac.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Project",
+                    "email":"mailto:safire@tenet.ac.za"
+                }
+            ],
+            "info":"https://safire.ac.za/users/who-why-what",
+            "privacy":"https://safire.ac.za/safire/policy/privacy",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d0256aec7abee32bd4e0db7308f43b54a79a96e4",
+            "entityID":"https://examples.nren.ac.za/Shibboleth.sso/Metadata",
+            "resourceName":"SAFIRE Examples Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.tenet.ac.za/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedId",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrcid",
+                    "schacHomeOrganization",
+                    "preferredLanguage"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"TENET Service Support Centre",
+                    "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"security",
+                    "name":"TENET SAFIRE Incident Response Team",
+                    "email":"mailto:safire-ops@lists.tenet.ac.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Project",
+                    "email":"mailto:safire@tenet.ac.za"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d0256aec7abee32bd4e0db7308f43b54a79a96e4",
+            "entityID":"https://examples.nren.ac.za/Shibboleth.sso/Metadata",
+            "resourceName":"SAFIRE Examples Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.tenet.ac.za/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedId",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrcid",
+                    "schacHomeOrganization",
+                    "preferredLanguage"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"TENET Service Support Centre",
+                    "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"security",
+                    "name":"TENET SAFIRE Incident Response Team",
+                    "email":"mailto:safire-ops@lists.tenet.ac.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Project",
+                    "email":"mailto:safire@tenet.ac.za"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d0256aec7abee32bd4e0db7308f43b54a79a96e4",
+            "entityID":"https://examples.nren.ac.za/Shibboleth.sso/Metadata",
+            "resourceName":"SAFIRE Examples Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.tenet.ac.za/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedId",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrcid",
+                    "schacHomeOrganization",
+                    "preferredLanguage"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"TENET Service Support Centre",
+                    "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"security",
+                    "name":"TENET SAFIRE Incident Response Team",
+                    "email":"mailto:safire-ops@lists.tenet.ac.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Project",
+                    "email":"mailto:safire@tenet.ac.za"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"346be14119e4bfbe00f8529bedad4e0f58333209",
+            "entityID":"https://zdapi.appointlink.com/shibboleth",
+            "resourceName":"ZD API",
+            "resourceProvider":{
+                "name":"AppointLink Portal Solutions, Inc.",
+                "displayname":"AppointLink Portal Solutions, Inc.",
+                "url":"http://appointlink.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                }
+            ],
+            "info":"",
+            "privacy":"http://trymylaw.com/wp-content/uploads/AppointLink-Terms-of-Service-clean-copyrev3.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"346be14119e4bfbe00f8529bedad4e0f58333209",
+            "entityID":"https://zdapi.appointlink.com/shibboleth",
+            "resourceName":"ZD API",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://appointlink.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"346be14119e4bfbe00f8529bedad4e0f58333209",
+            "entityID":"https://zdapi.appointlink.com/shibboleth",
+            "resourceName":"ZD API",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://appointlink.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"346be14119e4bfbe00f8529bedad4e0f58333209",
+            "entityID":"https://zdapi.appointlink.com/shibboleth",
+            "resourceName":"ZD API",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://appointlink.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

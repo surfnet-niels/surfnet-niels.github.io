@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"4720318f5f2a02858dc1050946786244344d262e",
+            "entityID":"https://ucmerced-shib.curriculog.com/shibboleth",
+            "resourceName":"UCMERCED Curriculog",
+            "resourceProvider":{
+                "name":"Digital Architecture, Inc.",
+                "displayname":"Digital Architecture, Inc.",
+                "url":"http://www.digarc.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Martin Nelson",
+                    "email":"mailto:mnelson@digarc.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DIGARC SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                },
+                {
+                    "type":"security",
+                    "name":"DIGARC SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.digarc.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"4720318f5f2a02858dc1050946786244344d262e",
+            "entityID":"https://ucmerced-shib.curriculog.com/shibboleth",
+            "resourceName":"UCMERCED Curriculog",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.digarc.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Martin Nelson",
+                    "email":"mailto:mnelson@digarc.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DIGARC SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                },
+                {
+                    "type":"security",
+                    "name":"DIGARC SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"4720318f5f2a02858dc1050946786244344d262e",
+            "entityID":"https://ucmerced-shib.curriculog.com/shibboleth",
+            "resourceName":"UCMERCED Curriculog",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.digarc.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Martin Nelson",
+                    "email":"mailto:mnelson@digarc.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DIGARC SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                },
+                {
+                    "type":"security",
+                    "name":"DIGARC SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"4720318f5f2a02858dc1050946786244344d262e",
+            "entityID":"https://ucmerced-shib.curriculog.com/shibboleth",
+            "resourceName":"UCMERCED Curriculog",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.digarc.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Martin Nelson",
+                    "email":"mailto:mnelson@digarc.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DIGARC SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                },
+                {
+                    "type":"security",
+                    "name":"DIGARC SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

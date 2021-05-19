@@ -1,0 +1,123 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"5f15e3380dca403eddc4dd0316018d730b81455a",
+            "entityID":"http://adfs.noc-science.at/adfs/services/trust",
+            "resourceName":"Austrian Federal Ministry of Education, Science and Research",
+            "resourceProvider":{
+                "name":"Austrian Federal Ministry of Education, Science and Research",
+                "displayname":"Austrian Federal Ministry of Education, Science and Research",
+                "url":"https://www.bmbwf.gv.at/en.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"BM.BWF Extranet",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"BMBWFIDP admin",
+                    "email":"mailto:admin.adfs@noc-science.at"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"5f15e3380dca403eddc4dd0316018d730b81455a",
+            "entityID":"http://adfs.noc-science.at/adfs/services/trust",
+            "resourceName":"Austrian Federal Ministry of Education, Science and Research",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.bmbwf.gv.at/en.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"BMBWFIDP admin",
+                    "email":"mailto:admin.adfs@noc-science.at"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"5f15e3380dca403eddc4dd0316018d730b81455a",
+            "entityID":"http://adfs.noc-science.at/adfs/services/trust",
+            "resourceName":"Austrian Federal Ministry of Education, Science and Research",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.bmbwf.gv.at/en.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"BMBWFIDP admin",
+                    "email":"mailto:admin.adfs@noc-science.at"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"5f15e3380dca403eddc4dd0316018d730b81455a",
+            "entityID":"http://adfs.noc-science.at/adfs/services/trust",
+            "resourceName":"Bundesministerium für Bildung, Wissenschaft, Forschung",
+            "resourceProvider":{
+                "name":"Bundesministerium für Bildung, Wissenschaft, Forschung",
+                "displayname":"Bundesministerium für Bildung, Wissenschaft, Forschung",
+                "url":"https://www.bmbwf.gv.at/en.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"BM.BWF Extranet",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"BMBWFIDP admin",
+                    "email":"mailto:admin.adfs@noc-science.at"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

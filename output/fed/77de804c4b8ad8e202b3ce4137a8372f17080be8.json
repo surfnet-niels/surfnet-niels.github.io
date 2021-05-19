@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"77de804c4b8ad8e202b3ce4137a8372f17080be8",
+            "entityID":"https://stanfordgsb-seatgen.appointlink.com/shibboleth",
+            "resourceName":"StanfordGSB SeatGen",
+            "resourceProvider":{
+                "name":"AppointLink Portal Solutions, Inc.",
+                "displayname":"AppointLink Portal Solutions, Inc.",
+                "url":"http://appointlink.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jason Shoemaker",
+                    "email":"mailto:jason@appointlink.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tony Forsythe",
+                    "email":"mailto:tonyf@appointlink.com"
+                }
+            ],
+            "info":"",
+            "privacy":"http://trymylaw.com/wp-content/uploads/AppointLink-Terms-of-Service-clean-copyrev3.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"77de804c4b8ad8e202b3ce4137a8372f17080be8",
+            "entityID":"https://stanfordgsb-seatgen.appointlink.com/shibboleth",
+            "resourceName":"StanfordGSB SeatGen",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://appointlink.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jason Shoemaker",
+                    "email":"mailto:jason@appointlink.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tony Forsythe",
+                    "email":"mailto:tonyf@appointlink.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"77de804c4b8ad8e202b3ce4137a8372f17080be8",
+            "entityID":"https://stanfordgsb-seatgen.appointlink.com/shibboleth",
+            "resourceName":"StanfordGSB SeatGen",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://appointlink.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jason Shoemaker",
+                    "email":"mailto:jason@appointlink.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tony Forsythe",
+                    "email":"mailto:tonyf@appointlink.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"77de804c4b8ad8e202b3ce4137a8372f17080be8",
+            "entityID":"https://stanfordgsb-seatgen.appointlink.com/shibboleth",
+            "resourceName":"StanfordGSB SeatGen",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://appointlink.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jason Shoemaker",
+                    "email":"mailto:jason@appointlink.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Peter Zdrodowski",
+                    "email":"mailto:peterz@appointlink.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Tony Forsythe",
+                    "email":"mailto:tonyf@appointlink.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

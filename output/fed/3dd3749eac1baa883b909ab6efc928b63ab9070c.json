@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"3dd3749eac1baa883b909ab6efc928b63ab9070c",
+            "entityID":"https://bmegames.labs.stonybrook.edu/shibboleth",
+            "resourceName":"Lab Games for Biomedical Engineering, Stony Brook",
+            "resourceProvider":{
+                "name":"Stony Brook University",
+                "displayname":"Stony Brook University",
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Mei Lin Chan",
+                    "email":"mailto:meilin.chan@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.stonybrook.edu/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"3dd3749eac1baa883b909ab6efc928b63ab9070c",
+            "entityID":"https://bmegames.labs.stonybrook.edu/shibboleth",
+            "resourceName":"Lab Games for Biomedical Engineering, Stony Brook",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Mei Lin Chan",
+                    "email":"mailto:meilin.chan@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"3dd3749eac1baa883b909ab6efc928b63ab9070c",
+            "entityID":"https://bmegames.labs.stonybrook.edu/shibboleth",
+            "resourceName":"Lab Games for Biomedical Engineering, Stony Brook",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Mei Lin Chan",
+                    "email":"mailto:meilin.chan@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"3dd3749eac1baa883b909ab6efc928b63ab9070c",
+            "entityID":"https://bmegames.labs.stonybrook.edu/shibboleth",
+            "resourceName":"Lab Games for Biomedical Engineering, Stony Brook",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Mei Lin Chan",
+                    "email":"mailto:meilin.chan@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

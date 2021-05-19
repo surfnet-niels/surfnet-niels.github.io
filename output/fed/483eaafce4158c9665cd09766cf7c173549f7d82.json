@@ -1,0 +1,151 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"483eaafce4158c9665cd09766cf7c173549f7d82",
+            "entityID":"https://gitlab.speech.humlab.umu.se",
+            "resourceName":"Humlab Speech",
+            "resourceProvider":{
+                "name":"UMU",
+                "displayname":"Umeå University",
+                "url":"https://umu.se/en"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"Humlab infrastructure for speech data",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Johan von Boer",
+                    "email":"mailto:johan.von.boer@umu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"Humlab Support",
+                    "email":"mailto:support@humlab.umu.se"
+                }
+            ],
+            "info":"https://speech.humlab.umu.se/about",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"483eaafce4158c9665cd09766cf7c173549f7d82",
+            "entityID":"https://gitlab.speech.humlab.umu.se",
+            "resourceName":"Required attributes",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://umu.se/en"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Johan von Boer",
+                    "email":"mailto:johan.von.boer@umu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"Humlab Support",
+                    "email":"mailto:support@humlab.umu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"483eaafce4158c9665cd09766cf7c173549f7d82",
+            "entityID":"https://gitlab.speech.humlab.umu.se",
+            "resourceName":"Required attributes",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://umu.se/en"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Johan von Boer",
+                    "email":"mailto:johan.von.boer@umu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"Humlab Support",
+                    "email":"mailto:support@humlab.umu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"483eaafce4158c9665cd09766cf7c173549f7d82",
+            "entityID":"https://gitlab.speech.humlab.umu.se",
+            "resourceName":"Required attributes",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://umu.se/en"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Johan von Boer",
+                    "email":"mailto:johan.von.boer@umu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"Humlab Support",
+                    "email":"mailto:support@humlab.umu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

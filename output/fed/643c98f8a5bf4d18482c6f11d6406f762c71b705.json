@@ -1,0 +1,163 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"643c98f8a5bf4d18482c6f11d6406f762c71b705",
+            "entityID":"https://zeroshell.irccs-stellamaris.it:12081/shibboleth",
+            "resourceName":"WIFI powered by IRCCS Fondazione Stella Maris",
+            "resourceProvider":{
+                "name":"IRCCS Fondazione Stella Maris",
+                "displayname":"WiFi provided by IRCCS Fondazione Stella Maris",
+                "url":"http://www.fsm.unipi.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonAffiliation"
+                ],
+                "requested":[
+                    "email"
+                ]
+            },
+            "description":"IRCCS Fondazione Stella Maris, WiFi network access",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Massimo Del Sarto",
+                    "email":"mailto:ced@fsm.unipi.it"
+                },
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:ced@fsm.unipi.it"
+                }
+            ],
+            "info":"https://www.fsm.unipi.it/idem-wifi-services/",
+            "privacy":"https://www.fsm.unipi.it/idem-wifi-services/",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"643c98f8a5bf4d18482c6f11d6406f762c71b705",
+            "entityID":"https://zeroshell.irccs-stellamaris.it:12081/shibboleth",
+            "resourceName":"WIFI powered by IRCCS Fondazione Stella Maris",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.fsm.unipi.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonAffiliation"
+                ],
+                "requested":[
+                    "email"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Massimo Del Sarto",
+                    "email":"mailto:ced@fsm.unipi.it"
+                },
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:ced@fsm.unipi.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"643c98f8a5bf4d18482c6f11d6406f762c71b705",
+            "entityID":"https://zeroshell.irccs-stellamaris.it:12081/shibboleth",
+            "resourceName":"WIFI erogato da IRCCS Fondazione Stella Maris",
+            "resourceProvider":{
+                "name":"IRCCS Fondazione Stella Maris",
+                "displayname":"WiFi erogato da IRCCS Fondazione Stella Maris",
+                "url":"http://www.fsm.unipi.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonAffiliation"
+                ],
+                "requested":[
+                    "email"
+                ]
+            },
+            "description":"Accesso alla rete WiFi di IRCCS Fondazione Stella Maris",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Massimo Del Sarto",
+                    "email":"mailto:ced@fsm.unipi.it"
+                },
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:ced@fsm.unipi.it"
+                }
+            ],
+            "info":"https://www.fsm.unipi.it/idem-servizi-wifi/",
+            "privacy":"https://www.fsm.unipi.it/idem-servizi-wifi/",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"643c98f8a5bf4d18482c6f11d6406f762c71b705",
+            "entityID":"https://zeroshell.irccs-stellamaris.it:12081/shibboleth",
+            "resourceName":"WIFI powered by IRCCS Fondazione Stella Maris",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.fsm.unipi.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonAffiliation"
+                ],
+                "requested":[
+                    "email"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Massimo Del Sarto",
+                    "email":"mailto:ced@fsm.unipi.it"
+                },
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:ced@fsm.unipi.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

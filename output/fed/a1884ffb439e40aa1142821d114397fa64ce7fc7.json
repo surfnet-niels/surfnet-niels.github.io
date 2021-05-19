@@ -1,0 +1,179 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"a1884ffb439e40aa1142821d114397fa64ce7fc7",
+            "entityID":"https://jaggaer-test.ucop.edu",
+            "resourceName":"https://jaggaer-test.ucop.edu",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Service Provider for Sciquest Test Environment",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a1884ffb439e40aa1142821d114397fa64ce7fc7",
+            "entityID":"https://jaggaer-test.ucop.edu",
+            "resourceName":"https://jaggaer-test.ucop.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a1884ffb439e40aa1142821d114397fa64ce7fc7",
+            "entityID":"https://jaggaer-test.ucop.edu",
+            "resourceName":"https://jaggaer-test.ucop.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a1884ffb439e40aa1142821d114397fa64ce7fc7",
+            "entityID":"https://jaggaer-test.ucop.edu",
+            "resourceName":"https://jaggaer-test.ucop.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"18a3a4fe682ea6bf14b52195574abff4734093bc",
+            "entityID":"https://accounts.rdm.nii.ac.jp/shibboleth-sp",
+            "resourceName":"Account management service for GakuNin RDM",
+            "resourceProvider":{
+                "name":"National Institute of Informatics",
+                "displayname":"Account management service for GakuNin RDM",
+                "url":"https://www.nii.ac.jp"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "organizationName",
+                    "organizationalUnitName",
+                    "eduPersonEntitlement",
+                    "displayName",
+                    "mail",
+                    "isMemberOf"
+                ]
+            },
+            "description":"Account management service for GakuNin RDM",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"NII RCOS",
+                    "email":"mailto:rcos-office@nii.ac.jp"
+                }
+            ],
+            "info":"https://meatwiki.nii.ac.jp/confluence/pages/viewpage.action?pageId=39293916",
+            "privacy":"https://meatwiki.nii.ac.jp/confluence/display/gakuninrdmusers/GakuNin+RDM+Privacy+Policy",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"18a3a4fe682ea6bf14b52195574abff4734093bc",
+            "entityID":"https://accounts.rdm.nii.ac.jp/shibboleth-sp",
+            "resourceName":"Account management service for GakuNin RDM",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.nii.ac.jp"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "organizationName",
+                    "organizationalUnitName",
+                    "eduPersonEntitlement",
+                    "displayName",
+                    "mail",
+                    "isMemberOf"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"NII RCOS",
+                    "email":"mailto:rcos-office@nii.ac.jp"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"18a3a4fe682ea6bf14b52195574abff4734093bc",
+            "entityID":"https://accounts.rdm.nii.ac.jp/shibboleth-sp",
+            "resourceName":"Account management service for GakuNin RDM",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.nii.ac.jp"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "organizationName",
+                    "organizationalUnitName",
+                    "eduPersonEntitlement",
+                    "displayName",
+                    "mail",
+                    "isMemberOf"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"NII RCOS",
+                    "email":"mailto:rcos-office@nii.ac.jp"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"18a3a4fe682ea6bf14b52195574abff4734093bc",
+            "entityID":"https://accounts.rdm.nii.ac.jp/shibboleth-sp",
+            "resourceName":"Account management service for GakuNin RDM",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.nii.ac.jp"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "organizationName",
+                    "organizationalUnitName",
+                    "eduPersonEntitlement",
+                    "displayName",
+                    "mail",
+                    "isMemberOf"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"NII RCOS",
+                    "email":"mailto:rcos-office@nii.ac.jp"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

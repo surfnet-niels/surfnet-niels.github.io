@@ -1,0 +1,151 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"252ab7fe8486fd352cb42dc2805d6335d78b4955",
+            "entityID":"https://grafana-imp.redclara.net/shibboleth",
+            "resourceName":"IMP RedCLARA",
+            "resourceProvider":{
+                "name":"RedCLARA",
+                "displayname":"RedCLARA",
+                "url":"http://www.redclara.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "surname",
+                    "givenName"
+                ],
+                "requested":[]
+            },
+            "description":"IMP RedCLARA Service",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Authentication Support",
+                    "email":"mailto:vsog@redclara.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:vsog@redclara.net"
+                }
+            ],
+            "info":"http://www.redclara.net/index.php?lang=en",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"252ab7fe8486fd352cb42dc2805d6335d78b4955",
+            "entityID":"https://grafana-imp.redclara.net/shibboleth",
+            "resourceName":"IMP RedCLARA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.redclara.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "surname",
+                    "givenName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Authentication Support",
+                    "email":"mailto:vsog@redclara.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:vsog@redclara.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"252ab7fe8486fd352cb42dc2805d6335d78b4955",
+            "entityID":"https://grafana-imp.redclara.net/shibboleth",
+            "resourceName":"IMP RedCLARA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.redclara.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "surname",
+                    "givenName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Authentication Support",
+                    "email":"mailto:vsog@redclara.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:vsog@redclara.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"252ab7fe8486fd352cb42dc2805d6335d78b4955",
+            "entityID":"https://grafana-imp.redclara.net/shibboleth",
+            "resourceName":"IMP RedCLARA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.redclara.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "surname",
+                    "givenName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Authentication Support",
+                    "email":"mailto:vsog@redclara.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:vsog@redclara.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

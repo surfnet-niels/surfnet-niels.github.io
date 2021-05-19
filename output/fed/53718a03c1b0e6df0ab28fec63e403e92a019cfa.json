@@ -1,0 +1,155 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"53718a03c1b0e6df0ab28fec63e403e92a019cfa",
+            "entityID":"https://dmponline-test.dcc.ac.uk/shibboleth",
+            "resourceName":"Test DMP Online",
+            "resourceProvider":{
+                "name":"University of Edinburgh",
+                "displayname":"Digital Curation Centre Test DMP Online service",
+                "url":"http://www.dcc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"This is a test service for the Digital Curation Centre's data management planning tool, DMP Online.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:support@dcc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:support@dcc.ac.uk"
+                }
+            ],
+            "info":"http://www.dcc.ac.uk/dmponline",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"53718a03c1b0e6df0ab28fec63e403e92a019cfa",
+            "entityID":"https://dmponline-test.dcc.ac.uk/shibboleth",
+            "resourceName":"Test DMP Online",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dcc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:support@dcc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:support@dcc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"53718a03c1b0e6df0ab28fec63e403e92a019cfa",
+            "entityID":"https://dmponline-test.dcc.ac.uk/shibboleth",
+            "resourceName":"Test DMP Online",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dcc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:support@dcc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:support@dcc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"53718a03c1b0e6df0ab28fec63e403e92a019cfa",
+            "entityID":"https://dmponline-test.dcc.ac.uk/shibboleth",
+            "resourceName":"Test DMP Online",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dcc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:support@dcc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"DCC Helpdesk",
+                    "email":"mailto:support@dcc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

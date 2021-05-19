@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"2dd557294593d6d30b8bcb4d1e8a270281b11b83",
+            "entityID":"https://tntjira.ucop.edu",
+            "resourceName":"TnTJira",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"QA Jira Instance",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2dd557294593d6d30b8bcb4d1e8a270281b11b83",
+            "entityID":"https://tntjira.ucop.edu",
+            "resourceName":"TnTJira",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2dd557294593d6d30b8bcb4d1e8a270281b11b83",
+            "entityID":"https://tntjira.ucop.edu",
+            "resourceName":"TnTJira",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2dd557294593d6d30b8bcb4d1e8a270281b11b83",
+            "entityID":"https://tntjira.ucop.edu",
+            "resourceName":"TnTJira",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

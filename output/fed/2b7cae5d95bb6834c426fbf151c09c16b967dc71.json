@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"2b7cae5d95bb6834c426fbf151c09c16b967dc71",
+            "entityID":"https://osu.dserec.com/sp",
+            "resourceName":"DSE RecCenter (OSU)",
+            "resourceProvider":{
+                "name":"DSE Rec, LLC",
+                "displayname":"DSE Rec, LLC",
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"DSE- Rec Management Software",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"https://www.dserec.com",
+            "privacy":"https://www.dserec.com/privacy_policy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2b7cae5d95bb6834c426fbf151c09c16b967dc71",
+            "entityID":"https://osu.dserec.com/sp",
+            "resourceName":"DSE RecCenter (OSU)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2b7cae5d95bb6834c426fbf151c09c16b967dc71",
+            "entityID":"https://osu.dserec.com/sp",
+            "resourceName":"DSE RecCenter (OSU)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2b7cae5d95bb6834c426fbf151c09c16b967dc71",
+            "entityID":"https://osu.dserec.com/sp",
+            "resourceName":"DSE RecCenter (OSU)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

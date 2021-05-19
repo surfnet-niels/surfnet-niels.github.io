@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"892fcfd918ea4f23cb6a6bad8e24b3469a73b505",
+            "entityID":"https://dash-dev.cdlib.org/shibboleth",
+            "resourceName":"Dryad Development Instance",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Dryad Dev Instance for Testing",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Daniella Lowenberg",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"https://dash-dev.ucop.edu/stash/about",
+            "privacy":"https://www.cdlib.org/about/privacy.html",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"892fcfd918ea4f23cb6a6bad8e24b3469a73b505",
+            "entityID":"https://dash-dev.cdlib.org/shibboleth",
+            "resourceName":"Dryad Development Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Daniella Lowenberg",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"892fcfd918ea4f23cb6a6bad8e24b3469a73b505",
+            "entityID":"https://dash-dev.cdlib.org/shibboleth",
+            "resourceName":"Dryad Development Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Daniella Lowenberg",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"892fcfd918ea4f23cb6a6bad8e24b3469a73b505",
+            "entityID":"https://dash-dev.cdlib.org/shibboleth",
+            "resourceName":"Dryad Development Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Daniella Lowenberg",
+                    "email":"mailto:uc3@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

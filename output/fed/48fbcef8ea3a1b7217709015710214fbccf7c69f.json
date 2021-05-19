@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"48fbcef8ea3a1b7217709015710214fbccf7c69f",
+            "entityID":"https://www.mathworks.com/edu-sp",
+            "resourceName":"MathWorks Edu Service Provider",
+            "resourceProvider":{
+                "name":"The MathWorks, Inc.",
+                "displayname":"The MathWorks, Inc.",
+                "url":"http://www.mathworks.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jordan Schmidt",
+                    "email":"mailto:jordan.schmidt@mathworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Howes",
+                    "email":"mailto:ahowes@mathworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"MathWorks Security Team",
+                    "email":"mailto:security@mathworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.mathworks.com/company/aboutus/policies_statements.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"48fbcef8ea3a1b7217709015710214fbccf7c69f",
+            "entityID":"https://www.mathworks.com/edu-sp",
+            "resourceName":"MathWorks Edu Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.mathworks.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jordan Schmidt",
+                    "email":"mailto:jordan.schmidt@mathworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Howes",
+                    "email":"mailto:ahowes@mathworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"MathWorks Security Team",
+                    "email":"mailto:security@mathworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"48fbcef8ea3a1b7217709015710214fbccf7c69f",
+            "entityID":"https://www.mathworks.com/edu-sp",
+            "resourceName":"MathWorks Edu Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.mathworks.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jordan Schmidt",
+                    "email":"mailto:jordan.schmidt@mathworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Howes",
+                    "email":"mailto:ahowes@mathworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"MathWorks Security Team",
+                    "email":"mailto:security@mathworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"48fbcef8ea3a1b7217709015710214fbccf7c69f",
+            "entityID":"https://www.mathworks.com/edu-sp",
+            "resourceName":"MathWorks Edu Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.mathworks.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jordan Schmidt",
+                    "email":"mailto:jordan.schmidt@mathworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Howes",
+                    "email":"mailto:ahowes@mathworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"MathWorks Security Team",
+                    "email":"mailto:security@mathworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

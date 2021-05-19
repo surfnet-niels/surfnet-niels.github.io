@@ -1,0 +1,163 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"cfbc866f45ac727bb99c2011615cd18fff2616cc",
+            "entityID":"https://unifyhr-qa.ucop.edu/sp",
+            "resourceName":"FMEV Service Provider",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"QA Service Provider for UnifyHR's application",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMgrp@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"cfbc866f45ac727bb99c2011615cd18fff2616cc",
+            "entityID":"https://unifyhr-qa.ucop.edu/sp",
+            "resourceName":"https://unifyhr-qa.ucop.edu/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMgrp@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"cfbc866f45ac727bb99c2011615cd18fff2616cc",
+            "entityID":"https://unifyhr-qa.ucop.edu/sp",
+            "resourceName":"https://unifyhr-qa.ucop.edu/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMgrp@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"cfbc866f45ac727bb99c2011615cd18fff2616cc",
+            "entityID":"https://unifyhr-qa.ucop.edu/sp",
+            "resourceName":"https://unifyhr-qa.ucop.edu/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMgrp@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

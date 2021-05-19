@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"0c221fa9a4f9ec0585d5d7b5ec4b01509dbc9d3c",
+            "entityID":"https://dssog-api-staging.acalogadmin.com",
+            "resourceName":"Acalog DSSOG API Staging",
+            "resourceProvider":{
+                "name":"Digital Architecture, Inc.",
+                "displayname":"Digital Architecture, Inc.",
+                "url":"http://www.digarc.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Staging site used for on-boarding Acalog clients with InCommon",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Martin Nelson",
+                    "email":"mailto:mnelson@digarc.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.digarc.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"0c221fa9a4f9ec0585d5d7b5ec4b01509dbc9d3c",
+            "entityID":"https://dssog-api-staging.acalogadmin.com",
+            "resourceName":"Acalog DSSOG API Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.digarc.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Martin Nelson",
+                    "email":"mailto:mnelson@digarc.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"0c221fa9a4f9ec0585d5d7b5ec4b01509dbc9d3c",
+            "entityID":"https://dssog-api-staging.acalogadmin.com",
+            "resourceName":"Acalog DSSOG API Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.digarc.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Martin Nelson",
+                    "email":"mailto:mnelson@digarc.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"0c221fa9a4f9ec0585d5d7b5ec4b01509dbc9d3c",
+            "entityID":"https://dssog-api-staging.acalogadmin.com",
+            "resourceName":"Acalog DSSOG API Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.digarc.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Martin Nelson",
+                    "email":"mailto:mnelson@digarc.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Support",
+                    "email":"mailto:ssosupport@digarc.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

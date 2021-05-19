@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"88308e50adbd96b97413558c8b98e8aff35dfb04",
+            "entityID":"https://dmp-dev.cdlib.org",
+            "resourceName":"DMPTool Development Instance",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"Create, share, review, and publish Data Management Plans conforming to Institution and Funder requirements",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Maria Praetzellis",
+                    "email":"mailto:maria.praetzellis@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Ashley Gould",
+                    "email":"mailto:ashley.gould@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"https://dmptool.org/about_us",
+            "privacy":"https://dmptool.org/terms",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"88308e50adbd96b97413558c8b98e8aff35dfb04",
+            "entityID":"https://dmp-dev.cdlib.org",
+            "resourceName":"DMPTool Development Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Maria Praetzellis",
+                    "email":"mailto:maria.praetzellis@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Ashley Gould",
+                    "email":"mailto:ashley.gould@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"88308e50adbd96b97413558c8b98e8aff35dfb04",
+            "entityID":"https://dmp-dev.cdlib.org",
+            "resourceName":"DMPTool Development Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Maria Praetzellis",
+                    "email":"mailto:maria.praetzellis@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Ashley Gould",
+                    "email":"mailto:ashley.gould@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"88308e50adbd96b97413558c8b98e8aff35dfb04",
+            "entityID":"https://dmp-dev.cdlib.org",
+            "resourceName":"DMPTool Development Instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Maria Praetzellis",
+                    "email":"mailto:maria.praetzellis@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marisa Strong",
+                    "email":"mailto:marisa.strong@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Ashley Gould",
+                    "email":"mailto:ashley.gould@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

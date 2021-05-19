@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"0e5b883fd986040ba0cb466b9b20cf2f6f8af7f2",
+            "entityID":"https://proxy-ship.klnpa.org/shibboleth-sp",
+            "resourceName":"KLN RPAS Shippensburg EZProxy",
+            "resourceProvider":{
+                "name":"Pennsylvania State System of Higher Education (PASSHE) Office of the Chancellor",
+                "displayname":"Pennsylvania State System of Higher Education (PASSHE) Office of the Chancellor",
+                "url":"http://www.passhe.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"http://www.passhe.edu/inside/HR/syshr/healthcare/Documents/Privacy_Practice.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"0e5b883fd986040ba0cb466b9b20cf2f6f8af7f2",
+            "entityID":"https://proxy-ship.klnpa.org/shibboleth-sp",
+            "resourceName":"KLN RPAS Shippensburg EZProxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.passhe.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"0e5b883fd986040ba0cb466b9b20cf2f6f8af7f2",
+            "entityID":"https://proxy-ship.klnpa.org/shibboleth-sp",
+            "resourceName":"KLN RPAS Shippensburg EZProxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.passhe.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"0e5b883fd986040ba0cb466b9b20cf2f6f8af7f2",
+            "entityID":"https://proxy-ship.klnpa.org/shibboleth-sp",
+            "resourceName":"KLN RPAS Shippensburg EZProxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.passhe.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Keystone Library Network Hub",
+                    "email":"mailto:kln@ship.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"d1607d96a1166344b4fc4aa884643b478c71634a",
+            "entityID":"http://bond-wstest.imodules.com/sp",
+            "resourceName":"iModules Bond University test site",
+            "resourceProvider":{
+                "name":"Imodules Software, Inc.",
+                "displayname":"Imodules Software, Inc.",
+                "url":"http://www.imodules.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"600865 iModules Shibboleth Login",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.imodules.com/s/1333/index.aspx?sid=1333&gid=1&pgid=230&cid=157",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d1607d96a1166344b4fc4aa884643b478c71634a",
+            "entityID":"http://bond-wstest.imodules.com/sp",
+            "resourceName":"http://bond-wstest.imodules.com/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.imodules.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d1607d96a1166344b4fc4aa884643b478c71634a",
+            "entityID":"http://bond-wstest.imodules.com/sp",
+            "resourceName":"http://bond-wstest.imodules.com/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.imodules.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d1607d96a1166344b4fc4aa884643b478c71634a",
+            "entityID":"http://bond-wstest.imodules.com/sp",
+            "resourceName":"http://bond-wstest.imodules.com/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.imodules.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Production Team",
+                    "email":"mailto:prodqueue@imodules.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

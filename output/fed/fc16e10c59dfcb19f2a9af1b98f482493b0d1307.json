@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"fc16e10c59dfcb19f2a9af1b98f482493b0d1307",
+            "entityID":"https://netdocs.ucop.edu",
+            "resourceName":"UCOP NetDocuments",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Office of the General Counsel NetDocuments Site",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Paul Atwood",
+                    "email":"mailto:Paul.Atwood@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Joshua Moore",
+                    "email":"mailto:support@netdocuments.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"fc16e10c59dfcb19f2a9af1b98f482493b0d1307",
+            "entityID":"https://netdocs.ucop.edu",
+            "resourceName":"UCOP NetDocuments",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Paul Atwood",
+                    "email":"mailto:Paul.Atwood@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Joshua Moore",
+                    "email":"mailto:support@netdocuments.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"fc16e10c59dfcb19f2a9af1b98f482493b0d1307",
+            "entityID":"https://netdocs.ucop.edu",
+            "resourceName":"UCOP NetDocuments",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Paul Atwood",
+                    "email":"mailto:Paul.Atwood@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Joshua Moore",
+                    "email":"mailto:support@netdocuments.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"fc16e10c59dfcb19f2a9af1b98f482493b0d1307",
+            "entityID":"https://netdocs.ucop.edu",
+            "resourceName":"UCOP NetDocuments",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Paul Atwood",
+                    "email":"mailto:Paul.Atwood@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Joshua Moore",
+                    "email":"mailto:support@netdocuments.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"a230e138d7223deae3e6ab786a31eafcecf9e1f5",
+            "entityID":"https://umn.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":"Stellic Inc",
+                "displayname":"Stellic Inc",
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                }
+            ],
+            "info":"https://www.stellic.com",
+            "privacy":"https://www.stellic.com",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a230e138d7223deae3e6ab786a31eafcecf9e1f5",
+            "entityID":"https://umn.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a230e138d7223deae3e6ab786a31eafcecf9e1f5",
+            "entityID":"https://umn.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a230e138d7223deae3e6ab786a31eafcecf9e1f5",
+            "entityID":"https://umn.stellic.com/shibboleth",
+            "resourceName":"Stellic",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.stellic.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Musab Popatia",
+                    "email":"mailto:musab@stellic.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"a50e5d47b4b6bf2b491849276f262a0dcfbfa26f",
+            "entityID":"https://rstudio.sit.cloud.unizin.org/shibboleth",
+            "resourceName":"Unizin - RStudio",
+            "resourceProvider":{
+                "name":"Unizin",
+                "displayname":"Unizin",
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"Statistical and data-analysis software.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                }
+            ],
+            "info":"https://resources.unizin.org/pages/viewpage.action?pageId=8618368",
+            "privacy":"https://community.unizin.org/privacy_policy",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a50e5d47b4b6bf2b491849276f262a0dcfbfa26f",
+            "entityID":"https://rstudio.sit.cloud.unizin.org/shibboleth",
+            "resourceName":"Unizin - RStudio",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a50e5d47b4b6bf2b491849276f262a0dcfbfa26f",
+            "entityID":"https://rstudio.sit.cloud.unizin.org/shibboleth",
+            "resourceName":"Unizin - RStudio",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a50e5d47b4b6bf2b491849276f262a0dcfbfa26f",
+            "entityID":"https://rstudio.sit.cloud.unizin.org/shibboleth",
+            "resourceName":"Unizin - RStudio",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://unizin.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Rafael Fernandez",
+                    "email":"mailto:rafael.fernandez@unizin.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

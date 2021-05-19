@@ -1,0 +1,163 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"be14e235d2895feed2e519914289bbe0168320a7",
+            "entityID":"https://n2it.universityofcalifornia.edu",
+            "resourceName":"UCPath N2IT Service Provider",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Proxy SP to support UCPath N2IT integration of UCSB and UCLA",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Randy Roberts",
+                    "email":"mailto:Randy.Roberts@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"be14e235d2895feed2e519914289bbe0168320a7",
+            "entityID":"https://n2it.universityofcalifornia.edu",
+            "resourceName":"https://n2it.universityofcalifornia.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Randy Roberts",
+                    "email":"mailto:Randy.Roberts@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"be14e235d2895feed2e519914289bbe0168320a7",
+            "entityID":"https://n2it.universityofcalifornia.edu",
+            "resourceName":"https://n2it.universityofcalifornia.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Randy Roberts",
+                    "email":"mailto:Randy.Roberts@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"be14e235d2895feed2e519914289bbe0168320a7",
+            "entityID":"https://n2it.universityofcalifornia.edu",
+            "resourceName":"https://n2it.universityofcalifornia.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Randy Roberts",
+                    "email":"mailto:Randy.Roberts@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

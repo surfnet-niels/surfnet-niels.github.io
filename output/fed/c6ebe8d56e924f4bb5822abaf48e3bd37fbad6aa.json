@@ -1,0 +1,215 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"c6ebe8d56e924f4bb5822abaf48e3bd37fbad6aa",
+            "entityID":"https://fnal-fed-auth.fnal.gov/sp",
+            "resourceName":"Production Fermilab Federation Hub SP",
+            "resourceProvider":{
+                "name":"Fermi National Accelerator Laboratory",
+                "displayname":"Fermi National Accelerator Laboratory",
+                "url":"http://www.fnal.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Authentication Services",
+                    "email":"mailto:auth@fnal.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Authentication Services",
+                    "email":"mailto:auth@fnal.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"Cyber Security",
+                    "email":"mailto:cybersecurity@fnal.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"Service Desk",
+                    "email":"mailto:servicedesk@fnal.gov"
+                }
+            ],
+            "info":"http://www.fnal.gov/",
+            "privacy":"http://www.fnal.gov/pub/disclaim.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c6ebe8d56e924f4bb5822abaf48e3bd37fbad6aa",
+            "entityID":"https://fnal-fed-auth.fnal.gov/sp",
+            "resourceName":"Production Fermilab Federation Hub SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.fnal.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Authentication Services",
+                    "email":"mailto:auth@fnal.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Authentication Services",
+                    "email":"mailto:auth@fnal.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"Cyber Security",
+                    "email":"mailto:cybersecurity@fnal.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"Service Desk",
+                    "email":"mailto:servicedesk@fnal.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c6ebe8d56e924f4bb5822abaf48e3bd37fbad6aa",
+            "entityID":"https://fnal-fed-auth.fnal.gov/sp",
+            "resourceName":"Production Fermilab Federation Hub SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.fnal.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Authentication Services",
+                    "email":"mailto:auth@fnal.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Authentication Services",
+                    "email":"mailto:auth@fnal.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"Cyber Security",
+                    "email":"mailto:cybersecurity@fnal.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"Service Desk",
+                    "email":"mailto:servicedesk@fnal.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c6ebe8d56e924f4bb5822abaf48e3bd37fbad6aa",
+            "entityID":"https://fnal-fed-auth.fnal.gov/sp",
+            "resourceName":"Production Fermilab Federation Hub SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.fnal.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Authentication Services",
+                    "email":"mailto:auth@fnal.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Authentication Services",
+                    "email":"mailto:auth@fnal.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"Cyber Security",
+                    "email":"mailto:cybersecurity@fnal.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"Service Desk",
+                    "email":"mailto:servicedesk@fnal.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

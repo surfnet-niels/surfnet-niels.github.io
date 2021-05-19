@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"3c22d716a0ada757defe028bbcbdaf0c47cce498",
+            "entityID":"https://sso.ia2.inaf.it/shibboleth",
+            "resourceName":"SSO Portal for INAF services",
+            "resourceProvider":{
+                "name":"INAF IA2 - Italian Center for Astronomical Archives",
+                "displayname":"SSO Portal for INAF services provided by INAF IA2",
+                "url":"http://www.ia2.inaf.it/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email"
+                ],
+                "requested":[
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"SSO Portal for INAF services provided by IA2, the Italian Center for Astronomical Archives.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IA2 Team",
+                    "email":"mailto:ia2@inaf.it"
+                },
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:cristina.knapic@inaf.it"
+                }
+            ],
+            "info":"https://sso.ia2.inaf.it/home/index.php?lang=en",
+            "privacy":"https://sso.ia2.inaf.it/home/privacy.php?lang=en",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"3c22d716a0ada757defe028bbcbdaf0c47cce498",
+            "entityID":"https://sso.ia2.inaf.it/shibboleth",
+            "resourceName":"SSO Portal for INAF services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ia2.inaf.it/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email"
+                ],
+                "requested":[
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IA2 Team",
+                    "email":"mailto:ia2@inaf.it"
+                },
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:cristina.knapic@inaf.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"3c22d716a0ada757defe028bbcbdaf0c47cce498",
+            "entityID":"https://sso.ia2.inaf.it/shibboleth",
+            "resourceName":"Portale per il SSO verso i servizi INAF",
+            "resourceProvider":{
+                "name":"INAF IA2 - Centro Italiano Archivi Astronomici",
+                "displayname":"Portale per il SSO verso i servizi INAF erogato da INAF IA2",
+                "url":"http://www.ia2.inaf.it/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email"
+                ],
+                "requested":[
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"Portale per il SSO per i servizi INAF forniti da IA2, il Centro Italiano Archivi Astronomici.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IA2 Team",
+                    "email":"mailto:ia2@inaf.it"
+                },
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:cristina.knapic@inaf.it"
+                }
+            ],
+            "info":"https://sso.ia2.inaf.it/home/index.php?lang=it",
+            "privacy":"https://sso.ia2.inaf.it/home/privacy.php?lang=it",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"3c22d716a0ada757defe028bbcbdaf0c47cce498",
+            "entityID":"https://sso.ia2.inaf.it/shibboleth",
+            "resourceName":"SSO Portal for INAF services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ia2.inaf.it/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "email"
+                ],
+                "requested":[
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IA2 Team",
+                    "email":"mailto:ia2@inaf.it"
+                },
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:cristina.knapic@inaf.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

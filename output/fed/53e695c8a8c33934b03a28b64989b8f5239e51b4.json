@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"53e695c8a8c33934b03a28b64989b8f5239e51b4",
+            "entityID":"https://sso.medicatconnect.com/shibboleth",
+            "resourceName":"Medicat",
+            "resourceProvider":{
+                "name":"Medicat, LLC",
+                "displayname":"Medicat, LLC",
+                "url":"http://medicat.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Chris Short",
+                    "email":"mailto:its@medicat.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Chis Short",
+                    "email":"mailto:its@medicat.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Chis Short",
+                    "email":"mailto:its@medicat.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://medicat.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"53e695c8a8c33934b03a28b64989b8f5239e51b4",
+            "entityID":"https://sso.medicatconnect.com/shibboleth",
+            "resourceName":"Medicat",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://medicat.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Chris Short",
+                    "email":"mailto:its@medicat.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Chis Short",
+                    "email":"mailto:its@medicat.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Chis Short",
+                    "email":"mailto:its@medicat.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"53e695c8a8c33934b03a28b64989b8f5239e51b4",
+            "entityID":"https://sso.medicatconnect.com/shibboleth",
+            "resourceName":"Medicat",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://medicat.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Chris Short",
+                    "email":"mailto:its@medicat.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Chis Short",
+                    "email":"mailto:its@medicat.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Chis Short",
+                    "email":"mailto:its@medicat.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"53e695c8a8c33934b03a28b64989b8f5239e51b4",
+            "entityID":"https://sso.medicatconnect.com/shibboleth",
+            "resourceName":"Medicat",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://medicat.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Chris Short",
+                    "email":"mailto:its@medicat.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Chis Short",
+                    "email":"mailto:its@medicat.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Chis Short",
+                    "email":"mailto:its@medicat.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

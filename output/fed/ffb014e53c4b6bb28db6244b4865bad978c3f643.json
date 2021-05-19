@@ -1,0 +1,215 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"ffb014e53c4b6bb28db6244b4865bad978c3f643",
+            "entityID":"https://proxy.aai.lifescience-ri.eu/metadata/backend.xml",
+            "resourceName":"Life Science Login",
+            "resourceProvider":{
+                "name":"European Life Science Research Infrastructures",
+                "displayname":"European Life Science Research Infrastructures",
+                "url":"https://lifescience-ri.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
+                    "schacHomeOrganization",
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonOrcid"
+                ],
+                "requested":[]
+            },
+            "description":"Life Science Login is a common gateway to the European Life Sciences research Infrastructures",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                }
+            ],
+            "info":"https://lifescience-ri.eu",
+            "privacy":"https://lifescience-ri.eu/ls-login/ls-aai-aup.html",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ffb014e53c4b6bb28db6244b4865bad978c3f643",
+            "entityID":"https://proxy.aai.lifescience-ri.eu/metadata/backend.xml",
+            "resourceName":"Life Science RI",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://lifescience-ri.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
+                    "schacHomeOrganization",
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonOrcid"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ffb014e53c4b6bb28db6244b4865bad978c3f643",
+            "entityID":"https://proxy.aai.lifescience-ri.eu/metadata/backend.xml",
+            "resourceName":"Life Science RI",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://lifescience-ri.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
+                    "schacHomeOrganization",
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonOrcid"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ffb014e53c4b6bb28db6244b4865bad978c3f643",
+            "entityID":"https://proxy.aai.lifescience-ri.eu/metadata/backend.xml",
+            "resourceName":"Life Science RI",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://lifescience-ri.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
+                    "schacHomeOrganization",
+                    "eduPersonPrincipalName",
+                    "cn",
+                    "displayName",
+                    "sn",
+                    "givenName",
+                    "mail",
+                    "eduPersonOrcid"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"Life Sciences AAISupport",
+                    "email":"mailto:support@aai.lifescience-ri.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

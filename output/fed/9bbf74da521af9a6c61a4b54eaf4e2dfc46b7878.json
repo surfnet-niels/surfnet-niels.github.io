@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"9bbf74da521af9a6c61a4b54eaf4e2dfc46b7878",
+            "entityID":"https://apps.csustan.edu/shibboleth",
+            "resourceName":"CSUStan Apps",
+            "resourceProvider":{
+                "name":"California State University, Stanislaus",
+                "displayname":"California State University, Stanislaus",
+                "url":"http://www.csustan.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"CSU Stanislaus App SP",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Rezendes",
+                    "email":"mailto:jrezendes@csustan.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Teixeira",
+                    "email":"mailto:iam@csustan.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Nathan Zierfuss-Hubbard",
+                    "email":"mailto:security@csustan.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support",
+                    "email":"mailto:techsupport@csustan.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.csustan.edu/oit/icsuam-policy-80250-privacy-personal-information",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"9bbf74da521af9a6c61a4b54eaf4e2dfc46b7878",
+            "entityID":"https://apps.csustan.edu/shibboleth",
+            "resourceName":"CSUStan Apps",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.csustan.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Rezendes",
+                    "email":"mailto:jrezendes@csustan.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Teixeira",
+                    "email":"mailto:iam@csustan.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Nathan Zierfuss-Hubbard",
+                    "email":"mailto:security@csustan.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support",
+                    "email":"mailto:techsupport@csustan.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"9bbf74da521af9a6c61a4b54eaf4e2dfc46b7878",
+            "entityID":"https://apps.csustan.edu/shibboleth",
+            "resourceName":"CSUStan Apps",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.csustan.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Rezendes",
+                    "email":"mailto:jrezendes@csustan.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Teixeira",
+                    "email":"mailto:iam@csustan.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Nathan Zierfuss-Hubbard",
+                    "email":"mailto:security@csustan.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support",
+                    "email":"mailto:techsupport@csustan.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"9bbf74da521af9a6c61a4b54eaf4e2dfc46b7878",
+            "entityID":"https://apps.csustan.edu/shibboleth",
+            "resourceName":"CSUStan Apps",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.csustan.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Rezendes",
+                    "email":"mailto:jrezendes@csustan.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Steven Teixeira",
+                    "email":"mailto:iam@csustan.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Nathan Zierfuss-Hubbard",
+                    "email":"mailto:security@csustan.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support",
+                    "email":"mailto:techsupport@csustan.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

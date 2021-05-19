@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"d8f0d2d57b44fea86211914757bd2d89edb87882",
+            "entityID":"https://inacademia.org/metadata/inacademia-simple-validation.xml",
+            "resourceName":"InAcademia Affiliation Validation Service",
+            "resourceProvider":{
+                "name":"InAcademia operated by GÉANT",
+                "displayname":"InAcademia",
+                "url":"https://inacademia.org/about"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"InAcademia validates affiliation assigned by your home institution. This data is provided in anonymized form to services. While your Institution assists in validation your affiliation, it has no relation with the Service requesting the validation. ",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"InAcademiaEnduser Support",
+                    "email":"mailto:support@inacademia.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"InAcademiaAdministrative Support",
+                    "email":"mailto:admin@inacademia.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InAcademiaTechnical Support",
+                    "email":"mailto:tech@inacademia.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InAcademiasecurity Support",
+                    "email":"mailto:support@inacademia.org"
+                }
+            ],
+            "info":"https://inacademia.org/about",
+            "privacy":"https://inacademia.org/privacy-statement/",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d8f0d2d57b44fea86211914757bd2d89edb87882",
+            "entityID":"https://inacademia.org/metadata/inacademia-simple-validation.xml",
+            "resourceName":"InAcademia Affiliation Validation Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://inacademia.org/about"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"InAcademiaEnduser Support",
+                    "email":"mailto:support@inacademia.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"InAcademiaAdministrative Support",
+                    "email":"mailto:admin@inacademia.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InAcademiaTechnical Support",
+                    "email":"mailto:tech@inacademia.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InAcademiasecurity Support",
+                    "email":"mailto:support@inacademia.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d8f0d2d57b44fea86211914757bd2d89edb87882",
+            "entityID":"https://inacademia.org/metadata/inacademia-simple-validation.xml",
+            "resourceName":"InAcademia Affiliation Validation Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://inacademia.org/about"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"InAcademiaEnduser Support",
+                    "email":"mailto:support@inacademia.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"InAcademiaAdministrative Support",
+                    "email":"mailto:admin@inacademia.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InAcademiaTechnical Support",
+                    "email":"mailto:tech@inacademia.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InAcademiasecurity Support",
+                    "email":"mailto:support@inacademia.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d8f0d2d57b44fea86211914757bd2d89edb87882",
+            "entityID":"https://inacademia.org/metadata/inacademia-simple-validation.xml",
+            "resourceName":"InAcademia Affiliation Validation Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://inacademia.org/about"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"InAcademiaEnduser Support",
+                    "email":"mailto:support@inacademia.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"InAcademiaAdministrative Support",
+                    "email":"mailto:admin@inacademia.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InAcademiaTechnical Support",
+                    "email":"mailto:tech@inacademia.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InAcademiasecurity Support",
+                    "email":"mailto:support@inacademia.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

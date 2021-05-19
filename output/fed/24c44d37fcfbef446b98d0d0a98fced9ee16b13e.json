@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"24c44d37fcfbef446b98d0d0a98fced9ee16b13e",
+            "entityID":"https://www.usmd.edu/simplesaml/module.php/saml/sp/metadata.php/give",
+            "resourceName":"University System of Maryland - Payroll Deduction",
+            "resourceProvider":{
+                "name":"University System of Maryland",
+                "displayname":"University System of Maryland",
+                "url":"http://www.usmd.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "o"
+                ]
+            },
+            "description":"University System of Maryland's Payroll Deduction site for Advancement.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Fred Hayes",
+                    "email":"mailto:fph@usmd.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marcus Harrington",
+                    "email":"mailto:mharrington@usmd.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Fred Hayes",
+                    "email":"mailto:fph@usmd.edu"
+                }
+            ],
+            "info":"https://www.usmd.edu/give/",
+            "privacy":"https://www.usmd.edu/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"24c44d37fcfbef446b98d0d0a98fced9ee16b13e",
+            "entityID":"https://www.usmd.edu/simplesaml/module.php/saml/sp/metadata.php/give",
+            "resourceName":"University System of Maryland - Payroll Deduction",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.usmd.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Fred Hayes",
+                    "email":"mailto:fph@usmd.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marcus Harrington",
+                    "email":"mailto:mharrington@usmd.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Fred Hayes",
+                    "email":"mailto:fph@usmd.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"24c44d37fcfbef446b98d0d0a98fced9ee16b13e",
+            "entityID":"https://www.usmd.edu/simplesaml/module.php/saml/sp/metadata.php/give",
+            "resourceName":"University System of Maryland - Payroll Deduction",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.usmd.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Fred Hayes",
+                    "email":"mailto:fph@usmd.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marcus Harrington",
+                    "email":"mailto:mharrington@usmd.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Fred Hayes",
+                    "email":"mailto:fph@usmd.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"24c44d37fcfbef446b98d0d0a98fced9ee16b13e",
+            "entityID":"https://www.usmd.edu/simplesaml/module.php/saml/sp/metadata.php/give",
+            "resourceName":"University System of Maryland - Payroll Deduction",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.usmd.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Fred Hayes",
+                    "email":"mailto:fph@usmd.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Marcus Harrington",
+                    "email":"mailto:mharrington@usmd.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Fred Hayes",
+                    "email":"mailto:fph@usmd.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

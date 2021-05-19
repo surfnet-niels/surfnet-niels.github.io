@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"7310848c4289914bf7ae85d2cd8e0182861d7157",
+            "entityID":"https://saas.kualibuild.com",
+            "resourceName":"Kuali Build",
+            "resourceProvider":{
+                "name":"Kuali, Inc.",
+                "displayname":"Kuali, Inc.",
+                "url":"https://www.kuali.co/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Kuali Build Software as a Service",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"security",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"support",
+                    "name":"Kuali Build Support",
+                    "email":"mailto:build-support@kuali.co"
+                }
+            ],
+            "info":"https://build.kuali.co",
+            "privacy":"https://www.kuali.co/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7310848c4289914bf7ae85d2cd8e0182861d7157",
+            "entityID":"https://saas.kualibuild.com",
+            "resourceName":"Kuali Build",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kuali.co/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"security",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"support",
+                    "name":"Kuali Build Support",
+                    "email":"mailto:build-support@kuali.co"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7310848c4289914bf7ae85d2cd8e0182861d7157",
+            "entityID":"https://saas.kualibuild.com",
+            "resourceName":"Kuali Build",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kuali.co/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"security",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"support",
+                    "name":"Kuali Build Support",
+                    "email":"mailto:build-support@kuali.co"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7310848c4289914bf7ae85d2cd8e0182861d7157",
+            "entityID":"https://saas.kualibuild.com",
+            "resourceName":"Kuali Build",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kuali.co/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"security",
+                    "name":"Tadd Giles",
+                    "email":"mailto:tadd@kuali.co"
+                },
+                {
+                    "type":"support",
+                    "name":"Kuali Build Support",
+                    "email":"mailto:build-support@kuali.co"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

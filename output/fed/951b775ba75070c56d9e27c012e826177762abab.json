@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"951b775ba75070c56d9e27c012e826177762abab",
+            "entityID":"https://sp.clarin.si/",
+            "resourceName":"CLARIN.SI Repository",
+            "resourceProvider":{
+                "name":"e459",
+                "displayname":"CLARIN ERIC",
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "cn",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"CLARIN.SI: Digital repository and services of the Slovenian CLARIN RI at the Jožef Stefan Institute",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jan JonaJavoršek",
+                    "email":"mailto:repo-technical@clarin.si"
+                },
+                {
+                    "type":"support",
+                    "name":"Jan JonaJavoršek",
+                    "email":"mailto:repo-help@clarin.si"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tomaž JonaErjavec",
+                    "email":"mailto:repo-admin@clarin.si"
+                }
+            ],
+            "info":"http://www.clarin.si/",
+            "privacy":"https://www.clarin.si/privacy_policy.html",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"951b775ba75070c56d9e27c012e826177762abab",
+            "entityID":"https://sp.clarin.si/",
+            "resourceName":"CLARIN.SI Repository",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "cn",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jan JonaJavoršek",
+                    "email":"mailto:repo-technical@clarin.si"
+                },
+                {
+                    "type":"support",
+                    "name":"Jan JonaJavoršek",
+                    "email":"mailto:repo-help@clarin.si"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tomaž JonaErjavec",
+                    "email":"mailto:repo-admin@clarin.si"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"951b775ba75070c56d9e27c012e826177762abab",
+            "entityID":"https://sp.clarin.si/",
+            "resourceName":"CLARIN.SI Repository",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "cn",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jan JonaJavoršek",
+                    "email":"mailto:repo-technical@clarin.si"
+                },
+                {
+                    "type":"support",
+                    "name":"Jan JonaJavoršek",
+                    "email":"mailto:repo-help@clarin.si"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tomaž JonaErjavec",
+                    "email":"mailto:repo-admin@clarin.si"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"951b775ba75070c56d9e27c012e826177762abab",
+            "entityID":"https://sp.clarin.si/",
+            "resourceName":"CLARIN.SI Dienste",
+            "resourceProvider":{
+                "name":"e459",
+                "displayname":"CLARIN ERIC",
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "cn",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"CLARIN.SI: Digitale Langzeitarchiv CLARIN, Institut Jožef Stefan",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Jan JonaJavoršek",
+                    "email":"mailto:repo-technical@clarin.si"
+                },
+                {
+                    "type":"support",
+                    "name":"Jan JonaJavoršek",
+                    "email":"mailto:repo-help@clarin.si"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tomaž JonaErjavec",
+                    "email":"mailto:repo-admin@clarin.si"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

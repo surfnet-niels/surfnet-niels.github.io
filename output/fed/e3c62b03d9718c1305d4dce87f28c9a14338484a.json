@@ -1,0 +1,235 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"e3c62b03d9718c1305d4dce87f28c9a14338484a",
+            "entityID":"https://synthesys.rciam.grnet.gr/proxy/module.php/saml/sp/metadata.php/sso",
+            "resourceName":"SYNTHESYS+ Login",
+            "resourceProvider":{
+                "name":"National Infrastructures for Research and Technology - GRNET",
+                "displayname":"National Infrastructures for Research and Technology - GRNET",
+                "url":"https://grnet.gr/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "displayName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "voPersonExternalAffiliation",
+                    "eduPersonOrcid"
+                ],
+                "requested":[]
+            },
+            "description":"SYNTHESYS+ Authentication & Authorisation Service",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SYNTHESYS+ Login",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"support",
+                    "name":"SYNTHESYS+ Login",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"security",
+                    "name":"SYNTHESYS+ Login Security and Incident Response Team",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasLiampotis",
+                    "email":"mailto:nliam@grnet.gr"
+                }
+            ],
+            "info":"https://www.synthesys.info/",
+            "privacy":"https://synthesys.rciam.grnet.gr/privacy/en",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e3c62b03d9718c1305d4dce87f28c9a14338484a",
+            "entityID":"https://synthesys.rciam.grnet.gr/proxy/module.php/saml/sp/metadata.php/sso",
+            "resourceName":"SYNTHESYS+ Login",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://grnet.gr/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "displayName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "voPersonExternalAffiliation",
+                    "eduPersonOrcid"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SYNTHESYS+ Login",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"support",
+                    "name":"SYNTHESYS+ Login",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"security",
+                    "name":"SYNTHESYS+ Login Security and Incident Response Team",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasLiampotis",
+                    "email":"mailto:nliam@grnet.gr"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e3c62b03d9718c1305d4dce87f28c9a14338484a",
+            "entityID":"https://synthesys.rciam.grnet.gr/proxy/module.php/saml/sp/metadata.php/sso",
+            "resourceName":"SYNTHESYS+ Login",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://grnet.gr/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "displayName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "voPersonExternalAffiliation",
+                    "eduPersonOrcid"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SYNTHESYS+ Login",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"support",
+                    "name":"SYNTHESYS+ Login",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"security",
+                    "name":"SYNTHESYS+ Login Security and Incident Response Team",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasLiampotis",
+                    "email":"mailto:nliam@grnet.gr"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e3c62b03d9718c1305d4dce87f28c9a14338484a",
+            "entityID":"https://synthesys.rciam.grnet.gr/proxy/module.php/saml/sp/metadata.php/sso",
+            "resourceName":"SYNTHESYS+ Login",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://grnet.gr/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "displayName",
+                    "mail",
+                    "eduPersonScopedAffiliation",
+                    "voPersonExternalAffiliation",
+                    "eduPersonOrcid"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SYNTHESYS+ Login",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"support",
+                    "name":"SYNTHESYS+ Login",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"security",
+                    "name":"SYNTHESYS+ Login Security and Incident Response Team",
+                    "email":"mailto:faai@grnet.gr"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasLiampotis",
+                    "email":"mailto:nliam@grnet.gr"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

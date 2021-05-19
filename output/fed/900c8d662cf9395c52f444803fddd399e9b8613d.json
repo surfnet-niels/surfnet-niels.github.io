@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"900c8d662cf9395c52f444803fddd399e9b8613d",
+            "entityID":"https://mdd.pte.hu/saml/module.php/saml/sp/metadata.php/mdd",
+            "resourceName":"Modi di dire - Italian proverbs",
+            "resourceProvider":{
+                "name":"University of Pécs",
+                "displayname":"University of Pécs",
+                "url":"http://english.pte.hu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"Modi di dire - Italian proverbs",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Peter UherkovichPeter Uherkovich",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                }
+            ],
+            "info":"https://mdd.pte.hu",
+            "privacy":"https://mdd.pte.hu/privacy",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"900c8d662cf9395c52f444803fddd399e9b8613d",
+            "entityID":"https://mdd.pte.hu/saml/module.php/saml/sp/metadata.php/mdd",
+            "resourceName":"Modi di dire - Italian proverbs",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://english.pte.hu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Peter UherkovichPeter Uherkovich",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"900c8d662cf9395c52f444803fddd399e9b8613d",
+            "entityID":"https://mdd.pte.hu/saml/module.php/saml/sp/metadata.php/mdd",
+            "resourceName":"Modi di dire - Italian proverbs",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://english.pte.hu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Peter UherkovichPeter Uherkovich",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"900c8d662cf9395c52f444803fddd399e9b8613d",
+            "entityID":"https://mdd.pte.hu/saml/module.php/saml/sp/metadata.php/mdd",
+            "resourceName":"Modi di dire - Italian proverbs",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://english.pte.hu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Peter UherkovichPeter Uherkovich",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Uherkovich PéterUherkovich Péter",
+                    "email":"mailto:uherkovich.peter@pte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

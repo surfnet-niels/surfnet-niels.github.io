@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"7dbeea14cec685de1ba33d57bfa3398a96ad37ac",
+            "entityID":"https://test-rudots.nupark.com/sp",
+            "resourceName":"NuPark Inc",
+            "resourceProvider":{
+                "name":"NuPark LLC",
+                "displayname":"NuPark LLC",
+                "url":"http://www.nupark.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Ron Frick",
+                    "email":"mailto:ron.frick@nupark.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.nupark.com/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7dbeea14cec685de1ba33d57bfa3398a96ad37ac",
+            "entityID":"https://test-rudots.nupark.com/sp",
+            "resourceName":"NuPark Inc",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.nupark.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Ron Frick",
+                    "email":"mailto:ron.frick@nupark.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7dbeea14cec685de1ba33d57bfa3398a96ad37ac",
+            "entityID":"https://test-rudots.nupark.com/sp",
+            "resourceName":"NuPark Inc",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.nupark.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Ron Frick",
+                    "email":"mailto:ron.frick@nupark.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7dbeea14cec685de1ba33d57bfa3398a96ad37ac",
+            "entityID":"https://test-rudots.nupark.com/sp",
+            "resourceName":"NuPark Inc",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.nupark.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Stephen Lambert",
+                    "email":"mailto:stephen.lambert@nupark.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Ron Frick",
+                    "email":"mailto:ron.frick@nupark.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"a5dcc04f27e9a509a69957e71fcb98a538d23d63",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-ua-sp",
+            "resourceName":"Protocol Builder - University of Alabama",
+            "resourceProvider":{
+                "name":"Biomedical Research Alliance of New York (BRANY) d/b/a Protocol Builder",
+                "displayname":"Biomedical Research Alliance of New York (BRANY) d/b/a Protocol Builder",
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://protocolbuilderpro.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a5dcc04f27e9a509a69957e71fcb98a538d23d63",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-ua-sp",
+            "resourceName":"Protocol Builder - University of Alabama",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a5dcc04f27e9a509a69957e71fcb98a538d23d63",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-ua-sp",
+            "resourceName":"Protocol Builder - University of Alabama",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a5dcc04f27e9a509a69957e71fcb98a538d23d63",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-ua-sp",
+            "resourceName":"Protocol Builder - University of Alabama",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

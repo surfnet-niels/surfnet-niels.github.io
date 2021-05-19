@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"1118b8f09855c8423e2ea80fa26019d3561d20e4",
+            "entityID":"https://titleix.ucop.edu",
+            "resourceName":"UC Title IX",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"UC Wide Title IX Case Management",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1118b8f09855c8423e2ea80fa26019d3561d20e4",
+            "entityID":"https://titleix.ucop.edu",
+            "resourceName":"UC Title IX",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1118b8f09855c8423e2ea80fa26019d3561d20e4",
+            "entityID":"https://titleix.ucop.edu",
+            "resourceName":"UC Title IX",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1118b8f09855c8423e2ea80fa26019d3561d20e4",
+            "entityID":"https://titleix.ucop.edu",
+            "resourceName":"UC Title IX",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:iamgroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

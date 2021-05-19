@@ -1,0 +1,223 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f920141aab55dc0ccb012da2d921d09eddc0a501",
+            "entityID":"https://portal.geni.net/shibboleth",
+            "resourceName":"GENI Experimenter Portal",
+            "resourceProvider":{
+                "name":"University of Kentucky",
+                "displayname":"University of Kentucky",
+                "url":"http://www.uky.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"A portal for GENI experimenters.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"James Griffioen",
+                    "email":"mailto:griff@uky.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Hussamuddin Nasir",
+                    "email":"mailto:nasir@netlab.uky.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"George Insko",
+                    "email":"mailto:gfinsk0@uky.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"GENI Help",
+                    "email":"mailto:help@geni.net"
+                }
+            ],
+            "info":"http://www.geni.net/",
+            "privacy":"https://portal.geni.net/policy/privacy.html",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f920141aab55dc0ccb012da2d921d09eddc0a501",
+            "entityID":"https://portal.geni.net/shibboleth",
+            "resourceName":"GENI Experimenter Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uky.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"James Griffioen",
+                    "email":"mailto:griff@uky.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Hussamuddin Nasir",
+                    "email":"mailto:nasir@netlab.uky.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"George Insko",
+                    "email":"mailto:gfinsk0@uky.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"GENI Help",
+                    "email":"mailto:help@geni.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f920141aab55dc0ccb012da2d921d09eddc0a501",
+            "entityID":"https://portal.geni.net/shibboleth",
+            "resourceName":"GENI Experimenter Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uky.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"James Griffioen",
+                    "email":"mailto:griff@uky.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Hussamuddin Nasir",
+                    "email":"mailto:nasir@netlab.uky.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"George Insko",
+                    "email":"mailto:gfinsk0@uky.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"GENI Help",
+                    "email":"mailto:help@geni.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f920141aab55dc0ccb012da2d921d09eddc0a501",
+            "entityID":"https://portal.geni.net/shibboleth",
+            "resourceName":"GENI Experimenter Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uky.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"James Griffioen",
+                    "email":"mailto:griff@uky.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Hussamuddin Nasir",
+                    "email":"mailto:nasir@netlab.uky.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"George Insko",
+                    "email":"mailto:gfinsk0@uky.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"GENI Help",
+                    "email":"mailto:help@geni.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

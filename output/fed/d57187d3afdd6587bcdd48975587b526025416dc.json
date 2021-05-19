@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"d57187d3afdd6587bcdd48975587b526025416dc",
+            "entityID":"https://serviceNow-uat.ucop.edu/sp",
+            "resourceName":"UCOP Service Now UAT",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"ServiceNow is a cloud based tool that supports ITIL processes such as incident management, release management, change management, etc. This request is to allow campus users to access UCOP ServiceNow, a trusted application, to report incidents for shared services applications that are managed by UCOP such as but not limited to UCPath.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kalyan Vallamsetla",
+                    "email":"mailto:Kalyan.Vallamsetla@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Kalyan Vallamsetla",
+                    "email":"mailto:Kalyan.Vallamsetla@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Sean Villa-Carlos",
+                    "email":"mailto:Sean.Villa-Carlos@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d57187d3afdd6587bcdd48975587b526025416dc",
+            "entityID":"https://serviceNow-uat.ucop.edu/sp",
+            "resourceName":"https://serviceNow-uat.ucop.edu/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kalyan Vallamsetla",
+                    "email":"mailto:Kalyan.Vallamsetla@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Kalyan Vallamsetla",
+                    "email":"mailto:Kalyan.Vallamsetla@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Sean Villa-Carlos",
+                    "email":"mailto:Sean.Villa-Carlos@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d57187d3afdd6587bcdd48975587b526025416dc",
+            "entityID":"https://serviceNow-uat.ucop.edu/sp",
+            "resourceName":"https://serviceNow-uat.ucop.edu/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kalyan Vallamsetla",
+                    "email":"mailto:Kalyan.Vallamsetla@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Kalyan Vallamsetla",
+                    "email":"mailto:Kalyan.Vallamsetla@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Sean Villa-Carlos",
+                    "email":"mailto:Sean.Villa-Carlos@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d57187d3afdd6587bcdd48975587b526025416dc",
+            "entityID":"https://serviceNow-uat.ucop.edu/sp",
+            "resourceName":"https://serviceNow-uat.ucop.edu/sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kalyan Vallamsetla",
+                    "email":"mailto:Kalyan.Vallamsetla@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Kalyan Vallamsetla",
+                    "email":"mailto:Kalyan.Vallamsetla@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Sean Villa-Carlos",
+                    "email":"mailto:Sean.Villa-Carlos@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

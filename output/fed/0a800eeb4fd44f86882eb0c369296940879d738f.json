@@ -1,0 +1,287 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"0a800eeb4fd44f86882eb0c369296940879d738f",
+            "entityID":"https://proxy.cmb-s4.lbl.gov/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"CMB-S4 Experiment",
+            "resourceProvider":{
+                "name":"Lawrence Berkeley National Laboratory",
+                "displayname":"Lawrence Berkeley National Laboratory",
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"IdP Proxy for CMB-S4 Experiment",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeffrey Anderson",
+                    "email":"mailto:jdanderson@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeffrey Anderson",
+                    "email":"mailto:jdanderson@lbl.gov"
+                }
+            ],
+            "info":"https://cmb-s4.org/overview.php",
+            "privacy":"https://www.lbl.gov/disclaimers/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"0a800eeb4fd44f86882eb0c369296940879d738f",
+            "entityID":"https://proxy.cmb-s4.lbl.gov/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"CMB-S4 Experiment",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeffrey Anderson",
+                    "email":"mailto:jdanderson@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeffrey Anderson",
+                    "email":"mailto:jdanderson@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"0a800eeb4fd44f86882eb0c369296940879d738f",
+            "entityID":"https://proxy.cmb-s4.lbl.gov/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"CMB-S4 Experiment",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeffrey Anderson",
+                    "email":"mailto:jdanderson@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeffrey Anderson",
+                    "email":"mailto:jdanderson@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"0a800eeb4fd44f86882eb0c369296940879d738f",
+            "entityID":"https://proxy.cmb-s4.lbl.gov/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"CMB-S4 Experiment",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeffrey Anderson",
+                    "email":"mailto:jdanderson@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Julian Borrill",
+                    "email":"mailto:jdborrill@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL IT Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jeffrey Anderson",
+                    "email":"mailto:jdanderson@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

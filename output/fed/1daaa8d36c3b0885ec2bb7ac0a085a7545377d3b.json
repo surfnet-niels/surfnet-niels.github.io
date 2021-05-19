@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"1daaa8d36c3b0885ec2bb7ac0a085a7545377d3b",
+            "entityID":"https://login.staging.neogov.net/",
+            "resourceName":"Neogov Staging Environment",
+            "resourceProvider":{
+                "name":"Governmentjobs.com Inc. d/b/a Neogov",
+                "displayname":"Governmentjobs.com Inc. d/b/a Neogov",
+                "url":"https://www.neogov.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.governmentjobs.com/home/legalprivacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1daaa8d36c3b0885ec2bb7ac0a085a7545377d3b",
+            "entityID":"https://login.staging.neogov.net/",
+            "resourceName":"Neogov Staging Environment",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.neogov.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1daaa8d36c3b0885ec2bb7ac0a085a7545377d3b",
+            "entityID":"https://login.staging.neogov.net/",
+            "resourceName":"Neogov Staging Environment",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.neogov.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1daaa8d36c3b0885ec2bb7ac0a085a7545377d3b",
+            "entityID":"https://login.staging.neogov.net/",
+            "resourceName":"Neogov Staging Environment",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.neogov.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Chris Rosenberger",
+                    "email":"mailto:crosenberger@neogov.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

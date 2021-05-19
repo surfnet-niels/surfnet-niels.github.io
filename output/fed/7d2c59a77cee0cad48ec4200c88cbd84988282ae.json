@@ -1,0 +1,251 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"7d2c59a77cee0cad48ec4200c88cbd84988282ae",
+            "entityID":"https://ingest.lungmap.net/shibboleth",
+            "resourceName":"LungMap",
+            "resourceProvider":{
+                "name":"Cincinnati Children's Hospital Medical Center",
+                "displayname":"Cincinnati Children's Hospital Medical Center",
+                "url":"http://www.cincinnatichildrens.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                }
+            ],
+            "info":"https://lungmap.net",
+            "privacy":"https://lungmap.net",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7d2c59a77cee0cad48ec4200c88cbd84988282ae",
+            "entityID":"https://ingest.lungmap.net/shibboleth",
+            "resourceName":"LungMap",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cincinnatichildrens.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7d2c59a77cee0cad48ec4200c88cbd84988282ae",
+            "entityID":"https://ingest.lungmap.net/shibboleth",
+            "resourceName":"LungMap",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cincinnatichildrens.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7d2c59a77cee0cad48ec4200c88cbd84988282ae",
+            "entityID":"https://ingest.lungmap.net/shibboleth",
+            "resourceName":"LungMap",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cincinnatichildrens.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Michal Kouril",
+                    "email":"mailto:Michal.Kouril@cchmc.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

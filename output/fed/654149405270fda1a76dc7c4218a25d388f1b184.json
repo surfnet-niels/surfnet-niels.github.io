@@ -1,0 +1,135 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"654149405270fda1a76dc7c4218a25d388f1b184",
+            "entityID":"https://e-localcourses.unibo.it",
+            "resourceName":"E-LOCAL courses of languages and cultures.",
+            "resourceProvider":{
+                "name":"University of Bologna",
+                "displayname":"E-LOCAL courses of languages and cultures provided by University of Bologna",
+                "url":"http://www.unibo.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "commonName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"Language and culture courses of Dutch, Finnish, Hungarian, Italian, Polish and Portuguese.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:cesia-sso-support@unibo.it"
+                }
+            ],
+            "info":"https://e-localcourses.unibo.it/mod/resource/view.php?id=291",
+            "privacy":"https://e-localcourses.unibo.it/mod/resource/view.php?id=289",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"654149405270fda1a76dc7c4218a25d388f1b184",
+            "entityID":"https://e-localcourses.unibo.it",
+            "resourceName":"E-LOCAL courses of languages and cultures.",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.unibo.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "commonName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:cesia-sso-support@unibo.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"654149405270fda1a76dc7c4218a25d388f1b184",
+            "entityID":"https://e-localcourses.unibo.it",
+            "resourceName":"Corsi E-LOCAL di lingue e culture.",
+            "resourceProvider":{
+                "name":"Università di Bologna",
+                "displayname":"Corsi E-LOCAL di lingue e culture erogato da Università di Bologna",
+                "url":"http://www.unibo.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "commonName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"Corsi di lingua e cultura finlandese, italiana, nederlandese, polacca, portoghese e ungherese.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:cesia-sso-support@unibo.it"
+                }
+            ],
+            "info":"https://e-localcourses.unibo.it/mod/resource/view.php?id=292",
+            "privacy":"https://e-localcourses.unibo.it/mod/resource/view.php?id=290",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"654149405270fda1a76dc7c4218a25d388f1b184",
+            "entityID":"https://e-localcourses.unibo.it",
+            "resourceName":"E-LOCAL courses of languages and cultures.",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.unibo.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "commonName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:cesia-sso-support@unibo.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,235 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"b33961fb6135965b0fcf20ed25dee07a223011f8",
+            "entityID":"https://sp.unmc.edu/shibboleth",
+            "resourceName":"University of Nebraska Medical Center SP API",
+            "resourceProvider":{
+                "name":"University of Nebraska Medical Center",
+                "displayname":"University of Nebraska Medical Center",
+                "url":"http://www.unmc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"UNMC research support application integrator",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Helpdesk",
+                    "email":"mailto:helpdesk@unmc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Information Security",
+                    "email":"mailto:infosecurity@unmc.edu"
+                }
+            ],
+            "info":"https://www.unmc.edu",
+            "privacy":"https://www.unmc.edu/hipaa/about/notice-privacy-practices.html",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b33961fb6135965b0fcf20ed25dee07a223011f8",
+            "entityID":"https://sp.unmc.edu/shibboleth",
+            "resourceName":"University of Nebraska Medical Center SP API",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.unmc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Helpdesk",
+                    "email":"mailto:helpdesk@unmc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Information Security",
+                    "email":"mailto:infosecurity@unmc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b33961fb6135965b0fcf20ed25dee07a223011f8",
+            "entityID":"https://sp.unmc.edu/shibboleth",
+            "resourceName":"University of Nebraska Medical Center SP API",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.unmc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Helpdesk",
+                    "email":"mailto:helpdesk@unmc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Information Security",
+                    "email":"mailto:infosecurity@unmc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b33961fb6135965b0fcf20ed25dee07a223011f8",
+            "entityID":"https://sp.unmc.edu/shibboleth",
+            "resourceName":"University of Nebraska Medical Center SP API",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.unmc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Geoff Gloeb",
+                    "email":"mailto:ggloeb@unmc.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Helpdesk",
+                    "email":"mailto:helpdesk@unmc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Information Security",
+                    "email":"mailto:infosecurity@unmc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

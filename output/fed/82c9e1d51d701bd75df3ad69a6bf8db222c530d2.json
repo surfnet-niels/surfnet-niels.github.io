@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"82c9e1d51d701bd75df3ad69a6bf8db222c530d2",
+            "entityID":"https://unity.rc.umass.edu/shibboleth",
+            "resourceName":"Unity Shibboleth",
+            "resourceProvider":{
+                "name":"University of Massachusetts Amherst",
+                "displayname":"University of Massachusetts Amherst",
+                "url":"http://www.umass.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"Unity Cluster at UMass Amherst",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                }
+            ],
+            "info":"https://unity.rc.umass.edu/about.php",
+            "privacy":"https://unity.rc.umass.edu/priv.php",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"82c9e1d51d701bd75df3ad69a6bf8db222c530d2",
+            "entityID":"https://unity.rc.umass.edu/shibboleth",
+            "resourceName":"Unity Shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umass.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"82c9e1d51d701bd75df3ad69a6bf8db222c530d2",
+            "entityID":"https://unity.rc.umass.edu/shibboleth",
+            "resourceName":"Unity Shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umass.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"82c9e1d51d701bd75df3ad69a6bf8db222c530d2",
+            "entityID":"https://unity.rc.umass.edu/shibboleth",
+            "resourceName":"Unity Shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umass.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Griffin",
+                    "email":"mailto:jgriffin@umass.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

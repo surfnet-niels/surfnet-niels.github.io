@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"430c6e1ce6eda20743b65e9e4bf7cf12d8958e3f",
+            "entityID":"https://localirislogin.com",
+            "resourceName":"Iris Dev Services",
+            "resourceProvider":{
+                "name":"Seattle Technology Group, Inc.",
+                "displayname":"Seattle Technology Group, Inc.",
+                "url":"http://www.seattletech.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                }
+            ],
+            "info":"http://seattletech.com",
+            "privacy":"http://seattletech.com/downloads/IrisServicesPrivacyPolicy.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"430c6e1ce6eda20743b65e9e4bf7cf12d8958e3f",
+            "entityID":"https://localirislogin.com",
+            "resourceName":"Iris Dev Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.seattletech.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"430c6e1ce6eda20743b65e9e4bf7cf12d8958e3f",
+            "entityID":"https://localirislogin.com",
+            "resourceName":"Iris Dev Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.seattletech.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"430c6e1ce6eda20743b65e9e4bf7cf12d8958e3f",
+            "entityID":"https://localirislogin.com",
+            "resourceName":"Iris Dev Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.seattletech.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Seattle Tech Support",
+                    "email":"mailto:support@seattletech.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"dccfc6bffaead4d5fa651cde9f92a7f260198c66",
+            "entityID":"https://sso.educause.edu/sp",
+            "resourceName":"EDUCAUSE SSO",
+            "resourceProvider":{
+                "name":"EDUCAUSE",
+                "displayname":"EDUCAUSE",
+                "url":"http://www.educause.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"EDUCAUSE is a nonprofit association and the foremost community of IT leaders and professionals committed to advancing higher education.  This service provides access to collaborative and informative services for faculty and staff if the form of curated content, publications, IT benchmarking data and research, list servers, blogs, wikis, and events.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IT Administrative Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                }
+            ],
+            "info":"https://www.educause.edu/about/incommon",
+            "privacy":"https://www.educause.edu/privacy-notice",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"dccfc6bffaead4d5fa651cde9f92a7f260198c66",
+            "entityID":"https://sso.educause.edu/sp",
+            "resourceName":"EDUCAUSE SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.educause.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IT Administrative Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"dccfc6bffaead4d5fa651cde9f92a7f260198c66",
+            "entityID":"https://sso.educause.edu/sp",
+            "resourceName":"EDUCAUSE SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.educause.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IT Administrative Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"dccfc6bffaead4d5fa651cde9f92a7f260198c66",
+            "entityID":"https://sso.educause.edu/sp",
+            "resourceName":"EDUCAUSE SSO",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.educause.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IT Administrative Support",
+                    "email":"mailto:itadmin@educause.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Support",
+                    "email":"mailto:itadmin@educause.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"d79cd137f22514f2d15d6e8b902a5fff30e2dda4",
+            "entityID":"https://auth0.oreilly.com/hes-so",
+            "resourceName":"O'Reilly Online Learning",
+            "resourceProvider":{
+                "name":"O'Reilly Media Inc.",
+                "displayname":"O'Reilly Media Inc.",
+                "url":"https://www.oreilly.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Use of this SP requires an Enterprise or Academic subscription to O'Reilly Online Learning. Please visit https://www.oreilly.com/ for details.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jesse Banning",
+                    "email":"mailto:jbanning+saml@oreilly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Integration Team",
+                    "email":"mailto:platformintegration@oreilly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Matt Kirk",
+                    "email":"mailto:security-feedback@oreilly.com"
+                },
+                {
+                    "type":"support",
+                    "name":"O'Reilly Customer Care",
+                    "email":"mailto:customercare@oreilly.com"
+                }
+            ],
+            "info":"https://www.oreilly.com/online-learning/",
+            "privacy":"https://www.oreilly.com/privacy.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d79cd137f22514f2d15d6e8b902a5fff30e2dda4",
+            "entityID":"https://auth0.oreilly.com/hes-so",
+            "resourceName":"O'Reilly Online Learning",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.oreilly.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jesse Banning",
+                    "email":"mailto:jbanning+saml@oreilly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Integration Team",
+                    "email":"mailto:platformintegration@oreilly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Matt Kirk",
+                    "email":"mailto:security-feedback@oreilly.com"
+                },
+                {
+                    "type":"support",
+                    "name":"O'Reilly Customer Care",
+                    "email":"mailto:customercare@oreilly.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d79cd137f22514f2d15d6e8b902a5fff30e2dda4",
+            "entityID":"https://auth0.oreilly.com/hes-so",
+            "resourceName":"O'Reilly Online Learning",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.oreilly.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jesse Banning",
+                    "email":"mailto:jbanning+saml@oreilly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Integration Team",
+                    "email":"mailto:platformintegration@oreilly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Matt Kirk",
+                    "email":"mailto:security-feedback@oreilly.com"
+                },
+                {
+                    "type":"support",
+                    "name":"O'Reilly Customer Care",
+                    "email":"mailto:customercare@oreilly.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d79cd137f22514f2d15d6e8b902a5fff30e2dda4",
+            "entityID":"https://auth0.oreilly.com/hes-so",
+            "resourceName":"O'Reilly Online Learning",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.oreilly.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jesse Banning",
+                    "email":"mailto:jbanning+saml@oreilly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Integration Team",
+                    "email":"mailto:platformintegration@oreilly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Matt Kirk",
+                    "email":"mailto:security-feedback@oreilly.com"
+                },
+                {
+                    "type":"support",
+                    "name":"O'Reilly Customer Care",
+                    "email":"mailto:customercare@oreilly.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

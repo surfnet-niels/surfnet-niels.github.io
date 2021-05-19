@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"1237cfc58480b00adefc9bc9b6a7fa6cb0ee4cf8",
+            "entityID":"https://epatient.binghamton.edu/saml2/metadata",
+            "resourceName":"ePATIENT",
+            "resourceProvider":{
+                "name":"Binghamton University",
+                "displayname":"Binghamton University",
+                "url":"http://www.binghamton.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"ePATIENT is an educational EMR to aid in asynchronous interprofessional healthcare training. ePATIENT allows multiple student professions, from different campuses, to simultaneously access \"virtual patient\" records in real-time allowing them to respond to notes, orders, and comments from other members of the team as professionals do in real-world clinical environments.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Sarah Lynch",
+                    "email":"mailto:selynch@binghamton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tim Cortesi",
+                    "email":"mailto:tcortesi@binghamton.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations Center",
+                    "email":"mailto:security@binghamton.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Binghamton Helpdesk",
+                    "email":"mailto:helpdesk@binghamton.edu"
+                }
+            ],
+            "info":"https://github.com/BinghamtonUniversity/ePATIENT",
+            "privacy":"https://www.binghamton.edu/its/about/governance/policies/privacy.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1237cfc58480b00adefc9bc9b6a7fa6cb0ee4cf8",
+            "entityID":"https://epatient.binghamton.edu/saml2/metadata",
+            "resourceName":"ePATIENT",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.binghamton.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Sarah Lynch",
+                    "email":"mailto:selynch@binghamton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tim Cortesi",
+                    "email":"mailto:tcortesi@binghamton.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations Center",
+                    "email":"mailto:security@binghamton.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Binghamton Helpdesk",
+                    "email":"mailto:helpdesk@binghamton.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1237cfc58480b00adefc9bc9b6a7fa6cb0ee4cf8",
+            "entityID":"https://epatient.binghamton.edu/saml2/metadata",
+            "resourceName":"ePATIENT",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.binghamton.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Sarah Lynch",
+                    "email":"mailto:selynch@binghamton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tim Cortesi",
+                    "email":"mailto:tcortesi@binghamton.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations Center",
+                    "email":"mailto:security@binghamton.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Binghamton Helpdesk",
+                    "email":"mailto:helpdesk@binghamton.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1237cfc58480b00adefc9bc9b6a7fa6cb0ee4cf8",
+            "entityID":"https://epatient.binghamton.edu/saml2/metadata",
+            "resourceName":"ePATIENT",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.binghamton.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Sarah Lynch",
+                    "email":"mailto:selynch@binghamton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tim Cortesi",
+                    "email":"mailto:tcortesi@binghamton.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations Center",
+                    "email":"mailto:security@binghamton.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Binghamton Helpdesk",
+                    "email":"mailto:helpdesk@binghamton.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

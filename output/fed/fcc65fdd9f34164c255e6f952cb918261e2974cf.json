@@ -1,0 +1,155 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"fcc65fdd9f34164c255e6f952cb918261e2974cf",
+            "entityID":"https://shu.stage-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker for Sheffield Hallam University UAT",
+            "resourceProvider":{
+                "name":"Vertigo Ventures Ltd",
+                "displayname":"VV-Impact Tracker for Sheffield Hallam University UAT",
+                "url":"https://www.vertigoventures.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"fcc65fdd9f34164c255e6f952cb918261e2974cf",
+            "entityID":"https://shu.stage-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker for Sheffield Hallam University UAT",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"fcc65fdd9f34164c255e6f952cb918261e2974cf",
+            "entityID":"https://shu.stage-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker for Sheffield Hallam University UAT",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"fcc65fdd9f34164c255e6f952cb918261e2974cf",
+            "entityID":"https://shu.stage-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker for Sheffield Hallam University UAT",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

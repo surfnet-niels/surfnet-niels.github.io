@@ -1,0 +1,215 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"0658af617d8722786ec1c0b8b5893f2dba61b87c",
+            "entityID":"https://rcapdev.ouhsc.edu/shibboleth",
+            "resourceName":"OUHSC RedCap Dev",
+            "resourceProvider":{
+                "name":"University of Oklahoma",
+                "displayname":"University of Oklahoma",
+                "url":"http://www.ou.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"University of Oklahoma Health Sciences Center REDCap Research Tool",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"William Beasley",
+                    "email":"mailto:whb4@ou.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"William Beasley",
+                    "email":"mailto:whb4@ou.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Thomas Wilson",
+                    "email":"mailto:thomas-wilson@ouhsc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Thomas Wilson",
+                    "email":"mailto:thomas-wilson@ouhsc.edu"
+                }
+            ],
+            "info":"https://bbmc.ouhsc.edu/redcap/bbmc/REDCap.html",
+            "privacy":"https://bbmc.ouhsc.edu/redcap/bbmc/REDCap.html#policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"0658af617d8722786ec1c0b8b5893f2dba61b87c",
+            "entityID":"https://rcapdev.ouhsc.edu/shibboleth",
+            "resourceName":"OUHSC RedCap Dev",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ou.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"William Beasley",
+                    "email":"mailto:whb4@ou.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"William Beasley",
+                    "email":"mailto:whb4@ou.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Thomas Wilson",
+                    "email":"mailto:thomas-wilson@ouhsc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Thomas Wilson",
+                    "email":"mailto:thomas-wilson@ouhsc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"0658af617d8722786ec1c0b8b5893f2dba61b87c",
+            "entityID":"https://rcapdev.ouhsc.edu/shibboleth",
+            "resourceName":"OUHSC RedCap Dev",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ou.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"William Beasley",
+                    "email":"mailto:whb4@ou.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"William Beasley",
+                    "email":"mailto:whb4@ou.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Thomas Wilson",
+                    "email":"mailto:thomas-wilson@ouhsc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Thomas Wilson",
+                    "email":"mailto:thomas-wilson@ouhsc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"0658af617d8722786ec1c0b8b5893f2dba61b87c",
+            "entityID":"https://rcapdev.ouhsc.edu/shibboleth",
+            "resourceName":"OUHSC RedCap Dev",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ou.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"William Beasley",
+                    "email":"mailto:whb4@ou.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"William Beasley",
+                    "email":"mailto:whb4@ou.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Thomas Wilson",
+                    "email":"mailto:thomas-wilson@ouhsc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Thomas Wilson",
+                    "email":"mailto:thomas-wilson@ouhsc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

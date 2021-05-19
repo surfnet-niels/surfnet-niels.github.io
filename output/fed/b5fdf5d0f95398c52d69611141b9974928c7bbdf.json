@@ -1,0 +1,163 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"b5fdf5d0f95398c52d69611141b9974928c7bbdf",
+            "entityID":"https://puat02.universityofcalifornia.edu",
+            "resourceName":"UCPath PUAT02 Location Service Provider",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Service Provider for P-Stack User Acceptance Testing",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAMGroup",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b5fdf5d0f95398c52d69611141b9974928c7bbdf",
+            "entityID":"https://puat02.universityofcalifornia.edu",
+            "resourceName":"https://puat02.universityofcalifornia.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAMGroup",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b5fdf5d0f95398c52d69611141b9974928c7bbdf",
+            "entityID":"https://puat02.universityofcalifornia.edu",
+            "resourceName":"https://puat02.universityofcalifornia.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAMGroup",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b5fdf5d0f95398c52d69611141b9974928c7bbdf",
+            "entityID":"https://puat02.universityofcalifornia.edu",
+            "resourceName":"https://puat02.universityofcalifornia.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"IAMGroup",
+                    "email":"mailto:iamgrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"1a8cde294e8295cffa09079c04b22fb21d2f3bfd",
+            "entityID":"https://elegansvariation.org/",
+            "resourceName":"Caenorhabditis elegans Natural Diversity Resource",
+            "resourceProvider":{
+                "name":"Northwestern University",
+                "displayname":"Northwestern University",
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "o"
+                ]
+            },
+            "description":"The Caenorhabditis elegans Natural Diversity Resource (CeNDR) provides three major services: 1) Collection, maintenance, and distribution of wild C. elegans strains 2) Organization and dissemination of whole-genome sequences for wild C. elegans strains 3) Facilitation of genetic mappings to empower individual researchers in gene discovery",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Sam Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Northwestern Security",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://policies.northwestern.edu/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1a8cde294e8295cffa09079c04b22fb21d2f3bfd",
+            "entityID":"https://elegansvariation.org/",
+            "resourceName":"Caenorhabditis elegans Natural Diversity Resource",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Sam Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Northwestern Security",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1a8cde294e8295cffa09079c04b22fb21d2f3bfd",
+            "entityID":"https://elegansvariation.org/",
+            "resourceName":"Caenorhabditis elegans Natural Diversity Resource",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Sam Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Northwestern Security",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1a8cde294e8295cffa09079c04b22fb21d2f3bfd",
+            "entityID":"https://elegansvariation.org/",
+            "resourceName":"Caenorhabditis elegans Natural Diversity Resource",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Rodolfo Vieira",
+                    "email":"mailto:rodolfo@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Sam Wachspress",
+                    "email":"mailto:samuel.wachspress@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Northwestern Security",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

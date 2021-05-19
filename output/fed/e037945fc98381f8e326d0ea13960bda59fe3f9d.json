@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"e037945fc98381f8e326d0ea13960bda59fe3f9d",
+            "entityID":"https://sso.facsur.com/shibboleth",
+            "resourceName":"FSI-SP",
+            "resourceProvider":{
+                "name":"Facilities Survey, Inc.",
+                "displayname":"Facilities Survey, Inc.",
+                "url":"http://facilitiessurvey.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"Facilities Survey Inc. Service Provider",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mike Hetcko",
+                    "email":"mailto:mhetcko@fsiservices.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Megan Chipps",
+                    "email":"mailto:mday@fsiservices.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Megan Chipps",
+                    "email":"mailto:mchipps@fsiservices.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://portalvhdsc1clt6c22szhn.blob.core.windows.net/videos/FSIPrivacyPolicy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e037945fc98381f8e326d0ea13960bda59fe3f9d",
+            "entityID":"https://sso.facsur.com/shibboleth",
+            "resourceName":"FSI-SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://facilitiessurvey.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mike Hetcko",
+                    "email":"mailto:mhetcko@fsiservices.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Megan Chipps",
+                    "email":"mailto:mday@fsiservices.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Megan Chipps",
+                    "email":"mailto:mchipps@fsiservices.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e037945fc98381f8e326d0ea13960bda59fe3f9d",
+            "entityID":"https://sso.facsur.com/shibboleth",
+            "resourceName":"FSI-SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://facilitiessurvey.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mike Hetcko",
+                    "email":"mailto:mhetcko@fsiservices.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Megan Chipps",
+                    "email":"mailto:mday@fsiservices.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Megan Chipps",
+                    "email":"mailto:mchipps@fsiservices.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e037945fc98381f8e326d0ea13960bda59fe3f9d",
+            "entityID":"https://sso.facsur.com/shibboleth",
+            "resourceName":"FSI-SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://facilitiessurvey.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mike Hetcko",
+                    "email":"mailto:mhetcko@fsiservices.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Megan Chipps",
+                    "email":"mailto:mday@fsiservices.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Megan Chipps",
+                    "email":"mailto:mchipps@fsiservices.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

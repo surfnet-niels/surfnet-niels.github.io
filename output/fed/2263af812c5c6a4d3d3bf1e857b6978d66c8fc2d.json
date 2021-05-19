@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"2263af812c5c6a4d3d3bf1e857b6978d66c8fc2d",
+            "entityID":"https://concorda.sztaki.hu/sp",
+            "resourceName":"Concorda",
+            "resourceProvider":{
+                "name":"SZTAKI - Computer and Automation Research Institute",
+                "displayname":"SZTAKI - Computer and Automation Research Institute",
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"CONcentrated Cooperation on Research DAta",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                }
+            ],
+            "info":"https://concorda.sztaki.hu",
+            "privacy":"https://concorda.sztaki.hu/privacy",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2263af812c5c6a4d3d3bf1e857b6978d66c8fc2d",
+            "entityID":"https://concorda.sztaki.hu/sp",
+            "resourceName":"Concorda",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2263af812c5c6a4d3d3bf1e857b6978d66c8fc2d",
+            "entityID":"https://concorda.sztaki.hu/sp",
+            "resourceName":"Concorda",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2263af812c5c6a4d3d3bf1e857b6978d66c8fc2d",
+            "entityID":"https://concorda.sztaki.hu/sp",
+            "resourceName":"Concorda",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

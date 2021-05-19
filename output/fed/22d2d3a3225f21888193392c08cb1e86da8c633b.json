@@ -1,0 +1,163 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"22d2d3a3225f21888193392c08cb1e86da8c633b",
+            "entityID":"https://sdauth.sciencedirect.com/",
+            "resourceName":"Elsevier",
+            "resourceProvider":{
+                "name":"Elsevier B.V.",
+                "displayname":"Elsevier",
+                "url":"http://www.elsevier.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Access Elsevier products using your institutional credentials",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Elsevier Shibboleth Support",
+                    "email":"mailto:shibbolethsupport@elsevier.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Elsevier Shibboleth Support",
+                    "email":"mailto:shibbolethsupport@elsevier.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Elsevier Security Incident Response",
+                    "email":"mailto:contentprotectionservices@elsevier.com"
+                }
+            ],
+            "info":"https://www.elsevier.com/about",
+            "privacy":"https://www.elsevier.com/legal/privacy-policy",
+            "entityCategories":[],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"22d2d3a3225f21888193392c08cb1e86da8c633b",
+            "entityID":"https://sdauth.sciencedirect.com/",
+            "resourceName":"https://sdauth.sciencedirect.com/",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elsevier.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Elsevier Shibboleth Support",
+                    "email":"mailto:shibbolethsupport@elsevier.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Elsevier Shibboleth Support",
+                    "email":"mailto:shibbolethsupport@elsevier.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Elsevier Security Incident Response",
+                    "email":"mailto:contentprotectionservices@elsevier.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"22d2d3a3225f21888193392c08cb1e86da8c633b",
+            "entityID":"https://sdauth.sciencedirect.com/",
+            "resourceName":"https://sdauth.sciencedirect.com/",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elsevier.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Elsevier Shibboleth Support",
+                    "email":"mailto:shibbolethsupport@elsevier.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Elsevier Shibboleth Support",
+                    "email":"mailto:shibbolethsupport@elsevier.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Elsevier Security Incident Response",
+                    "email":"mailto:contentprotectionservices@elsevier.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"22d2d3a3225f21888193392c08cb1e86da8c633b",
+            "entityID":"https://sdauth.sciencedirect.com/",
+            "resourceName":"https://sdauth.sciencedirect.com/",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elsevier.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Elsevier Shibboleth Support",
+                    "email":"mailto:shibbolethsupport@elsevier.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Elsevier Shibboleth Support",
+                    "email":"mailto:shibbolethsupport@elsevier.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Elsevier Security Incident Response",
+                    "email":"mailto:contentprotectionservices@elsevier.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

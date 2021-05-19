@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"d7cd0c196924361ddf4a52f109c667dcb447f72a",
+            "entityID":"https://sp.stage-12twenty.com/shibboleth",
+            "resourceName":"12Twenty Stage SP",
+            "resourceProvider":{
+                "name":"12Twenty Inc.",
+                "displayname":"12Twenty Inc.",
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"Service Provider 12twenty Staging Site",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"https://www.12twenty.com",
+            "privacy":"https://www.12twenty.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d7cd0c196924361ddf4a52f109c667dcb447f72a",
+            "entityID":"https://sp.stage-12twenty.com/shibboleth",
+            "resourceName":"12Twenty Stage SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d7cd0c196924361ddf4a52f109c667dcb447f72a",
+            "entityID":"https://sp.stage-12twenty.com/shibboleth",
+            "resourceName":"12Twenty Stage SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d7cd0c196924361ddf4a52f109c667dcb447f72a",
+            "entityID":"https://sp.stage-12twenty.com/shibboleth",
+            "resourceName":"12Twenty Stage SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

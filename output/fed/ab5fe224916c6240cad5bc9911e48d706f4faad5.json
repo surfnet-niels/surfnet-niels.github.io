@@ -1,0 +1,175 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"ab5fe224916c6240cad5bc9911e48d706f4faad5",
+            "entityID":"https://myreviewroom.com/saml2/metadata/",
+            "resourceName":"FluidReview",
+            "resourceProvider":{
+                "name":"SurveyMonkey Canada Inc.",
+                "displayname":"SurveyMonkey Canada Inc.",
+                "url":"https://www.surveymonkey.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.surveymonkey.com/mp/legal/privacy-basics-enterprise/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ab5fe224916c6240cad5bc9911e48d706f4faad5",
+            "entityID":"https://myreviewroom.com/saml2/metadata/",
+            "resourceName":"FluidReview",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.surveymonkey.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ab5fe224916c6240cad5bc9911e48d706f4faad5",
+            "entityID":"https://myreviewroom.com/saml2/metadata/",
+            "resourceName":"FluidReview",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.surveymonkey.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ab5fe224916c6240cad5bc9911e48d706f4faad5",
+            "entityID":"https://myreviewroom.com/saml2/metadata/",
+            "resourceName":"FluidReview",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.surveymonkey.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nate Beacham",
+                    "email":"mailto:nateb@surveymonkey.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

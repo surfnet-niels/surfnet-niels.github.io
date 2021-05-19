@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"0f256e15c45c3104d016741de7cc2d00018bd63b",
+            "entityID":"https://sp-dev.perlego.com/entity",
+            "resourceName":"Perlego QA",
+            "resourceProvider":{
+                "name":"Perlego Limited",
+                "displayname":"Perlego Limited",
+                "url":"https://www.perlego.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "sn",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.perlego.com/privacy-policy",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"0f256e15c45c3104d016741de7cc2d00018bd63b",
+            "entityID":"https://sp-dev.perlego.com/entity",
+            "resourceName":"Perlego QA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.perlego.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "sn",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"0f256e15c45c3104d016741de7cc2d00018bd63b",
+            "entityID":"https://sp-dev.perlego.com/entity",
+            "resourceName":"Perlego QA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.perlego.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "sn",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"0f256e15c45c3104d016741de7cc2d00018bd63b",
+            "entityID":"https://sp-dev.perlego.com/entity",
+            "resourceName":"Perlego QA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.perlego.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "sn",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Perlego Help",
+                    "email":"mailto:help@perlego.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

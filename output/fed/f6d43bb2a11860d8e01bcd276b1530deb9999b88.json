@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f6d43bb2a11860d8e01bcd276b1530deb9999b88",
+            "entityID":"https://login.bionimbus.org/shibboleth",
+            "resourceName":"Bionimbus Portal",
+            "resourceProvider":{
+                "name":"Open Commons Consortium (OCC)",
+                "displayname":"Open Commons Consortium (OCC)",
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"Single Sign on Portal for the Bionimbus family of projects.  Bionimbus is a commons supporting various bioinformatic projects and research.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Lily Ko",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                }
+            ],
+            "info":"https://gen3.org/products/",
+            "privacy":"https://bionimbus-pdc.opensciencedatacloud.org/misc/privacy.txt",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f6d43bb2a11860d8e01bcd276b1530deb9999b88",
+            "entityID":"https://login.bionimbus.org/shibboleth",
+            "resourceName":"Bionimbus Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Lily Ko",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f6d43bb2a11860d8e01bcd276b1530deb9999b88",
+            "entityID":"https://login.bionimbus.org/shibboleth",
+            "resourceName":"Bionimbus Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Lily Ko",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f6d43bb2a11860d8e01bcd276b1530deb9999b88",
+            "entityID":"https://login.bionimbus.org/shibboleth",
+            "resourceName":"Bionimbus Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://occ-data.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Lily Ko",
+                    "email":"mailto:support@bionimbus.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Ray Powell",
+                    "email":"mailto:support@bionimbus.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

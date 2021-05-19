@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"fa90b206df51ffb8b1bbbc64a4cd0d2aec2fc204",
+            "entityID":"https://filesender.hu/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"filesender.hu",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"filesender.hu",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                }
+            ],
+            "info":"https://filesender.hu",
+            "privacy":"https://filesender.hu",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"fa90b206df51ffb8b1bbbc64a4cd0d2aec2fc204",
+            "entityID":"https://filesender.hu/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"filesender.hu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"fa90b206df51ffb8b1bbbc64a4cd0d2aec2fc204",
+            "entityID":"https://filesender.hu/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"filesender.hu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"fa90b206df51ffb8b1bbbc64a4cd0d2aec2fc204",
+            "entityID":"https://filesender.hu/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"filesender.hu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFU AAIKIFU AAI",
+                    "email":"mailto:aai-errors@niif.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

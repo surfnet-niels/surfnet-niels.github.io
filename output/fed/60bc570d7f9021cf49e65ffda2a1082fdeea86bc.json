@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"60bc570d7f9021cf49e65ffda2a1082fdeea86bc",
+            "entityID":"https://nauedu-prod.modolabs.net/_saml/module.php/saml/sp/saml2-acs.php/shibboleth_louie_go",
+            "resourceName":"NAU Kurogo Mobile Campus Prod",
+            "resourceProvider":{
+                "name":"Modo Labs Inc.",
+                "displayname":"Modo Labs Inc.",
+                "url":"http://www.modolabs.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Modo Security",
+                    "email":"mailto:security@modolabs.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.modolabs.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"60bc570d7f9021cf49e65ffda2a1082fdeea86bc",
+            "entityID":"https://nauedu-prod.modolabs.net/_saml/module.php/saml/sp/saml2-acs.php/shibboleth_louie_go",
+            "resourceName":"NAU Kurogo Mobile Campus Prod",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.modolabs.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Modo Security",
+                    "email":"mailto:security@modolabs.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"60bc570d7f9021cf49e65ffda2a1082fdeea86bc",
+            "entityID":"https://nauedu-prod.modolabs.net/_saml/module.php/saml/sp/saml2-acs.php/shibboleth_louie_go",
+            "resourceName":"NAU Kurogo Mobile Campus Prod",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.modolabs.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Modo Security",
+                    "email":"mailto:security@modolabs.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"60bc570d7f9021cf49e65ffda2a1082fdeea86bc",
+            "entityID":"https://nauedu-prod.modolabs.net/_saml/module.php/saml/sp/saml2-acs.php/shibboleth_louie_go",
+            "resourceName":"NAU Kurogo Mobile Campus Prod",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.modolabs.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Modo Security",
+                    "email":"mailto:security@modolabs.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

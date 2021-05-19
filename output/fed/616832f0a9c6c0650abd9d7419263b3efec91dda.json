@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"616832f0a9c6c0650abd9d7419263b3efec91dda",
+            "entityID":"https://authentication.clariah.nl/Saml2/proxy_saml2_backend.xml",
+            "resourceName":"CLARIAH NL IdP",
+            "resourceProvider":{
+                "name":"e459",
+                "displayname":"CLARIN ERIC",
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "schacHomeOrganization",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"CLARIAH proxy Identity Provider",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                },
+                {
+                    "type":"technical",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                }
+            ],
+            "info":"https://clariah.nl/",
+            "privacy":"https://authentication.clariah.nl/privacy-statement",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"616832f0a9c6c0650abd9d7419263b3efec91dda",
+            "entityID":"https://authentication.clariah.nl/Saml2/proxy_saml2_backend.xml",
+            "resourceName":"CLARIAH NL IdP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "schacHomeOrganization",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                },
+                {
+                    "type":"technical",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"616832f0a9c6c0650abd9d7419263b3efec91dda",
+            "entityID":"https://authentication.clariah.nl/Saml2/proxy_saml2_backend.xml",
+            "resourceName":"CLARIAH NL IdP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "schacHomeOrganization",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                },
+                {
+                    "type":"technical",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"616832f0a9c6c0650abd9d7419263b3efec91dda",
+            "entityID":"https://authentication.clariah.nl/Saml2/proxy_saml2_backend.xml",
+            "resourceName":"CLARIAH NL IdP",
+            "resourceProvider":{
+                "name":"e459",
+                "displayname":"CLARIN ERIC",
+                "url":"http://clarin.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "schacHomeOrganization",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"CLARIAH proxy Identity Provider",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                },
+                {
+                    "type":"technical",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                },
+                {
+                    "type":"support",
+                    "name":"Clariah SupportClariah Support",
+                    "email":"mailto:concern-infrastructure@di.huc.knaw.nl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://clarin.eu/category/clarin-member",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

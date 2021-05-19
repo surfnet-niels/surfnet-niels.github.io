@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"bd6068cd13996aa4e3ea2add2df1ff2011c4f2f4",
+            "entityID":"https://redcap.kumc.edu/shibboleth",
+            "resourceName":"KUMC Redcap",
+            "resourceProvider":{
+                "name":"University of Kansas",
+                "displayname":"University of Kansas Medical Center",
+                "url":"http://www.kumc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName"
+                ]
+            },
+            "description":"Production KUMC Redcap",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                }
+            ],
+            "info":"https://www.kumc.edu/miea/medical-informatics/redcap.html",
+            "privacy":"https://www.kumc.edu/privacy-statement.html",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"bd6068cd13996aa4e3ea2add2df1ff2011c4f2f4",
+            "entityID":"https://redcap.kumc.edu/shibboleth",
+            "resourceName":"KUMC Redcap",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.kumc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"bd6068cd13996aa4e3ea2add2df1ff2011c4f2f4",
+            "entityID":"https://redcap.kumc.edu/shibboleth",
+            "resourceName":"KUMC Redcap",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.kumc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"bd6068cd13996aa4e3ea2add2df1ff2011c4f2f4",
+            "entityID":"https://redcap.kumc.edu/shibboleth",
+            "resourceName":"KUMC Redcap",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.kumc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Thomas Van Doorn",
+                    "email":"mailto:tvandoorn@kumc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

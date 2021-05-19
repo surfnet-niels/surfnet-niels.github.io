@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"c5f97a58076f5c49bc891983d9b3e4834595c6a8",
+            "entityID":"https://kooplex-temp.elte.hu/consent/simplesaml/module.php/saml/sp/metadata.php/kooplex-temp-eduid-sp",
+            "resourceName":"Kooplex Temp SP",
+            "resourceProvider":{
+                "name":"ELTE",
+                "displayname":"ELTE",
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"Kooplex Temp SP",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                }
+            ],
+            "info":"https://kooplex-temp.elte.hu",
+            "privacy":"https://www.elte.hu/kozerdeku/adatved_fnyomt",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c5f97a58076f5c49bc891983d9b3e4834595c6a8",
+            "entityID":"https://kooplex-temp.elte.hu/consent/simplesaml/module.php/saml/sp/metadata.php/kooplex-temp-eduid-sp",
+            "resourceName":"Kooplex Temp SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c5f97a58076f5c49bc891983d9b3e4834595c6a8",
+            "entityID":"https://kooplex-temp.elte.hu/consent/simplesaml/module.php/saml/sp/metadata.php/kooplex-temp-eduid-sp",
+            "resourceName":"Kooplex Temp SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c5f97a58076f5c49bc891983d9b3e4834595c6a8",
+            "entityID":"https://kooplex-temp.elte.hu/consent/simplesaml/module.php/saml/sp/metadata.php/kooplex-temp-eduid-sp",
+            "resourceName":"Kooplex Temp SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"ELTE AAIELTE AAI",
+                    "email":"mailto:aai@iig.elte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

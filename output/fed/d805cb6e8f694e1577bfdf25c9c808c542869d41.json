@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"d805cb6e8f694e1577bfdf25c9c808c542869d41",
+            "entityID":"https://issues.shibboleth.net/shibboleth",
+            "resourceName":"Shibboleth.net Issue Tracking",
+            "resourceProvider":{
+                "name":"The Ohio State University",
+                "displayname":"Ohio State University",
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"The issue (improvements, bugs, tasks) tracking system used by the Shibboleth project. Unauthenticated users may view submitted issues.  Authenticated users may submit new issues and comment on existing ones.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                }
+            ],
+            "info":"",
+            "privacy":"https://wiki.shibboleth.net/confluence/display/DEV/Infrastructure+Information",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d805cb6e8f694e1577bfdf25c9c808c542869d41",
+            "entityID":"https://issues.shibboleth.net/shibboleth",
+            "resourceName":"Shibboleth.net Issue Tracking",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d805cb6e8f694e1577bfdf25c9c808c542869d41",
+            "entityID":"https://issues.shibboleth.net/shibboleth",
+            "resourceName":"Shibboleth.net Issue Tracking",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d805cb6e8f694e1577bfdf25c9c808c542869d41",
+            "entityID":"https://issues.shibboleth.net/shibboleth",
+            "resourceName":"Shibboleth.net Issue Tracking",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Shibboleth Contact",
+                    "email":"mailto:contact@shibboleth.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

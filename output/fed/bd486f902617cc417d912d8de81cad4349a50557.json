@@ -1,0 +1,163 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"bd486f902617cc417d912d8de81cad4349a50557",
+            "entityID":"https://sp.ucanr.edu/shibboleth",
+            "resourceName":"UCANR IDM Service Provider",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Steve Edberg",
+                    "email":"mailto:sbedberg@ucanr.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"bd486f902617cc417d912d8de81cad4349a50557",
+            "entityID":"https://sp.ucanr.edu/shibboleth",
+            "resourceName":"https://sp.ucanr.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Steve Edberg",
+                    "email":"mailto:sbedberg@ucanr.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"bd486f902617cc417d912d8de81cad4349a50557",
+            "entityID":"https://sp.ucanr.edu/shibboleth",
+            "resourceName":"https://sp.ucanr.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Steve Edberg",
+                    "email":"mailto:sbedberg@ucanr.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"bd486f902617cc417d912d8de81cad4349a50557",
+            "entityID":"https://sp.ucanr.edu/shibboleth",
+            "resourceName":"https://sp.ucanr.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Steve Edberg",
+                    "email":"mailto:sbedberg@ucanr.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

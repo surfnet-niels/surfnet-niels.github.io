@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"6be979a3b08d0a09591081591ac857c260fcac52",
+            "entityID":"https://grouperdemo.internet2.edu/shibboleth",
+            "resourceName":"Grouper Demo",
+            "resourceProvider":{
+                "name":"Internet2",
+                "displayname":"Internet2",
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"The Grouper Demo server is for showing the capabilities of various versions of Grouper. It is not for any real or production use.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Shilen Patel",
+                    "email":"mailto:shilen@duke.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Grouper Core Team",
+                    "email":"mailto:grouper-core@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Grouper Core Team",
+                    "email":"mailto:grouper-core@internet2.edu"
+                }
+            ],
+            "info":"https://grouperdemo.internet2.edu",
+            "privacy":"https://internet2.edu/community/about-us/policies/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"6be979a3b08d0a09591081591ac857c260fcac52",
+            "entityID":"https://grouperdemo.internet2.edu/shibboleth",
+            "resourceName":"Grouper Demo",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Shilen Patel",
+                    "email":"mailto:shilen@duke.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Grouper Core Team",
+                    "email":"mailto:grouper-core@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Grouper Core Team",
+                    "email":"mailto:grouper-core@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"6be979a3b08d0a09591081591ac857c260fcac52",
+            "entityID":"https://grouperdemo.internet2.edu/shibboleth",
+            "resourceName":"Grouper Demo",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Shilen Patel",
+                    "email":"mailto:shilen@duke.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Grouper Core Team",
+                    "email":"mailto:grouper-core@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Grouper Core Team",
+                    "email":"mailto:grouper-core@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"6be979a3b08d0a09591081591ac857c260fcac52",
+            "entityID":"https://grouperdemo.internet2.edu/shibboleth",
+            "resourceName":"Grouper Demo",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Shilen Patel",
+                    "email":"mailto:shilen@duke.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Grouper Core Team",
+                    "email":"mailto:grouper-core@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Grouper Core Team",
+                    "email":"mailto:grouper-core@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

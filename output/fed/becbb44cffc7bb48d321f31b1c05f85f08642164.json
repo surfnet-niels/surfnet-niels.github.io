@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"becbb44cffc7bb48d321f31b1c05f85f08642164",
+            "entityID":"https://auth.givepulse.com",
+            "resourceName":"Givepulse, Inc",
+            "resourceProvider":{
+                "name":"GivePulse, Inc.",
+                "displayname":"GivePulse, Inc.",
+                "url":"http://www.givepulse.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"GivePulse is a service learning, volunteer management, civic engagement, and giving platform for individuals and groups to serve and support their community. We provide any institution, business, or nonprofit the abilities to centralize all management and data collection of community engagement to identify their social impact. GivePulse.com mobilizes human capital to solve social disparities.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"GivePulse Support",
+                    "email":"mailto:support@givepulse.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"James McGirr",
+                    "email":"mailto:james@givepulse.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Fahad Ijaz",
+                    "email":"mailto:fahad@givepulse.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"GivePulse Support",
+                    "email":"mailto:support@givepulse.com"
+                }
+            ],
+            "info":"https://www.givepulse.com",
+            "privacy":"https://www.givepulse.com/policies",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"becbb44cffc7bb48d321f31b1c05f85f08642164",
+            "entityID":"https://auth.givepulse.com",
+            "resourceName":"Givepulse, Inc",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.givepulse.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"GivePulse Support",
+                    "email":"mailto:support@givepulse.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"James McGirr",
+                    "email":"mailto:james@givepulse.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Fahad Ijaz",
+                    "email":"mailto:fahad@givepulse.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"GivePulse Support",
+                    "email":"mailto:support@givepulse.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"becbb44cffc7bb48d321f31b1c05f85f08642164",
+            "entityID":"https://auth.givepulse.com",
+            "resourceName":"Givepulse, Inc",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.givepulse.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"GivePulse Support",
+                    "email":"mailto:support@givepulse.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"James McGirr",
+                    "email":"mailto:james@givepulse.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Fahad Ijaz",
+                    "email":"mailto:fahad@givepulse.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"GivePulse Support",
+                    "email":"mailto:support@givepulse.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"becbb44cffc7bb48d321f31b1c05f85f08642164",
+            "entityID":"https://auth.givepulse.com",
+            "resourceName":"Givepulse, Inc",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.givepulse.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"GivePulse Support",
+                    "email":"mailto:support@givepulse.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"James McGirr",
+                    "email":"mailto:james@givepulse.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Fahad Ijaz",
+                    "email":"mailto:fahad@givepulse.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"GivePulse Support",
+                    "email":"mailto:support@givepulse.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

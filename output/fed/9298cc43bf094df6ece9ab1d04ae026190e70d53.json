@@ -1,0 +1,175 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"9298cc43bf094df6ece9ab1d04ae026190e70d53",
+            "entityID":"https://www.connect2mycloud.com",
+            "resourceName":"Connect2MyCloud",
+            "resourceProvider":{
+                "name":"Connect2concepts",
+                "displayname":"Connect2concepts",
+                "url":"https://www.connect2concepts.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"SP for connect2mycloud application",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.connect2mycloud.com/Home/PrivacyPolicy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"9298cc43bf094df6ece9ab1d04ae026190e70d53",
+            "entityID":"https://www.connect2mycloud.com",
+            "resourceName":"Connect2MyCloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.connect2concepts.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"9298cc43bf094df6ece9ab1d04ae026190e70d53",
+            "entityID":"https://www.connect2mycloud.com",
+            "resourceName":"Connect2MyCloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.connect2concepts.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"9298cc43bf094df6ece9ab1d04ae026190e70d53",
+            "entityID":"https://www.connect2mycloud.com",
+            "resourceName":"Connect2MyCloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.connect2concepts.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Jennifer Jacobs",
+                    "email":"mailto:jjacobs@connect2concepts.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

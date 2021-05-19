@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"2ba577da84c6da5210bc8e11831a7dd5a64c973a",
+            "entityID":"https://yalesptest.assetworkssso.io/shibboleth",
+            "resourceName":"Assetworks Yale Test SP",
+            "resourceProvider":{
+                "name":"AssetWorks",
+                "displayname":"AssetWorks",
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Assetworks LLC SP",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Adam Cooper",
+                    "email":"mailto:adam.cooper@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"http://www.assetworks.com/wp-content/uploads/2015/10/Privacy_Policy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2ba577da84c6da5210bc8e11831a7dd5a64c973a",
+            "entityID":"https://yalesptest.assetworkssso.io/shibboleth",
+            "resourceName":"https://yalesptest.assetworkssso.io/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Adam Cooper",
+                    "email":"mailto:adam.cooper@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2ba577da84c6da5210bc8e11831a7dd5a64c973a",
+            "entityID":"https://yalesptest.assetworkssso.io/shibboleth",
+            "resourceName":"https://yalesptest.assetworkssso.io/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Adam Cooper",
+                    "email":"mailto:adam.cooper@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2ba577da84c6da5210bc8e11831a7dd5a64c973a",
+            "entityID":"https://yalesptest.assetworkssso.io/shibboleth",
+            "resourceName":"https://yalesptest.assetworkssso.io/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.assetworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Combs",
+                    "email":"mailto:michael.combs@assetworks.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Heath Kyker",
+                    "email":"mailto:heath.kyker@assetworks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Adam Cooper",
+                    "email":"mailto:adam.cooper@assetworks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

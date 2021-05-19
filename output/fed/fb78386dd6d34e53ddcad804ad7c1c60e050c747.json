@@ -1,0 +1,215 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"fb78386dd6d34e53ddcad804ad7c1c60e050c747",
+            "entityID":"https://upsafety.net/Staging/sp",
+            "resourceName":"United Public Safety Staging",
+            "resourceProvider":{
+                "name":"United Public Safety",
+                "displayname":"United Public Safety",
+                "url":"http://www.upsafety.net/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"United Public Safety Staging",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                }
+            ],
+            "info":"https://www.upsafety.net/about/about-us.php",
+            "privacy":"https://upsafety.net/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"fb78386dd6d34e53ddcad804ad7c1c60e050c747",
+            "entityID":"https://upsafety.net/Staging/sp",
+            "resourceName":"United Public Safety Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.upsafety.net/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"fb78386dd6d34e53ddcad804ad7c1c60e050c747",
+            "entityID":"https://upsafety.net/Staging/sp",
+            "resourceName":"United Public Safety Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.upsafety.net/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"fb78386dd6d34e53ddcad804ad7c1c60e050c747",
+            "entityID":"https://upsafety.net/Staging/sp",
+            "resourceName":"United Public Safety Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.upsafety.net/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Andrew Robin",
+                    "email":"mailto:arobin@upsafety.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

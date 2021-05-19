@@ -1,0 +1,151 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"41ae46cbecbf0da5f6549bacaf3ca5c421b190c3",
+            "entityID":"https://sunderland.stage-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker for University of Sunderland (Test)",
+            "resourceProvider":{
+                "name":"Vertigo Ventures Ltd",
+                "displayname":"Vertigo Ventures Ltd",
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"This is a test service provider environment for the University of Sunderland.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"41ae46cbecbf0da5f6549bacaf3ca5c421b190c3",
+            "entityID":"https://sunderland.stage-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker for University of Sunderland (Test)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"41ae46cbecbf0da5f6549bacaf3ca5c421b190c3",
+            "entityID":"https://sunderland.stage-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker for University of Sunderland (Test)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"41ae46cbecbf0da5f6549bacaf3ca5c421b190c3",
+            "entityID":"https://sunderland.stage-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker for University of Sunderland (Test)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

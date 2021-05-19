@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"9e60fbaf7800761531ad395801622c6e0bcb022f",
+            "entityID":"https://jobbuilder.ucop.edu/shibboleth",
+            "resourceName":"Job Builder",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Yer Yang",
+                    "email":"mailto:yyang22@ucmerced.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ACS Support",
+                    "email":"mailto:bfssupport@ucmerced.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brad Chilcoat",
+                    "email":"mailto:Brad.Chilcoat@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"http://policy.ucop.edu/doc/7000470/ElectronicCommunications",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"9e60fbaf7800761531ad395801622c6e0bcb022f",
+            "entityID":"https://jobbuilder.ucop.edu/shibboleth",
+            "resourceName":"Job Builder",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Yer Yang",
+                    "email":"mailto:yyang22@ucmerced.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ACS Support",
+                    "email":"mailto:bfssupport@ucmerced.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brad Chilcoat",
+                    "email":"mailto:Brad.Chilcoat@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"9e60fbaf7800761531ad395801622c6e0bcb022f",
+            "entityID":"https://jobbuilder.ucop.edu/shibboleth",
+            "resourceName":"Job Builder",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Yer Yang",
+                    "email":"mailto:yyang22@ucmerced.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ACS Support",
+                    "email":"mailto:bfssupport@ucmerced.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brad Chilcoat",
+                    "email":"mailto:Brad.Chilcoat@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"9e60fbaf7800761531ad395801622c6e0bcb022f",
+            "entityID":"https://jobbuilder.ucop.edu/shibboleth",
+            "resourceName":"Job Builder",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Yer Yang",
+                    "email":"mailto:yyang22@ucmerced.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ACS Support",
+                    "email":"mailto:bfssupport@ucmerced.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brad Chilcoat",
+                    "email":"mailto:Brad.Chilcoat@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

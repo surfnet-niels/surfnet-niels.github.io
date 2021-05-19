@@ -1,0 +1,155 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"c42a75eab03a512a3d161b133bd1a946822fbed9",
+            "entityID":"https://gre.dev-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker University of Greenwich - Dev",
+            "resourceProvider":{
+                "name":"Vertigo Ventures Ltd",
+                "displayname":"VV-Impact Tracker University of Greenwich - Dev",
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c42a75eab03a512a3d161b133bd1a946822fbed9",
+            "entityID":"https://gre.dev-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker University of Greenwich - Dev",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c42a75eab03a512a3d161b133bd1a946822fbed9",
+            "entityID":"https://gre.dev-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker University of Greenwich - Dev",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c42a75eab03a512a3d161b133bd1a946822fbed9",
+            "entityID":"https://gre.dev-vvimpacttracker.com/saml2/sp",
+            "resourceName":"VV-Impact Tracker University of Greenwich - Dev",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vertigoventures.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vvimpacttracker.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Development Team",
+                    "email":"mailto:dev@vertigoventures.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

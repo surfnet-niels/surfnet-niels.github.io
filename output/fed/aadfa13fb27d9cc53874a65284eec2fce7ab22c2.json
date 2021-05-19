@@ -1,0 +1,135 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"aadfa13fb27d9cc53874a65284eec2fce7ab22c2",
+            "entityID":"https://sp.sae.org/shibboleth",
+            "resourceName":"SAE MOBILUS",
+            "resourceProvider":{
+                "name":"SAE International",
+                "displayname":"SAE MOBILUS",
+                "url":"https://saemobilus.sae.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Subscription-based access to aerospace and automotive technical information from SAE International",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IT Services",
+                    "email":"mailto:itservices@sae.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"IT Services",
+                    "email":"mailto:itservices@sae.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"aadfa13fb27d9cc53874a65284eec2fce7ab22c2",
+            "entityID":"https://sp.sae.org/shibboleth",
+            "resourceName":"https://sp.sae.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://saemobilus.sae.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IT Services",
+                    "email":"mailto:itservices@sae.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"IT Services",
+                    "email":"mailto:itservices@sae.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"aadfa13fb27d9cc53874a65284eec2fce7ab22c2",
+            "entityID":"https://sp.sae.org/shibboleth",
+            "resourceName":"https://sp.sae.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://saemobilus.sae.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IT Services",
+                    "email":"mailto:itservices@sae.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"IT Services",
+                    "email":"mailto:itservices@sae.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"aadfa13fb27d9cc53874a65284eec2fce7ab22c2",
+            "entityID":"https://sp.sae.org/shibboleth",
+            "resourceName":"https://sp.sae.org/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://saemobilus.sae.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IT Services",
+                    "email":"mailto:itservices@sae.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"IT Services",
+                    "email":"mailto:itservices@sae.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,163 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"2151f856938e01bb16e3b4c55f44f1472d652b93",
+            "entityID":"https://epbcsdev1.ucop.edu",
+            "resourceName":"EPBCS Dev1",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Second Development site for EPBCS Project",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGRP@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2151f856938e01bb16e3b4c55f44f1472d652b93",
+            "entityID":"https://epbcsdev1.ucop.edu",
+            "resourceName":"https://epbcsdev1.ucop.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGRP@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2151f856938e01bb16e3b4c55f44f1472d652b93",
+            "entityID":"https://epbcsdev1.ucop.edu",
+            "resourceName":"https://epbcsdev1.ucop.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGRP@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2151f856938e01bb16e3b4c55f44f1472d652b93",
+            "entityID":"https://epbcsdev1.ucop.edu",
+            "resourceName":"https://epbcsdev1.ucop.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Service Desk",
+                    "email":"mailto:servicedesk@ucop.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGRP@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

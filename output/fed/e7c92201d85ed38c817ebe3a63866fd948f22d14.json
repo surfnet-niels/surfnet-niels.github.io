@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"e7c92201d85ed38c817ebe3a63866fd948f22d14",
+            "entityID":"https://login.at.internet2.edu/Saml2/proxy_saml2_backend.xml",
+            "resourceName":"Internet2 Collaboration Login",
+            "resourceProvider":{
+                "name":"Internet2",
+                "displayname":"Internet2",
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"Collaboration Login Service at Internet2",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"support",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                }
+            ],
+            "info":"https://ds.at.internet2.edu/ICMP/",
+            "privacy":"https://internet2.edu/community/about-us/policies/privacy/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e7c92201d85ed38c817ebe3a63866fd948f22d14",
+            "entityID":"https://login.at.internet2.edu/Saml2/proxy_saml2_backend.xml",
+            "resourceName":"Internet2 Collaboration Login",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"support",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e7c92201d85ed38c817ebe3a63866fd948f22d14",
+            "entityID":"https://login.at.internet2.edu/Saml2/proxy_saml2_backend.xml",
+            "resourceName":"Internet2 Collaboration Login",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"support",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e7c92201d85ed38c817ebe3a63866fd948f22d14",
+            "entityID":"https://login.at.internet2.edu/Saml2/proxy_saml2_backend.xml",
+            "resourceName":"Internet2 Collaboration Login",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"support",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InCommon Ops",
+                    "email":"mailto:help@incommon.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

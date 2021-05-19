@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"2cefd5ea8bcd9d8d343240d8b7faec334f9089fe",
+            "entityID":"https://psutestmp1.innosoftfusion.com/shibboleth",
+            "resourceName":"Fusion Test Penn State Portal",
+            "resourceProvider":{
+                "name":"InnoSoft Canada Inc.",
+                "displayname":"InnoSoft Canada Inc.",
+                "url":"http://innosoft.ca/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ITS Service Desk",
+                    "email":"mailto:itservicedesk@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Team",
+                    "email":"mailto:security@psu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ITS Service Desk",
+                    "email":"mailto:itservicedesk@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Identity and Access Management Team",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://policy.psu.edu/policies/ad53",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2cefd5ea8bcd9d8d343240d8b7faec334f9089fe",
+            "entityID":"https://psutestmp1.innosoftfusion.com/shibboleth",
+            "resourceName":"Fusion Test Penn State Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://innosoft.ca/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ITS Service Desk",
+                    "email":"mailto:itservicedesk@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Team",
+                    "email":"mailto:security@psu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ITS Service Desk",
+                    "email":"mailto:itservicedesk@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Identity and Access Management Team",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2cefd5ea8bcd9d8d343240d8b7faec334f9089fe",
+            "entityID":"https://psutestmp1.innosoftfusion.com/shibboleth",
+            "resourceName":"Fusion Test Penn State Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://innosoft.ca/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ITS Service Desk",
+                    "email":"mailto:itservicedesk@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Team",
+                    "email":"mailto:security@psu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ITS Service Desk",
+                    "email":"mailto:itservicedesk@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Identity and Access Management Team",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2cefd5ea8bcd9d8d343240d8b7faec334f9089fe",
+            "entityID":"https://psutestmp1.innosoftfusion.com/shibboleth",
+            "resourceName":"Fusion Test Penn State Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://innosoft.ca/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ITS Service Desk",
+                    "email":"mailto:itservicedesk@psu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Team",
+                    "email":"mailto:security@psu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ITS Service Desk",
+                    "email":"mailto:itservicedesk@psu.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Identity and Access Management Team",
+                    "email":"mailto:security@psu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

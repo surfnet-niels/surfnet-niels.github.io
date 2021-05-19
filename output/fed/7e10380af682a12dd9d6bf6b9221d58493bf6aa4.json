@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"7e10380af682a12dd9d6bf6b9221d58493bf6aa4",
+            "entityID":"https://conference.kifu.hu/shibboleth",
+            "resourceName":"KIFÜ conference portal",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "email",
+                    "telephoneNumber",
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"KIFÜ conference portal",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                }
+            ],
+            "info":"https://kifu.gov.hu",
+            "privacy":"https://kifu.gov.hu/adatkezelesi-tajekoztatok",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7e10380af682a12dd9d6bf6b9221d58493bf6aa4",
+            "entityID":"https://conference.kifu.hu/shibboleth",
+            "resourceName":"KIFÜ conference portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "email",
+                    "telephoneNumber",
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7e10380af682a12dd9d6bf6b9221d58493bf6aa4",
+            "entityID":"https://conference.kifu.hu/shibboleth",
+            "resourceName":"KIFÜ conference portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "email",
+                    "telephoneNumber",
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7e10380af682a12dd9d6bf6b9221d58493bf6aa4",
+            "entityID":"https://conference.kifu.hu/shibboleth",
+            "resourceName":"KIFÜ conference portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "email",
+                    "telephoneNumber",
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Debreczeni AttilaDebreczeni Attila",
+                    "email":"mailto:debreczeni.attila@kifu.gov.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

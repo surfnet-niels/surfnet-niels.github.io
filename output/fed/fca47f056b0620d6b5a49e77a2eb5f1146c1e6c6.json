@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"fca47f056b0620d6b5a49e77a2eb5f1146c1e6c6",
+            "entityID":"https://och.stonybrook.edu/shibboleth",
+            "resourceName":"SBU Off Campus Housing",
+            "resourceProvider":{
+                "name":"Stony Brook University",
+                "displayname":"Stony Brook University",
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michael Gasparino",
+                    "email":"mailto:michael.gasparino@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.stonybrook.edu/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"fca47f056b0620d6b5a49e77a2eb5f1146c1e6c6",
+            "entityID":"https://och.stonybrook.edu/shibboleth",
+            "resourceName":"SBU Off Campus Housing",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michael Gasparino",
+                    "email":"mailto:michael.gasparino@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"fca47f056b0620d6b5a49e77a2eb5f1146c1e6c6",
+            "entityID":"https://och.stonybrook.edu/shibboleth",
+            "resourceName":"SBU Off Campus Housing",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michael Gasparino",
+                    "email":"mailto:michael.gasparino@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"fca47f056b0620d6b5a49e77a2eb5f1146c1e6c6",
+            "entityID":"https://och.stonybrook.edu/shibboleth",
+            "resourceName":"SBU Off Campus Housing",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.sunysb.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Paul St. Denis",
+                    "email":"mailto:paul.st.denis@stonybrook.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michael Gasparino",
+                    "email":"mailto:michael.gasparino@stonybrook.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"DoIT Information Security",
+                    "email":"mailto:DoIT_Security@stonybrook.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

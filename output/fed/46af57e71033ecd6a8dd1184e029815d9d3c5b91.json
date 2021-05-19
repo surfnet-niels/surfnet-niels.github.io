@@ -1,0 +1,227 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"46af57e71033ecd6a8dd1184e029815d9d3c5b91",
+            "entityID":"https://dev.niif.hu/shibboleth",
+            "resourceName":"KIFÜ GitLab",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"Development support platform",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"https://dev.niif.hu/help",
+            "privacy":"https://www.eduid.hu",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"46af57e71033ecd6a8dd1184e029815d9d3c5b91",
+            "entityID":"https://dev.niif.hu/shibboleth",
+            "resourceName":"KIFÜ GitLab",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"46af57e71033ecd6a8dd1184e029815d9d3c5b91",
+            "entityID":"https://dev.niif.hu/shibboleth",
+            "resourceName":"KIFÜ GitLab",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"46af57e71033ecd6a8dd1184e029815d9d3c5b91",
+            "entityID":"https://dev.niif.hu/shibboleth",
+            "resourceName":"KIFÜ GitLab",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"security",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

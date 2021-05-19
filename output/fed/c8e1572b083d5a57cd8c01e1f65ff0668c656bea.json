@@ -1,0 +1,147 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"c8e1572b083d5a57cd8c01e1f65ff0668c656bea",
+            "entityID":"https://vle-dev.learningnexus.co.uk/saml2/sp",
+            "resourceName":"Learning Nexus Development VLE",
+            "resourceProvider":{
+                "name":"Learning Nexus Ltd",
+                "displayname":"Learning Nexus Development VLE",
+                "url":"http://www.learningnexus.co.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"An instance of the Learning Nexus VLE which is used for development and testing.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Learning Nexus Support",
+                    "email":"mailto:support@learningnexus.co.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"TimHarding",
+                    "email":"mailto:tim.harding@learningnexus.co.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c8e1572b083d5a57cd8c01e1f65ff0668c656bea",
+            "entityID":"https://vle-dev.learningnexus.co.uk/saml2/sp",
+            "resourceName":"Learning Nexus Development VLE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.learningnexus.co.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Learning Nexus Support",
+                    "email":"mailto:support@learningnexus.co.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"TimHarding",
+                    "email":"mailto:tim.harding@learningnexus.co.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c8e1572b083d5a57cd8c01e1f65ff0668c656bea",
+            "entityID":"https://vle-dev.learningnexus.co.uk/saml2/sp",
+            "resourceName":"Learning Nexus Development VLE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.learningnexus.co.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Learning Nexus Support",
+                    "email":"mailto:support@learningnexus.co.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"TimHarding",
+                    "email":"mailto:tim.harding@learningnexus.co.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c8e1572b083d5a57cd8c01e1f65ff0668c656bea",
+            "entityID":"https://vle-dev.learningnexus.co.uk/saml2/sp",
+            "resourceName":"Learning Nexus Development VLE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.learningnexus.co.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Learning Nexus Support",
+                    "email":"mailto:support@learningnexus.co.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"TimHarding",
+                    "email":"mailto:tim.harding@learningnexus.co.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

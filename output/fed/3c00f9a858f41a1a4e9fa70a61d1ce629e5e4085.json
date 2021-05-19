@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"3c00f9a858f41a1a4e9fa70a61d1ce629e5e4085",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-georgetown-sp",
+            "resourceName":"Protocol Builder - Georgetown University",
+            "resourceProvider":{
+                "name":"Biomedical Research Alliance of New York (BRANY) d/b/a Protocol Builder",
+                "displayname":"Biomedical Research Alliance of New York (BRANY) d/b/a Protocol Builder",
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://protocolbuilderpro.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"3c00f9a858f41a1a4e9fa70a61d1ce629e5e4085",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-georgetown-sp",
+            "resourceName":"Protocol Builder - Georgetown University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"3c00f9a858f41a1a4e9fa70a61d1ce629e5e4085",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-georgetown-sp",
+            "resourceName":"Protocol Builder - Georgetown University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"3c00f9a858f41a1a4e9fa70a61d1ce629e5e4085",
+            "entityID":"https://app.protocolbuilderpro.com/simplesaml/module.php/saml/sp/metadata.php/incommon-georgetown-sp",
+            "resourceName":"Protocol Builder - Georgetown University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.protocolbuilderpro.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Abu Zakaria",
+                    "email":"mailto:abu.zakaria@sourcetop.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

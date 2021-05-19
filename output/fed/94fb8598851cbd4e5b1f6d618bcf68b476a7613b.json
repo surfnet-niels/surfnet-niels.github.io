@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"94fb8598851cbd4e5b1f6d618bcf68b476a7613b",
+            "entityID":"https://akjournals.com/saml/sp",
+            "resourceName":"AKJournals",
+            "resourceProvider":{
+                "name":"NIIF Institute - National Information Infrastructure Development",
+                "displayname":"NIIF Institute - National Information Infrastructure Development",
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Our mission is to promote international and Hungarian science, that is, to publish the new discoveries in several areas of science, to effectively support information exchange amongst scientists on a global level, and to make scientific results a public property for all who seek valuable and reliable knowledge",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"István KothenczIstván Kothencz",
+                    "email":"mailto:istvan.kothencz@akademiai.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael IstratovMichael Istratov",
+                    "email":"mailto:michael.istratov@sheridan.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Journals DepartmentJournals Department",
+                    "email":"mailto:customerservice@akjournals.com"
+                }
+            ],
+            "info":"https://akjournals.com",
+            "privacy":"https://akademiai.com/page/privacy",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"94fb8598851cbd4e5b1f6d618bcf68b476a7613b",
+            "entityID":"https://akjournals.com/saml/sp",
+            "resourceName":"AKJournals",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"István KothenczIstván Kothencz",
+                    "email":"mailto:istvan.kothencz@akademiai.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael IstratovMichael Istratov",
+                    "email":"mailto:michael.istratov@sheridan.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Journals DepartmentJournals Department",
+                    "email":"mailto:customerservice@akjournals.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"94fb8598851cbd4e5b1f6d618bcf68b476a7613b",
+            "entityID":"https://akjournals.com/saml/sp",
+            "resourceName":"AKJournals",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"István KothenczIstván Kothencz",
+                    "email":"mailto:istvan.kothencz@akademiai.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael IstratovMichael Istratov",
+                    "email":"mailto:michael.istratov@sheridan.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Journals DepartmentJournals Department",
+                    "email":"mailto:customerservice@akjournals.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"94fb8598851cbd4e5b1f6d618bcf68b476a7613b",
+            "entityID":"https://akjournals.com/saml/sp",
+            "resourceName":"AKJournals",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.niif.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"István KothenczIstván Kothencz",
+                    "email":"mailto:istvan.kothencz@akademiai.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael IstratovMichael Istratov",
+                    "email":"mailto:michael.istratov@sheridan.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Journals DepartmentJournals Department",
+                    "email":"mailto:customerservice@akjournals.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

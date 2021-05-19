@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f27a754e085c430377f688debad617cfb387c4e2",
+            "entityID":"https://saml.fitchconnect-qa.com",
+            "resourceName":"Fitch Solutions Service Provider QA",
+            "resourceProvider":{
+                "name":"Fitch Solutions, Inc.",
+                "displayname":"Fitch Solutions, Inc.",
+                "url":"https://www.fitchsolutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Service Provider that provides access to Fitch Connect applications. This is temporary and for QA only.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Evan Shenkin",
+                    "email":"mailto:evan.shenkin@fitchsolutions.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Vince Recupito",
+                    "email":"mailto:vincent.recupito@fitchsolutions.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Amanda Katta",
+                    "email":"mailto:amanda.katta@fitchsolutions.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.thefitchgroup.com/site/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f27a754e085c430377f688debad617cfb387c4e2",
+            "entityID":"https://saml.fitchconnect-qa.com",
+            "resourceName":"https://saml.fitchconnect-qa.com",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.fitchsolutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Evan Shenkin",
+                    "email":"mailto:evan.shenkin@fitchsolutions.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Vince Recupito",
+                    "email":"mailto:vincent.recupito@fitchsolutions.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Amanda Katta",
+                    "email":"mailto:amanda.katta@fitchsolutions.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f27a754e085c430377f688debad617cfb387c4e2",
+            "entityID":"https://saml.fitchconnect-qa.com",
+            "resourceName":"https://saml.fitchconnect-qa.com",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.fitchsolutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Evan Shenkin",
+                    "email":"mailto:evan.shenkin@fitchsolutions.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Vince Recupito",
+                    "email":"mailto:vincent.recupito@fitchsolutions.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Amanda Katta",
+                    "email":"mailto:amanda.katta@fitchsolutions.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f27a754e085c430377f688debad617cfb387c4e2",
+            "entityID":"https://saml.fitchconnect-qa.com",
+            "resourceName":"https://saml.fitchconnect-qa.com",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.fitchsolutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Evan Shenkin",
+                    "email":"mailto:evan.shenkin@fitchsolutions.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Vince Recupito",
+                    "email":"mailto:vincent.recupito@fitchsolutions.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Amanda Katta",
+                    "email":"mailto:amanda.katta@fitchsolutions.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"4388e2c5dc0282624fef2415392b605652fbcfcf",
+            "entityID":"https://lists.test.lbl.gov/shibboleth",
+            "resourceName":"LBL Lists Test Server",
+            "resourceProvider":{
+                "name":"Lawrence Berkeley National Laboratory",
+                "displayname":"Lawrence Berkeley National Laboratory",
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Listmaster",
+                    "email":"mailto:listmaster@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL IT IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"https://commons.lbl.gov/x/TQFdAw",
+            "privacy":"https://www.lbl.gov/disclaimers/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"4388e2c5dc0282624fef2415392b605652fbcfcf",
+            "entityID":"https://lists.test.lbl.gov/shibboleth",
+            "resourceName":"LBL Lists Test Server",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Listmaster",
+                    "email":"mailto:listmaster@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL IT IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"4388e2c5dc0282624fef2415392b605652fbcfcf",
+            "entityID":"https://lists.test.lbl.gov/shibboleth",
+            "resourceName":"LBL Lists Test Server",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Listmaster",
+                    "email":"mailto:listmaster@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL IT IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"4388e2c5dc0282624fef2415392b605652fbcfcf",
+            "entityID":"https://lists.test.lbl.gov/shibboleth",
+            "resourceName":"LBL Lists Test Server",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL Listmaster",
+                    "email":"mailto:listmaster@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"LBL IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"LBL IT IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

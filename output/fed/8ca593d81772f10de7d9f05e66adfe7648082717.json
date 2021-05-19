@@ -1,0 +1,151 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"8ca593d81772f10de7d9f05e66adfe7648082717",
+            "entityID":"https://proxy.redclara.net/sp",
+            "resourceName":"Proxy-SP - RedCLARA",
+            "resourceProvider":{
+                "name":"RedCLARA",
+                "displayname":"RedCLARA",
+                "url":"http://www.redclara.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "surname",
+                    "givenName"
+                ],
+                "requested":[]
+            },
+            "description":"Proxy-SP Service",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Authentication Support",
+                    "email":"mailto:vsog@redclara.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:vsog@redclara.net"
+                }
+            ],
+            "info":"http://www.redclara.net/index.php?lang=en",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"8ca593d81772f10de7d9f05e66adfe7648082717",
+            "entityID":"https://proxy.redclara.net/sp",
+            "resourceName":"Proxy-SP RedCLARA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.redclara.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "surname",
+                    "givenName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Authentication Support",
+                    "email":"mailto:vsog@redclara.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:vsog@redclara.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"8ca593d81772f10de7d9f05e66adfe7648082717",
+            "entityID":"https://proxy.redclara.net/sp",
+            "resourceName":"Proxy-SP RedCLARA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.redclara.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "surname",
+                    "givenName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Authentication Support",
+                    "email":"mailto:vsog@redclara.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:vsog@redclara.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"8ca593d81772f10de7d9f05e66adfe7648082717",
+            "entityID":"https://proxy.redclara.net/sp",
+            "resourceName":"Proxy-SP RedCLARA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.redclara.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "surname",
+                    "givenName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Authentication Support",
+                    "email":"mailto:vsog@redclara.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Support",
+                    "email":"mailto:vsog@redclara.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

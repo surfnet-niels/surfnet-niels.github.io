@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"ea35b89fd8aeca9cb2eb238b8c087ead0135d997",
+            "entityID":"https://ermspqa.ucop.edu/rlshs",
+            "resourceName":"RL SHS CAPs system",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"Student Health Services Counseling and Psychological Services is designed to improve the process through a web based application and database.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UCOP IAM",
+                    "email":"mailto:iamGrp@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UCOP DataCenter HelpDesk",
+                    "email":"mailto:ucopdatacenter.helpdesk@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ea35b89fd8aeca9cb2eb238b8c087ead0135d997",
+            "entityID":"https://ermspqa.ucop.edu/rlshs",
+            "resourceName":"RL SHS CAPs system",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UCOP IAM",
+                    "email":"mailto:iamGrp@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UCOP DataCenter HelpDesk",
+                    "email":"mailto:ucopdatacenter.helpdesk@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ea35b89fd8aeca9cb2eb238b8c087ead0135d997",
+            "entityID":"https://ermspqa.ucop.edu/rlshs",
+            "resourceName":"RL SHS CAPs system",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UCOP IAM",
+                    "email":"mailto:iamGrp@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UCOP DataCenter HelpDesk",
+                    "email":"mailto:ucopdatacenter.helpdesk@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ea35b89fd8aeca9cb2eb238b8c087ead0135d997",
+            "entityID":"https://ermspqa.ucop.edu/rlshs",
+            "resourceName":"RL SHS CAPs system",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UCOP IAM",
+                    "email":"mailto:iamGrp@ucop.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"UCOP DataCenter HelpDesk",
+                    "email":"mailto:ucopdatacenter.helpdesk@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IAM Group",
+                    "email":"mailto:IAMGroup@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,231 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"ff509f2816f08d89b3652f97a8c2d3145fcbb6b4",
+            "entityID":"https://wase.princeton.edu/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"WASE",
+            "resourceProvider":{
+                "name":"Princeton University",
+                "displayname":"Princeton University",
+                "url":"http://www.princeton.edu/index.shtml"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"WASE allows the scheduling of office/advising hour appointments via a web interface. The system can sync appointments into Exchange or Google calendars. It has a reminder system. It supports LTI integration.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Information Security Office",
+                    "email":"mailto:infosec@princeton.edu"
+                }
+            ],
+            "info":"https://wase.princeton.edu/docs/WASE.docx",
+            "privacy":"https://rrr.princeton.edu/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ff509f2816f08d89b3652f97a8c2d3145fcbb6b4",
+            "entityID":"https://wase.princeton.edu/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"WASE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.princeton.edu/index.shtml"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Information Security Office",
+                    "email":"mailto:infosec@princeton.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ff509f2816f08d89b3652f97a8c2d3145fcbb6b4",
+            "entityID":"https://wase.princeton.edu/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"WASE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.princeton.edu/index.shtml"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Information Security Office",
+                    "email":"mailto:infosec@princeton.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ff509f2816f08d89b3652f97a8c2d3145fcbb6b4",
+            "entityID":"https://wase.princeton.edu/simplesaml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"WASE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.princeton.edu/index.shtml"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Serge Goldstein",
+                    "email":"mailto:serge@princeton.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Information Security Office",
+                    "email":"mailto:infosec@princeton.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

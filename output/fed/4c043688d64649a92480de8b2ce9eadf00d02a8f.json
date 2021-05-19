@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"4c043688d64649a92480de8b2ce9eadf00d02a8f",
+            "entityID":"https://us.ready.kuali.co/shibboleth-sp",
+            "resourceName":"Kuali Ready",
+            "resourceProvider":{
+                "name":"Kuali, Inc.",
+                "displayname":"Kuali, Inc.",
+                "url":"https://www.kuali.co/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Kuali Ready: Continuity Planning Tool",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kuali Ready Technical Support",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"security",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"support",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                }
+            ],
+            "info":"https://www.kuali.co",
+            "privacy":"https://www.kuali.co/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"4c043688d64649a92480de8b2ce9eadf00d02a8f",
+            "entityID":"https://us.ready.kuali.co/shibboleth-sp",
+            "resourceName":"Kuali Ready",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kuali.co/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kuali Ready Technical Support",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"security",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"support",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"4c043688d64649a92480de8b2ce9eadf00d02a8f",
+            "entityID":"https://us.ready.kuali.co/shibboleth-sp",
+            "resourceName":"Kuali Ready",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kuali.co/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kuali Ready Technical Support",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"security",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"support",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"4c043688d64649a92480de8b2ce9eadf00d02a8f",
+            "entityID":"https://us.ready.kuali.co/shibboleth-sp",
+            "resourceName":"Kuali Ready",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kuali.co/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kuali Ready Technical Support",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"security",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                },
+                {
+                    "type":"support",
+                    "name":"Ready Help",
+                    "email":"mailto:ready-help@kuali.co"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

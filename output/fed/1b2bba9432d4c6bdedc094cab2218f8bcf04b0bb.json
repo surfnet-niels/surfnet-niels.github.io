@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"1b2bba9432d4c6bdedc094cab2218f8bcf04b0bb",
+            "entityID":"https://uni-kl-de.zoom.us",
+            "resourceName":"Zoom - TU Kaiserslautern",
+            "resourceProvider":{
+                "name":"Zoom Video Communications, Inc.",
+                "displayname":"Zoom Video Communications, Inc.",
+                "url":"http://www.zoom.us"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                },
+                {
+                    "type":"technical",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                },
+                {
+                    "type":"security",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                }
+            ],
+            "info":"https://zoom.us",
+            "privacy":"https://zoom.us/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1b2bba9432d4c6bdedc094cab2218f8bcf04b0bb",
+            "entityID":"https://uni-kl-de.zoom.us",
+            "resourceName":"Zoom - TU Kaiserslautern",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.zoom.us"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                },
+                {
+                    "type":"technical",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                },
+                {
+                    "type":"security",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1b2bba9432d4c6bdedc094cab2218f8bcf04b0bb",
+            "entityID":"https://uni-kl-de.zoom.us",
+            "resourceName":"Zoom - TU Kaiserslautern",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.zoom.us"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                },
+                {
+                    "type":"technical",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                },
+                {
+                    "type":"security",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1b2bba9432d4c6bdedc094cab2218f8bcf04b0bb",
+            "entityID":"https://uni-kl-de.zoom.us",
+            "resourceName":"Zoom - TU Kaiserslautern",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.zoom.us"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                },
+                {
+                    "type":"technical",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                },
+                {
+                    "type":"security",
+                    "name":"Zoom Technical Support",
+                    "email":"mailto:support@zoom.us"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

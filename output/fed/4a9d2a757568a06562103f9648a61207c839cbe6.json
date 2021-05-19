@@ -1,0 +1,151 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"4a9d2a757568a06562103f9648a61207c839cbe6",
+            "entityID":"https://www.archer.ac.uk/shibboleth",
+            "resourceName":"ARCHER SAFE",
+            "resourceProvider":{
+                "name":"University of Edinburgh",
+                "displayname":"ARCHER SAFE",
+                "url":"http://www.archer.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"SAFE service administration for ARCHER",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Archer Helpdesk",
+                    "email":"mailto:helpdesk@archer.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"StephenBooth",
+                    "email":"mailto:s.booth@ed.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"4a9d2a757568a06562103f9648a61207c839cbe6",
+            "entityID":"https://www.archer.ac.uk/shibboleth",
+            "resourceName":"ARCHER SAFE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.archer.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Archer Helpdesk",
+                    "email":"mailto:helpdesk@archer.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"StephenBooth",
+                    "email":"mailto:s.booth@ed.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"4a9d2a757568a06562103f9648a61207c839cbe6",
+            "entityID":"https://www.archer.ac.uk/shibboleth",
+            "resourceName":"ARCHER SAFE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.archer.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Archer Helpdesk",
+                    "email":"mailto:helpdesk@archer.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"StephenBooth",
+                    "email":"mailto:s.booth@ed.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"4a9d2a757568a06562103f9648a61207c839cbe6",
+            "entityID":"https://www.archer.ac.uk/shibboleth",
+            "resourceName":"ARCHER SAFE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.archer.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Archer Helpdesk",
+                    "email":"mailto:helpdesk@archer.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"StephenBooth",
+                    "email":"mailto:s.booth@ed.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

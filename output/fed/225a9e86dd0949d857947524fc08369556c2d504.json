@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"225a9e86dd0949d857947524fc08369556c2d504",
+            "entityID":"https://ittstidmwb02.home.ku.edu/shibboleth",
+            "resourceName":"University of Kansas-InCommon Test",
+            "resourceProvider":{
+                "name":"University of Kansas",
+                "displayname":"University of Kansas",
+                "url":"http://www.ku.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"http://policy.ku.edu/IT/info-access-control-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"225a9e86dd0949d857947524fc08369556c2d504",
+            "entityID":"https://ittstidmwb02.home.ku.edu/shibboleth",
+            "resourceName":"University of Kansas-InCommon Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ku.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"225a9e86dd0949d857947524fc08369556c2d504",
+            "entityID":"https://ittstidmwb02.home.ku.edu/shibboleth",
+            "resourceName":"University of Kansas-InCommon Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ku.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"225a9e86dd0949d857947524fc08369556c2d504",
+            "entityID":"https://ittstidmwb02.home.ku.edu/shibboleth",
+            "resourceName":"University of Kansas-InCommon Test",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ku.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"SSO Administration",
+                    "email":"mailto:idm.sso@ku.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

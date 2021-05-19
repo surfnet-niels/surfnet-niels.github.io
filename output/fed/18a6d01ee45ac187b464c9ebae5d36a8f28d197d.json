@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"18a6d01ee45ac187b464c9ebae5d36a8f28d197d",
+            "entityID":"urn:mace:feide.no:services:no.inspera.assessment",
+            "resourceName":"Inspera Assessment",
+            "resourceProvider":{
+                "name":"Inspera AS",
+                "displayname":"Inspera",
+                "url":"https://www.inspera.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"Inspera Assessment is a leading European SaaS provider for high stakes assessments.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Inspera Assessment Technical Support Team",
+                    "email":"mailto:support@inspera.no"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Inspera Assessment Administration",
+                    "email":"mailto:firmapost@inspera.no"
+                },
+                {
+                    "type":"support",
+                    "name":"Inspera Assessment Service Desk",
+                    "email":"mailto:support@inspera.no"
+                }
+            ],
+            "info":"https://www.inspera.com",
+            "privacy":"https://www.inspera.com/legal/privacy-notice",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"18a6d01ee45ac187b464c9ebae5d36a8f28d197d",
+            "entityID":"urn:mace:feide.no:services:no.inspera.assessment",
+            "resourceName":"Inspera Assessment Login\n        service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.inspera.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Inspera Assessment Technical Support Team",
+                    "email":"mailto:support@inspera.no"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Inspera Assessment Administration",
+                    "email":"mailto:firmapost@inspera.no"
+                },
+                {
+                    "type":"support",
+                    "name":"Inspera Assessment Service Desk",
+                    "email":"mailto:support@inspera.no"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"18a6d01ee45ac187b464c9ebae5d36a8f28d197d",
+            "entityID":"urn:mace:feide.no:services:no.inspera.assessment",
+            "resourceName":"Inspera Assessment Login\n        service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.inspera.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Inspera Assessment Technical Support Team",
+                    "email":"mailto:support@inspera.no"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Inspera Assessment Administration",
+                    "email":"mailto:firmapost@inspera.no"
+                },
+                {
+                    "type":"support",
+                    "name":"Inspera Assessment Service Desk",
+                    "email":"mailto:support@inspera.no"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"18a6d01ee45ac187b464c9ebae5d36a8f28d197d",
+            "entityID":"urn:mace:feide.no:services:no.inspera.assessment",
+            "resourceName":"Inspera Assessment Login\n        service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.inspera.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Inspera Assessment Technical Support Team",
+                    "email":"mailto:support@inspera.no"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Inspera Assessment Administration",
+                    "email":"mailto:firmapost@inspera.no"
+                },
+                {
+                    "type":"support",
+                    "name":"Inspera Assessment Service Desk",
+                    "email":"mailto:support@inspera.no"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

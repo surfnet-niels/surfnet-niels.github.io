@@ -1,0 +1,211 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"7c5f13d95b0f8397a8190287d1dafcfd81f460e0",
+            "entityID":"https://involvio.com/saml",
+            "resourceName":"Involvio",
+            "resourceProvider":{
+                "name":"Involvio",
+                "displayname":"Involvio",
+                "url":"https://involvio.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"Involvio is a student engagement platform",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                }
+            ],
+            "info":"https://involvio.com",
+            "privacy":"https://www.involvio.com/privacy/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7c5f13d95b0f8397a8190287d1dafcfd81f460e0",
+            "entityID":"https://involvio.com/saml",
+            "resourceName":"Involvio",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://involvio.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7c5f13d95b0f8397a8190287d1dafcfd81f460e0",
+            "entityID":"https://involvio.com/saml",
+            "resourceName":"Involvio",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://involvio.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7c5f13d95b0f8397a8190287d1dafcfd81f460e0",
+            "entityID":"https://involvio.com/saml",
+            "resourceName":"Involvio",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://involvio.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ari Winkleman",
+                    "email":"mailto:ari@involvio.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

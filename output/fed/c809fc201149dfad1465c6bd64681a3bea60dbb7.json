@@ -1,0 +1,187 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"c809fc201149dfad1465c6bd64681a3bea60dbb7",
+            "entityID":"https://vifi-ui-aws.uncc.edu/shibboleth",
+            "resourceName":"VIFI",
+            "resourceProvider":{
+                "name":"University of North Carolina At Charlotte",
+                "displayname":"University of North Carolina At Charlotte",
+                "url":"http://www.uncc.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"Virtual Information Fabric Infrastructure For Data-Driven Decisions From Distributed Data",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Todd Dobbs",
+                    "email":"mailto:btdobbs@uncc.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Dr. William Tolone",
+                    "email":"mailto:wjtolone@uncc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Services",
+                    "email":"mailto:security-group@uncc.edu"
+                }
+            ],
+            "info":"https://vifi.uncc.edu",
+            "privacy":"https://legal.uncc.edu/policies/terms-use/privacy-statement",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c809fc201149dfad1465c6bd64681a3bea60dbb7",
+            "entityID":"https://vifi-ui-aws.uncc.edu/shibboleth",
+            "resourceName":"VIFI",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uncc.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Todd Dobbs",
+                    "email":"mailto:btdobbs@uncc.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Dr. William Tolone",
+                    "email":"mailto:wjtolone@uncc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Services",
+                    "email":"mailto:security-group@uncc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c809fc201149dfad1465c6bd64681a3bea60dbb7",
+            "entityID":"https://vifi-ui-aws.uncc.edu/shibboleth",
+            "resourceName":"VIFI",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uncc.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Todd Dobbs",
+                    "email":"mailto:btdobbs@uncc.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Dr. William Tolone",
+                    "email":"mailto:wjtolone@uncc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Services",
+                    "email":"mailto:security-group@uncc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c809fc201149dfad1465c6bd64681a3bea60dbb7",
+            "entityID":"https://vifi-ui-aws.uncc.edu/shibboleth",
+            "resourceName":"VIFI",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uncc.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Todd Dobbs",
+                    "email":"mailto:btdobbs@uncc.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Dr. William Tolone",
+                    "email":"mailto:wjtolone@uncc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Services",
+                    "email":"mailto:security-group@uncc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"730ed83f44cc160b8393d4042d1368a61e8208ac",
+            "entityID":"https://www.creativelive.com/api/sso/metadata.xml",
+            "resourceName":"CreativeLive Service Provider",
+            "resourceProvider":{
+                "name":"CreativeLive, Inc",
+                "displayname":"CreativeLive Service Provider",
+                "url":"https://www.creativelive.com/about/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"A service supporting Oxford SAML Single Sign-On",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ENG Team",
+                    "email":"mailto:eng@creativelive.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"ENG Team",
+                    "email":"mailto:eng@creativelive.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"730ed83f44cc160b8393d4042d1368a61e8208ac",
+            "entityID":"https://www.creativelive.com/api/sso/metadata.xml",
+            "resourceName":"CreativeLive Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.creativelive.com/about/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ENG Team",
+                    "email":"mailto:eng@creativelive.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"ENG Team",
+                    "email":"mailto:eng@creativelive.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"730ed83f44cc160b8393d4042d1368a61e8208ac",
+            "entityID":"https://www.creativelive.com/api/sso/metadata.xml",
+            "resourceName":"CreativeLive Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.creativelive.com/about/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ENG Team",
+                    "email":"mailto:eng@creativelive.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"ENG Team",
+                    "email":"mailto:eng@creativelive.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"730ed83f44cc160b8393d4042d1368a61e8208ac",
+            "entityID":"https://www.creativelive.com/api/sso/metadata.xml",
+            "resourceName":"CreativeLive Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.creativelive.com/about/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"ENG Team",
+                    "email":"mailto:eng@creativelive.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"ENG Team",
+                    "email":"mailto:eng@creativelive.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

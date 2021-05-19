@@ -1,0 +1,147 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"eb6067efdbf87a8b7eda832087ba43f6bb849f5d",
+            "entityID":"https://elements.learningnexus.co.uk/saml2/sp",
+            "resourceName":"Newcastle University Elements VLE",
+            "resourceProvider":{
+                "name":"Learning Nexus Ltd",
+                "displayname":"Newcastle University Elements VLE",
+                "url":"http://www.learningnexus.co.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"Newcastle University Elements Virtual Learning Environment.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Learning Nexus Support",
+                    "email":"mailto:support@learningnexus.co.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"TimHarding",
+                    "email":"mailto:tim.harding@learningnexus.co.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"eb6067efdbf87a8b7eda832087ba43f6bb849f5d",
+            "entityID":"https://elements.learningnexus.co.uk/saml2/sp",
+            "resourceName":"Newcastle University Elements VLE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.learningnexus.co.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Learning Nexus Support",
+                    "email":"mailto:support@learningnexus.co.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"TimHarding",
+                    "email":"mailto:tim.harding@learningnexus.co.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"eb6067efdbf87a8b7eda832087ba43f6bb849f5d",
+            "entityID":"https://elements.learningnexus.co.uk/saml2/sp",
+            "resourceName":"Newcastle University Elements VLE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.learningnexus.co.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Learning Nexus Support",
+                    "email":"mailto:support@learningnexus.co.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"TimHarding",
+                    "email":"mailto:tim.harding@learningnexus.co.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"eb6067efdbf87a8b7eda832087ba43f6bb849f5d",
+            "entityID":"https://elements.learningnexus.co.uk/saml2/sp",
+            "resourceName":"Newcastle University Elements VLE",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.learningnexus.co.uk/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Learning Nexus Support",
+                    "email":"mailto:support@learningnexus.co.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"TimHarding",
+                    "email":"mailto:tim.harding@learningnexus.co.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

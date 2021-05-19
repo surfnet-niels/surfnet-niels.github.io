@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"6f941c9f32b48a002a5a240496c4fd0781e6dbf4",
+            "entityID":"https://test-auth.galegroup.com/shibboleth",
+            "resourceName":"Test Gale (Cengage Learning) Shibboleth",
+            "resourceProvider":{
+                "name":"Cengage Learning",
+                "displayname":"Cengage Learning",
+                "url":"http://www.cengage.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Test shibboleth configuration for Gale",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Eugene Kiel",
+                    "email":"mailto:Eugene.Kiel@cengage.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Marx",
+                    "email":"mailto:John.Marx@cengage.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Marx",
+                    "email":"mailto:John.Marx@cengage.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Prabu Krishnakumar",
+                    "email":"mailto:prabu.krishnakumar@cengage.com"
+                }
+            ],
+            "info":"",
+            "privacy":"http://www.cengage.com/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"6f941c9f32b48a002a5a240496c4fd0781e6dbf4",
+            "entityID":"https://test-auth.galegroup.com/shibboleth",
+            "resourceName":"https://test-auth.galegroup.com/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cengage.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Eugene Kiel",
+                    "email":"mailto:Eugene.Kiel@cengage.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Marx",
+                    "email":"mailto:John.Marx@cengage.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Marx",
+                    "email":"mailto:John.Marx@cengage.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Prabu Krishnakumar",
+                    "email":"mailto:prabu.krishnakumar@cengage.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"6f941c9f32b48a002a5a240496c4fd0781e6dbf4",
+            "entityID":"https://test-auth.galegroup.com/shibboleth",
+            "resourceName":"https://test-auth.galegroup.com/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cengage.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Eugene Kiel",
+                    "email":"mailto:Eugene.Kiel@cengage.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Marx",
+                    "email":"mailto:John.Marx@cengage.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Marx",
+                    "email":"mailto:John.Marx@cengage.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Prabu Krishnakumar",
+                    "email":"mailto:prabu.krishnakumar@cengage.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"6f941c9f32b48a002a5a240496c4fd0781e6dbf4",
+            "entityID":"https://test-auth.galegroup.com/shibboleth",
+            "resourceName":"https://test-auth.galegroup.com/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cengage.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Eugene Kiel",
+                    "email":"mailto:Eugene.Kiel@cengage.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Marx",
+                    "email":"mailto:John.Marx@cengage.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Marx",
+                    "email":"mailto:John.Marx@cengage.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Prabu Krishnakumar",
+                    "email":"mailto:prabu.krishnakumar@cengage.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,143 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"7fe963c89c8bb6b88d040b7c1bcb6e045b947c02",
+            "entityID":"https://vim.virgo-gw.eu/shibboleth",
+            "resourceName":"Virgo Interferometer Monitor",
+            "resourceProvider":{
+                "name":"European Gravitational Observatory",
+                "displayname":"Virgo Interferometer Monitor provided by EGO - European Gravitational Observatory",
+                "url":"http://www.ego-gw.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "email",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"The VIM (Virgo Interferometer Monitor) visualizes the current and historic graphs showing the status of the Advanced Virgo interferometer instrument and the on-line analysis applications dedicated to the detection of gravitational waves (https://www.virgo-gw.eu)",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:computing-staff@ego-gw.it"
+                }
+            ],
+            "info":"https://wiki.virgo-gw.eu/Main/AAI/VIMspInfoEn",
+            "privacy":"https://wiki.virgo-gw.eu/Main/AAI/vimPrivacyPolicy",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7fe963c89c8bb6b88d040b7c1bcb6e045b947c02",
+            "entityID":"https://vim.virgo-gw.eu/shibboleth",
+            "resourceName":"Virgo Interferometer Monitor",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ego-gw.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "email",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:computing-staff@ego-gw.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7fe963c89c8bb6b88d040b7c1bcb6e045b947c02",
+            "entityID":"https://vim.virgo-gw.eu/shibboleth",
+            "resourceName":"Virgo Interferometer Monitor",
+            "resourceProvider":{
+                "name":"European Gravitational Observatory",
+                "displayname":"Virgo Interferometer Monitor erogato da EGO - European Gravitational Observatory",
+                "url":"http://www.ego-gw.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "email",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"L'applicazione VIM (Virgo Interferometer Monitor) visualizza i grafici storici e attuali con lo stato dell'Advanced Virgo Detector e dei processi di on-line data analysis dedicati alla rilevazione delle onde gravitazionali (https://www.virgo-gw.eu)",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:computing-staff@ego-gw.it"
+                }
+            ],
+            "info":"https://wiki.virgo-gw.eu/Main/AAI/VIMspInfoIt",
+            "privacy":"https://wiki.virgo-gw.eu/Main/AAI/vimPrivacyPolicy",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7fe963c89c8bb6b88d040b7c1bcb6e045b947c02",
+            "entityID":"https://vim.virgo-gw.eu/shibboleth",
+            "resourceName":"Virgo Interferometer Monitor",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ego-gw.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "email",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:computing-staff@ego-gw.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

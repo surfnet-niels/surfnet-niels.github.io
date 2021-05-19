@@ -1,0 +1,191 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"0f19eb0c344beb562309be7f86dcf25ab915fed2",
+            "entityID":"https://louiego.nau.edu/_saml/module.php/saml/sp/metadata.php/saml",
+            "resourceName":"NAU Modo Mobile Campus Prod",
+            "resourceProvider":{
+                "name":"Modo Labs Inc.",
+                "displayname":"Modo Labs Inc.",
+                "url":"http://www.modolabs.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Modo Security",
+                    "email":"mailto:security@modolabs.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.modolabs.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"0f19eb0c344beb562309be7f86dcf25ab915fed2",
+            "entityID":"https://louiego.nau.edu/_saml/module.php/saml/sp/metadata.php/saml",
+            "resourceName":"NAU Modo Mobile Campus Prod",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.modolabs.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Modo Security",
+                    "email":"mailto:security@modolabs.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"0f19eb0c344beb562309be7f86dcf25ab915fed2",
+            "entityID":"https://louiego.nau.edu/_saml/module.php/saml/sp/metadata.php/saml",
+            "resourceName":"NAU Modo Mobile Campus Prod",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.modolabs.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Modo Security",
+                    "email":"mailto:security@modolabs.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"0f19eb0c344beb562309be7f86dcf25ab915fed2",
+            "entityID":"https://louiego.nau.edu/_saml/module.php/saml/sp/metadata.php/saml",
+            "resourceName":"NAU Modo Mobile Campus Prod",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.modolabs.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Modo Support",
+                    "email":"mailto:support@modolabs.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Modo Security",
+                    "email":"mailto:security@modolabs.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

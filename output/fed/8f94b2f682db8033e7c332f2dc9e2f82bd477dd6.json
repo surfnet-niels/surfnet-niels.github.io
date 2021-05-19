@@ -1,0 +1,183 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"8f94b2f682db8033e7c332f2dc9e2f82bd477dd6",
+            "entityID":"https://sztaki.cloud.mta.hu/shibboleth",
+            "resourceName":"MTA Cloud@Sztaki",
+            "resourceProvider":{
+                "name":"SZTAKI - Computer and Automation Research Institute",
+                "displayname":"SZTAKI - Computer and Automation Research Institute",
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "email",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"A node of the Cloud of Hungarian Academy of Sciences located at MTA SZTAKI",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                }
+            ],
+            "info":"https://cloud.mta.hu",
+            "privacy":"https://sztaki.cloud.mta.hu/docs/policy.pdf",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"8f94b2f682db8033e7c332f2dc9e2f82bd477dd6",
+            "entityID":"https://sztaki.cloud.mta.hu/shibboleth",
+            "resourceName":"MTA Cloud@Sztaki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "email",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"8f94b2f682db8033e7c332f2dc9e2f82bd477dd6",
+            "entityID":"https://sztaki.cloud.mta.hu/shibboleth",
+            "resourceName":"MTA Cloud@Sztaki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "email",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"8f94b2f682db8033e7c332f2dc9e2f82bd477dd6",
+            "entityID":"https://sztaki.cloud.mta.hu/shibboleth",
+            "resourceName":"MTA Cloud@Sztaki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "email",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Mihály HéderMihály Héder",
+                    "email":"mailto:mihaly.heder@sztaki.mta.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

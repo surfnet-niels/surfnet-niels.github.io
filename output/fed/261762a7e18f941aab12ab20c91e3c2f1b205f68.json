@@ -1,0 +1,219 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"261762a7e18f941aab12ab20c91e3c2f1b205f68",
+            "entityID":"https://demo.dataverse.org/sp",
+            "resourceName":"Harvard Dataverse Demo",
+            "resourceProvider":{
+                "name":"Harvard College",
+                "displayname":"Harvard University",
+                "url":"http://www.harvard.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Open for all researchers worldwide from all disciplines to deposit data",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                }
+            ],
+            "info":"https://dataverse.harvard.edu",
+            "privacy":"http://best-practices.dataverse.org/harvard-policies/harvard-privacy-policy.html",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"261762a7e18f941aab12ab20c91e3c2f1b205f68",
+            "entityID":"https://demo.dataverse.org/sp",
+            "resourceName":"Harvard Dataverse Demo",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.harvard.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"261762a7e18f941aab12ab20c91e3c2f1b205f68",
+            "entityID":"https://demo.dataverse.org/sp",
+            "resourceName":"Harvard Dataverse Demo",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.harvard.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"261762a7e18f941aab12ab20c91e3c2f1b205f68",
+            "entityID":"https://demo.dataverse.org/sp",
+            "resourceName":"Harvard Dataverse Demo",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.harvard.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Dataverse Support Team",
+                    "email":"mailto:support@dataverse.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f150f2e0d8be99e12b5be199fbd7c527c916c106",
+            "entityID":"https://libauth.com/saml/module.php/saml/sp/metadata.php/springy-sp",
+            "resourceName":"Springshare LibApps",
+            "resourceProvider":{
+                "name":"Springshare LLC",
+                "displayname":"Springshare LibApps",
+                "url":"http://springshare.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Springshare's LibApps helps libraries share knowledge, analyze services, and connect with users.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@springshare.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Team",
+                    "email":"mailto:tech@springshare.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f150f2e0d8be99e12b5be199fbd7c527c916c106",
+            "entityID":"https://libauth.com/saml/module.php/saml/sp/metadata.php/springy-sp",
+            "resourceName":"Springshare LibApps",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://springshare.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@springshare.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Team",
+                    "email":"mailto:tech@springshare.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f150f2e0d8be99e12b5be199fbd7c527c916c106",
+            "entityID":"https://libauth.com/saml/module.php/saml/sp/metadata.php/springy-sp",
+            "resourceName":"Springshare LibApps",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://springshare.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@springshare.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Team",
+                    "email":"mailto:tech@springshare.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f150f2e0d8be99e12b5be199fbd7c527c916c106",
+            "entityID":"https://libauth.com/saml/module.php/saml/sp/metadata.php/springy-sp",
+            "resourceName":"Springshare LibApps",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://springshare.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@springshare.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Technical Team",
+                    "email":"mailto:tech@springshare.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

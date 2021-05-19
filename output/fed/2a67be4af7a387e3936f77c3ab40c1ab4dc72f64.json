@@ -1,0 +1,207 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"2a67be4af7a387e3936f77c3ab40c1ab4dc72f64",
+            "entityID":"https://sjha.qa.lbl.gov/shibboleth",
+            "resourceName":"SJHA QA Site",
+            "resourceProvider":{
+                "name":"Lawrence Berkeley National Laboratory",
+                "displayname":"Lawrence Berkeley National Laboratory",
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"SJHA with Cirrus Integration QA Site",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL IT Systems and Middleware Support",
+                    "email":"mailto:sams@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IT Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.lbl.gov/disclaimers/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2a67be4af7a387e3936f77c3ab40c1ab4dc72f64",
+            "entityID":"https://sjha.qa.lbl.gov/shibboleth",
+            "resourceName":"SJHA QA Site",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL IT Systems and Middleware Support",
+                    "email":"mailto:sams@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IT Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2a67be4af7a387e3936f77c3ab40c1ab4dc72f64",
+            "entityID":"https://sjha.qa.lbl.gov/shibboleth",
+            "resourceName":"SJHA QA Site",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL IT Systems and Middleware Support",
+                    "email":"mailto:sams@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IT Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2a67be4af7a387e3936f77c3ab40c1ab4dc72f64",
+            "entityID":"https://sjha.qa.lbl.gov/shibboleth",
+            "resourceName":"SJHA QA Site",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"LBL IT Systems and Middleware Support",
+                    "email":"mailto:sams@lbl.gov"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Help Desk",
+                    "email":"mailto:help@lbl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"IT Identity Management Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

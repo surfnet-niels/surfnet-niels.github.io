@@ -1,0 +1,163 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"a1d8d4ba3b9a8d5c1225b48d403e6aabe205467a",
+            "entityID":"https://hamilton.qualtrics.com/WRSAML/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"Qualtrics",
+            "resourceProvider":{
+                "name":"Qualtrics Labs, Inc.",
+                "displayname":"Qualtrics Labs, Inc.",
+                "url":"http://www.qualtrics.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"For assistance signing into or using Qualtrics, please contact the Hamilton College Help Desk at 315-859-4181 or the Educational Technology Services team at 315-859-4735.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Michael Page",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Qualtrics Support",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Qualtrics Support",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.qualtrics.com/privacy-statement/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a1d8d4ba3b9a8d5c1225b48d403e6aabe205467a",
+            "entityID":"https://hamilton.qualtrics.com/WRSAML/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://hamilton.qualtrics.com/WRSAML/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.qualtrics.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Michael Page",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Qualtrics Support",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Qualtrics Support",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a1d8d4ba3b9a8d5c1225b48d403e6aabe205467a",
+            "entityID":"https://hamilton.qualtrics.com/WRSAML/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://hamilton.qualtrics.com/WRSAML/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.qualtrics.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Michael Page",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Qualtrics Support",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Qualtrics Support",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a1d8d4ba3b9a8d5c1225b48d403e6aabe205467a",
+            "entityID":"https://hamilton.qualtrics.com/WRSAML/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://hamilton.qualtrics.com/WRSAML/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.qualtrics.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Michael Page",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Qualtrics Support",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Qualtrics Support",
+                    "email":"mailto:shibboleth@qualtrics.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

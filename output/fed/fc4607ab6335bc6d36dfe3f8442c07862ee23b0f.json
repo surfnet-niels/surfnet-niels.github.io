@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"fc4607ab6335bc6d36dfe3f8442c07862ee23b0f",
+            "entityID":"https://alshub2.qa.als.lbl.gov/shibboleth",
+            "resourceName":"ALSHub QA Site",
+            "resourceProvider":{
+                "name":"Lawrence Berkeley National Laboratory",
+                "displayname":"Lawrence Berkeley National Laboratory",
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"LBL IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.lbl.gov/disclaimers/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"fc4607ab6335bc6d36dfe3f8442c07862ee23b0f",
+            "entityID":"https://alshub2.qa.als.lbl.gov/shibboleth",
+            "resourceName":"https://alshub2.qa.als.lbl.gov/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"LBL IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"fc4607ab6335bc6d36dfe3f8442c07862ee23b0f",
+            "entityID":"https://alshub2.qa.als.lbl.gov/shibboleth",
+            "resourceName":"https://alshub2.qa.als.lbl.gov/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"LBL IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"fc4607ab6335bc6d36dfe3f8442c07862ee23b0f",
+            "entityID":"https://alshub2.qa.als.lbl.gov/shibboleth",
+            "resourceName":"https://alshub2.qa.als.lbl.gov/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.lbl.gov/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LBL IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"technical",
+                    "name":"LBL IdM Team",
+                    "email":"mailto:idm@lbl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"LBL Cybersecurity",
+                    "email":"mailto:security@lbl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

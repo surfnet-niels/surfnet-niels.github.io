@@ -1,0 +1,203 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"7aaede58f437d5f5af93a2376e58df408d8237d4",
+            "entityID":"https://intembeko.orcid.ac.za/saml",
+            "resourceName":"Intembeko ORCID Hub",
+            "resourceProvider":{
+                "name":"Tertiary Education and Research Network of South Africa NPC",
+                "displayname":"TENET",
+                "url":"http://www.tenet.ac.za/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn",
+                    "displayName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonOrcid",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"The ORCID Hub helps universities and research institutions link affiliations and works to their researcher's ORCID records",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"inTembekO ORCID Hub",
+                    "email":"mailto:orcid@tenet.ac.za"
+                },
+                {
+                    "type":"support",
+                    "name":"TENET Service Support Centre",
+                    "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"security",
+                    "name":"TENET SAFIRE Incident Response Team",
+                    "email":"mailto:safire-ops@lists.tenet.ac.za"
+                }
+            ],
+            "info":"https://intembeko.orcid.ac.za/",
+            "privacy":"https://intembeko.orcid.ac.za/privacy",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7aaede58f437d5f5af93a2376e58df408d8237d4",
+            "entityID":"https://intembeko.orcid.ac.za/saml",
+            "resourceName":"Intembeko ORCID Hub",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.tenet.ac.za/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn",
+                    "displayName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonOrcid",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"inTembekO ORCID Hub",
+                    "email":"mailto:orcid@tenet.ac.za"
+                },
+                {
+                    "type":"support",
+                    "name":"TENET Service Support Centre",
+                    "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"security",
+                    "name":"TENET SAFIRE Incident Response Team",
+                    "email":"mailto:safire-ops@lists.tenet.ac.za"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7aaede58f437d5f5af93a2376e58df408d8237d4",
+            "entityID":"https://intembeko.orcid.ac.za/saml",
+            "resourceName":"Intembeko ORCID Hub",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.tenet.ac.za/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn",
+                    "displayName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonOrcid",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"inTembekO ORCID Hub",
+                    "email":"mailto:orcid@tenet.ac.za"
+                },
+                {
+                    "type":"support",
+                    "name":"TENET Service Support Centre",
+                    "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"security",
+                    "name":"TENET SAFIRE Incident Response Team",
+                    "email":"mailto:safire-ops@lists.tenet.ac.za"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7aaede58f437d5f5af93a2376e58df408d8237d4",
+            "entityID":"https://intembeko.orcid.ac.za/saml",
+            "resourceName":"Intembeko ORCID Hub",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.tenet.ac.za/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn",
+                    "displayName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonOrcid",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"inTembekO ORCID Hub",
+                    "email":"mailto:orcid@tenet.ac.za"
+                },
+                {
+                    "type":"support",
+                    "name":"TENET Service Support Centre",
+                    "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"security",
+                    "name":"TENET SAFIRE Incident Response Team",
+                    "email":"mailto:safire-ops@lists.tenet.ac.za"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

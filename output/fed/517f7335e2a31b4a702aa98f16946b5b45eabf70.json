@@ -1,0 +1,147 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"517f7335e2a31b4a702aa98f16946b5b45eabf70",
+            "entityID":"https://buponline.com/shibboleth",
+            "resourceName":"Bononia University Press",
+            "resourceProvider":{
+                "name":"Bononia University Press",
+                "displayname":"Bononia University Press",
+                "url":"https://buponline.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "surname",
+                    "givenName",
+                    "schacPersonalUniqueID",
+                    "email",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Bononia University Press is the publisher of Alma Mater Studiorum - University of Bologna. An innovative, digital publishing house, which perfectly combines its university vocation with a universal ambition and the aim of disseminating, promoting and stimulating knowledge. Bononia University Press values the contribution of academic research and students to the open-access, free and international dissemination of culture and knowledge.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:support@buponline.com"
+                }
+            ],
+            "info":"https://buponline.com/",
+            "privacy":"https://www.iubenda.com/privacy-policy/99038845",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"517f7335e2a31b4a702aa98f16946b5b45eabf70",
+            "entityID":"https://buponline.com/shibboleth",
+            "resourceName":"Bononia University Press",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://buponline.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "surname",
+                    "givenName",
+                    "schacPersonalUniqueID",
+                    "email",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:support@buponline.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"517f7335e2a31b4a702aa98f16946b5b45eabf70",
+            "entityID":"https://buponline.com/shibboleth",
+            "resourceName":"Bononia University Press",
+            "resourceProvider":{
+                "name":"Bononia University Press",
+                "displayname":"Bononia University Press",
+                "url":"https://buponline.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "surname",
+                    "givenName",
+                    "schacPersonalUniqueID",
+                    "email",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Bononia University Press è la casa editrice dell’Università di Bologna. Una casa editrice innovativa, coraggiosa e digitale, che coniuga perfettamente la vocazione universitaria con una ambizione universale e l'obiettivo di diffondere, promuovere e incentivare la conoscenza. Bononia University Press valorizza il patrimonio della ricerca accademica e degli studenti delle Università italiane per una circolazione della cultura e della conoscenza aperta, libera e internazionale.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:support@buponline.com"
+                }
+            ],
+            "info":"https://buponline.com/",
+            "privacy":"https://www.iubenda.com/privacy-policy/70806125/legal",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"517f7335e2a31b4a702aa98f16946b5b45eabf70",
+            "entityID":"https://buponline.com/shibboleth",
+            "resourceName":"Bononia University Press",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://buponline.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "surname",
+                    "givenName",
+                    "schacPersonalUniqueID",
+                    "email",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":[],
+                    "email":"mailto:support@buponline.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

@@ -1,0 +1,147 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"f12def4c2c23054ba0189e28df04d10d85e75b49",
+            "entityID":"https://auth.verifid.ac.uk/federation-manager/shibboleth",
+            "resourceName":"Federation Manager",
+            "resourceProvider":{
+                "name":"Jisc Services Limited",
+                "displayname":"Jisc Services Limited",
+                "url":"http://www.jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"Tooling for managing VerifID",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Jisc Trust & Identity",
+                    "email":"mailto:trustandidentity@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Trust & Identity",
+                    "email":"mailto:trustandidentity@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f12def4c2c23054ba0189e28df04d10d85e75b49",
+            "entityID":"https://auth.verifid.ac.uk/federation-manager/shibboleth",
+            "resourceName":"Federation Manager",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Jisc Trust & Identity",
+                    "email":"mailto:trustandidentity@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Trust & Identity",
+                    "email":"mailto:trustandidentity@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f12def4c2c23054ba0189e28df04d10d85e75b49",
+            "entityID":"https://auth.verifid.ac.uk/federation-manager/shibboleth",
+            "resourceName":"Federation Manager",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Jisc Trust & Identity",
+                    "email":"mailto:trustandidentity@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Trust & Identity",
+                    "email":"mailto:trustandidentity@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f12def4c2c23054ba0189e28df04d10d85e75b49",
+            "entityID":"https://auth.verifid.ac.uk/federation-manager/shibboleth",
+            "resourceName":"Federation Manager",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jisc.ac.uk/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Jisc Trust & Identity",
+                    "email":"mailto:trustandidentity@jisc.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jisc Trust & Identity",
+                    "email":"mailto:trustandidentity@jisc.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

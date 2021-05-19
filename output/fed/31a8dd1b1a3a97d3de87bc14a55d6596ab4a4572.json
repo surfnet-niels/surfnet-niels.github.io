@@ -1,0 +1,195 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"31a8dd1b1a3a97d3de87bc14a55d6596ab4a4572",
+            "entityID":"https://sso.qa-12twenty.com/sp",
+            "resourceName":"12Twenty SP - QA",
+            "resourceProvider":{
+                "name":"12Twenty Inc.",
+                "displayname":"12Twenty Inc.",
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"12Twenty Service Provider for QA environment",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"https://www.12twenty.com",
+            "privacy":"https://www.12twenty.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"31a8dd1b1a3a97d3de87bc14a55d6596ab4a4572",
+            "entityID":"https://sso.qa-12twenty.com/sp",
+            "resourceName":"12Twenty SP - QA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"31a8dd1b1a3a97d3de87bc14a55d6596ab4a4572",
+            "entityID":"https://sso.qa-12twenty.com/sp",
+            "resourceName":"12Twenty SP - QA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"31a8dd1b1a3a97d3de87bc14a55d6596ab4a4572",
+            "entityID":"https://sso.qa-12twenty.com/sp",
+            "resourceName":"12Twenty SP - QA",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.12twenty.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Chu",
+                    "email":"mailto:kevin.chu@12twenty.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:support@12twenty.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

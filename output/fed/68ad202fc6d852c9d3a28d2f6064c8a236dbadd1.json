@@ -1,0 +1,267 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"68ad202fc6d852c9d3a28d2f6064c8a236dbadd1",
+            "entityID":"https://aai-demo.eosc-portal.eu/proxy/module.php/saml/sp/metadata.php/sso",
+            "resourceName":"EOSC Portal (Demo environment)",
+            "resourceProvider":{
+                "name":"EGI Foundation",
+                "displayname":"EGI",
+                "url":"https://www.egi.eu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "displayName",
+                    "mail",
+                    "eduPersonOrcid",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonAssurance",
+                    "voPersonExternalAffiliation",
+                    "voPersonVerifiedEmail"
+                ],
+                "requested":[]
+            },
+            "description":"EOSC Portal supports access to European Open Science Cloud services and resources",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"EOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasEOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"EOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"security",
+                    "name":"EOSC Portal Security and Incident Response Team",
+                    "email":"mailto:security@eosc-portal.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasEOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                }
+            ],
+            "info":"https://eosc-portal.eu/about/eosc",
+            "privacy":"https://aai.eosc-portal.eu/privacy/en",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"68ad202fc6d852c9d3a28d2f6064c8a236dbadd1",
+            "entityID":"https://aai-demo.eosc-portal.eu/proxy/module.php/saml/sp/metadata.php/sso",
+            "resourceName":"EOSC Portal (Demo environment)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.egi.eu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "displayName",
+                    "mail",
+                    "eduPersonOrcid",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonAssurance",
+                    "voPersonExternalAffiliation",
+                    "voPersonVerifiedEmail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"EOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasEOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"EOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"security",
+                    "name":"EOSC Portal Security and Incident Response Team",
+                    "email":"mailto:security@eosc-portal.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasEOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"68ad202fc6d852c9d3a28d2f6064c8a236dbadd1",
+            "entityID":"https://aai-demo.eosc-portal.eu/proxy/module.php/saml/sp/metadata.php/sso",
+            "resourceName":"EOSC Portal (Demo environment)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.egi.eu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "displayName",
+                    "mail",
+                    "eduPersonOrcid",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonAssurance",
+                    "voPersonExternalAffiliation",
+                    "voPersonVerifiedEmail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"EOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasEOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"EOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"security",
+                    "name":"EOSC Portal Security and Incident Response Team",
+                    "email":"mailto:security@eosc-portal.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasEOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"68ad202fc6d852c9d3a28d2f6064c8a236dbadd1",
+            "entityID":"https://aai-demo.eosc-portal.eu/proxy/module.php/saml/sp/metadata.php/sso",
+            "resourceName":"EOSC Portal (Demo environment)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.egi.eu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn",
+                    "displayName",
+                    "mail",
+                    "eduPersonOrcid",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonAssurance",
+                    "voPersonExternalAffiliation",
+                    "voPersonVerifiedEmail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"EOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasEOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"EOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                },
+                {
+                    "type":"security",
+                    "name":"EOSC Portal Security and Incident Response Team",
+                    "email":"mailto:security@eosc-portal.eu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NicolasEOSC Portal AAI Service",
+                    "email":"mailto:checkin-support@mailman.egi.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

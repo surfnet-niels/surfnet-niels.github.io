@@ -1,0 +1,151 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"9e8d922a5fc5e21b8080327ba67d560128457edd",
+            "entityID":"https://login.intelliconnect.inta.cch.com/",
+            "resourceName":"Wolters Kluwer Federation Hub - Integration Test",
+            "resourceProvider":{
+                "name":"Ovid Technologies, Inc",
+                "displayname":"Wolters Kluwer Federation Hub - Integration Test",
+                "url":"http://www.wolterskluwer.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"Test endpoint for Wolters Kluwers centralized login service for products including OvidSP",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"MarcelRademakers",
+                    "email":"mailto:marcel.rademakers@wolterskluwer.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Hansvan Dreumel",
+                    "email":"mailto:Hans.Van.Dreumel@wolterskluwer.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"9e8d922a5fc5e21b8080327ba67d560128457edd",
+            "entityID":"https://login.intelliconnect.inta.cch.com/",
+            "resourceName":"Wolters Kluwer Federation Hub - Integration Test#",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.wolterskluwer.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"MarcelRademakers",
+                    "email":"mailto:marcel.rademakers@wolterskluwer.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Hansvan Dreumel",
+                    "email":"mailto:Hans.Van.Dreumel@wolterskluwer.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"9e8d922a5fc5e21b8080327ba67d560128457edd",
+            "entityID":"https://login.intelliconnect.inta.cch.com/",
+            "resourceName":"Wolters Kluwer Federation Hub - Integration Test#",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.wolterskluwer.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"MarcelRademakers",
+                    "email":"mailto:marcel.rademakers@wolterskluwer.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Hansvan Dreumel",
+                    "email":"mailto:Hans.Van.Dreumel@wolterskluwer.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"9e8d922a5fc5e21b8080327ba67d560128457edd",
+            "entityID":"https://login.intelliconnect.inta.cch.com/",
+            "resourceName":"Wolters Kluwer Federation Hub - Integration Test#",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.wolterskluwer.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"MarcelRademakers",
+                    "email":"mailto:marcel.rademakers@wolterskluwer.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Hansvan Dreumel",
+                    "email":"mailto:Hans.Van.Dreumel@wolterskluwer.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

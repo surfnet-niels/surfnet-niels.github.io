@@ -1,0 +1,223 @@
+{
+    "generated":"2021-05-19 13:57",
+    "en":[
+        {
+            "catalogID":"28965bfa872c1b5462bb8d4653aa3974d9acc953",
+            "entityID":"https://secure.aleks.com/shibboleth-sp",
+            "resourceName":"ALEKS",
+            "resourceProvider":{
+                "name":"ALEKS Corporation",
+                "displayname":"ALEKS Corporation",
+                "url":"http://www.aleks.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"ALEKS is an artificially intelligent assessment and learning system founded on ground-breaking research in mathematical cognitive science.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                }
+            ],
+            "info":"https://www.aleks.com/about_aleks/overview",
+            "privacy":"https://www.mheducation.com/privacy.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"28965bfa872c1b5462bb8d4653aa3974d9acc953",
+            "entityID":"https://secure.aleks.com/shibboleth-sp",
+            "resourceName":"ALEKS",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.aleks.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"28965bfa872c1b5462bb8d4653aa3974d9acc953",
+            "entityID":"https://secure.aleks.com/shibboleth-sp",
+            "resourceName":"ALEKS",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.aleks.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"28965bfa872c1b5462bb8d4653aa3974d9acc953",
+            "entityID":"https://secure.aleks.com/shibboleth-sp",
+            "resourceName":"ALEKS",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.aleks.com"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Nicolas Thiery",
+                    "email":"mailto:nthiery@aleks.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,199 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"e45dc868e7d9f395df64fd6a2904495664e1bb4e",
+            "entityID":"https://aeon.bentley.umich.edu/shibboleth",
+            "resourceName":"University of Michigan - Bentley Historical Library",
+            "resourceProvider":{
+                "name":"University of Michigan",
+                "displayname":"University of Michigan",
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"The University of Michigan - Bentley Historical Library",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                }
+            ],
+            "info":"https://bentley.umich.edu/",
+            "privacy":"https://bentley.umich.edu/research/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e45dc868e7d9f395df64fd6a2904495664e1bb4e",
+            "entityID":"https://aeon.bentley.umich.edu/shibboleth",
+            "resourceName":"University of Michigan - Bentley Historical Library",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e45dc868e7d9f395df64fd6a2904495664e1bb4e",
+            "entityID":"https://aeon.bentley.umich.edu/shibboleth",
+            "resourceName":"University of Michigan - Bentley Historical Library",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e45dc868e7d9f395df64fd6a2904495664e1bb4e",
+            "entityID":"https://aeon.bentley.umich.edu/shibboleth",
+            "resourceName":"University of Michigan - Bentley Historical Library",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Bentley Identity Mgmt Group",
+                    "email":"mailto:bhl-id-mgmt@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

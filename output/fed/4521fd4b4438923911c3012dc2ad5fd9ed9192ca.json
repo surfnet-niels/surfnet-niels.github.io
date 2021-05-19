@@ -1,0 +1,175 @@
+{
+    "generated":"2021-05-19 13:56",
+    "en":[
+        {
+            "catalogID":"4521fd4b4438923911c3012dc2ad5fd9ed9192ca",
+            "entityID":"https://dmsuat.ucop.edu/shibboleth",
+            "resourceName":"Data Management System (DMS)",
+            "resourceProvider":{
+                "name":"University of California - Office of the President",
+                "displayname":"University of California - Office of the President",
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"The UC Health Liability Data Management System project, conducted under the auspices and authority of UC Office of the President Risk Services ITS group, is implementing an encrypted, secure transfer of protected healthcare information (PHI) data over the Internet from its service provider, RL Solutions, to the Sherlock cloud at the San Diego Supercomputing Center (SDSC) on the UC San Diego campus.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UCOP IAM",
+                    "email":"mailto:iamGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UCOP DataCenter HelpDesk",
+                    "email":"mailto:ucopdatacenter.helpdesk@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucop.edu/ethics-compliance-audit-services/_files/compliance/privacy/statement-of-privacy-for-web-based-applications.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"4521fd4b4438923911c3012dc2ad5fd9ed9192ca",
+            "entityID":"https://dmsuat.ucop.edu/shibboleth",
+            "resourceName":"Data Management System (DMS)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UCOP IAM",
+                    "email":"mailto:iamGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UCOP DataCenter HelpDesk",
+                    "email":"mailto:ucopdatacenter.helpdesk@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"4521fd4b4438923911c3012dc2ad5fd9ed9192ca",
+            "entityID":"https://dmsuat.ucop.edu/shibboleth",
+            "resourceName":"Data Management System (DMS)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UCOP IAM",
+                    "email":"mailto:iamGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UCOP DataCenter HelpDesk",
+                    "email":"mailto:ucopdatacenter.helpdesk@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"4521fd4b4438923911c3012dc2ad5fd9ed9192ca",
+            "entityID":"https://dmsuat.ucop.edu/shibboleth",
+            "resourceName":"Data Management System (DMS)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucop.edu/welcome.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UCOP IAM",
+                    "email":"mailto:iamGrp@ucop.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UCOP DataCenter HelpDesk",
+                    "email":"mailto:ucopdatacenter.helpdesk@ucop.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Operations",
+                    "email":"mailto:soc@ucop.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
