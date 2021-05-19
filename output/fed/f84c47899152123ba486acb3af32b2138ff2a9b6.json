@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-19 20:27",
+    "en":[
+        {
+            "catalogID":"f84c47899152123ba486acb3af32b2138ff2a9b6",
+            "entityID":"https://webauth.umass.edu/shibboleth",
+            "resourceName":"Umass Amherst Test SP",
+            "resourceProvider":{
+                "name":"University of Massachusetts Amherst",
+                "displayname":"University of Massachusetts Amherst",
+                "url":"http://www.umass.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.umass.edu/gateway/site-policies#privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f84c47899152123ba486acb3af32b2138ff2a9b6",
+            "entityID":"https://webauth.umass.edu/shibboleth",
+            "resourceName":"https://webauth.umass.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umass.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f84c47899152123ba486acb3af32b2138ff2a9b6",
+            "entityID":"https://webauth.umass.edu/shibboleth",
+            "resourceName":"https://webauth.umass.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umass.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f84c47899152123ba486acb3af32b2138ff2a9b6",
+            "entityID":"https://webauth.umass.edu/shibboleth",
+            "resourceName":"https://webauth.umass.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umass.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UMass Identity Team",
+                    "email":"mailto:idm@umass.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
