@@ -1,5 +1,5 @@
 {
-    "generated":"2021-05-20 18:44",
+    "generated":"2021-05-20 20:26",
     "en":[
         {
             "catalogID":"f78e3cf6f90bb4517aefd0f72657ce23a4104c21",
@@ -12,22 +12,22 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonScopedAffiliation",
                     "surname",
+                    "eduPersonAssurance",
                     "commonName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "eduPersonAssurance"
+                    "mail",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "homeOrganization",
+                    "departmentNumber",
                     "givenName",
-                    "homeOrganizationType",
                     "division",
+                    "homeOrganization",
+                    "organizationalUnit",
                     "organizationName",
-                    "departmentNumber"
+                    "homeOrganizationType"
                 ]
             },
             "description":"Active Classroom (AClass) is a website designed for knowledge transfer of education studies and idea exchanges. Our target audience include teachers from different education sectors, ranging from pre-schools, primary schools, secondary schools, to higher ",
@@ -56,22 +56,22 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonScopedAffiliation",
                     "surname",
+                    "eduPersonAssurance",
                     "commonName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "eduPersonAssurance"
+                    "mail",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "homeOrganization",
+                    "departmentNumber",
                     "givenName",
-                    "homeOrganizationType",
                     "division",
+                    "homeOrganization",
+                    "organizationalUnit",
                     "organizationName",
-                    "departmentNumber"
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
@@ -100,22 +100,22 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonScopedAffiliation",
                     "surname",
+                    "eduPersonAssurance",
                     "commonName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "eduPersonAssurance"
+                    "mail",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "homeOrganization",
+                    "departmentNumber",
                     "givenName",
-                    "homeOrganizationType",
                     "division",
+                    "homeOrganization",
+                    "organizationalUnit",
                     "organizationName",
-                    "departmentNumber"
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
@@ -144,22 +144,22 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonScopedAffiliation",
                     "surname",
+                    "eduPersonAssurance",
                     "commonName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "eduPersonAssurance"
+                    "mail",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "homeOrganization",
+                    "departmentNumber",
                     "givenName",
-                    "homeOrganizationType",
                     "division",
+                    "homeOrganization",
+                    "organizationalUnit",
                     "organizationName",
-                    "departmentNumber"
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
