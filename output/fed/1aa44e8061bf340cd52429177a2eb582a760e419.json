@@ -1,38 +1,31 @@
 {
-    "generated":"2021-05-20 08:29",
+    "generated":"2021-05-20 12:39",
     "en":[
         {
             "catalogID":"1aa44e8061bf340cd52429177a2eb582a760e419",
             "entityID":"https://sp.omren.om/simplesaml/module.php/saml/sp/metadata.php/OMREN-Federation",
-            "resourceName":"OMREN-TestSP",
+            "resourceName":"OMREN SP",
             "resourceProvider":{
-                "name":"OMREN-TestSP",
-                "displayname":"OMREN-TestSP",
+                "name":"OMREN",
+                "displayname":"OMREN",
                 "url":"https://www.omren.om/"
             },
             "resourceAttributes":{
                 "required":[
-                    "email",
-                    "eduPersonAffiliation",
-                    "surname"
+                    "transientId"
                 ],
                 "requested":[]
             },
-            "description":"OMREN is a central part of a sustainable infrastructure that contributes to the emergence of an effective national innovation ecosystem. It provides the research and education community in the Sultanate of Oman with a common network and collaboration infrastructure dedicated and adapted to their needs.",
+            "description":"",
             "resourceContacts":[
                 {
                     "type":"technical",
-                    "name":"AdministratorAdmin",
-                    "email":"mailto:warda@omren.om"
-                },
-                {
-                    "type":"security",
-                    "name":"AdministratorAdmin",
+                    "name":"Administratoralhabsi",
                     "email":"mailto:warda@omren.om"
                 }
             ],
-            "info":"https://www.omren.om/",
-            "privacy":" https://www.omren.om",
+            "info":"https://omren.om",
+            "privacy":"",
             "entityCategories":[
                 "http://refeds.org/category/research-and-scholarship",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
@@ -47,7 +40,7 @@
         {
             "catalogID":"1aa44e8061bf340cd52429177a2eb582a760e419",
             "entityID":"https://sp.omren.om/simplesaml/module.php/saml/sp/metadata.php/OMREN-Federation",
-            "resourceName":"OMREN-TestSP",
+            "resourceName":"OMREN SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -55,9 +48,7 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "email",
-                    "eduPersonAffiliation",
-                    "surname"
+                    "transientId"
                 ],
                 "requested":[]
             },
@@ -65,12 +56,7 @@
             "resourceContacts":[
                 {
                     "type":"technical",
-                    "name":"AdministratorAdmin",
-                    "email":"mailto:warda@omren.om"
-                },
-                {
-                    "type":"security",
-                    "name":"AdministratorAdmin",
+                    "name":"Administratoralhabsi",
                     "email":"mailto:warda@omren.om"
                 }
             ],
@@ -90,7 +76,7 @@
         {
             "catalogID":"1aa44e8061bf340cd52429177a2eb582a760e419",
             "entityID":"https://sp.omren.om/simplesaml/module.php/saml/sp/metadata.php/OMREN-Federation",
-            "resourceName":"OMREN-TestSP",
+            "resourceName":"OMREN SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -98,9 +84,7 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "email",
-                    "eduPersonAffiliation",
-                    "surname"
+                    "transientId"
                 ],
                 "requested":[]
             },
@@ -108,12 +92,7 @@
             "resourceContacts":[
                 {
                     "type":"technical",
-                    "name":"AdministratorAdmin",
-                    "email":"mailto:warda@omren.om"
-                },
-                {
-                    "type":"security",
-                    "name":"AdministratorAdmin",
+                    "name":"Administratoralhabsi",
                     "email":"mailto:warda@omren.om"
                 }
             ],
@@ -133,7 +112,7 @@
         {
             "catalogID":"1aa44e8061bf340cd52429177a2eb582a760e419",
             "entityID":"https://sp.omren.om/simplesaml/module.php/saml/sp/metadata.php/OMREN-Federation",
-            "resourceName":"OMREN-TestSP",
+            "resourceName":"OMREN SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -141,9 +120,7 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "email",
-                    "eduPersonAffiliation",
-                    "surname"
+                    "transientId"
                 ],
                 "requested":[]
             },
@@ -151,12 +128,7 @@
             "resourceContacts":[
                 {
                     "type":"technical",
-                    "name":"AdministratorAdmin",
-                    "email":"mailto:warda@omren.om"
-                },
-                {
-                    "type":"security",
-                    "name":"AdministratorAdmin",
+                    "name":"Administratoralhabsi",
                     "email":"mailto:warda@omren.om"
                 }
             ],
