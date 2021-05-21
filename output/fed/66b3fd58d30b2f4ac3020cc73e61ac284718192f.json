@@ -1,5 +1,5 @@
 {
-    "generated":"2021-05-21 18:47",
+    "generated":"2021-05-21 20:28",
     "en":[
         {
             "catalogID":"66b3fd58d30b2f4ac3020cc73e61ac284718192f",
@@ -26,18 +26,18 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"security",
-                    "name":"Alexey Pavlenko",
+                    "type":"administrative",
+                    "name":"Sectigo",
                     "email":"mailto:samlcontact@sectigo.com"
                 },
                 {
-                    "type":"administrative",
-                    "name":"Alexey Pavlenko",
-                    "email":"mailto:samlcontact@sectigo.com"
+                    "type":"security",
+                    "name":"Sectigo Information Security",
+                    "email":"mailto:infoSec_reporting@sectigo.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Alexey Pavlenko",
+                    "name":"Sectigo",
                     "email":"mailto:samlcontact@sectigo.com"
                 }
             ],
@@ -46,7 +46,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -75,18 +77,18 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"security",
-                    "name":"Alexey Pavlenko",
+                    "type":"administrative",
+                    "name":"Sectigo",
                     "email":"mailto:samlcontact@sectigo.com"
                 },
                 {
-                    "type":"administrative",
-                    "name":"Alexey Pavlenko",
-                    "email":"mailto:samlcontact@sectigo.com"
+                    "type":"security",
+                    "name":"Sectigo Information Security",
+                    "email":"mailto:infoSec_reporting@sectigo.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Alexey Pavlenko",
+                    "name":"Sectigo",
                     "email":"mailto:samlcontact@sectigo.com"
                 }
             ],
@@ -95,7 +97,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -124,18 +128,18 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"security",
-                    "name":"Alexey Pavlenko",
+                    "type":"administrative",
+                    "name":"Sectigo",
                     "email":"mailto:samlcontact@sectigo.com"
                 },
                 {
-                    "type":"administrative",
-                    "name":"Alexey Pavlenko",
-                    "email":"mailto:samlcontact@sectigo.com"
+                    "type":"security",
+                    "name":"Sectigo Information Security",
+                    "email":"mailto:infoSec_reporting@sectigo.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Alexey Pavlenko",
+                    "name":"Sectigo",
                     "email":"mailto:samlcontact@sectigo.com"
                 }
             ],
@@ -144,7 +148,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -173,18 +179,18 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"security",
-                    "name":"Alexey Pavlenko",
+                    "type":"administrative",
+                    "name":"Sectigo",
                     "email":"mailto:samlcontact@sectigo.com"
                 },
                 {
-                    "type":"administrative",
-                    "name":"Alexey Pavlenko",
-                    "email":"mailto:samlcontact@sectigo.com"
+                    "type":"security",
+                    "name":"Sectigo Information Security",
+                    "email":"mailto:infoSec_reporting@sectigo.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Alexey Pavlenko",
+                    "name":"Sectigo",
                     "email":"mailto:samlcontact@sectigo.com"
                 }
             ],
@@ -193,7 +199,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
