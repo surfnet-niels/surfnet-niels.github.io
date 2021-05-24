@@ -1,0 +1,171 @@
+{
+    "generated":"2021-05-24 22:28",
+    "en":[
+        {
+            "catalogID":"9e8489147aed7fdb03a857de562243105d0ffc07",
+            "entityID":"https://ers.northwestern.edu/shibboleth",
+            "resourceName":"NU Effort Reporting",
+            "resourceProvider":{
+                "name":"Northwestern University",
+                "displayname":"Northwestern University",
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"effort reporting system",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Christina Mete",
+                    "email":"mailto:c-mete@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Phil Tracy",
+                    "email":"mailto:ptracy@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"NUIT Security Team",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.it.northwestern.edu/policies/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"9e8489147aed7fdb03a857de562243105d0ffc07",
+            "entityID":"https://ers.northwestern.edu/shibboleth",
+            "resourceName":"https://ers.northwestern.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Christina Mete",
+                    "email":"mailto:c-mete@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Phil Tracy",
+                    "email":"mailto:ptracy@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"NUIT Security Team",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"9e8489147aed7fdb03a857de562243105d0ffc07",
+            "entityID":"https://ers.northwestern.edu/shibboleth",
+            "resourceName":"https://ers.northwestern.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Christina Mete",
+                    "email":"mailto:c-mete@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Phil Tracy",
+                    "email":"mailto:ptracy@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"NUIT Security Team",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"9e8489147aed7fdb03a857de562243105d0ffc07",
+            "entityID":"https://ers.northwestern.edu/shibboleth",
+            "resourceName":"https://ers.northwestern.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.northwestern.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Christina Mete",
+                    "email":"mailto:c-mete@northwestern.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Phil Tracy",
+                    "email":"mailto:ptracy@northwestern.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"NUIT Security Team",
+                    "email":"mailto:security@northwestern.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
