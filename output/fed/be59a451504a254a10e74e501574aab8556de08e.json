@@ -1,5 +1,5 @@
 {
-    "generated":"2021-05-25 20:29",
+    "generated":"2021-05-25 22:29",
     "en":[
         {
             "catalogID":"be59a451504a254a10e74e501574aab8556de08e",
@@ -24,22 +24,22 @@
                 {
                     "type":"support",
                     "name":"Support",
-                    "email":"support@portfolium.com"
+                    "email":"mailto:support@portfolium.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 },
                 {
                     "type":"administrative",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 },
                 {
                     "type":"security",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 }
             ],
             "info":"https://portfolium.com/shibboleth",
@@ -47,7 +47,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -74,22 +76,22 @@
                 {
                     "type":"support",
                     "name":"Support",
-                    "email":"support@portfolium.com"
+                    "email":"mailto:support@portfolium.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 },
                 {
                     "type":"administrative",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 },
                 {
                     "type":"security",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 }
             ],
             "info":"",
@@ -97,7 +99,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -124,22 +128,22 @@
                 {
                     "type":"support",
                     "name":"Support",
-                    "email":"support@portfolium.com"
+                    "email":"mailto:support@portfolium.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 },
                 {
                     "type":"administrative",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 },
                 {
                     "type":"security",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 }
             ],
             "info":"",
@@ -147,7 +151,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -174,22 +180,22 @@
                 {
                     "type":"support",
                     "name":"Support",
-                    "email":"support@portfolium.com"
+                    "email":"mailto:support@portfolium.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 },
                 {
                     "type":"administrative",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 },
                 {
                     "type":"security",
-                    "name":"Daniel Marashlian",
-                    "email":"danielzev@portfolium.com"
+                    "name":"Developers",
+                    "email":"mailto:portfolium-eng@instructure.com"
                 }
             ],
             "info":"",
@@ -197,7 +203,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
