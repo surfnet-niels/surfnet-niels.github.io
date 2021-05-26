@@ -27160,14 +27160,64 @@
         "description":"This is the QA website of Amsterdam University Press Journals Online"
     },
     {
-        "catalogID":"2edc6535792abed493e4454a9726c67579834a8f",
-        "resourceName":"Université Cote d'Azur - EDM",
+        "catalogID":"85b82810775ec339936b1176f6d3e89a1f5e6704",
+        "resourceName":"rendez-vous platform",
         "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
         },
-        "description":"Electronic Document Management for Université Cote d'Azur. Access restricted to members"
+        "description":"Videoconferencing service Rendez-vous"
+    },
+    {
+        "catalogID":"a43b5e96a3b5721f90373d2fddea170586d0b60e",
+        "resourceName":"Captive Portal UPJV",
+        "resourceProvider":{
+            "name":"Université de Picardie Jules Verne",
+            "displayname":"Université de Picardie Jules Verne",
+            "url":"http://www.u-picardie.fr"
+        },
+        "description":"Eduspot"
+    },
+    {
+        "catalogID":"1e41be03fae005c9e5fd388d66ec53b66720617d",
+        "resourceName":"Classiques Garnier Numérique",
+        "resourceProvider":{
+            "name":"Classiques Garnier",
+            "displayname":"Classiques Garnier",
+            "url":"https://www.classiques-garnier.com"
+        },
+        "description":"Classiques Garnier Numérique offers academic libraries, public and research centers access to databases, online book collections and journals in the fields of literature, the humanities and social sciences.\n\nTeachers, academics, researchers, students, pupils and enthusiasts have tens of thousands of reference works at their disposal, on every device, in text mode, easily searchable at simple or advanced levels thanks to a full data mark-up and a powerful search engine."
+    },
+    {
+        "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
+        "resourceName":"Wooclap",
+        "resourceProvider":{
+            "name":"Wooclap",
+            "displayname":"Wooclap",
+            "url":"https://www.wooclap.com/fr/"
+        },
+        "description":"**Wooclap is a collaborative web-based platform** that makes your training sessions, conferences and classes more fun, interactive and effective. Used in more than **100 countries around the world**, the solution is used by big companies, universities / colleges and ministries.\n\nThrough questionnaires and other animations, the solution allows the teacher, trainers and speakers to follow up closely the degree of understanding of the participants in real time. The solution is simple and intuitive for both the teacher and the participants."
+    },
+    {
+        "catalogID":"b17bfcb61cc36fd58934e5bbeef314c21cf01d41",
+        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
+        "resourceProvider":{
+            "name":"Observatoire de la Côte d'Azur",
+            "displayname":"Observatoire de la Côte d'Azur",
+            "url":"http://www.oca.eu"
+        },
+        "description":"eduspot captive portal"
+    },
+    {
+        "catalogID":"1d89e65d6318141a837bfa81ec4f7b4a2ee2af82",
+        "resourceName":"Dissemin",
+        "resourceProvider":{
+            "name":"Comité pour l'Accessibilité aux Publications en Sciences et Humanités - CAPSH",
+            "displayname":"Comité pour l'Accessibilité aux Publications en Sciences et Humanités - CAPSH",
+            "url":"https://association.dissem.in/"
+        },
+        "description":"Free and open service to help researchers deposit their articles in open repositories with respect to self-archiving policies of the publisher and in align with guidelines of employers or funders.\n\nThe service is supported by CCSD (HAL), CERN (Zenodo) and the universities of Braunschweig, Darmstadt and Stuttgart."
     },
     {
         "catalogID":"b76bd3eb38f7581d1bd8a9225114e654ab527558",
@@ -27190,6 +27240,16 @@
         "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
     },
     {
+        "catalogID":"65be2829510b9ca342142b44d5be74f167e1d990",
+        "resourceName":"Ulysseus Digital Platform",
+        "resourceProvider":{
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
+        },
+        "description":"Set of services offered in the scope of Ulysseus European University"
+    },
+    {
         "catalogID":"1379fdf926f6322c5cc8809cfc551c2245547214",
         "resourceName":"Guest network access",
         "resourceProvider":{
@@ -27200,16 +27260,6 @@
         "description":"Guest network access"
     },
     {
-        "catalogID":"1d89e65d6318141a837bfa81ec4f7b4a2ee2af82",
-        "resourceName":"Dissemin",
-        "resourceProvider":{
-            "name":"Comité pour l'Accessibilité aux Publications en Sciences et Humanités - CAPSH",
-            "displayname":"Comité pour l'Accessibilité aux Publications en Sciences et Humanités - CAPSH",
-            "url":"https://association.dissem.in/"
-        },
-        "description":"Free and open service to help researchers deposit their articles in open repositories with respect to self-archiving policies of the publisher and in align with guidelines of employers or funders.\n\nThe service is supported by CCSD (HAL), CERN (Zenodo) and the universities of Braunschweig, Darmstadt and Stuttgart."
-    },
-    {
         "catalogID":"eb1ae2d7ba412e5355d4290b513a9336bffda820",
         "resourceName":"rendez-vous platform (#2)",
         "resourceProvider":{
@@ -27218,16 +27268,6 @@
             "url":"http://www.renater.fr"
         },
         "description":"Videoconferencing service Rendez-vous"
-    },
-    {
-        "catalogID":"65be2829510b9ca342142b44d5be74f167e1d990",
-        "resourceName":"Ulysseus Digital Platform",
-        "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
-        },
-        "description":"Set of services offered in the scope of Ulysseus European University"
     },
     {
         "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
@@ -27300,16 +27340,6 @@
         "description":"IN2P3 - Atrium - Document Management System based on Nuxeo"
     },
     {
-        "catalogID":"1e41be03fae005c9e5fd388d66ec53b66720617d",
-        "resourceName":"Classiques Garnier Numérique",
-        "resourceProvider":{
-            "name":"Classiques Garnier",
-            "displayname":"Classiques Garnier",
-            "url":"https://www.classiques-garnier.com"
-        },
-        "description":"Classiques Garnier Numérique offers academic libraries, public and research centers access to databases, online book collections and journals in the fields of literature, the humanities and social sciences.\n\nTeachers, academics, researchers, students, pupils and enthusiasts have tens of thousands of reference works at their disposal, on every device, in text mode, easily searchable at simple or advanced levels thanks to a full data mark-up and a powerful search engine."
-    },
-    {
         "catalogID":"870848e5d86e96af9cb731545f65193cab03f047",
         "resourceName":"Wooflash",
         "resourceProvider":{
@@ -27370,14 +27400,24 @@
         "description":"portail de test connexion wifi et filaire"
     },
     {
-        "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
-        "resourceName":"Service indico.in2p3.fr",
+        "catalogID":"7def547ca3c8453adae8a8b8f731816434bb8f96",
+        "resourceName":"ESPCI ParisTech  WiFi Acess",
         "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
+            "name":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
+            "displayname":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
+            "url":"http://www.espci.fr"
         },
-        "description":"Service indico.in2p3.fr"
+        "description":"ESPCI ParisTech  WiFi Acess"
+    },
+    {
+        "catalogID":"5f065f4ce207f504a8641ed112c2ead6b73872a0",
+        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
+        "resourceProvider":{
+            "name":"Observatoire de la Côte d'Azur",
+            "displayname":"Observatoire de la Côte d'Azur",
+            "url":"http://www.oca.eu"
+        },
+        "description":"eduspot captive portal"
     },
     {
         "catalogID":"465ca975c625817f9d122412842b5abf1827b90b",
@@ -27390,6 +27430,26 @@
         "description":"MEDFILM educational platform is a database on the history of health."
     },
     {
+        "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
+        "resourceName":"Service indico.in2p3.fr",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Service indico.in2p3.fr"
+    },
+    {
+        "catalogID":"2edc6535792abed493e4454a9726c67579834a8f",
+        "resourceName":"Université Cote d'Azur - EDM",
+        "resourceProvider":{
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
+        },
+        "description":"Electronic Document Management for Université Cote d'Azur. Access restricted to members"
+    },
+    {
         "catalogID":"a2ee399b0efbd1338fc6cc4bc519f75dcf9a280b",
         "resourceName":"MESHS - collaborative platform",
         "resourceProvider":{
@@ -27398,16 +27458,6 @@
             "url":"http://univ-lille.fr"
         },
         "description":"The collaborative platform \"plateforme.meshs.fr\" is dedicated to collaborative work for MESHS's research project"
-    },
-    {
-        "catalogID":"8c5869fa36258d39e69cb7e2ab1f0b2436e0d7f7",
-        "resourceName":"Civis projet user management",
-        "resourceProvider":{
-            "name":"Aix-Marseille Université (AMU)",
-            "displayname":"Aix-Marseille Université (AMU)",
-            "url":"http://www.univ-amu.fr"
-        },
-        "description":"Civis projet user management"
     },
     {
         "catalogID":"8dcb656333dd56e05706cee13e575934460dd92a",
@@ -27440,6 +27490,16 @@
         "description":"Service provider for access to several resources hosted by Telecom ParisTech"
     },
     {
+        "catalogID":"076b38f5b33208e8167109cf8fe33bae0bd34500",
+        "resourceName":"rendez-vous platform (#5)",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
+    },
+    {
         "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
         "resourceName":"IN2P3-IP2I - SAML bridge",
         "resourceProvider":{
@@ -27450,16 +27510,6 @@
         "description":"saml federation bridge production"
     },
     {
-        "catalogID":"b4adcd9a4cc88078598283e7bb57ac04f580f170",
-        "resourceName":"CAIRN",
-        "resourceProvider":{
-            "name":"CAIRN SA",
-            "displayname":"CAIRN SA",
-            "url":"http://www.cairn.info/"
-        },
-        "description":"Created in September 2005 by four Belgian and French publishers, today Cairn offers the most comprehensive collection of publications in the French language in the humanities and social sciences available online. In 2015, more than 400 journals and around 5,000 eBooks from major French, Belgian and Swiss publishers are available on www.cairn.info. Students, scholars and librarians all over the world are thus able to access more than 200,000 full-text articles and book chapters online.\nTo make this content more visible and accessible to non–francophone scholars, Cairn.info (with the support of the CNL, a French governmental agency dedicated to the promotion of French publications around the world) has designed a special interface, www.cairn-int.info, enabling internet users to browse and easily find content from French journals without speaking a word of French."
-    },
-    {
         "catalogID":"7b2ad174bcc10ced91a355e9aedf0060adec40b9",
         "resourceName":"saml federation bridge production",
         "resourceProvider":{
@@ -27468,6 +27518,26 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
+    },
+    {
+        "catalogID":"8c5869fa36258d39e69cb7e2ab1f0b2436e0d7f7",
+        "resourceName":"Civis projet user management",
+        "resourceProvider":{
+            "name":"Aix-Marseille Université (AMU)",
+            "displayname":"Aix-Marseille Université (AMU)",
+            "url":"http://www.univ-amu.fr"
+        },
+        "description":"Civis projet user management"
+    },
+    {
+        "catalogID":"b4adcd9a4cc88078598283e7bb57ac04f580f170",
+        "resourceName":"CAIRN",
+        "resourceProvider":{
+            "name":"CAIRN SA",
+            "displayname":"CAIRN SA",
+            "url":"http://www.cairn.info/"
+        },
+        "description":"Created in September 2005 by four Belgian and French publishers, today Cairn offers the most comprehensive collection of publications in the French language in the humanities and social sciences available online. In 2015, more than 400 journals and around 5,000 eBooks from major French, Belgian and Swiss publishers are available on www.cairn.info. Students, scholars and librarians all over the world are thus able to access more than 200,000 full-text articles and book chapters online.\nTo make this content more visible and accessible to non–francophone scholars, Cairn.info (with the support of the CNL, a French governmental agency dedicated to the promotion of French publications around the world) has designed a special interface, www.cairn-int.info, enabling internet users to browse and easily find content from French journals without speaking a word of French."
     },
     {
         "catalogID":"335a48fbe43ce09b93f13af4d1e604000ecd8d19",
@@ -27510,6 +27580,16 @@
         "description":"Videoconferencing service Rendez-vous"
     },
     {
+        "catalogID":"a1b21798fc03da26d584f705f05d1a95fafa4ccf",
+        "resourceName":"Observatoire de la Côte d'Azur - FileSender",
+        "resourceProvider":{
+            "name":"Observatoire de la Côte d'Azur",
+            "displayname":"Observatoire de la Côte d'Azur",
+            "url":"http://www.oca.eu"
+        },
+        "description":"Temporary files transfert platform."
+    },
+    {
         "catalogID":"0e09e8dbcfdaa49e8ad927651a298135ece37d20",
         "resourceName":"Université de Nice - Fact",
         "resourceProvider":{
@@ -27520,6 +27600,16 @@
         "description":"Plateforme de formation à la certification des compétences numériques"
     },
     {
+        "catalogID":"97dc86eb308525b5f86e40eb28e759958d327fe3",
+        "resourceName":"Bordeaux University - Moodle FAD",
+        "resourceProvider":{
+            "name":"Université de Bordeaux",
+            "displayname":"Université de Bordeaux",
+            "url":"https://www.u-bordeaux.fr/"
+        },
+        "description":"Moodle Platform for remote learning"
+    },
+    {
         "catalogID":"cdb1838e90404c0fbb60a035b9050c9f6eb93d7d",
         "resourceName":"Organization and planification service Evento",
         "resourceProvider":{
@@ -27528,16 +27618,6 @@
             "url":"http://www.renater.fr"
         },
         "description":"Organization and planification service Evento"
-    },
-    {
-        "catalogID":"a1b21798fc03da26d584f705f05d1a95fafa4ccf",
-        "resourceName":"Observatoire de la Côte d'Azur - FileSender",
-        "resourceProvider":{
-            "name":"Observatoire de la Côte d'Azur",
-            "displayname":"Observatoire de la Côte d'Azur",
-            "url":"http://www.oca.eu"
-        },
-        "description":"Temporary files transfert platform."
     },
     {
         "catalogID":"6c6fedf84766d9d712c1758c29e217843a16d44e",
@@ -27568,16 +27648,6 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"Collaborative git hosting"
-    },
-    {
-        "catalogID":"076b38f5b33208e8167109cf8fe33bae0bd34500",
-        "resourceName":"rendez-vous platform (#5)",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Videoconferencing service Rendez-vous"
     },
     {
         "catalogID":"51f92826ee93bb3e9a3c9e0e45989c473a13da6c",
@@ -27620,26 +27690,6 @@
         "description":"TGIR Huma-Num SSO service"
     },
     {
-        "catalogID":"33d408a82be85eaa4d8f84e060c8115e72ebd4eb",
-        "resourceName":"PerSCiDO datasets sharing platform",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"Dataset sharing platform PerSCiDO from the Persyval-lab labex.\nThis platform aims at fostering datasets sharing among researchers from all domains."
-    },
-    {
-        "catalogID":"515a0a67d236bbf0f012a92c875fb3afb4a04a5b",
-        "resourceName":"CNRS - Mathrice services portal",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Portal of services for the franch mathematicians community.\n\nThis portal is used by more than 2000 mathematicians from 60 universities, laboratories, fédérations and there collaborators.\nYou can find the list here : http://plm.math.cnrs.fr/spip.php?article30"
-    },
-    {
         "catalogID":"69542c102234bb2a90c19d01fbc99cc419982576",
         "resourceName":"University of Caen Normandy — Web-based Git repository manager with wiki and issue tracking features",
         "resourceProvider":{
@@ -27680,24 +27730,14 @@
         "description":"Hal is an Open Archive for the scientific publication of french scientist"
     },
     {
-        "catalogID":"a0f58366cc69a3a92947266e8a43589f32ca44de",
+        "catalogID":"8eff1553c76ec7eb0161eec17dd16e4d4f31f294",
         "resourceName":"MESHS - tools - centralized authentication",
         "resourceProvider":{
             "name":"Université de Lille",
             "displayname":"Université de Lille",
             "url":"http://univ-lille.fr"
         },
-        "description":"Give access to tools linked with MESHS supported research's project"
-    },
-    {
-        "catalogID":"a9c17f79220af7bf57ad2bcdf2caa05dcea36ef6",
-        "resourceName":"INSA rennes moodle ng",
-        "resourceProvider":{
-            "name":"Institut National des Sciences Appliquées de Rennes",
-            "displayname":"Institut National des Sciences Appliquées de Rennes",
-            "url":"http://www.insa-rennes.fr"
-        },
-        "description":"online courses"
+        "description":"The website offer a suite of web service with restricted access to manage and support MESHS's research project."
     },
     {
         "catalogID":"dde9636b88d7da0dec5173224679a1ead9dc09a9",
@@ -27710,6 +27750,16 @@
         "description":"ORTOLANG is an EQUIPEX project accepted in February 2012 in the framework of investissements d’avenir. Its aim is to construct a network infrastructure including a repository of language data (corpora, lexicons, dictionaries etc.) and readily available, well-documented tools for its processing. ORTOLANG is a beneficiary of French State support via its “Investissements d'avenir” program (ANR–11–EQPX–0032) ORTOLANG ISSN 2417–7482"
     },
     {
+        "catalogID":"20cca6a3ac8f2d51f0b716ab80d37db3e966bb28",
+        "resourceName":"University of Perpignan - eduspot",
+        "resourceProvider":{
+            "name":"Université de Perpignan",
+            "displayname":"Université de Perpignan",
+            "url":"http://www.univ-perp.fr"
+        },
+        "description":"eduspot universite de Perpignan"
+    },
+    {
         "catalogID":"a1bf98ae2f3fef7d643dbbe82bf38ec07f0d15f2",
         "resourceName":"Université de Paris - Moodle",
         "resourceProvider":{
@@ -27720,14 +27770,44 @@
         "description":"Université de Paris - Moodle"
     },
     {
-        "catalogID":"20cca6a3ac8f2d51f0b716ab80d37db3e966bb28",
-        "resourceName":"University of Perpignan - eduspot",
+        "catalogID":"a9c17f79220af7bf57ad2bcdf2caa05dcea36ef6",
+        "resourceName":"INSA rennes moodle ng",
         "resourceProvider":{
-            "name":"Université de Perpignan",
-            "displayname":"Université de Perpignan",
-            "url":"http://www.univ-perp.fr"
+            "name":"Institut National des Sciences Appliquées de Rennes",
+            "displayname":"Institut National des Sciences Appliquées de Rennes",
+            "url":"http://www.insa-rennes.fr"
         },
-        "description":"eduspot universite de Perpignan"
+        "description":"online courses"
+    },
+    {
+        "catalogID":"515a0a67d236bbf0f012a92c875fb3afb4a04a5b",
+        "resourceName":"CNRS - Mathrice services portal",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Portal of services for the franch mathematicians community.\n\nThis portal is used by more than 2000 mathematicians from 60 universities, laboratories, fédérations and there collaborators.\nYou can find the list here : http://plm.math.cnrs.fr/spip.php?article30"
+    },
+    {
+        "catalogID":"a0f58366cc69a3a92947266e8a43589f32ca44de",
+        "resourceName":"MESHS - tools - centralized authentication",
+        "resourceProvider":{
+            "name":"Université de Lille",
+            "displayname":"Université de Lille",
+            "url":"http://univ-lille.fr"
+        },
+        "description":"Give access to tools linked with MESHS supported research's project"
+    },
+    {
+        "catalogID":"33d408a82be85eaa4d8f84e060c8115e72ebd4eb",
+        "resourceName":"PerSCiDO datasets sharing platform",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"Dataset sharing platform PerSCiDO from the Persyval-lab labex.\nThis platform aims at fostering datasets sharing among researchers from all domains."
     },
     {
         "catalogID":"3816cc2796d7fa15e0bbcd9da2778b0c581aee3e",
@@ -27910,6 +27990,16 @@
         "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
     },
     {
+        "catalogID":"e0f662e083fbfc2234016543bac529e16430e3f5",
+        "resourceName":"INRAE - Files sharing services",
+        "resourceProvider":{
+            "name":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
+            "displayname":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
+            "url":"http://www.irstea.fr"
+        },
+        "description":"Files sharing services\nOnly Inrae members could store some files an share them to other member of Edugain Inter Federation or C.R.U subscribers\nDefault quota is 10 Mo."
+    },
+    {
         "catalogID":"c172210413188b32e4b88234b1ba81c8281b733d",
         "resourceName":" Bordeaux University- Moodle Montesquieu",
         "resourceProvider":{
@@ -27940,16 +28030,6 @@
         "description":"E-learning plateform of the Grenoble Alpes University."
     },
     {
-        "catalogID":"97dc86eb308525b5f86e40eb28e759958d327fe3",
-        "resourceName":"Bordeaux University - Moodle FAD",
-        "resourceProvider":{
-            "name":"Université de Bordeaux",
-            "displayname":"Université de Bordeaux",
-            "url":"https://www.u-bordeaux.fr/"
-        },
-        "description":"Moodle Platform for remote learning"
-    },
-    {
         "catalogID":"180c7efa20d5f7cee080cb3e917d826d09e99ba7",
         "resourceName":"ENS Paris-Saclay - Eduspot Portal",
         "resourceProvider":{
@@ -27960,26 +28040,6 @@
         "description":"Wireless access for eduspot project members."
     },
     {
-        "catalogID":"8eff1553c76ec7eb0161eec17dd16e4d4f31f294",
-        "resourceName":"MESHS - tools - centralized authentication",
-        "resourceProvider":{
-            "name":"Université de Lille",
-            "displayname":"Université de Lille",
-            "url":"http://univ-lille.fr"
-        },
-        "description":"The website offer a suite of web service with restricted access to manage and support MESHS's research project."
-    },
-    {
-        "catalogID":"e0f662e083fbfc2234016543bac529e16430e3f5",
-        "resourceName":"INRAE - Files sharing services",
-        "resourceProvider":{
-            "name":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
-            "displayname":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
-            "url":"http://www.irstea.fr"
-        },
-        "description":"Files sharing services\nOnly Inrae members could store some files an share them to other member of Edugain Inter Federation or C.R.U subscribers\nDefault quota is 10 Mo."
-    },
-    {
         "catalogID":"936094b0467daf90b80c904919b738a4ca610e08",
         "resourceName":"Compilatio - plagiarism Prevention",
         "resourceProvider":{
@@ -27988,66 +28048,6 @@
             "url":"http://www.compilatio.net"
         },
         "description":"Document analysis service made available to higher education and allowing the detection of plagiarism in student work ..."
-    },
-    {
-        "catalogID":"a43b5e96a3b5721f90373d2fddea170586d0b60e",
-        "resourceName":"Captive Portal UPJV",
-        "resourceProvider":{
-            "name":"Université de Picardie Jules Verne",
-            "displayname":"Université de Picardie Jules Verne",
-            "url":"http://www.u-picardie.fr"
-        },
-        "description":"Eduspot"
-    },
-    {
-        "catalogID":"7def547ca3c8453adae8a8b8f731816434bb8f96",
-        "resourceName":"ESPCI ParisTech  WiFi Acess",
-        "resourceProvider":{
-            "name":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
-            "displayname":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
-            "url":"http://www.espci.fr"
-        },
-        "description":"ESPCI ParisTech  WiFi Acess"
-    },
-    {
-        "catalogID":"5f065f4ce207f504a8641ed112c2ead6b73872a0",
-        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
-        "resourceProvider":{
-            "name":"Observatoire de la Côte d'Azur",
-            "displayname":"Observatoire de la Côte d'Azur",
-            "url":"http://www.oca.eu"
-        },
-        "description":"eduspot captive portal"
-    },
-    {
-        "catalogID":"85b82810775ec339936b1176f6d3e89a1f5e6704",
-        "resourceName":"rendez-vous platform",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Videoconferencing service Rendez-vous"
-    },
-    {
-        "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
-        "resourceName":"Wooclap",
-        "resourceProvider":{
-            "name":"Wooclap",
-            "displayname":"Wooclap",
-            "url":"https://www.wooclap.com/fr/"
-        },
-        "description":"**Wooclap is a collaborative web-based platform** that makes your training sessions, conferences and classes more fun, interactive and effective. Used in more than **100 countries around the world**, the solution is used by big companies, universities / colleges and ministries.\n\nThrough questionnaires and other animations, the solution allows the teacher, trainers and speakers to follow up closely the degree of understanding of the participants in real time. The solution is simple and intuitive for both the teacher and the participants."
-    },
-    {
-        "catalogID":"b17bfcb61cc36fd58934e5bbeef314c21cf01d41",
-        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
-        "resourceProvider":{
-            "name":"Observatoire de la Côte d'Azur",
-            "displayname":"Observatoire de la Côte d'Azur",
-            "url":"http://www.oca.eu"
-        },
-        "description":"eduspot captive portal"
     },
     {
         "catalogID":"097f562d1f1b8618d5e840ac2d3ba502e3137c3c",
