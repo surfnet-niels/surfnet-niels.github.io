@@ -1,14 +1,14 @@
 {
-    "generated":"2021-05-28 07:12",
+    "generated":"2021-05-28 17:20",
     "en":[
         {
             "catalogID":"fba6aa26bd476685f4979e7eee81026bd2b1b721",
             "entityID":"https://registry.tigerfed.net.bd/shibboleth",
             "resourceName":"SP [TigerFed]",
             "resourceProvider":{
-                "name":"SP [TigerFed]",
+                "name":"Service Provider [TigerFed]",
                 "displayname":"SP [TigerFed]",
-                "url":"https://tigerfed.net.bd"
+                "url":"http://sp.tigerfed.net.bd"
             },
             "resourceAttributes":{
                 "required":[
@@ -20,7 +20,7 @@
                 ],
                 "requested":[]
             },
-            "description":"We can check the attribute of an IDP.",
+            "description":"We can check the attributes of an IDP",
             "resourceContacts":[
                 {
                     "type":"support",
@@ -42,7 +42,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://tigerfed.net.bd"
+                "url":"http://sp.tigerfed.net.bd"
             },
             "resourceAttributes":{
                 "required":[
@@ -76,7 +76,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://tigerfed.net.bd"
+                "url":"http://sp.tigerfed.net.bd"
             },
             "resourceAttributes":{
                 "required":[
@@ -110,7 +110,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://tigerfed.net.bd"
+                "url":"http://sp.tigerfed.net.bd"
             },
             "resourceAttributes":{
                 "required":[
