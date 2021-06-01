@@ -1,5 +1,5 @@
 {
-    "generated":"2021-06-01 18:13",
+    "generated":"2021-06-01 21:35",
     "en":[
         {
             "catalogID":"afa76d9d5311715bd627f96dd9c1329fbafd54ab",
@@ -19,17 +19,17 @@
                 {
                     "type":"technical",
                     "name":"Jose Fuentes",
-                    "email":"jafafuentes@gmail.com"
+                    "email":"mailto:jafafuentes@gmail.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Becca Groveman",
-                    "email":"bgroveman@hampshire.edu"
+                    "email":"mailto:bgroveman@hampshire.edu"
                 },
                 {
                     "type":"security",
                     "name":"Jose Fuentes",
-                    "email":"jafafuentes@gmail.com"
+                    "email":"mailto:jafafuentes@gmail.com"
                 }
             ],
             "info":"https://maison.io/",
@@ -37,7 +37,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -59,17 +61,17 @@
                 {
                     "type":"technical",
                     "name":"Jose Fuentes",
-                    "email":"jafafuentes@gmail.com"
+                    "email":"mailto:jafafuentes@gmail.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Becca Groveman",
-                    "email":"bgroveman@hampshire.edu"
+                    "email":"mailto:bgroveman@hampshire.edu"
                 },
                 {
                     "type":"security",
                     "name":"Jose Fuentes",
-                    "email":"jafafuentes@gmail.com"
+                    "email":"mailto:jafafuentes@gmail.com"
                 }
             ],
             "info":"",
@@ -77,7 +79,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -99,17 +103,17 @@
                 {
                     "type":"technical",
                     "name":"Jose Fuentes",
-                    "email":"jafafuentes@gmail.com"
+                    "email":"mailto:jafafuentes@gmail.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Becca Groveman",
-                    "email":"bgroveman@hampshire.edu"
+                    "email":"mailto:bgroveman@hampshire.edu"
                 },
                 {
                     "type":"security",
                     "name":"Jose Fuentes",
-                    "email":"jafafuentes@gmail.com"
+                    "email":"mailto:jafafuentes@gmail.com"
                 }
             ],
             "info":"",
@@ -117,7 +121,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -139,17 +145,17 @@
                 {
                     "type":"technical",
                     "name":"Jose Fuentes",
-                    "email":"jafafuentes@gmail.com"
+                    "email":"mailto:jafafuentes@gmail.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Becca Groveman",
-                    "email":"bgroveman@hampshire.edu"
+                    "email":"mailto:bgroveman@hampshire.edu"
                 },
                 {
                     "type":"security",
                     "name":"Jose Fuentes",
-                    "email":"jafafuentes@gmail.com"
+                    "email":"mailto:jafafuentes@gmail.com"
                 }
             ],
             "info":"",
@@ -157,7 +163,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
