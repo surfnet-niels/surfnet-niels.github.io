@@ -1,0 +1,191 @@
+{
+    "generated":"2021-06-02 21:30",
+    "en":[
+        {
+            "catalogID":"4c77f122b878f490ba650eac6822baff18de1b94",
+            "entityID":"https://luc.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - Loyola University Chicago",
+            "resourceProvider":{
+                "name":"InfoReady Corp",
+                "displayname":"InfoReady Corp",
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"http://privacy-policy.inforeadycorp.com/InfoReady%20Privacy%20Notice.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"4c77f122b878f490ba650eac6822baff18de1b94",
+            "entityID":"https://luc.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - Loyola University Chicago",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"4c77f122b878f490ba650eac6822baff18de1b94",
+            "entityID":"https://luc.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - Loyola University Chicago",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"4c77f122b878f490ba650eac6822baff18de1b94",
+            "entityID":"https://luc.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - Loyola University Chicago",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
