@@ -1,0 +1,199 @@
+{
+    "generated":"2021-06-03 20:03",
+    "en":[
+        {
+            "catalogID":"c646d2c20efe458b43e5f0f3cd2b78980168eec8",
+            "entityID":"https://www.thehistorymakers.org/saml/entity/sp",
+            "resourceName":"The HistoryMakers",
+            "resourceProvider":{
+                "name":"The HistoryMakers, Inc.",
+                "displayname":"The HistoryMakers, Inc.",
+                "url":"https://www.thehistorymakers.org"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"The world’s largest African American video oral history collection",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Zhu Sun",
+                    "email":"mailto:zs@thehistorymakers.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Paul Dixon",
+                    "email":"mailto:paul@liblynx.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Paul Dixon",
+                    "email":"mailto:paul@liblynx.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:info@thehistorymakers.org"
+                }
+            ],
+            "info":"https://www.thehistorymakers.org/background",
+            "privacy":"https://www.thehistorymakers.org/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c646d2c20efe458b43e5f0f3cd2b78980168eec8",
+            "entityID":"https://www.thehistorymakers.org/saml/entity/sp",
+            "resourceName":"The HistoryMakers",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.thehistorymakers.org"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Zhu Sun",
+                    "email":"mailto:zs@thehistorymakers.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Paul Dixon",
+                    "email":"mailto:paul@liblynx.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Paul Dixon",
+                    "email":"mailto:paul@liblynx.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:info@thehistorymakers.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c646d2c20efe458b43e5f0f3cd2b78980168eec8",
+            "entityID":"https://www.thehistorymakers.org/saml/entity/sp",
+            "resourceName":"The HistoryMakers",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.thehistorymakers.org"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Zhu Sun",
+                    "email":"mailto:zs@thehistorymakers.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Paul Dixon",
+                    "email":"mailto:paul@liblynx.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Paul Dixon",
+                    "email":"mailto:paul@liblynx.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:info@thehistorymakers.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c646d2c20efe458b43e5f0f3cd2b78980168eec8",
+            "entityID":"https://www.thehistorymakers.org/saml/entity/sp",
+            "resourceName":"The HistoryMakers",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.thehistorymakers.org"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Zhu Sun",
+                    "email":"mailto:zs@thehistorymakers.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Paul Dixon",
+                    "email":"mailto:paul@liblynx.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Paul Dixon",
+                    "email":"mailto:paul@liblynx.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Support",
+                    "email":"mailto:info@thehistorymakers.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
