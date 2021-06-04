@@ -1,0 +1,191 @@
+{
+    "generated":"2021-06-04 11:23",
+    "en":[
+        {
+            "catalogID":"e91f3c85983029c51720abd0baac26ea49d81699",
+            "entityID":"https://science-data.hu/sp",
+            "resourceName":"Concorda",
+            "resourceProvider":{
+                "name":"SZTAKI - Computer and Automation Research Institute",
+                "displayname":"SZTAKI - Computer and Automation Research Institute",
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"CONcentrated Cooperation on Research DAta",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                }
+            ],
+            "info":"https://science-data.hu",
+            "privacy":"https://science-data.hu/privacy",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e91f3c85983029c51720abd0baac26ea49d81699",
+            "entityID":"https://science-data.hu/sp",
+            "resourceName":"Concorda",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e91f3c85983029c51720abd0baac26ea49d81699",
+            "entityID":"https://science-data.hu/sp",
+            "resourceName":"Concorda",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e91f3c85983029c51720abd0baac26ea49d81699",
+            "entityID":"https://science-data.hu/sp",
+            "resourceName":"Concorda",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sztaki.hu/?en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Péter PallingerPéter Pallinger",
+                    "email":"mailto:pallinger.peter@sztaki.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"AAI TeamAAI Team",
+                    "email":"mailto:ugyeletes@sztaki.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
