@@ -1,13 +1,13 @@
 {
-    "generated":"2021-06-07 09:29",
+    "generated":"2021-06-07 11:17",
     "en":[
         {
             "catalogID":"5d91118b2d0f054671b6856cc1fc13b6047c6731",
             "entityID":"https://masader.idm.oclc.org/shibboleth",
-            "resourceName":"masader test",
+            "resourceName":"ezproxy",
             "resourceProvider":{
-                "name":"Masader test",
-                "displayname":"Masader test",
+                "name":"ezproxy",
+                "displayname":"ezproxy",
                 "url":"https://www.masader.om/"
             },
             "resourceAttributes":{
@@ -16,11 +16,11 @@
                 ],
                 "requested":[]
             },
-            "description":"masader test",
+            "description":"ezproxy",
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"aishaAl fudhili",
+                    "name":"aishaaisha",
                     "email":"mailto:aisha@omren.om"
                 },
                 {
@@ -35,22 +35,16 @@
                 }
             ],
             "info":"https://www.masader.om/",
-            "privacy":"https://www.masader.om/",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi",
-                "https://noec.release-check.edugain.org/shibboleth"
-            ]
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ],
     "fr":[
         {
             "catalogID":"5d91118b2d0f054671b6856cc1fc13b6047c6731",
             "entityID":"https://masader.idm.oclc.org/shibboleth",
-            "resourceName":"masader test",
+            "resourceName":"ezproxy",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -66,7 +60,7 @@
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"aishaAl fudhili",
+                    "name":"aishaaisha",
                     "email":"mailto:aisha@omren.om"
                 },
                 {
@@ -82,21 +76,15 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi",
-                "https://noec.release-check.edugain.org/shibboleth"
-            ]
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ],
     "it":[
         {
             "catalogID":"5d91118b2d0f054671b6856cc1fc13b6047c6731",
             "entityID":"https://masader.idm.oclc.org/shibboleth",
-            "resourceName":"masader test",
+            "resourceName":"ezproxy",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -112,7 +100,7 @@
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"aishaAl fudhili",
+                    "name":"aishaaisha",
                     "email":"mailto:aisha@omren.om"
                 },
                 {
@@ -128,21 +116,15 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi",
-                "https://noec.release-check.edugain.org/shibboleth"
-            ]
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ],
     "de":[
         {
             "catalogID":"5d91118b2d0f054671b6856cc1fc13b6047c6731",
             "entityID":"https://masader.idm.oclc.org/shibboleth",
-            "resourceName":"masader test",
+            "resourceName":"ezproxy",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -158,7 +140,7 @@
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"aishaAl fudhili",
+                    "name":"aishaaisha",
                     "email":"mailto:aisha@omren.om"
                 },
                 {
@@ -174,14 +156,8 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi",
-                "https://noec.release-check.edugain.org/shibboleth"
-            ]
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ]
 }
