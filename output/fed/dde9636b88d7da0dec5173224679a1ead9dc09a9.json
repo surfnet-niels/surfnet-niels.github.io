@@ -1,41 +1,48 @@
 {
-    "generated":"2021-06-02 15:05",
+    "generated":"2021-06-09 10:26",
     "en":[
         {
             "catalogID":"dde9636b88d7da0dec5173224679a1ead9dc09a9",
             "entityID":"https://demo-auth.ortolang.fr/auth/realms/ortolang",
-            "resourceName":"ORTOLANG Integration",
+            "resourceName":"ORTOLANG",
             "resourceProvider":{
-                "name":"C.N.R.S. - DSI",
-                "displayname":"C.N.R.S. - DSI",
-                "url":"http://www.dsi.cnrs.fr"
+                "name":"e459",
+                "displayname":"CLARIN ERIC",
+                "url":"http://clarin.eu"
             },
             "resourceAttributes":{
                 "required":[
                     "eduPersonTargetedID"
                 ],
                 "requested":[
-                    "uid",
-                    "mail",
                     "eduPersonPrincipalName",
+                    "mail",
                     "displayName",
                     "givenName"
                 ]
             },
-            "description":"ORTOLANG is an EQUIPEX project accepted in February 2012 in the framework of investissements d’avenir. Its aim is to construct a network infrastructure including a repository of language data (corpora, lexicons, dictionaries etc.) and readily available, well-documented tools for its processing. ORTOLANG is a beneficiary of French State support via its “Investissements d'avenir” program (ANR–11–EQPX–0032) ORTOLANG ISSN 2417–7482",
+            "description":"Platform of linguistic tools and resources for an optimized treatment of the French language",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"EtiennePetitjean",
+                    "email":"mailto:etienne.petitjean@atilf.fr"
+                },
+                {
+                    "type":"support",
+                    "name":"CyrilPestel",
+                    "email":"mailto:cyril.pestel@atilf.fr"
+                },
+                {
                     "type":"technical",
-                    "name":[],
-                    "email":"mailto:sys@atilf.fr"
+                    "name":"CyrilPestel",
+                    "email":"mailto:cyril.pestel@atilf.fr"
                 }
             ],
-            "info":"",
+            "info":"https://www.ortolang.fr/information/presentation?lang=en",
             "privacy":"https://ortolangdoc.atilf.fr/en/privacypolicy",
             "entityCategories":[
-                "https://federation.renater.fr/category/preprod",
-                "https://federation.renater.fr/scope/community",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://clarin.eu/category/clarin-member",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
@@ -45,38 +52,45 @@
         {
             "catalogID":"dde9636b88d7da0dec5173224679a1ead9dc09a9",
             "entityID":"https://demo-auth.ortolang.fr/auth/realms/ortolang",
-            "resourceName":"ORTOLANG Intégration",
+            "resourceName":"ORTOLANG",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.dsi.cnrs.fr"
+                "url":"http://clarin.eu"
             },
             "resourceAttributes":{
                 "required":[
                     "eduPersonTargetedID"
                 ],
                 "requested":[
-                    "uid",
-                    "mail",
                     "eduPersonPrincipalName",
+                    "mail",
                     "displayName",
                     "givenName"
                 ]
             },
-            "description":"ORTOLANG est un équipement d’excellence validé dans le cadre des investissements d’avenir. Son but est de proposer une infrastructure en réseau offrant un réservoir de données (corpus, lexiques, dictionnaires, etc.) et d’outils sur la langue et son traitement clairement disponibles et documentés. ORTOLANG bénéficie d'une aide de l’Etat au titre du programme « Investissements d’avenir » (ANR–11–EQPX–0032) ORTOLANG ISSN 2417–7482",
+            "description":"",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"EtiennePetitjean",
+                    "email":"mailto:etienne.petitjean@atilf.fr"
+                },
+                {
+                    "type":"support",
+                    "name":"CyrilPestel",
+                    "email":"mailto:cyril.pestel@atilf.fr"
+                },
+                {
                     "type":"technical",
-                    "name":[],
-                    "email":"mailto:sys@atilf.fr"
+                    "name":"CyrilPestel",
+                    "email":"mailto:cyril.pestel@atilf.fr"
                 }
             ],
-            "info":"https://demo.ortolang.fr",
+            "info":"",
             "privacy":"",
             "entityCategories":[
-                "https://federation.renater.fr/category/preprod",
-                "https://federation.renater.fr/scope/community",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://clarin.eu/category/clarin-member",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
@@ -86,20 +100,19 @@
         {
             "catalogID":"dde9636b88d7da0dec5173224679a1ead9dc09a9",
             "entityID":"https://demo-auth.ortolang.fr/auth/realms/ortolang",
-            "resourceName":"ORTOLANG Integration",
+            "resourceName":"ORTOLANG",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.dsi.cnrs.fr"
+                "url":"http://clarin.eu"
             },
             "resourceAttributes":{
                 "required":[
                     "eduPersonTargetedID"
                 ],
                 "requested":[
-                    "uid",
-                    "mail",
                     "eduPersonPrincipalName",
+                    "mail",
                     "displayName",
                     "givenName"
                 ]
@@ -107,17 +120,25 @@
             "description":"",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"EtiennePetitjean",
+                    "email":"mailto:etienne.petitjean@atilf.fr"
+                },
+                {
+                    "type":"support",
+                    "name":"CyrilPestel",
+                    "email":"mailto:cyril.pestel@atilf.fr"
+                },
+                {
                     "type":"technical",
-                    "name":[],
-                    "email":"mailto:sys@atilf.fr"
+                    "name":"CyrilPestel",
+                    "email":"mailto:cyril.pestel@atilf.fr"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "https://federation.renater.fr/category/preprod",
-                "https://federation.renater.fr/scope/community",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://clarin.eu/category/clarin-member",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
@@ -127,38 +148,45 @@
         {
             "catalogID":"dde9636b88d7da0dec5173224679a1ead9dc09a9",
             "entityID":"https://demo-auth.ortolang.fr/auth/realms/ortolang",
-            "resourceName":"ORTOLANG Integration",
+            "resourceName":"ORTOLANG",
             "resourceProvider":{
-                "name":[],
-                "displayname":[],
-                "url":"http://www.dsi.cnrs.fr"
+                "name":"e459",
+                "displayname":"CLARIN ERIC",
+                "url":"http://clarin.eu"
             },
             "resourceAttributes":{
                 "required":[
                     "eduPersonTargetedID"
                 ],
                 "requested":[
-                    "uid",
-                    "mail",
                     "eduPersonPrincipalName",
+                    "mail",
                     "displayName",
                     "givenName"
                 ]
             },
-            "description":"",
+            "description":"Plattform für sprachliche Werkzeuge und Ressourcen zur optimierten Verarbeitung der französischen Sprache",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"EtiennePetitjean",
+                    "email":"mailto:etienne.petitjean@atilf.fr"
+                },
+                {
+                    "type":"support",
+                    "name":"CyrilPestel",
+                    "email":"mailto:cyril.pestel@atilf.fr"
+                },
+                {
                     "type":"technical",
-                    "name":[],
-                    "email":"mailto:sys@atilf.fr"
+                    "name":"CyrilPestel",
+                    "email":"mailto:cyril.pestel@atilf.fr"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "https://federation.renater.fr/category/preprod",
-                "https://federation.renater.fr/scope/community",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://clarin.eu/category/clarin-member",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
