@@ -1,0 +1,195 @@
+{
+    "generated":"2021-06-10 20:23",
+    "en":[
+        {
+            "catalogID":"2124fd9243ef05715808af5f970257d6b934a134",
+            "entityID":"https://radforduniversity.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - Radford University",
+            "resourceProvider":{
+                "name":"PhotoShelter, Inc.",
+                "displayname":"PhotoShelter, Inc.",
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"PhotoShelter - Radford University SSO Portal",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands CS",
+                    "email":"mailto:techsupport@photoshelterbrands.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.photoshelter.com/support/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2124fd9243ef05715808af5f970257d6b934a134",
+            "entityID":"https://radforduniversity.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - Radford University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands CS",
+                    "email":"mailto:techsupport@photoshelterbrands.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2124fd9243ef05715808af5f970257d6b934a134",
+            "entityID":"https://radforduniversity.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - Radford University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands CS",
+                    "email":"mailto:techsupport@photoshelterbrands.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2124fd9243ef05715808af5f970257d6b934a134",
+            "entityID":"https://radforduniversity.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - Radford University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands CS",
+                    "email":"mailto:techsupport@photoshelterbrands.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

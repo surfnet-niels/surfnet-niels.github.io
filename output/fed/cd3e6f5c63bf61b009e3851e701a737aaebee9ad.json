@@ -1,0 +1,199 @@
+{
+    "generated":"2021-06-10 20:23",
+    "en":[
+        {
+            "catalogID":"cd3e6f5c63bf61b009e3851e701a737aaebee9ad",
+            "entityID":"https://northwestern.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Northwestern University Blogs",
+            "resourceProvider":{
+                "name":"Edublogs",
+                "displayname":"Edublogs",
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://incsub.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"cd3e6f5c63bf61b009e3851e701a737aaebee9ad",
+            "entityID":"https://northwestern.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Northwestern University Blogs",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"cd3e6f5c63bf61b009e3851e701a737aaebee9ad",
+            "entityID":"https://northwestern.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Northwestern University Blogs",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"cd3e6f5c63bf61b009e3851e701a737aaebee9ad",
+            "entityID":"https://northwestern.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Northwestern University Blogs",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"S H Mohanjith",
+                    "email":"mailto:moha@incsub.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
