@@ -1,5 +1,5 @@
 {
-    "generated":"2021-06-13 18:28",
+    "generated":"2021-06-13 20:21",
     "en":[
         {
             "catalogID":"eed0315bd794b373c03b48effe1210013a2daa8b",
@@ -15,18 +15,18 @@
                     "eduPersonScopedAffiliation",
                     "eduPersonAffiliation",
                     "givenName",
-                    "surname",
-                    "commonName",
                     "eduPersonAssurance",
+                    "surname",
                     "mail",
+                    "commonName",
                     "displayName"
                 ],
                 "requested":[
                     "departmentNumber",
-                    "organizationName",
-                    "homeOrganizationType",
                     "homeOrganization",
-                    "organizationalUnit"
+                    "homeOrganizationType",
+                    "organizationalUnit",
+                    "organizationName"
                 ]
             },
             "description":"AClass Staging server is used for user acceptance test and other testing purposes.",
@@ -58,18 +58,18 @@
                     "eduPersonScopedAffiliation",
                     "eduPersonAffiliation",
                     "givenName",
-                    "surname",
-                    "commonName",
                     "eduPersonAssurance",
+                    "surname",
                     "mail",
+                    "commonName",
                     "displayName"
                 ],
                 "requested":[
                     "departmentNumber",
-                    "organizationName",
-                    "homeOrganizationType",
                     "homeOrganization",
-                    "organizationalUnit"
+                    "homeOrganizationType",
+                    "organizationalUnit",
+                    "organizationName"
                 ]
             },
             "description":"",
@@ -101,18 +101,18 @@
                     "eduPersonScopedAffiliation",
                     "eduPersonAffiliation",
                     "givenName",
-                    "surname",
-                    "commonName",
                     "eduPersonAssurance",
+                    "surname",
                     "mail",
+                    "commonName",
                     "displayName"
                 ],
                 "requested":[
                     "departmentNumber",
-                    "organizationName",
-                    "homeOrganizationType",
                     "homeOrganization",
-                    "organizationalUnit"
+                    "homeOrganizationType",
+                    "organizationalUnit",
+                    "organizationName"
                 ]
             },
             "description":"",
@@ -144,18 +144,18 @@
                     "eduPersonScopedAffiliation",
                     "eduPersonAffiliation",
                     "givenName",
-                    "surname",
-                    "commonName",
                     "eduPersonAssurance",
+                    "surname",
                     "mail",
+                    "commonName",
                     "displayName"
                 ],
                 "requested":[
                     "departmentNumber",
-                    "organizationName",
-                    "homeOrganizationType",
                     "homeOrganization",
-                    "organizationalUnit"
+                    "homeOrganizationType",
+                    "organizationalUnit",
+                    "organizationName"
                 ]
             },
             "description":"",
