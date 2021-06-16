@@ -1,10 +1,10 @@
 {
-    "generated":"2021-06-16 12:33",
+    "generated":"2021-06-16 14:20",
     "en":[
         {
             "catalogID":"9fc25606b1476443ce8dfea8303c7e089fe913c2",
             "entityID":"https://mymi.uni-ulm.de/shibboleth",
-            "resourceName":"MyMiCROscope virtual Ulm HistoCourse",
+            "resourceName":"MyMi.mobile by Ulm University",
             "resourceProvider":{
                 "name":"e216",
                 "displayname":"Universität Ulm",
@@ -17,7 +17,7 @@
                 ],
                 "requested":[]
             },
-            "description":"virtual Ulm histology course",
+            "description":"Virtual microscope developed by the Institute of Molecular and Cellular Anatomy of Ulm University with virtual histology courses from Ulm University and University of Freiburg",
             "resourceContacts":[
                 {
                     "type":"technical",
@@ -35,7 +35,7 @@
                     "email":"mailto:katharina.langer-fischer@uni-ulm.de"
                 }
             ],
-            "info":"https://www.uni-ulm.de/med/med-anatomie/lehre/digitales-lernen/",
+            "info":"https://www.uni-ulm.de/med/med-anatomie",
             "privacy":"",
             "entityCategories":[],
             "SirtfiSupport":[]
@@ -45,7 +45,7 @@
         {
             "catalogID":"9fc25606b1476443ce8dfea8303c7e089fe913c2",
             "entityID":"https://mymi.uni-ulm.de/shibboleth",
-            "resourceName":"MyMiCROscope virtual Ulm HistoCourse",
+            "resourceName":"MyMi.mobile by Ulm University",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -86,7 +86,7 @@
         {
             "catalogID":"9fc25606b1476443ce8dfea8303c7e089fe913c2",
             "entityID":"https://mymi.uni-ulm.de/shibboleth",
-            "resourceName":"MyMiCROscope virtual Ulm HistoCourse",
+            "resourceName":"MyMi.mobile by Ulm University",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -127,7 +127,7 @@
         {
             "catalogID":"9fc25606b1476443ce8dfea8303c7e089fe913c2",
             "entityID":"https://mymi.uni-ulm.de/shibboleth",
-            "resourceName":"MyMiCROscope virtueller Ulmer HistoKurs",
+            "resourceName":"MyMi.mobile der Universität Ulm",
             "resourceProvider":{
                 "name":"e216",
                 "displayname":"Universität Ulm",
@@ -140,7 +140,7 @@
                 ],
                 "requested":[]
             },
-            "description":"virtueller Ulmer Histologie-Kurs",
+            "description":"Virtuelles Mikroskop, entwickelt vom Institut für Molekulare und Zelluläre Anatomie der Universität Ulm mit virtuellen Histologiekursen der Universität Ulm und der Universität Freiburg",
             "resourceContacts":[
                 {
                     "type":"technical",
@@ -158,8 +158,8 @@
                     "email":"mailto:katharina.langer-fischer@uni-ulm.de"
                 }
             ],
-            "info":"https://www.uni-ulm.de/med/med-anatomie/lehre/digitales-lernen/",
-            "privacy":"",
+            "info":"https://www.uni-ulm.de/med/med-anatomie",
+            "privacy":"https://mymi.uni-ulm.de/login/#terms-of-use",
             "entityCategories":[],
             "SirtfiSupport":[]
         }
