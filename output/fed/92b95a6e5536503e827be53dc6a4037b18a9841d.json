@@ -1,5 +1,5 @@
 {
-    "generated":"2021-06-17 18:28",
+    "generated":"2021-06-17 20:22",
     "en":[
         {
             "catalogID":"92b95a6e5536503e827be53dc6a4037b18a9841d",
@@ -18,13 +18,13 @@
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"Warren Curry",
-                    "email":"mailto:whcurry@ufl.edu"
+                    "name":"UF Identity Services",
+                    "email":"mailto:Identity-Services@it.ufl.edu"
                 },
                 {
                     "type":"technical",
-                    "name":"Charles Tompkins",
-                    "email":"mailto:crt@ufl.edu"
+                    "name":"UF Identity Services",
+                    "email":"mailto:Identity-Services@it.ufl.edu"
                 },
                 {
                     "type":"support",
@@ -42,7 +42,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -63,13 +65,13 @@
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"Warren Curry",
-                    "email":"mailto:whcurry@ufl.edu"
+                    "name":"UF Identity Services",
+                    "email":"mailto:Identity-Services@it.ufl.edu"
                 },
                 {
                     "type":"technical",
-                    "name":"Charles Tompkins",
-                    "email":"mailto:crt@ufl.edu"
+                    "name":"UF Identity Services",
+                    "email":"mailto:Identity-Services@it.ufl.edu"
                 },
                 {
                     "type":"support",
@@ -87,7 +89,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -108,13 +112,13 @@
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"Warren Curry",
-                    "email":"mailto:whcurry@ufl.edu"
+                    "name":"UF Identity Services",
+                    "email":"mailto:Identity-Services@it.ufl.edu"
                 },
                 {
                     "type":"technical",
-                    "name":"Charles Tompkins",
-                    "email":"mailto:crt@ufl.edu"
+                    "name":"UF Identity Services",
+                    "email":"mailto:Identity-Services@it.ufl.edu"
                 },
                 {
                     "type":"support",
@@ -132,7 +136,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -153,13 +159,13 @@
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"Warren Curry",
-                    "email":"mailto:whcurry@ufl.edu"
+                    "name":"UF Identity Services",
+                    "email":"mailto:Identity-Services@it.ufl.edu"
                 },
                 {
                     "type":"technical",
-                    "name":"Charles Tompkins",
-                    "email":"mailto:crt@ufl.edu"
+                    "name":"UF Identity Services",
+                    "email":"mailto:Identity-Services@it.ufl.edu"
                 },
                 {
                     "type":"support",
@@ -177,7 +183,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
