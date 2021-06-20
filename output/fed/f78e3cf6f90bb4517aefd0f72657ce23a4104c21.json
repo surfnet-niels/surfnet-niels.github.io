@@ -1,5 +1,5 @@
 {
-    "generated":"2021-06-20 18:27",
+    "generated":"2021-06-20 20:21",
     "en":[
         {
             "catalogID":"f78e3cf6f90bb4517aefd0f72657ce23a4104c21",
@@ -12,21 +12,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
-                    "eduPersonAssurance",
-                    "displayName",
                     "eduPersonScopedAffiliation",
                     "surname",
-                    "mail",
-                    "commonName"
+                    "displayName",
+                    "eduPersonAssurance",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "mail"
                 ],
                 "requested":[
-                    "homeOrganization",
+                    "departmentNumber",
                     "homeOrganizationType",
                     "givenName",
-                    "departmentNumber",
                     "division",
                     "organizationName",
+                    "homeOrganization",
                     "organizationalUnit"
                 ]
             },
@@ -56,21 +56,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
-                    "eduPersonAssurance",
-                    "displayName",
                     "eduPersonScopedAffiliation",
                     "surname",
-                    "mail",
-                    "commonName"
+                    "displayName",
+                    "eduPersonAssurance",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "mail"
                 ],
                 "requested":[
-                    "homeOrganization",
+                    "departmentNumber",
                     "homeOrganizationType",
                     "givenName",
-                    "departmentNumber",
                     "division",
                     "organizationName",
+                    "homeOrganization",
                     "organizationalUnit"
                 ]
             },
@@ -100,21 +100,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
-                    "eduPersonAssurance",
-                    "displayName",
                     "eduPersonScopedAffiliation",
                     "surname",
-                    "mail",
-                    "commonName"
+                    "displayName",
+                    "eduPersonAssurance",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "mail"
                 ],
                 "requested":[
-                    "homeOrganization",
+                    "departmentNumber",
                     "homeOrganizationType",
                     "givenName",
-                    "departmentNumber",
                     "division",
                     "organizationName",
+                    "homeOrganization",
                     "organizationalUnit"
                 ]
             },
@@ -144,21 +144,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
-                    "eduPersonAssurance",
-                    "displayName",
                     "eduPersonScopedAffiliation",
                     "surname",
-                    "mail",
-                    "commonName"
+                    "displayName",
+                    "eduPersonAssurance",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "mail"
                 ],
                 "requested":[
-                    "homeOrganization",
+                    "departmentNumber",
                     "homeOrganizationType",
                     "givenName",
-                    "departmentNumber",
                     "division",
                     "organizationName",
+                    "homeOrganization",
                     "organizationalUnit"
                 ]
             },
