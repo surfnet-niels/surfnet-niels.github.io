@@ -1,0 +1,195 @@
+{
+    "generated":"2021-06-23 20:20",
+    "en":[
+        {
+            "catalogID":"b7d869752d9712e20fe2ecf27e79af019af829b4",
+            "entityID":"https://iam-apps.weill.cornell.edu/shibboleth",
+            "resourceName":"Weill Cornell Identity Management",
+            "resourceProvider":{
+                "name":"Weill Cornell Medical College",
+                "displayname":"Weill Cornell Medical College",
+                "url":"http://www.med.cornell.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kevin McCormack",
+                    "email":"mailto:kem2028@med.cornell.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Ounali Jaffery",
+                    "email":"mailto:ouj2001@med.cornell.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brian Tschinkel",
+                    "email":"mailto:brt2008@med.cornell.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://weill.cornell.edu/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b7d869752d9712e20fe2ecf27e79af019af829b4",
+            "entityID":"https://iam-apps.weill.cornell.edu/shibboleth",
+            "resourceName":"Weill Cornell Identity Management",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.med.cornell.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kevin McCormack",
+                    "email":"mailto:kem2028@med.cornell.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Ounali Jaffery",
+                    "email":"mailto:ouj2001@med.cornell.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brian Tschinkel",
+                    "email":"mailto:brt2008@med.cornell.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b7d869752d9712e20fe2ecf27e79af019af829b4",
+            "entityID":"https://iam-apps.weill.cornell.edu/shibboleth",
+            "resourceName":"Weill Cornell Identity Management",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.med.cornell.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kevin McCormack",
+                    "email":"mailto:kem2028@med.cornell.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Ounali Jaffery",
+                    "email":"mailto:ouj2001@med.cornell.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brian Tschinkel",
+                    "email":"mailto:brt2008@med.cornell.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b7d869752d9712e20fe2ecf27e79af019af829b4",
+            "entityID":"https://iam-apps.weill.cornell.edu/shibboleth",
+            "resourceName":"Weill Cornell Identity Management",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.med.cornell.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Kevin McCormack",
+                    "email":"mailto:kem2028@med.cornell.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Ounali Jaffery",
+                    "email":"mailto:ouj2001@med.cornell.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brian Tschinkel",
+                    "email":"mailto:brt2008@med.cornell.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
