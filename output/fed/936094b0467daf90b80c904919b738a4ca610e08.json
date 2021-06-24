@@ -1,5 +1,5 @@
 {
-    "generated":"2021-06-24 14:20",
+    "generated":"2021-06-24 16:35",
     "en":[
         {
             "catalogID":"936094b0467daf90b80c904919b738a4ca610e08",
@@ -12,13 +12,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonAffiliation",
                     "eduPersonPrimaryAffiliation",
                     "eduPersonPrincipalName",
                     "displayName"
                 ],
                 "requested":[
+                    "mail",
                     "eduPersonOrgUnitDN",
                     "eduPersonScopedAffiliation",
                     "supannEntiteAffectationPrincipale",
@@ -57,13 +57,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonAffiliation",
                     "eduPersonPrimaryAffiliation",
                     "eduPersonPrincipalName",
                     "displayName"
                 ],
                 "requested":[
+                    "mail",
                     "eduPersonOrgUnitDN",
                     "eduPersonScopedAffiliation",
                     "supannEntiteAffectationPrincipale",
@@ -102,13 +102,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonAffiliation",
                     "eduPersonPrimaryAffiliation",
                     "eduPersonPrincipalName",
                     "displayName"
                 ],
                 "requested":[
+                    "mail",
                     "eduPersonOrgUnitDN",
                     "eduPersonScopedAffiliation",
                     "supannEntiteAffectationPrincipale",
@@ -147,13 +147,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonAffiliation",
                     "eduPersonPrimaryAffiliation",
                     "eduPersonPrincipalName",
                     "displayName"
                 ],
                 "requested":[
+                    "mail",
                     "eduPersonOrgUnitDN",
                     "eduPersonScopedAffiliation",
                     "supannEntiteAffectationPrincipale",
