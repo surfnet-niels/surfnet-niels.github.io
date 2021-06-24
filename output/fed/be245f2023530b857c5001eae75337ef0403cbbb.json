@@ -1,5 +1,5 @@
 {
-    "generated":"2021-06-24 18:27",
+    "generated":"2021-06-24 20:18",
     "en":[
         {
             "catalogID":"be245f2023530b857c5001eae75337ef0403cbbb",
@@ -40,7 +40,7 @@
                 {
                     "type":"security",
                     "name":"PQ-Information Security Office",
-                    "email":"mailto:ISOtempAddress@proquest.com"
+                    "email":"mailto:security@proquest.com"
                 }
             ],
             "info":"http://www.proquest.com",
@@ -48,7 +48,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -91,7 +93,7 @@
                 {
                     "type":"security",
                     "name":"PQ-Information Security Office",
-                    "email":"mailto:ISOtempAddress@proquest.com"
+                    "email":"mailto:security@proquest.com"
                 }
             ],
             "info":"",
@@ -99,7 +101,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -142,7 +146,7 @@
                 {
                     "type":"security",
                     "name":"PQ-Information Security Office",
-                    "email":"mailto:ISOtempAddress@proquest.com"
+                    "email":"mailto:security@proquest.com"
                 }
             ],
             "info":"",
@@ -150,7 +154,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -193,7 +199,7 @@
                 {
                     "type":"security",
                     "name":"PQ-Information Security Office",
-                    "email":"mailto:ISOtempAddress@proquest.com"
+                    "email":"mailto:security@proquest.com"
                 }
             ],
             "info":"",
@@ -201,7 +207,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }

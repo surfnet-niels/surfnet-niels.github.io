@@ -1,0 +1,199 @@
+{
+    "generated":"2021-06-24 20:18",
+    "en":[
+        {
+            "catalogID":"070890a25d6298346df425e424ad41a223735bce",
+            "entityID":"https://columbia.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Columbia University - CampusPress",
+            "resourceProvider":{
+                "name":"Edublogs",
+                "displayname":"Edublogs",
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Zahra Tariq",
+                    "email":"mailto:zahra.tariq@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://incsub.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"070890a25d6298346df425e424ad41a223735bce",
+            "entityID":"https://columbia.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Columbia University - CampusPress",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Zahra Tariq",
+                    "email":"mailto:zahra.tariq@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"070890a25d6298346df425e424ad41a223735bce",
+            "entityID":"https://columbia.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Columbia University - CampusPress",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Zahra Tariq",
+                    "email":"mailto:zahra.tariq@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"070890a25d6298346df425e424ad41a223735bce",
+            "entityID":"https://columbia.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Columbia University - CampusPress",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Zahra Tariq",
+                    "email":"mailto:zahra.tariq@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
