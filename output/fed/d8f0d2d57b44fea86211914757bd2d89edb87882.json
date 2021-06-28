@@ -1,5 +1,5 @@
 {
-    "generated":"2021-06-28 06:30",
+    "generated":"2021-06-28 08:25",
     "en":[
         {
             "catalogID":"d8f0d2d57b44fea86211914757bd2d89edb87882",
@@ -13,13 +13,16 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonAffiliation",
+                    "eduPersonUniqueID"
                 ],
                 "requested":[
-                    "eduPersonPrincipalName"
+                    "schacHomeOrganization"
                 ]
             },
-            "description":"InAcademia validates affiliation assigned by your home institution. This data is provided in anonymized form to services. While your Institution assists in validation your affiliation, it has no relation with the Service requesting the validation. ",
+            "description":"InAcademia validates affiliation assigned by your home institution. This data is provided in anonymized form to services. While your Institution assists in validation your affiliation, it has no relation with the Service requesting the validation.",
             "resourceContacts":[
                 {
                     "type":"support",
@@ -65,10 +68,13 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonAffiliation",
+                    "eduPersonUniqueID"
                 ],
                 "requested":[
-                    "eduPersonPrincipalName"
+                    "schacHomeOrganization"
                 ]
             },
             "description":"",
@@ -117,10 +123,13 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonAffiliation",
+                    "eduPersonUniqueID"
                 ],
                 "requested":[
-                    "eduPersonPrincipalName"
+                    "schacHomeOrganization"
                 ]
             },
             "description":"",
@@ -162,20 +171,23 @@
             "entityID":"https://inacademia.org/metadata/inacademia-simple-validation.xml",
             "resourceName":"InAcademia Affiliation Validation Service",
             "resourceProvider":{
-                "name":[],
-                "displayname":[],
+                "name":"InAcademia operated by GÉANT",
+                "displayname":"InAcademia",
                 "url":"https://inacademia.org/about"
             },
             "resourceAttributes":{
                 "required":[
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "eduPersonAffiliation",
+                    "eduPersonUniqueID"
                 ],
                 "requested":[
-                    "eduPersonPrincipalName"
+                    "schacHomeOrganization"
                 ]
             },
-            "description":"",
+            "description":"InAcademia validates affiliation assigned by your home institution. This data is provided in anonymized form to services. While your Institution assists in validation your affiliation, it has no relation with the Service requesting the validation.",
             "resourceContacts":[
                 {
                     "type":"support",
@@ -198,8 +210,8 @@
                     "email":"mailto:support@inacademia.org"
                 }
             ],
-            "info":"",
-            "privacy":"",
+            "info":"https://inacademia.org/about",
+            "privacy":"https://inacademia.org/privacy-statement/",
             "entityCategories":[
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
