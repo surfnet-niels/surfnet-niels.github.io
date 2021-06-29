@@ -1,0 +1,203 @@
+{
+    "generated":"2021-06-29 20:22",
+    "en":[
+        {
+            "catalogID":"03ba0eb3064d83bf47cd425c702754698230a305",
+            "entityID":"https://dataverse.unc.edu/shibboleth",
+            "resourceName":"UNC-CH Odum Institute Dataverse",
+            "resourceProvider":{
+                "name":"University of North Carolina at Chapel Hill",
+                "displayname":"University of North Carolina at Chapel Hill",
+                "url":"http://www.unc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Donald Sizemore",
+                    "email":"mailto:dls@email.unc.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jon Crabtree",
+                    "email":"mailto:jonathan_crabtree@unc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Odum Institute Systems Support",
+                    "email":"mailto:odum_systems@unc.edu"
+                }
+            ],
+            "info":"https://dataverse.harvard.edu",
+            "privacy":"https://www.unc.edu/about/privacy-statement/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"03ba0eb3064d83bf47cd425c702754698230a305",
+            "entityID":"https://dataverse.unc.edu/shibboleth",
+            "resourceName":"UNC-CH Odum Institute Dataverse",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.unc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Donald Sizemore",
+                    "email":"mailto:dls@email.unc.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jon Crabtree",
+                    "email":"mailto:jonathan_crabtree@unc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Odum Institute Systems Support",
+                    "email":"mailto:odum_systems@unc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"03ba0eb3064d83bf47cd425c702754698230a305",
+            "entityID":"https://dataverse.unc.edu/shibboleth",
+            "resourceName":"UNC-CH Odum Institute Dataverse",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.unc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Donald Sizemore",
+                    "email":"mailto:dls@email.unc.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jon Crabtree",
+                    "email":"mailto:jonathan_crabtree@unc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Odum Institute Systems Support",
+                    "email":"mailto:odum_systems@unc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"03ba0eb3064d83bf47cd425c702754698230a305",
+            "entityID":"https://dataverse.unc.edu/shibboleth",
+            "resourceName":"UNC-CH Odum Institute Dataverse",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.unc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Donald Sizemore",
+                    "email":"mailto:dls@email.unc.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Jon Crabtree",
+                    "email":"mailto:jonathan_crabtree@unc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Odum Institute Systems Support",
+                    "email":"mailto:odum_systems@unc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
