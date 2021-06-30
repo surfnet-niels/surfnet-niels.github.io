@@ -1,41 +1,46 @@
 {
-    "generated":"2021-06-30 12:34",
+    "generated":"2021-06-30 14:20",
     "en":[
         {
             "catalogID":"ee09d941ebb5876b5b22d910cf80f1f3c22a3245",
             "entityID":"https://aai-demo.egi.eu/proxy/module.php/saml/sp/metadata.php/sso",
-            "resourceName":"EGI Check-in Demo Service",
+            "resourceName":"EGI Check-in Service (Demo environment)",
             "resourceProvider":{
                 "name":"EGI Foundation",
                 "displayname":"EGI Foundation",
                 "url":"https://www.egi.eu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
-                    "eduPersonUniqueId",
-                    "eduPersonPrincipalName",
-                    "eduPersonTargetedID",
+                "required":[
                     "displayName",
                     "givenName",
                     "sn",
                     "mail",
                     "eduPersonScopedAffiliation",
+                    "eduPersonAssurance"
+                ],
+                "requested":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
                     "eduPersonEntitlement",
-                    "eduPersonAssurance",
-                    "voPersonExternalAffiliation"
+                    "voPersonCertificateDN",
+                    "voPersonCertificateIssuerDN",
+                    "voPersonExternalAffiliation",
+                    "voPersonID",
+                    "voPersonScopedAffiliation"
                 ]
             },
-            "description":"EGI Check-in Demo Service",
+            "description":"EGI Check-in Service (Demo environment)",
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"EGI Check-in AAI Service",
-                    "email":"mailto:checkin-support@mailman.egi.eu"
+                    "name":"EGI Check-in",
+                    "email":"mailto:check-in@egi.eu"
                 },
                 {
                     "type":"support",
-                    "name":"EGI Check-in AAI Service",
+                    "name":"EGI Check-in Support",
                     "email":"mailto:checkin-support@mailman.egi.eu"
                 },
                 {
@@ -45,14 +50,15 @@
                 },
                 {
                     "type":"technical",
-                    "name":"NicolasLiampotis",
-                    "email":"mailto:nliam@grnet.gr"
+                    "name":"EGI Check-in",
+                    "email":"mailto:check-in@egi.eu"
                 }
             ],
-            "info":"https://wiki.egi.eu/wiki/AAI",
+            "info":"https://www.egi.eu/services/check-in/",
             "privacy":"https://aai-demo.egi.eu/privacy/en",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
@@ -63,38 +69,43 @@
         {
             "catalogID":"ee09d941ebb5876b5b22d910cf80f1f3c22a3245",
             "entityID":"https://aai-demo.egi.eu/proxy/module.php/saml/sp/metadata.php/sso",
-            "resourceName":"EGI Check-in Demo Service",
+            "resourceName":"EGI Check-in Service (Demo environment)",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.egi.eu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
-                    "eduPersonUniqueId",
-                    "eduPersonPrincipalName",
-                    "eduPersonTargetedID",
+                "required":[
                     "displayName",
                     "givenName",
                     "sn",
                     "mail",
                     "eduPersonScopedAffiliation",
+                    "eduPersonAssurance"
+                ],
+                "requested":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
                     "eduPersonEntitlement",
-                    "eduPersonAssurance",
-                    "voPersonExternalAffiliation"
+                    "voPersonCertificateDN",
+                    "voPersonCertificateIssuerDN",
+                    "voPersonExternalAffiliation",
+                    "voPersonID",
+                    "voPersonScopedAffiliation"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"EGI Check-in AAI Service",
-                    "email":"mailto:checkin-support@mailman.egi.eu"
+                    "name":"EGI Check-in",
+                    "email":"mailto:check-in@egi.eu"
                 },
                 {
                     "type":"support",
-                    "name":"EGI Check-in AAI Service",
+                    "name":"EGI Check-in Support",
                     "email":"mailto:checkin-support@mailman.egi.eu"
                 },
                 {
@@ -104,14 +115,15 @@
                 },
                 {
                     "type":"technical",
-                    "name":"NicolasLiampotis",
-                    "email":"mailto:nliam@grnet.gr"
+                    "name":"EGI Check-in",
+                    "email":"mailto:check-in@egi.eu"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
@@ -122,38 +134,43 @@
         {
             "catalogID":"ee09d941ebb5876b5b22d910cf80f1f3c22a3245",
             "entityID":"https://aai-demo.egi.eu/proxy/module.php/saml/sp/metadata.php/sso",
-            "resourceName":"EGI Check-in Demo Service",
+            "resourceName":"EGI Check-in Service (Demo environment)",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.egi.eu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
-                    "eduPersonUniqueId",
-                    "eduPersonPrincipalName",
-                    "eduPersonTargetedID",
+                "required":[
                     "displayName",
                     "givenName",
                     "sn",
                     "mail",
                     "eduPersonScopedAffiliation",
+                    "eduPersonAssurance"
+                ],
+                "requested":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
                     "eduPersonEntitlement",
-                    "eduPersonAssurance",
-                    "voPersonExternalAffiliation"
+                    "voPersonCertificateDN",
+                    "voPersonCertificateIssuerDN",
+                    "voPersonExternalAffiliation",
+                    "voPersonID",
+                    "voPersonScopedAffiliation"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"EGI Check-in AAI Service",
-                    "email":"mailto:checkin-support@mailman.egi.eu"
+                    "name":"EGI Check-in",
+                    "email":"mailto:check-in@egi.eu"
                 },
                 {
                     "type":"support",
-                    "name":"EGI Check-in AAI Service",
+                    "name":"EGI Check-in Support",
                     "email":"mailto:checkin-support@mailman.egi.eu"
                 },
                 {
@@ -163,14 +180,15 @@
                 },
                 {
                     "type":"technical",
-                    "name":"NicolasLiampotis",
-                    "email":"mailto:nliam@grnet.gr"
+                    "name":"EGI Check-in",
+                    "email":"mailto:check-in@egi.eu"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
@@ -181,38 +199,43 @@
         {
             "catalogID":"ee09d941ebb5876b5b22d910cf80f1f3c22a3245",
             "entityID":"https://aai-demo.egi.eu/proxy/module.php/saml/sp/metadata.php/sso",
-            "resourceName":"EGI Check-in Demo Service",
+            "resourceName":"EGI Check-in Service (Demo environment)",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.egi.eu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
-                    "eduPersonUniqueId",
-                    "eduPersonPrincipalName",
-                    "eduPersonTargetedID",
+                "required":[
                     "displayName",
                     "givenName",
                     "sn",
                     "mail",
                     "eduPersonScopedAffiliation",
+                    "eduPersonAssurance"
+                ],
+                "requested":[
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
                     "eduPersonEntitlement",
-                    "eduPersonAssurance",
-                    "voPersonExternalAffiliation"
+                    "voPersonCertificateDN",
+                    "voPersonCertificateIssuerDN",
+                    "voPersonExternalAffiliation",
+                    "voPersonID",
+                    "voPersonScopedAffiliation"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"EGI Check-in AAI Service",
-                    "email":"mailto:checkin-support@mailman.egi.eu"
+                    "name":"EGI Check-in",
+                    "email":"mailto:check-in@egi.eu"
                 },
                 {
                     "type":"support",
-                    "name":"EGI Check-in AAI Service",
+                    "name":"EGI Check-in Support",
                     "email":"mailto:checkin-support@mailman.egi.eu"
                 },
                 {
@@ -222,14 +245,15 @@
                 },
                 {
                     "type":"technical",
-                    "name":"NicolasLiampotis",
-                    "email":"mailto:nliam@grnet.gr"
+                    "name":"EGI Check-in",
+                    "email":"mailto:check-in@egi.eu"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
