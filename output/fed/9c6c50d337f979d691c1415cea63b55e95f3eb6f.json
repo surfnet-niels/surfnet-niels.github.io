@@ -1,5 +1,5 @@
 {
-    "generated":"2021-06-30 14:20",
+    "generated":"2021-06-30 16:36",
     "en":[
         {
             "catalogID":"9c6c50d337f979d691c1415cea63b55e95f3eb6f",
@@ -12,12 +12,12 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "eduPersonPrincipalName",
                     "mail",
                     "sn",
                     "givenName"
                 ],
                 "requested":[
-                    "eduPersonPrincipalName",
                     "eduPersonUniqueId",
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
@@ -65,12 +65,12 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "eduPersonPrincipalName",
                     "mail",
                     "sn",
                     "givenName"
                 ],
                 "requested":[
-                    "eduPersonPrincipalName",
                     "eduPersonUniqueId",
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
@@ -118,12 +118,12 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "eduPersonPrincipalName",
                     "mail",
                     "sn",
                     "givenName"
                 ],
                 "requested":[
-                    "eduPersonPrincipalName",
                     "eduPersonUniqueId",
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
@@ -171,12 +171,12 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "eduPersonPrincipalName",
                     "mail",
                     "sn",
                     "givenName"
                 ],
                 "requested":[
-                    "eduPersonPrincipalName",
                     "eduPersonUniqueId",
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
