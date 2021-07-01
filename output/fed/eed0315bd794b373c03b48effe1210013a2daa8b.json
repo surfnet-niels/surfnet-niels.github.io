@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-01 18:28",
+    "generated":"2021-07-01 20:25",
     "en":[
         {
             "catalogID":"eed0315bd794b373c03b48effe1210013a2daa8b",
@@ -12,21 +12,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
                     "eduPersonScopedAffiliation",
+                    "displayName",
                     "surname",
-                    "givenName",
                     "eduPersonAssurance",
+                    "eduPersonAffiliation",
                     "mail",
                     "commonName",
-                    "displayName"
+                    "givenName"
                 ],
                 "requested":[
-                    "departmentNumber",
-                    "homeOrganization",
                     "organizationName",
+                    "organizationalUnit",
                     "homeOrganizationType",
-                    "organizationalUnit"
+                    "departmentNumber",
+                    "homeOrganization"
                 ]
             },
             "description":"AClass Staging server is used for user acceptance test and other testing purposes.",
@@ -55,21 +55,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
                     "eduPersonScopedAffiliation",
+                    "displayName",
                     "surname",
-                    "givenName",
                     "eduPersonAssurance",
+                    "eduPersonAffiliation",
                     "mail",
                     "commonName",
-                    "displayName"
+                    "givenName"
                 ],
                 "requested":[
-                    "departmentNumber",
-                    "homeOrganization",
                     "organizationName",
+                    "organizationalUnit",
                     "homeOrganizationType",
-                    "organizationalUnit"
+                    "departmentNumber",
+                    "homeOrganization"
                 ]
             },
             "description":"",
@@ -98,21 +98,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
                     "eduPersonScopedAffiliation",
+                    "displayName",
                     "surname",
-                    "givenName",
                     "eduPersonAssurance",
+                    "eduPersonAffiliation",
                     "mail",
                     "commonName",
-                    "displayName"
+                    "givenName"
                 ],
                 "requested":[
-                    "departmentNumber",
-                    "homeOrganization",
                     "organizationName",
+                    "organizationalUnit",
                     "homeOrganizationType",
-                    "organizationalUnit"
+                    "departmentNumber",
+                    "homeOrganization"
                 ]
             },
             "description":"",
@@ -141,21 +141,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
                     "eduPersonScopedAffiliation",
+                    "displayName",
                     "surname",
-                    "givenName",
                     "eduPersonAssurance",
+                    "eduPersonAffiliation",
                     "mail",
                     "commonName",
-                    "displayName"
+                    "givenName"
                 ],
                 "requested":[
-                    "departmentNumber",
-                    "homeOrganization",
                     "organizationName",
+                    "organizationalUnit",
                     "homeOrganizationType",
-                    "organizationalUnit"
+                    "departmentNumber",
+                    "homeOrganization"
                 ]
             },
             "description":"",
