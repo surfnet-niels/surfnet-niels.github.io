@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-02 08:25",
+    "generated":"2021-07-02 10:25",
     "en":[
         {
             "catalogID":"6220a66f6b4cd0b04cd2a610472694e219b84b6d",
@@ -14,6 +14,7 @@
                 "required":[
                     "cn",
                     "displayName",
+                    "eduPersonAssurance",
                     "eduPersonPrincipalName",
                     "givenName",
                     "mail",
@@ -40,7 +41,7 @@
                 }
             ],
             "info":"https://www.kielipankki.fi/language-bank/",
-            "privacy":"https://www.kielipankki.fi/privacy-policy/",
+            "privacy":"https://www.kielipankki.fi/data-protection-statement/",
             "entityCategories":[
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
                 "http://refeds.org/category/research-and-scholarship",
@@ -63,6 +64,7 @@
                 "required":[
                     "cn",
                     "displayName",
+                    "eduPersonAssurance",
                     "eduPersonPrincipalName",
                     "givenName",
                     "mail",
@@ -112,6 +114,7 @@
                 "required":[
                     "cn",
                     "displayName",
+                    "eduPersonAssurance",
                     "eduPersonPrincipalName",
                     "givenName",
                     "mail",
@@ -161,6 +164,7 @@
                 "required":[
                     "cn",
                     "displayName",
+                    "eduPersonAssurance",
                     "eduPersonPrincipalName",
                     "givenName",
                     "mail",
