@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-05 14:19",
+    "generated":"2021-07-05 16:35",
     "en":[
         {
             "catalogID":"d8dec21b3bdf33cd74e951dd6f0fad9f3d1e00c0",
@@ -16,7 +16,8 @@
                     "schacHomeOrganization",
                     "eduPersonAssurance",
                     "eduPersonPrincipalName",
-                    "mail"
+                    "mail",
+                    "displayName"
                 ],
                 "requested":[]
             },
@@ -29,9 +30,10 @@
                 }
             ],
             "info":"",
-            "privacy":"",
+            "privacy":"https://wiki.neic.no/wiki/Neicext:Privacy_policy",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
         }
@@ -52,7 +54,8 @@
                     "schacHomeOrganization",
                     "eduPersonAssurance",
                     "eduPersonPrincipalName",
-                    "mail"
+                    "mail",
+                    "displayName"
                 ],
                 "requested":[]
             },
@@ -67,7 +70,8 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
         }
@@ -88,7 +92,8 @@
                     "schacHomeOrganization",
                     "eduPersonAssurance",
                     "eduPersonPrincipalName",
-                    "mail"
+                    "mail",
+                    "displayName"
                 ],
                 "requested":[]
             },
@@ -103,7 +108,8 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
         }
@@ -124,7 +130,8 @@
                     "schacHomeOrganization",
                     "eduPersonAssurance",
                     "eduPersonPrincipalName",
-                    "mail"
+                    "mail",
+                    "displayName"
                 ],
                 "requested":[]
             },
@@ -139,7 +146,8 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
         }
