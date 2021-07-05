@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-05 12:34",
+    "generated":"2021-07-05 14:19",
     "en":[
         {
             "catalogID":"d8dec21b3bdf33cd74e951dd6f0fad9f3d1e00c0",
@@ -14,7 +14,9 @@
                 "required":[
                     "eduPersonTargetedID",
                     "schacHomeOrganization",
-                    "eduPersonAssurance"
+                    "eduPersonAssurance",
+                    "eduPersonPrincipalName",
+                    "mail"
                 ],
                 "requested":[]
             },
@@ -28,7 +30,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -46,7 +50,9 @@
                 "required":[
                     "eduPersonTargetedID",
                     "schacHomeOrganization",
-                    "eduPersonAssurance"
+                    "eduPersonAssurance",
+                    "eduPersonPrincipalName",
+                    "mail"
                 ],
                 "requested":[]
             },
@@ -60,7 +66,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -78,7 +86,9 @@
                 "required":[
                     "eduPersonTargetedID",
                     "schacHomeOrganization",
-                    "eduPersonAssurance"
+                    "eduPersonAssurance",
+                    "eduPersonPrincipalName",
+                    "mail"
                 ],
                 "requested":[]
             },
@@ -92,7 +102,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -110,7 +122,9 @@
                 "required":[
                     "eduPersonTargetedID",
                     "schacHomeOrganization",
-                    "eduPersonAssurance"
+                    "eduPersonAssurance",
+                    "eduPersonPrincipalName",
+                    "mail"
                 ],
                 "requested":[]
             },
@@ -124,7 +138,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
             "SirtfiSupport":[]
         }
     ]
