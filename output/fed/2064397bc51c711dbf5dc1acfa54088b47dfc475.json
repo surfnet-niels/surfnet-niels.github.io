@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-05 04:29",
+    "generated":"2021-07-05 06:29",
     "en":[
         {
             "catalogID":"2064397bc51c711dbf5dc1acfa54088b47dfc475",
@@ -11,13 +11,29 @@
                 "url":"http://www.uvt.ro/en/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "cn",
+                    "sn",
+                    "givenName",
+                    "uid",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "eppn",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType",
+                    "persistent-id"
+                ],
                 "requested":[]
             },
             "description":"This Service Provider (SP) serves West University of Timișoara",
             "resourceContacts":[
                 {
                     "type":"technical",
+                    "name":"SupportITUVT",
+                    "email":"mailto:support@e-uvt.ro"
+                },
+                {
+                    "type":"support",
                     "name":"SupportITUVT",
                     "email":"mailto:support@e-uvt.ro"
                 }
@@ -35,20 +51,36 @@
         {
             "catalogID":"2064397bc51c711dbf5dc1acfa54088b47dfc475",
             "entityID":"https://unitasso.uvt.ro/shibboleth",
-            "resourceName":"https://unitasso.uvt.ro/shibboleth",
+            "resourceName":"West University of Timișoara Service Provider",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.uvt.ro/en/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "cn",
+                    "sn",
+                    "givenName",
+                    "uid",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "eppn",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType",
+                    "persistent-id"
+                ],
                 "requested":[]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"technical",
+                    "name":"SupportITUVT",
+                    "email":"mailto:support@e-uvt.ro"
+                },
+                {
+                    "type":"support",
                     "name":"SupportITUVT",
                     "email":"mailto:support@e-uvt.ro"
                 }
@@ -66,20 +98,36 @@
         {
             "catalogID":"2064397bc51c711dbf5dc1acfa54088b47dfc475",
             "entityID":"https://unitasso.uvt.ro/shibboleth",
-            "resourceName":"https://unitasso.uvt.ro/shibboleth",
+            "resourceName":"West University of Timișoara Service Provider",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.uvt.ro/en/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "cn",
+                    "sn",
+                    "givenName",
+                    "uid",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "eppn",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType",
+                    "persistent-id"
+                ],
                 "requested":[]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"technical",
+                    "name":"SupportITUVT",
+                    "email":"mailto:support@e-uvt.ro"
+                },
+                {
+                    "type":"support",
                     "name":"SupportITUVT",
                     "email":"mailto:support@e-uvt.ro"
                 }
@@ -97,20 +145,36 @@
         {
             "catalogID":"2064397bc51c711dbf5dc1acfa54088b47dfc475",
             "entityID":"https://unitasso.uvt.ro/shibboleth",
-            "resourceName":"https://unitasso.uvt.ro/shibboleth",
+            "resourceName":"West University of Timișoara Service Provider",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.uvt.ro/en/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "cn",
+                    "sn",
+                    "givenName",
+                    "uid",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "eppn",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType",
+                    "persistent-id"
+                ],
                 "requested":[]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"technical",
+                    "name":"SupportITUVT",
+                    "email":"mailto:support@e-uvt.ro"
+                },
+                {
+                    "type":"support",
                     "name":"SupportITUVT",
                     "email":"mailto:support@e-uvt.ro"
                 }
