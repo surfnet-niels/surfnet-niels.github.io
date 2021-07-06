@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-06 06:28",
+    "generated":"2021-07-06 08:24",
     "en":[
         {
             "catalogID":"56b3496ed6e8e5330ed88d2a7072fe69bb9b22f8",
@@ -13,6 +13,11 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "schacHomeOrganization",
+                    "surname",
+                    "schacHomeOrganizationType",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
                     "displayName",
                     "commonName",
@@ -20,23 +25,20 @@
                     "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "eduPersonAffiliation",
-                    "eduPersonEntitlement",
-                    "schacHomeOrganization",
-                    "surname",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"Aplication for testing IdP eduGAIN compatibility",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"AAAPodpora",
-                    "email":"mailto:aaa-podpora@arnes.si"
-                },
-                {
                     "type":"support",
                     "name":"ArnesHelpdesk",
                     "email":"mailto:helpdesk@arnes.si"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAAPodpora",
+                    "email":"mailto:aaa-podpora@arnes.si"
                 },
                 {
                     "type":"administrative",
@@ -63,6 +65,11 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "schacHomeOrganization",
+                    "surname",
+                    "schacHomeOrganizationType",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
                     "displayName",
                     "commonName",
@@ -70,23 +77,20 @@
                     "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "eduPersonAffiliation",
-                    "eduPersonEntitlement",
-                    "schacHomeOrganization",
-                    "surname",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"AAAPodpora",
-                    "email":"mailto:aaa-podpora@arnes.si"
-                },
-                {
                     "type":"support",
                     "name":"ArnesHelpdesk",
                     "email":"mailto:helpdesk@arnes.si"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAAPodpora",
+                    "email":"mailto:aaa-podpora@arnes.si"
                 },
                 {
                     "type":"administrative",
@@ -113,6 +117,11 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "schacHomeOrganization",
+                    "surname",
+                    "schacHomeOrganizationType",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
                     "displayName",
                     "commonName",
@@ -120,23 +129,20 @@
                     "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "eduPersonAffiliation",
-                    "eduPersonEntitlement",
-                    "schacHomeOrganization",
-                    "surname",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"AAAPodpora",
-                    "email":"mailto:aaa-podpora@arnes.si"
-                },
-                {
                     "type":"support",
                     "name":"ArnesHelpdesk",
                     "email":"mailto:helpdesk@arnes.si"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAAPodpora",
+                    "email":"mailto:aaa-podpora@arnes.si"
                 },
                 {
                     "type":"administrative",
@@ -163,6 +169,11 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "schacHomeOrganization",
+                    "surname",
+                    "schacHomeOrganizationType",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
                     "displayName",
                     "commonName",
@@ -170,23 +181,20 @@
                     "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "eduPersonAffiliation",
-                    "eduPersonEntitlement",
-                    "schacHomeOrganization",
-                    "surname",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"AAAPodpora",
-                    "email":"mailto:aaa-podpora@arnes.si"
-                },
-                {
                     "type":"support",
                     "name":"ArnesHelpdesk",
                     "email":"mailto:helpdesk@arnes.si"
+                },
+                {
+                    "type":"technical",
+                    "name":"AAAPodpora",
+                    "email":"mailto:aaa-podpora@arnes.si"
                 },
                 {
                     "type":"administrative",
