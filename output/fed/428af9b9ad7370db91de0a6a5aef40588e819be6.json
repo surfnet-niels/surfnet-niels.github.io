@@ -1,0 +1,247 @@
+{
+    "generated":"2021-07-07 20:22",
+    "en":[
+        {
+            "catalogID":"428af9b9ad7370db91de0a6a5aef40588e819be6",
+            "entityID":"https://cumulus.rc.colorado.edu/shibboleth",
+            "resourceName":"University of Colorado Boulder RC OpenStack",
+            "resourceProvider":{
+                "name":"University of Colorado at Boulder",
+                "displayname":"University of Colorado at Boulder",
+                "url":"http://www.colorado.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"University of Colorado Boulder Research Computing CUmulus",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Shelley Knuth",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Security Office",
+                    "email":"mailto:security@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Research Computing Help",
+                    "email":"mailto:rc-help@colorado.edu"
+                }
+            ],
+            "info":"https://cumulus.rc.colorado.edu",
+            "privacy":"https://www.colorado.edu/policies/privacy-statement",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"428af9b9ad7370db91de0a6a5aef40588e819be6",
+            "entityID":"https://cumulus.rc.colorado.edu/shibboleth",
+            "resourceName":"University of Colorado Boulder RC OpenStack",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.colorado.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Shelley Knuth",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Security Office",
+                    "email":"mailto:security@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Research Computing Help",
+                    "email":"mailto:rc-help@colorado.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"428af9b9ad7370db91de0a6a5aef40588e819be6",
+            "entityID":"https://cumulus.rc.colorado.edu/shibboleth",
+            "resourceName":"University of Colorado Boulder RC OpenStack",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.colorado.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Shelley Knuth",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Security Office",
+                    "email":"mailto:security@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Research Computing Help",
+                    "email":"mailto:rc-help@colorado.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"428af9b9ad7370db91de0a6a5aef40588e819be6",
+            "entityID":"https://cumulus.rc.colorado.edu/shibboleth",
+            "resourceName":"University of Colorado Boulder RC OpenStack",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.colorado.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Shelley Knuth",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Security Office",
+                    "email":"mailto:security@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:rc-help@colorado.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Research Computing Help",
+                    "email":"mailto:rc-help@colorado.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
