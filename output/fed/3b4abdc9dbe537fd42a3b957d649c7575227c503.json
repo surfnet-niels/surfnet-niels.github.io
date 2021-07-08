@@ -1,0 +1,203 @@
+{
+    "generated":"2021-07-08 20:22",
+    "en":[
+        {
+            "catalogID":"3b4abdc9dbe537fd42a3b957d649c7575227c503",
+            "entityID":"https://bicogextstg.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Cognos UC-Wide Stage",
+            "resourceProvider":{
+                "name":"University of California, San Francisco",
+                "displayname":"University of California, San Francisco",
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucsf.edu/website-privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"3b4abdc9dbe537fd42a3b957d649c7575227c503",
+            "entityID":"https://bicogextstg.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Cognos UC-Wide Stage",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"3b4abdc9dbe537fd42a3b957d649c7575227c503",
+            "entityID":"https://bicogextstg.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Cognos UC-Wide Stage",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"3b4abdc9dbe537fd42a3b957d649c7575227c503",
+            "entityID":"https://bicogextstg.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Cognos UC-Wide Stage",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Mohana Athuluru",
+                    "email":"mailto:mohana.athuluru@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
