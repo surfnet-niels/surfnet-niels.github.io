@@ -1,0 +1,203 @@
+{
+    "generated":"2021-07-09 20:22",
+    "en":[
+        {
+            "catalogID":"d875f8227e26fda68c44ac2c08308965d545ec78",
+            "entityID":"https://healthanalyticstst.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Tableau UC wide access testing",
+            "resourceProvider":{
+                "name":"University of California, San Francisco",
+                "displayname":"University of California, San Francisco",
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucsf.edu/website-privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d875f8227e26fda68c44ac2c08308965d545ec78",
+            "entityID":"https://healthanalyticstst.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Tableau UC wide access testing",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d875f8227e26fda68c44ac2c08308965d545ec78",
+            "entityID":"https://healthanalyticstst.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Tableau UC wide access testing",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d875f8227e26fda68c44ac2c08308965d545ec78",
+            "entityID":"https://healthanalyticstst.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Tableau UC wide access testing",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

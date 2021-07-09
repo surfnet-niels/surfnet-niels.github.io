@@ -600,16 +600,6 @@
         "description":"Knowledge & Education Exchange Platform (KEEP) is a personalized educational portal for users to easily search, subscribe and access content from the KEEP Cloud Ecosystem. KEEP supports the development of innovative teaching and learning with cutting-edge"
     },
     {
-        "catalogID":"eed0315bd794b373c03b48effe1210013a2daa8b",
-        "resourceName":"Active Classroom (Staging)",
-        "resourceProvider":{
-            "name":"eduhk.hk",
-            "displayname":"The Education University of Hong Kong",
-            "url":"http://www.eduhk.hk"
-        },
-        "description":"AClass Staging server is used for user acceptance test and other testing purposes."
-    },
-    {
         "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
         "resourceName":"Active Classroom (v2)",
         "resourceProvider":{
@@ -618,6 +608,16 @@
             "url":"http://www.eduhk.hk"
         },
         "description":"****** This SP shall supersede the previous Active Classroom (AClass) registration due to a mis-configuration of the metadata URL. ****** Active Classroom (AClass) is a website designed for knowledge transfer of education studies and idea exchanges. Our t"
+    },
+    {
+        "catalogID":"eed0315bd794b373c03b48effe1210013a2daa8b",
+        "resourceName":"Active Classroom (Staging)",
+        "resourceProvider":{
+            "name":"eduhk.hk",
+            "displayname":"The Education University of Hong Kong",
+            "url":"http://www.eduhk.hk"
+        },
+        "description":"AClass Staging server is used for user acceptance test and other testing purposes."
     },
     {
         "catalogID":"b6d0463b7abb6133be665554714fda26bad2d197",
@@ -5670,6 +5670,16 @@
         "description":""
     },
     {
+        "catalogID":"69855d213f94a5c0b22c7bb128fa85667b35d799",
+        "resourceName":"UCSF Cognos UC-Wide",
+        "resourceProvider":{
+            "name":"University of California, San Francisco",
+            "displayname":"University of California, San Francisco",
+            "url":"http://www.ucsf.edu/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"86f4db8403d53f07059a10c305ddfcaa210d1427",
         "resourceName":"UCSF Cognos QA",
         "resourceProvider":{
@@ -5682,6 +5692,26 @@
     {
         "catalogID":"3b4abdc9dbe537fd42a3b957d649c7575227c503",
         "resourceName":"UCSF Cognos UC-Wide Stage",
+        "resourceProvider":{
+            "name":"University of California, San Francisco",
+            "displayname":"University of California, San Francisco",
+            "url":"http://www.ucsf.edu/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"d875f8227e26fda68c44ac2c08308965d545ec78",
+        "resourceName":"UCSF Tableau UC wide access testing",
+        "resourceProvider":{
+            "name":"University of California, San Francisco",
+            "displayname":"University of California, San Francisco",
+            "url":"http://www.ucsf.edu/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"c75b5f902ab190444afc7d5cf4ef045692c12c8e",
+        "resourceName":"UCSF Tableau",
         "resourceProvider":{
             "name":"University of California, San Francisco",
             "displayname":"University of California, San Francisco",
@@ -10006,6 +10036,466 @@
             "name":"Association for Computing Machinery, Inc.",
             "displayname":"Association For Computing Machinery: ACM Digital Library",
             "url":"http://www.acm.org/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"17a61a8f2c05ab738199065be6139835ce44e9b0",
+        "resourceName":"AcademicWorks - American University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"83e6a2a3d31cb58d7e138df941f5a5e52a0a627c",
+        "resourceName":"AcademicWorks - Amherst College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"51b6d620abc156d08a5408d9e340cedb46b2a1dc",
+        "resourceName":"Appalachian State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"7145e8d7f76b2c8412e0fea8a853e6f9d0764e12",
+        "resourceName":"AcademicWorks - University of South Carolina Arts & Sciences",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"41773adfa107869bf6ff2dfbdb66fe6c8de71ddd",
+        "resourceName":"AcademicWorks - Bergen Community College Foundation Scholarships",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"07736bc61cef13edf13e290e762cdfd7d60e39b3",
+        "resourceName":"AcademicWorks - Bowling Green State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"1ce59c1a6dc63804d1ffb40a91d6f0e7ee10e78a",
+        "resourceName":"AcademicWorks - Binghamton",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"8302c20c960d473baf07ce325504607616aa4f31",
+        "resourceName":"AcademicWorks - Boise State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"0ea22b8a7bf41f7d961c0c626475f29a4b163a6d",
+        "resourceName":"AcademicWorks - Brown University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"4771286ae6e5e6c9adddd86c57eea8bcd73ace59",
+        "resourceName":"AcademicWorks - University at Buffalo",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"d3a31486bdfdeba2ce1d0abedca9dbca00fea941",
+        "resourceName":"AcademicWorks - California Polytechnic State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"08c2f0cafa75e0567ac22b8ce691603bb7a9608d",
+        "resourceName":"AcademicWorks - California State University Foundation",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"c9475fa2ffe58a9ed705ba9b55dcc7f4ac612afe",
+        "resourceName":"AcademicWorks - California State University, Los Angeles",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"1b1f36cda0cdbd66b000992658b04df14da2d850",
+        "resourceName":"AcademicWorks - Community College of Baltimore County",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"98cd033f5e86e2302cea67c6fff44f46ee019fd8",
+        "resourceName":"AcademicWorks - Claremont McKenna College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"07ca6db24dd89e9a88d350b56debff80206c893d",
+        "resourceName":"AcademicWorks - Colby College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"d8c6fb4ae3f3da9c971533aba8a7e1df374707d0",
+        "resourceName":"AcademicWorks - Colorado State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"fa220acf641c72e8e487cbe4dabb6f31923d2e21",
+        "resourceName":"AcademicWorks - California State University, Bakersfield",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"e9f88109a34a165ccf14973afadedbdc63a871cd",
+        "resourceName":"AcademicWorks - California State University, Chico",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"a361ff877ac925a95b89806c91565873b3aa93fa",
+        "resourceName":"AcademicWorks - California State University, Channel Islands",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"866719d711d05bf37eb6fdb9e5b8ad8cbeebbe87",
+        "resourceName":"AcademicWorks - California State University, East Bay",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"56824b74c17eb1455dfba3721572f67e052d3e53",
+        "resourceName":"AcademicWorks - California State University-Long Beach",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"a142cf3f754aee6c7c751b01388255f50656b4da",
+        "resourceName":"AcademicWorks - California State University Maritime Academy",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"b99dee79a1268857b3a4b5af3a7ec41cf27f97a4",
+        "resourceName":"AcademicWorks - California State University Monterey Bay",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"315605b5bae78098db8ee656d7ef23c5bff41645",
+        "resourceName":"AcademicWorks - California State University-Northridge",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"78d2fa458c93a677fc00cf8b55d5065fc060eadf",
+        "resourceName":"AcademicWorks - California State University, Pomona",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"128465814bfd06021b316c77cdab8eb52a729600",
+        "resourceName":"AcademicWorks - CSUS - QA",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"105ff7e0439dc8f6cecbc982746f396c457610ba",
+        "resourceName":"AcademicWorks - California State University-Stanislaus",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"d6c71c7cdb80ea876abce86200e092c554dbc6ff",
+        "resourceName":"AcademicWorks - Dartmouth",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"bddab622fbacfbf09dac1326b83b5dc17436595b",
+        "resourceName":"AcademicWorks - East Carolina University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"82a0c7cbdf458a1b889ac8269ce67ed881ed21bf",
+        "resourceName":"AcademicWorks - Arizona State University MLF Teachers College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"c3bed7fc48b547c87aaac3687a9e56bf4fd4d58b",
+        "resourceName":"AcademicWorks - Emory University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"560fdaaa9dbc2525e2a65949e12d124aac367ca7",
+        "resourceName":"AcademicWorks - SUNY Empire State College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"9957bce6f0222e4e7c59597f5e810d6c0ddace0c",
+        "resourceName":"AcademicWorks - Florida International University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"164302762c6d4a0fbdae5b051da0e7f2d1ac2f8b",
+        "resourceName":"AcademicWorks - Fort Lewis College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"6f6ff96c9fc1919779c1aa497d52702b23d3f6fa",
+        "resourceName":"AcademicWorks - University of Washington",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"5e366dc690452c08d68f5de1670554975a1da276",
+        "resourceName":"AcademicWorks - California State University, Fresno",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"bd422512af8087a8856cbb9ecd7374ddcffb0c5f",
+        "resourceName":"AcademicWorks - George Mason University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"fc1458947fdbad69aa4ea36f346e13b578eee806",
+        "resourceName":"AcademicWorks - Columbia Business School",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"c2adeed51d8bb498cf7846c068f8a9027f9739e7",
+        "resourceName":"AcademicWorks  -  Columbia Business School - QA",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"361a090588a33aced75a53bf53654394679af451",
+        "resourceName":"AcademicWorks - Georgia State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"4d5a1d5b676bebaa25ba0e935c83c8d1593db623",
+        "resourceName":"AcademicWorks - Humboldt State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"38c47872e81cbd77237853cc454a71a4da81db5f",
+        "resourceName":"AcademicWorks - Humboldt - QA",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"da6578c0b4aa2953698f8b698cc6ecd0e4a018e6",
+        "resourceName":"AcademicWorks - Stanford University-School of Humanities and Sciences Homepage",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"d1a119c4c632e34303bd818abec19b720308886d",
+        "resourceName":"AcademicWorks - Indiana University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"5e78b1f77b454457dee74fe08f082f005016ac61",
+        "resourceName":"AcademicWorks - James Madison University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
         },
         "description":""
     },
@@ -15698,6 +16188,16 @@
             "url":"https://www.navexglobal.com/en-us"
         },
         "description":"Navex Global"
+    },
+    {
+        "catalogID":"7b3d86f897aa7a395b3d0d60c8eaeaf9a7b7cf88",
+        "resourceName":"Aceware Systems",
+        "resourceProvider":{
+            "name":"ACEware Systems, Inc,",
+            "displayname":"ACEware Systems, Inc,",
+            "url":"https://www.aceware.com"
+        },
+        "description":"Online registration using ACEweb."
     },
     {
         "catalogID":"9298cc43bf094df6ece9ab1d04ae026190e70d53",
@@ -27410,114 +27910,24 @@
         "description":""
     },
     {
-        "catalogID":"1f28f8a6a987104634bc3a472610216e1d936310",
-        "resourceName":"Cursus - Learning platform",
+        "catalogID":"c172210413188b32e4b88234b1ba81c8281b733d",
+        "resourceName":" Bordeaux University- Moodle Montesquieu",
         "resourceProvider":{
-            "name":"Université Rennes 2",
-            "displayname":"Université Rennes 2",
-            "url":"https://www.univ-rennes2.fr"
+            "name":"Université de Bordeaux",
+            "displayname":"Université de Bordeaux",
+            "url":"https://www.u-bordeaux.fr/"
         },
-        "description":"Université Rennes 2 learning platform."
+        "description":"Moodle Platform Montesquieu"
     },
     {
-        "catalogID":"f365aeeb691d5e23b366972541db8888b7f0720d",
-        "resourceName":"Learning Management System - Université de Tours",
+        "catalogID":"97dc86eb308525b5f86e40eb28e759958d327fe3",
+        "resourceName":"Bordeaux University - Moodle FAD",
         "resourceProvider":{
-            "name":"Université de Tours",
-            "displayname":"Université de Tours",
-            "url":"http://www.univ-tours.fr"
+            "name":"Université de Bordeaux",
+            "displayname":"Université de Bordeaux",
+            "url":"https://www.u-bordeaux.fr/"
         },
-        "description":"Learning Management System - Université de Tours"
-    },
-    {
-        "catalogID":"913d78965e2237d4f556a9133fd0f3452e3e9690",
-        "resourceName":"CRIANN - High Performance Computing Resource Allocation",
-        "resourceProvider":{
-            "name":"CRIANN",
-            "displayname":"CRIANN",
-            "url":"http://www.crihan.fr"
-        },
-        "description":"This service allows academic users to submit their requests for hours on computing resources before evaluation and access to CRIANN supercomputers.\nIt is primarily intended for researchers, teacher-researchers, engineers or doctoral students assigned to a public research laboratory.\nSome features can potentially be used by any staff of the French ESR."
-    },
-    {
-        "catalogID":"870848e5d86e96af9cb731545f65193cab03f047",
-        "resourceName":"Wooflash",
-        "resourceProvider":{
-            "name":"Wooclap",
-            "displayname":"Wooclap",
-            "url":"https://www.wooclap.com/fr/"
-        },
-        "description":"Wooflash is a web platform that uses the principles of cognitive science to further support your pedagogy for effective and adaptive learning."
-    },
-    {
-        "catalogID":"20cca6a3ac8f2d51f0b716ab80d37db3e966bb28",
-        "resourceName":"University of Perpignan - eduspot",
-        "resourceProvider":{
-            "name":"Université de Perpignan",
-            "displayname":"Université de Perpignan",
-            "url":"http://www.univ-perp.fr"
-        },
-        "description":"eduspot universite de Perpignan"
-    },
-    {
-        "catalogID":"90019a7cb47f671aa50df53124ef773d0db1842e",
-        "resourceName":"UTC - Eduspot",
-        "resourceProvider":{
-            "name":"Université de Technologie de Compiègne",
-            "displayname":"Université de Technologie de Compiègne",
-            "url":"http://www.utc.fr/"
-        },
-        "description":"UTC - Eduspot"
-    },
-    {
-        "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
-        "resourceName":"M.N.H.N  eduspot",
-        "resourceProvider":{
-            "name":"Muséum National d'Histoire Naturelle",
-            "displayname":"Muséum National d'Histoire Naturelle",
-            "url":"http://www.mnhn.fr"
-        },
-        "description":"M.N.H.N  eduspot"
-    },
-    {
-        "catalogID":"b3b7816da589a30d26a36aa18d0f07fbff6995fd",
-        "resourceName":"limesurvey service",
-        "resourceProvider":{
-            "name":"Université Paris 1 - Panthéon Sorbonne",
-            "displayname":"Université Paris 1 - Panthéon Sorbonne",
-            "url":"http://www.univ-paris1.fr"
-        },
-        "description":"Shibboleth administration authentification"
-    },
-    {
-        "catalogID":"3745491bf2c5f85df4d576beb50c1051c2641e3d",
-        "resourceName":"CALMIP - Resources allocation",
-        "resourceProvider":{
-            "name":"Institut National Polytechnique de Toulouse",
-            "displayname":"Institut National Polytechnique de Toulouse",
-            "url":"http://www.inp-toulouse.fr"
-        },
-        "description":"his service allows users of the Calmip calculation system to submit their requests for resources, and the allocation committee to examine and respond to them.\n\nIt is primarily intended for researchers, university lecturers, engineers or doctoral students assigned to a public research laboratory in the Midi-Pyrénées region.\nSome features can potentially be used by any staff or collaborator of the French ESR, including from a foreign country"
-    },
-    {
-        "catalogID":"f10f9e09270c66d504fbc821e2e5bb194d16cb9e",
-        "resourceName":"Université Grenoble eformation",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"Moodle of University of Grenoble Alpes"
-    },
-    {
-        "catalogID":"2bb8a868e833efd8ceb2130ebfca965cb5a8961c",
-        "resourceName":"Lumière University - Lyon 2 - Open Moodle",
-        "resourceProvider":{
-            "name":"Université Lumière Lyon 2",
-            "displayname":"Université Lumière Lyon 2",
-            "url":"http://www.univ-lyon2.fr"
-        },
-        "description":"Courses platform"
+        "description":"Moodle Platform for remote learning"
     },
     {
         "catalogID":"b3021b6cbff8cdfdc24a2f2e9a0abd1a329c77ad",
@@ -27528,16 +27938,6 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"IP2I Users support"
-    },
-    {
-        "catalogID":"30653e9f6545b73659ac0f7dce22072b21802033",
-        "resourceName":"Université of Caen Normandie - thecaelab",
-        "resourceProvider":{
-            "name":"Université de Caen Normandie",
-            "displayname":"Université de Caen Normandie",
-            "url":"http://www.unicaen.fr"
-        },
-        "description":"Thecaelab is a experimentation platform dedicated to scholarly edition of ancient inventories. Designed as a texts laboratory it provides to the scientific community testing solutions for XML TEI annotation, search and extraction of information or visualisation of data sets added to the platform."
     },
     {
         "catalogID":"8c5869fa36258d39e69cb7e2ab1f0b2436e0d7f7",
@@ -27560,14 +27960,14 @@
         "description":"Set of services offered in the scope of Ulysseus European University"
     },
     {
-        "catalogID":"a0f58366cc69a3a92947266e8a43589f32ca44de",
-        "resourceName":"MESHS - tools - centralized authentication",
+        "catalogID":"2bb8a868e833efd8ceb2130ebfca965cb5a8961c",
+        "resourceName":"Lumière University - Lyon 2 - Open Moodle",
         "resourceProvider":{
-            "name":"Université de Lille",
-            "displayname":"Université de Lille",
-            "url":"http://univ-lille.fr"
+            "name":"Université Lumière Lyon 2",
+            "displayname":"Université Lumière Lyon 2",
+            "url":"http://www.univ-lyon2.fr"
         },
-        "description":"Give access to tools linked with MESHS supported research's project"
+        "description":"Courses platform"
     },
     {
         "catalogID":"7def547ca3c8453adae8a8b8f731816434bb8f96",
@@ -27600,66 +28000,6 @@
         "description":"MEDFILM educational platform is a database on the history of health."
     },
     {
-        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
-        "resourceName":"INRAE - Nextcloud",
-        "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
-        },
-        "description":"INRAE ​​data sharing service"
-    },
-    {
-        "catalogID":"b17bfcb61cc36fd58934e5bbeef314c21cf01d41",
-        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
-        "resourceProvider":{
-            "name":"Observatoire de la Côte d'Azur",
-            "displayname":"Observatoire de la Côte d'Azur",
-            "url":"http://www.oca.eu"
-        },
-        "description":"eduspot captive portal"
-    },
-    {
-        "catalogID":"33d408a82be85eaa4d8f84e060c8115e72ebd4eb",
-        "resourceName":"PerSCiDO datasets sharing platform",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"Dataset sharing platform PerSCiDO from the Persyval-lab labex.\nThis platform aims at fostering datasets sharing among researchers from all domains."
-    },
-    {
-        "catalogID":"4055d3a2f52fab4322bd35699c8182737e93a039",
-        "resourceName":"Université Cote d'Azur - EDM - modules",
-        "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
-        },
-        "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
-    },
-    {
-        "catalogID":"edf6a66f3ec5bff1b7e7b1122aad27d7834b21e5",
-        "resourceName":"myCivica",
-        "resourceProvider":{
-            "name":"Fondation Nationale des Sciences Politiques",
-            "displayname":"Fondation Nationale des Sciences Politiques",
-            "url":"http://www.sciences-po.fr"
-        },
-        "description":"Civica will bring together 8 world-reknowned institutions from across the European continent."
-    },
-    {
-        "catalogID":"4ca19fdc39dc306b98e451afeb09a8ef25f8a230",
-        "resourceName":"Bordeaux  University- Moodle Sciences et Techno",
-        "resourceProvider":{
-            "name":"Université de Bordeaux",
-            "displayname":"Université de Bordeaux",
-            "url":"https://www.u-bordeaux.fr/"
-        },
-        "description":"Moodle Platform Sciences et Techno"
-    },
-    {
         "catalogID":"1d89e65d6318141a837bfa81ec4f7b4a2ee2af82",
         "resourceName":"Dissemin",
         "resourceProvider":{
@@ -27668,16 +28008,6 @@
             "url":"https://association.dissem.in/"
         },
         "description":"Free and open service to help researchers deposit their articles in open repositories with respect to self-archiving policies of the publisher and in align with guidelines of employers or funders.\n\nThe service is supported by CCSD (HAL), CERN (Zenodo) and the universities of Braunschweig, Darmstadt and Stuttgart."
-    },
-    {
-        "catalogID":"180c7efa20d5f7cee080cb3e917d826d09e99ba7",
-        "resourceName":"ENS Paris-Saclay - Eduspot Portal",
-        "resourceProvider":{
-            "name":"Ecole Normale Supérieure Paris-Saclay",
-            "displayname":"Ecole Normale Supérieure Paris-Saclay",
-            "url":"http://www.ens-cachan.fr"
-        },
-        "description":"Wireless access for eduspot project members."
     },
     {
         "catalogID":"8dcb656333dd56e05706cee13e575934460dd92a",
@@ -27690,16 +28020,6 @@
         "description":"Serveurs de listes de l'IP2I"
     },
     {
-        "catalogID":"6f5f0cc43191c04077e86faff8edb1dd2e55279f",
-        "resourceName":"EChamilo - UGA",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"E-learning plateform of the Grenoble Alpes University."
-    },
-    {
         "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
         "resourceName":"University of Nantes - CCIPL - Accounts Manager",
         "resourceProvider":{
@@ -27710,14 +28030,154 @@
         "description":"Request portal and access management to the CCIPL computing cluster. https://ccipl.univ-nantes.fr/"
     },
     {
-        "catalogID":"97dc86eb308525b5f86e40eb28e759958d327fe3",
-        "resourceName":"Bordeaux University - Moodle FAD",
+        "catalogID":"5f065f4ce207f504a8641ed112c2ead6b73872a0",
+        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
+        "resourceProvider":{
+            "name":"Observatoire de la Côte d'Azur",
+            "displayname":"Observatoire de la Côte d'Azur",
+            "url":"http://www.oca.eu"
+        },
+        "description":"eduspot captive portal"
+    },
+    {
+        "catalogID":"b17bfcb61cc36fd58934e5bbeef314c21cf01d41",
+        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
+        "resourceProvider":{
+            "name":"Observatoire de la Côte d'Azur",
+            "displayname":"Observatoire de la Côte d'Azur",
+            "url":"http://www.oca.eu"
+        },
+        "description":"eduspot captive portal"
+    },
+    {
+        "catalogID":"96de1ef4abd876f599d02df40438735104954634",
+        "resourceName":"AERIS-SSO",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Authentication service of the French atmospheric data cluster AERIS."
+    },
+    {
+        "catalogID":"467bb3d469b715bfac7b66e3468772d3c96d0021",
+        "resourceName":"Moodle EU-CONEXUS",
+        "resourceProvider":{
+            "name":"La Rochelle Université",
+            "displayname":"La Rochelle Université",
+            "url":"http://www.univ-lr.fr"
+        },
+        "description":"Moodle teaching platform for EU-CONEXUS"
+    },
+    {
+        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
+        "resourceName":"Caseine",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
+    },
+    {
+        "catalogID":"1e41be03fae005c9e5fd388d66ec53b66720617d",
+        "resourceName":"Classiques Garnier Numérique",
+        "resourceProvider":{
+            "name":"Classiques Garnier",
+            "displayname":"Classiques Garnier",
+            "url":"https://www.classiques-garnier.com"
+        },
+        "description":"Classiques Garnier Numérique offers academic libraries, public and research centers access to databases, online book collections and journals in the fields of literature, the humanities and social sciences.\n\nTeachers, academics, researchers, students, pupils and enthusiasts have tens of thousands of reference works at their disposal, on every device, in text mode, easily searchable at simple or advanced levels thanks to a full data mark-up and a powerful search engine."
+    },
+    {
+        "catalogID":"e0f662e083fbfc2234016543bac529e16430e3f5",
+        "resourceName":"INRAE - Files sharing services",
+        "resourceProvider":{
+            "name":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
+            "displayname":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
+            "url":"http://www.irstea.fr"
+        },
+        "description":"Files sharing services\nOnly Inrae members could store some files an share them to other member of Edugain Inter Federation or C.R.U subscribers\nDefault quota is 10 Mo."
+    },
+    {
+        "catalogID":"a1bf98ae2f3fef7d643dbbe82bf38ec07f0d15f2",
+        "resourceName":"Université de Paris - Moodle",
+        "resourceProvider":{
+            "name":"Université de Paris",
+            "displayname":"Université de Paris",
+            "url":"https://u-paris.fr/"
+        },
+        "description":"Université de Paris - Moodle"
+    },
+    {
+        "catalogID":"85b82810775ec339936b1176f6d3e89a1f5e6704",
+        "resourceName":"rendez-vous platform",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
+    },
+    {
+        "catalogID":"545787a2cb8d37a5c687d3682c8874ecb3658c43",
+        "resourceName":"Ecole Nationale Superieure de l'Electronique et de ses Applications - Eduspot",
+        "resourceProvider":{
+            "name":"Ecole Nationale Supérieure de l'Electronique et de ses Applications",
+            "displayname":"Ecole Nationale Supérieure de l'Electronique et de ses Applications",
+            "url":"http://www.ensea.fr"
+        },
+        "description":"Eduspot wifi portal"
+    },
+    {
+        "catalogID":"9767ddc661b0871253f9a98025ddc837056a1556",
+        "resourceName":"SDIS Bayeux - Digital Tapestry",
+        "resourceProvider":{
+            "name":"Université de Caen Normandie",
+            "displayname":"Université de Caen Normandie",
+            "url":"http://www.unicaen.fr"
+        },
+        "description":"Spatialized Documentary Information System for the Bayeux Tapestry"
+    },
+    {
+        "catalogID":"30653e9f6545b73659ac0f7dce22072b21802033",
+        "resourceName":"Université of Caen Normandie - thecaelab",
+        "resourceProvider":{
+            "name":"Université de Caen Normandie",
+            "displayname":"Université de Caen Normandie",
+            "url":"http://www.unicaen.fr"
+        },
+        "description":"Thecaelab is a experimentation platform dedicated to scholarly edition of ancient inventories. Designed as a texts laboratory it provides to the scientific community testing solutions for XML TEI annotation, search and extraction of information or visualisation of data sets added to the platform."
+    },
+    {
+        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
+        "resourceName":"INRAE - Nextcloud",
+        "resourceProvider":{
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
+        },
+        "description":"INRAE ​​data sharing service"
+    },
+    {
+        "catalogID":"4ca19fdc39dc306b98e451afeb09a8ef25f8a230",
+        "resourceName":"Bordeaux  University- Moodle Sciences et Techno",
         "resourceProvider":{
             "name":"Université de Bordeaux",
             "displayname":"Université de Bordeaux",
             "url":"https://www.u-bordeaux.fr/"
         },
-        "description":"Moodle Platform for remote learning"
+        "description":"Moodle Platform Sciences et Techno"
+    },
+    {
+        "catalogID":"edf6a66f3ec5bff1b7e7b1122aad27d7834b21e5",
+        "resourceName":"myCivica",
+        "resourceProvider":{
+            "name":"Fondation Nationale des Sciences Politiques",
+            "displayname":"Fondation Nationale des Sciences Politiques",
+            "url":"http://www.sciences-po.fr"
+        },
+        "description":"Civica will bring together 8 world-reknowned institutions from across the European continent."
     },
     {
         "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
@@ -27750,26 +28210,6 @@
         "description":"neuGRID is a web portal aimed to (i) help neuroscientists do high-throughput imaging research, and (ii) provide clinical neurologists automated diagnostic imaging markers of neurodegenerative diseases for individual patient diagnosis. neuGRID’s user-friendly environment is customised to a range of users from students to senior neuroscientists working in the fields of Alzheimer’s disease, psychiatric diseases, and white matter diseases. neuGRID aims to become a widespread resource for brain imaging analyses."
     },
     {
-        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
-        "resourceName":"University Paris 1 - online course",
-        "resourceProvider":{
-            "name":"Université Paris 1 - Panthéon Sorbonne",
-            "displayname":"Université Paris 1 - Panthéon Sorbonne",
-            "url":"http://www.univ-paris1.fr"
-        },
-        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
-    },
-    {
-        "catalogID":"5f065f4ce207f504a8641ed112c2ead6b73872a0",
-        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
-        "resourceProvider":{
-            "name":"Observatoire de la Côte d'Azur",
-            "displayname":"Observatoire de la Côte d'Azur",
-            "url":"http://www.oca.eu"
-        },
-        "description":"eduspot captive portal"
-    },
-    {
         "catalogID":"a9c17f79220af7bf57ad2bcdf2caa05dcea36ef6",
         "resourceName":"INSA rennes moodle ng",
         "resourceProvider":{
@@ -27780,16 +28220,6 @@
         "description":"online courses"
     },
     {
-        "catalogID":"96de1ef4abd876f599d02df40438735104954634",
-        "resourceName":"AERIS-SSO",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Authentication service of the French atmospheric data cluster AERIS."
-    },
-    {
         "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
         "resourceName":"De Boeck Supérieur License Desk",
         "resourceProvider":{
@@ -27798,46 +28228,6 @@
             "url":"https://www.deboecksuperieur.com/"
         },
         "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
-    },
-    {
-        "catalogID":"467bb3d469b715bfac7b66e3468772d3c96d0021",
-        "resourceName":"Moodle EU-CONEXUS",
-        "resourceProvider":{
-            "name":"La Rochelle Université",
-            "displayname":"La Rochelle Université",
-            "url":"http://www.univ-lr.fr"
-        },
-        "description":"Moodle teaching platform for EU-CONEXUS"
-    },
-    {
-        "catalogID":"5609519484dadb3837286a11416a8833f05b87ec",
-        "resourceName":"Eduspot - Nimes University",
-        "resourceProvider":{
-            "name":"Université de Nîmes",
-            "displayname":"Université de Nîmes",
-            "url":"http://www.unimes.fr"
-        },
-        "description":"Eduspot - Nimes University"
-    },
-    {
-        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
-        "resourceName":"Caseine",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
-    },
-    {
-        "catalogID":"b4adcd9a4cc88078598283e7bb57ac04f580f170",
-        "resourceName":"CAIRN",
-        "resourceProvider":{
-            "name":"CAIRN SA",
-            "displayname":"CAIRN SA",
-            "url":"http://www.cairn.info/"
-        },
-        "description":"Created in September 2005 by four Belgian and French publishers, today Cairn offers the most comprehensive collection of publications in the French language in the humanities and social sciences available online. In 2015, more than 400 journals and around 5,000 eBooks from major French, Belgian and Swiss publishers are available on www.cairn.info. Students, scholars and librarians all over the world are thus able to access more than 200,000 full-text articles and book chapters online.\nTo make this content more visible and accessible to non–francophone scholars, Cairn.info (with the support of the CNL, a French governmental agency dedicated to the promotion of French publications around the world) has designed a special interface, www.cairn-int.info, enabling internet users to browse and easily find content from French journals without speaking a word of French."
     },
     {
         "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
@@ -27860,56 +28250,6 @@
         "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
     },
     {
-        "catalogID":"e0f662e083fbfc2234016543bac529e16430e3f5",
-        "resourceName":"INRAE - Files sharing services",
-        "resourceProvider":{
-            "name":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
-            "displayname":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
-            "url":"http://www.irstea.fr"
-        },
-        "description":"Files sharing services\nOnly Inrae members could store some files an share them to other member of Edugain Inter Federation or C.R.U subscribers\nDefault quota is 10 Mo."
-    },
-    {
-        "catalogID":"fa72e7910296434ffc6932d0a8ed12badf167252",
-        "resourceName":"SDIS Bayeux - Digital Tapestry - preprod",
-        "resourceProvider":{
-            "name":"Université de Caen Normandie",
-            "displayname":"Université de Caen Normandie",
-            "url":"http://www.unicaen.fr"
-        },
-        "description":"Spatialized Documentary Information System for the Bayeux Tapestry - pre-production / demo version"
-    },
-    {
-        "catalogID":"1e41be03fae005c9e5fd388d66ec53b66720617d",
-        "resourceName":"Classiques Garnier Numérique",
-        "resourceProvider":{
-            "name":"Classiques Garnier",
-            "displayname":"Classiques Garnier",
-            "url":"https://www.classiques-garnier.com"
-        },
-        "description":"Classiques Garnier Numérique offers academic libraries, public and research centers access to databases, online book collections and journals in the fields of literature, the humanities and social sciences.\n\nTeachers, academics, researchers, students, pupils and enthusiasts have tens of thousands of reference works at their disposal, on every device, in text mode, easily searchable at simple or advanced levels thanks to a full data mark-up and a powerful search engine."
-    },
-    {
-        "catalogID":"85b82810775ec339936b1176f6d3e89a1f5e6704",
-        "resourceName":"rendez-vous platform",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Videoconferencing service Rendez-vous"
-    },
-    {
-        "catalogID":"14125f65460dc330eefbf167aa9d06ddf3cebd2e",
-        "resourceName":"CivisBox for Civis poject",
-        "resourceProvider":{
-            "name":"Aix-Marseille Université (AMU)",
-            "displayname":"Aix-Marseille Université (AMU)",
-            "url":"http://www.univ-amu.fr"
-        },
-        "description":"User sharing information for CIVIS"
-    },
-    {
         "catalogID":"102c4bc12e5200d4beecb9f883d986f02c986c95",
         "resourceName":"IN2P3 - Atrium - Document Management System",
         "resourceProvider":{
@@ -27920,54 +28260,54 @@
         "description":"IN2P3 - Atrium - Document Management System based on Nuxeo"
     },
     {
-        "catalogID":"a1bf98ae2f3fef7d643dbbe82bf38ec07f0d15f2",
-        "resourceName":"Université de Paris - Moodle",
+        "catalogID":"870848e5d86e96af9cb731545f65193cab03f047",
+        "resourceName":"Wooflash",
         "resourceProvider":{
-            "name":"Université de Paris",
-            "displayname":"Université de Paris",
-            "url":"https://u-paris.fr/"
+            "name":"Wooclap",
+            "displayname":"Wooclap",
+            "url":"https://www.wooclap.com/fr/"
         },
-        "description":"Université de Paris - Moodle"
+        "description":"Wooflash is a web platform that uses the principles of cognitive science to further support your pedagogy for effective and adaptive learning."
     },
     {
-        "catalogID":"545787a2cb8d37a5c687d3682c8874ecb3658c43",
-        "resourceName":"Ecole Nationale Superieure de l'Electronique et de ses Applications - Eduspot",
+        "catalogID":"3745491bf2c5f85df4d576beb50c1051c2641e3d",
+        "resourceName":"CALMIP - Resources allocation",
         "resourceProvider":{
-            "name":"Ecole Nationale Supérieure de l'Electronique et de ses Applications",
-            "displayname":"Ecole Nationale Supérieure de l'Electronique et de ses Applications",
-            "url":"http://www.ensea.fr"
+            "name":"Institut National Polytechnique de Toulouse",
+            "displayname":"Institut National Polytechnique de Toulouse",
+            "url":"http://www.inp-toulouse.fr"
         },
-        "description":"Eduspot wifi portal"
+        "description":"his service allows users of the Calmip calculation system to submit their requests for resources, and the allocation committee to examine and respond to them.\n\nIt is primarily intended for researchers, university lecturers, engineers or doctoral students assigned to a public research laboratory in the Midi-Pyrénées region.\nSome features can potentially be used by any staff or collaborator of the French ESR, including from a foreign country"
     },
     {
-        "catalogID":"9767ddc661b0871253f9a98025ddc837056a1556",
-        "resourceName":"SDIS Bayeux - Digital Tapestry",
+        "catalogID":"58487d30237b5afe5a8dd7eb8cc36a186ced19cb",
+        "resourceName":"Agence universitaire de la Francophonie (AUF) — Users access",
         "resourceProvider":{
-            "name":"Université de Caen Normandie",
-            "displayname":"Université de Caen Normandie",
-            "url":"http://www.unicaen.fr"
+            "name":"Agence Universitaire de la Francophonie",
+            "displayname":"Agence Universitaire de la Francophonie",
+            "url":"http://www.auf.org"
         },
-        "description":"Spatialized Documentary Information System for the Bayeux Tapestry"
+        "description":"Authentication proxy combining the  Federated Identity and the Single Sign-On (SSO) authentification  to give AUF users different ways to access applications:\n  - With the account of their university institution,\n  - By creating a local account,\n  - With an account of one of their social networks (eg Facebook),\n  - With AUF professional account, for AUF staff."
     },
     {
-        "catalogID":"2edc6535792abed493e4454a9726c67579834a8f",
-        "resourceName":"Université Cote d'Azur - EDM",
+        "catalogID":"4055d3a2f52fab4322bd35699c8182737e93a039",
+        "resourceName":"Université Cote d'Azur - EDM - modules",
         "resourceProvider":{
             "name":"Université de Nice Sophia Antipolis",
             "displayname":"Université de Nice Sophia Antipolis",
             "url":"http://www.unice.fr"
         },
-        "description":"Electronic Document Management for Université Cote d'Azur. Access restricted to members"
+        "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
     },
     {
-        "catalogID":"8a7358a5ecd78d8b8b807831f12f494adb1ffdd9",
-        "resourceName":"Indico@IJCLab",
+        "catalogID":"8bdb175c606c0e8081bf062adfb114f070a4b340",
+        "resourceName":"Generic service provider at Telecom ParisTech",
         "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
+            "name":"TELECOM PARISTECH",
+            "displayname":"TELECOM PARISTECH",
+            "url":"http://www.telecom-paristech.fr/"
         },
-        "description":"Meeting and conference management service"
+        "description":"Service provider for access to several resources hosted by Telecom ParisTech"
     },
     {
         "catalogID":"1379fdf926f6322c5cc8809cfc551c2245547214",
@@ -27978,36 +28318,6 @@
             "url":"https://www.inra.fr"
         },
         "description":"Guest network access"
-    },
-    {
-        "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
-        "resourceName":"Service indico.in2p3.fr",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Service indico.in2p3.fr"
-    },
-    {
-        "catalogID":"a2ee399b0efbd1338fc6cc4bc519f75dcf9a280b",
-        "resourceName":"MESHS - collaborative platform",
-        "resourceProvider":{
-            "name":"Université de Lille",
-            "displayname":"Université de Lille",
-            "url":"http://univ-lille.fr"
-        },
-        "description":"The collaborative platform \"plateforme.meshs.fr\" is dedicated to collaborative work for MESHS's research project"
-    },
-    {
-        "catalogID":"3816cc2796d7fa15e0bbcd9da2778b0c581aee3e",
-        "resourceName":"ENIB - Documents management and sharing",
-        "resourceProvider":{
-            "name":"Ecole Nationale d'Ingénieurs de Brest",
-            "displayname":"Ecole Nationale d'Ingénieurs de Brest",
-            "url":"http://www.enib.fr"
-        },
-        "description":"Documents management and sharing"
     },
     {
         "catalogID":"936094b0467daf90b80c904919b738a4ca610e08",
@@ -28040,64 +28350,14 @@
         "description":"Organization and planification service Evento"
     },
     {
-        "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
-        "resourceName":"IN2P3-IP2I - SAML bridge",
+        "catalogID":"3816cc2796d7fa15e0bbcd9da2778b0c581aee3e",
+        "resourceName":"ENIB - Documents management and sharing",
         "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
+            "name":"Ecole Nationale d'Ingénieurs de Brest",
+            "displayname":"Ecole Nationale d'Ingénieurs de Brest",
+            "url":"http://www.enib.fr"
         },
-        "description":"saml federation bridge production"
-    },
-    {
-        "catalogID":"7b2ad174bcc10ced91a355e9aedf0060adec40b9",
-        "resourceName":"saml federation bridge production",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
-    },
-    {
-        "catalogID":"d73e41c5b2bec5549d05d463e5ea6fcc1aef9b33",
-        "resourceName":"rendez-vous platform (#1)",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Videoconferencing service Rendez-vous"
-    },
-    {
-        "catalogID":"c172210413188b32e4b88234b1ba81c8281b733d",
-        "resourceName":" Bordeaux University- Moodle Montesquieu",
-        "resourceProvider":{
-            "name":"Université de Bordeaux",
-            "displayname":"Université de Bordeaux",
-            "url":"https://www.u-bordeaux.fr/"
-        },
-        "description":"Moodle Platform Montesquieu"
-    },
-    {
-        "catalogID":"58487d30237b5afe5a8dd7eb8cc36a186ced19cb",
-        "resourceName":"Agence universitaire de la Francophonie (AUF) — Users access",
-        "resourceProvider":{
-            "name":"Agence Universitaire de la Francophonie",
-            "displayname":"Agence Universitaire de la Francophonie",
-            "url":"http://www.auf.org"
-        },
-        "description":"Authentication proxy combining the  Federated Identity and the Single Sign-On (SSO) authentification  to give AUF users different ways to access applications:\n  - With the account of their university institution,\n  - By creating a local account,\n  - With an account of one of their social networks (eg Facebook),\n  - With AUF professional account, for AUF staff."
-    },
-    {
-        "catalogID":"8bdb175c606c0e8081bf062adfb114f070a4b340",
-        "resourceName":"Generic service provider at Telecom ParisTech",
-        "resourceProvider":{
-            "name":"TELECOM PARISTECH",
-            "displayname":"TELECOM PARISTECH",
-            "url":"http://www.telecom-paristech.fr/"
-        },
-        "description":"Service provider for access to several resources hosted by Telecom ParisTech"
+        "description":"Documents management and sharing"
     },
     {
         "catalogID":"a1b21798fc03da26d584f705f05d1a95fafa4ccf",
@@ -28120,24 +28380,14 @@
         "description":"Moodle platform for collèges Sciences de l'Homme et Sciences Médicales"
     },
     {
-        "catalogID":"076b38f5b33208e8167109cf8fe33bae0bd34500",
-        "resourceName":"rendez-vous platform (#5)",
+        "catalogID":"8a7358a5ecd78d8b8b807831f12f494adb1ffdd9",
+        "resourceName":"Indico@IJCLab",
         "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
         },
-        "description":"Videoconferencing service Rendez-vous"
-    },
-    {
-        "catalogID":"e7fa97a32701b7f1c1d2e9385f14c7b76fde6466",
-        "resourceName":"rendez-vous platform (#3)",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Videoconferencing service Rendez-vous"
+        "description":"Meeting and conference management service"
     },
     {
         "catalogID":"bf199cc96a6a17b1056f0299dd1f0abccc25c20b",
@@ -28150,34 +28400,14 @@
         "description":"Collaborative git hosting"
     },
     {
-        "catalogID":"abb73d4a52e000df4c0387e049da54616b038293",
-        "resourceName":"RegApp for Civis Project",
+        "catalogID":"2edc6535792abed493e4454a9726c67579834a8f",
+        "resourceName":"Université Cote d'Azur - EDM",
         "resourceProvider":{
-            "name":"Aix-Marseille Université (AMU)",
-            "displayname":"Aix-Marseille Université (AMU)",
-            "url":"http://www.univ-amu.fr"
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
         },
-        "description":"RegApp for European Universities Civis Project"
-    },
-    {
-        "catalogID":"335a48fbe43ce09b93f13af4d1e604000ecd8d19",
-        "resourceName":"rendez-vous platform (#4)",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Videoconferencing service Rendez-vous"
-    },
-    {
-        "catalogID":"515a0a67d236bbf0f012a92c875fb3afb4a04a5b",
-        "resourceName":"CNRS - Mathrice services portal",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Portal of services for the franch mathematicians community.\n\nThis portal is used by more than 2000 mathematicians from 60 universities, laboratories, fédérations and there collaborators.\nYou can find the list here : http://plm.math.cnrs.fr/spip.php?article30"
+        "description":"Electronic Document Management for Université Cote d'Azur. Access restricted to members"
     },
     {
         "catalogID":"51f92826ee93bb3e9a3c9e0e45989c473a13da6c",
@@ -28200,6 +28430,16 @@
         "description":"Collaborative git hosting"
     },
     {
+        "catalogID":"a2ee399b0efbd1338fc6cc4bc519f75dcf9a280b",
+        "resourceName":"MESHS - collaborative platform",
+        "resourceProvider":{
+            "name":"Université de Lille",
+            "displayname":"Université de Lille",
+            "url":"http://univ-lille.fr"
+        },
+        "description":"The collaborative platform \"plateforme.meshs.fr\" is dedicated to collaborative work for MESHS's research project"
+    },
+    {
         "catalogID":"5559dba31e456858b8c667916eccdf8d8f847a8f",
         "resourceName":"HumanID",
         "resourceProvider":{
@@ -28220,14 +28460,14 @@
         "description":"Forum DipSO INRAE"
     },
     {
-        "catalogID":"eb1ae2d7ba412e5355d4290b513a9336bffda820",
-        "resourceName":"rendez-vous platform (#2)",
+        "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
+        "resourceName":"Service indico.in2p3.fr",
         "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
         },
-        "description":"Videoconferencing service Rendez-vous"
+        "description":"Service indico.in2p3.fr"
     },
     {
         "catalogID":"56b13e9565c3cffb24e193c444903106c68b8ec1",
@@ -28270,16 +28510,6 @@
         "description":"GitLab platform of Observatoire de la Côte d'Azur"
     },
     {
-        "catalogID":"0b76f7cbb65218e29f08c29baaabe9618d90388f",
-        "resourceName":"Université de Toulon - Portail",
-        "resourceProvider":{
-            "name":"Université de Toulon",
-            "displayname":"Université de Toulon",
-            "url":"http://www.univ-tln.fr"
-        },
-        "description":"Portail d'accès WIFI"
-    },
-    {
         "catalogID":"6c6fedf84766d9d712c1758c29e217843a16d44e",
         "resourceName":"Université de Lille - plate-forme charte digitale (identité)",
         "resourceProvider":{
@@ -28288,6 +28518,116 @@
             "url":"http://univ-lille.fr"
         },
         "description":"This platform allows the responsables of the communication to load digital identification elements they need"
+    },
+    {
+        "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
+        "resourceName":"IN2P3-IP2I - SAML bridge",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"saml federation bridge production"
+    },
+    {
+        "catalogID":"7b2ad174bcc10ced91a355e9aedf0060adec40b9",
+        "resourceName":"saml federation bridge production",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
+    },
+    {
+        "catalogID":"d73e41c5b2bec5549d05d463e5ea6fcc1aef9b33",
+        "resourceName":"rendez-vous platform (#1)",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
+    },
+    {
+        "catalogID":"076b38f5b33208e8167109cf8fe33bae0bd34500",
+        "resourceName":"rendez-vous platform (#5)",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
+    },
+    {
+        "catalogID":"e7fa97a32701b7f1c1d2e9385f14c7b76fde6466",
+        "resourceName":"rendez-vous platform (#3)",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
+    },
+    {
+        "catalogID":"b4adcd9a4cc88078598283e7bb57ac04f580f170",
+        "resourceName":"CAIRN",
+        "resourceProvider":{
+            "name":"CAIRN SA",
+            "displayname":"CAIRN SA",
+            "url":"http://www.cairn.info/"
+        },
+        "description":"Created in September 2005 by four Belgian and French publishers, today Cairn offers the most comprehensive collection of publications in the French language in the humanities and social sciences available online. In 2015, more than 400 journals and around 5,000 eBooks from major French, Belgian and Swiss publishers are available on www.cairn.info. Students, scholars and librarians all over the world are thus able to access more than 200,000 full-text articles and book chapters online.\nTo make this content more visible and accessible to non–francophone scholars, Cairn.info (with the support of the CNL, a French governmental agency dedicated to the promotion of French publications around the world) has designed a special interface, www.cairn-int.info, enabling internet users to browse and easily find content from French journals without speaking a word of French."
+    },
+    {
+        "catalogID":"abb73d4a52e000df4c0387e049da54616b038293",
+        "resourceName":"RegApp for Civis Project",
+        "resourceProvider":{
+            "name":"Aix-Marseille Université (AMU)",
+            "displayname":"Aix-Marseille Université (AMU)",
+            "url":"http://www.univ-amu.fr"
+        },
+        "description":"RegApp for European Universities Civis Project"
+    },
+    {
+        "catalogID":"335a48fbe43ce09b93f13af4d1e604000ecd8d19",
+        "resourceName":"rendez-vous platform (#4)",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
+    },
+    {
+        "catalogID":"515a0a67d236bbf0f012a92c875fb3afb4a04a5b",
+        "resourceName":"CNRS - Mathrice services portal",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Portal of services for the franch mathematicians community.\n\nThis portal is used by more than 2000 mathematicians from 60 universities, laboratories, fédérations and there collaborators.\nYou can find the list here : http://plm.math.cnrs.fr/spip.php?article30"
+    },
+    {
+        "catalogID":"eb1ae2d7ba412e5355d4290b513a9336bffda820",
+        "resourceName":"rendez-vous platform (#2)",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
+    },
+    {
+        "catalogID":"0b76f7cbb65218e29f08c29baaabe9618d90388f",
+        "resourceName":"Université de Toulon - Portail",
+        "resourceProvider":{
+            "name":"Université de Toulon",
+            "displayname":"Université de Toulon",
+            "url":"http://www.univ-tln.fr"
+        },
+        "description":"Portail d'accès WIFI"
     },
     {
         "catalogID":"a032f098e354f7f2184ec76501ba2bfd38b1e3f0",
@@ -28318,6 +28658,166 @@
             "url":"http://univ-lille.fr"
         },
         "description":"The website offer a suite of web service with restricted access to manage and support MESHS's research project."
+    },
+    {
+        "catalogID":"180c7efa20d5f7cee080cb3e917d826d09e99ba7",
+        "resourceName":"ENS Paris-Saclay - Eduspot Portal",
+        "resourceProvider":{
+            "name":"Ecole Normale Supérieure Paris-Saclay",
+            "displayname":"Ecole Normale Supérieure Paris-Saclay",
+            "url":"http://www.ens-cachan.fr"
+        },
+        "description":"Wireless access for eduspot project members."
+    },
+    {
+        "catalogID":"a0f58366cc69a3a92947266e8a43589f32ca44de",
+        "resourceName":"MESHS - tools - centralized authentication",
+        "resourceProvider":{
+            "name":"Université de Lille",
+            "displayname":"Université de Lille",
+            "url":"http://univ-lille.fr"
+        },
+        "description":"Give access to tools linked with MESHS supported research's project"
+    },
+    {
+        "catalogID":"6f5f0cc43191c04077e86faff8edb1dd2e55279f",
+        "resourceName":"EChamilo - UGA",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"E-learning plateform of the Grenoble Alpes University."
+    },
+    {
+        "catalogID":"33d408a82be85eaa4d8f84e060c8115e72ebd4eb",
+        "resourceName":"PerSCiDO datasets sharing platform",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"Dataset sharing platform PerSCiDO from the Persyval-lab labex.\nThis platform aims at fostering datasets sharing among researchers from all domains."
+    },
+    {
+        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
+        "resourceName":"University Paris 1 - online course",
+        "resourceProvider":{
+            "name":"Université Paris 1 - Panthéon Sorbonne",
+            "displayname":"Université Paris 1 - Panthéon Sorbonne",
+            "url":"http://www.univ-paris1.fr"
+        },
+        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
+    },
+    {
+        "catalogID":"5609519484dadb3837286a11416a8833f05b87ec",
+        "resourceName":"Eduspot - Nimes University",
+        "resourceProvider":{
+            "name":"Université de Nîmes",
+            "displayname":"Université de Nîmes",
+            "url":"http://www.unimes.fr"
+        },
+        "description":"Eduspot - Nimes University"
+    },
+    {
+        "catalogID":"fa72e7910296434ffc6932d0a8ed12badf167252",
+        "resourceName":"SDIS Bayeux - Digital Tapestry - preprod",
+        "resourceProvider":{
+            "name":"Université de Caen Normandie",
+            "displayname":"Université de Caen Normandie",
+            "url":"http://www.unicaen.fr"
+        },
+        "description":"Spatialized Documentary Information System for the Bayeux Tapestry - pre-production / demo version"
+    },
+    {
+        "catalogID":"14125f65460dc330eefbf167aa9d06ddf3cebd2e",
+        "resourceName":"CivisBox for Civis poject",
+        "resourceProvider":{
+            "name":"Aix-Marseille Université (AMU)",
+            "displayname":"Aix-Marseille Université (AMU)",
+            "url":"http://www.univ-amu.fr"
+        },
+        "description":"User sharing information for CIVIS"
+    },
+    {
+        "catalogID":"1f28f8a6a987104634bc3a472610216e1d936310",
+        "resourceName":"Cursus - Learning platform",
+        "resourceProvider":{
+            "name":"Université Rennes 2",
+            "displayname":"Université Rennes 2",
+            "url":"https://www.univ-rennes2.fr"
+        },
+        "description":"Université Rennes 2 learning platform."
+    },
+    {
+        "catalogID":"f365aeeb691d5e23b366972541db8888b7f0720d",
+        "resourceName":"Learning Management System - Université de Tours",
+        "resourceProvider":{
+            "name":"Université de Tours",
+            "displayname":"Université de Tours",
+            "url":"http://www.univ-tours.fr"
+        },
+        "description":"Learning Management System - Université de Tours"
+    },
+    {
+        "catalogID":"913d78965e2237d4f556a9133fd0f3452e3e9690",
+        "resourceName":"CRIANN - High Performance Computing Resource Allocation",
+        "resourceProvider":{
+            "name":"CRIANN",
+            "displayname":"CRIANN",
+            "url":"http://www.crihan.fr"
+        },
+        "description":"This service allows academic users to submit their requests for hours on computing resources before evaluation and access to CRIANN supercomputers.\nIt is primarily intended for researchers, teacher-researchers, engineers or doctoral students assigned to a public research laboratory.\nSome features can potentially be used by any staff of the French ESR."
+    },
+    {
+        "catalogID":"20cca6a3ac8f2d51f0b716ab80d37db3e966bb28",
+        "resourceName":"University of Perpignan - eduspot",
+        "resourceProvider":{
+            "name":"Université de Perpignan",
+            "displayname":"Université de Perpignan",
+            "url":"http://www.univ-perp.fr"
+        },
+        "description":"eduspot universite de Perpignan"
+    },
+    {
+        "catalogID":"90019a7cb47f671aa50df53124ef773d0db1842e",
+        "resourceName":"UTC - Eduspot",
+        "resourceProvider":{
+            "name":"Université de Technologie de Compiègne",
+            "displayname":"Université de Technologie de Compiègne",
+            "url":"http://www.utc.fr/"
+        },
+        "description":"UTC - Eduspot"
+    },
+    {
+        "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
+        "resourceName":"M.N.H.N  eduspot",
+        "resourceProvider":{
+            "name":"Muséum National d'Histoire Naturelle",
+            "displayname":"Muséum National d'Histoire Naturelle",
+            "url":"http://www.mnhn.fr"
+        },
+        "description":"M.N.H.N  eduspot"
+    },
+    {
+        "catalogID":"b3b7816da589a30d26a36aa18d0f07fbff6995fd",
+        "resourceName":"limesurvey service",
+        "resourceProvider":{
+            "name":"Université Paris 1 - Panthéon Sorbonne",
+            "displayname":"Université Paris 1 - Panthéon Sorbonne",
+            "url":"http://www.univ-paris1.fr"
+        },
+        "description":"Shibboleth administration authentification"
+    },
+    {
+        "catalogID":"f10f9e09270c66d504fbc821e2e5bb194d16cb9e",
+        "resourceName":"Université Grenoble eformation",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"Moodle of University of Grenoble Alpes"
     },
     {
         "catalogID":"097f562d1f1b8618d5e840ac2d3ba502e3137c3c",

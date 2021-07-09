@@ -1,0 +1,203 @@
+{
+    "generated":"2021-07-09 20:22",
+    "en":[
+        {
+            "catalogID":"c75b5f902ab190444afc7d5cf4ef045692c12c8e",
+            "entityID":"https://healthanalytics.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Tableau",
+            "resourceProvider":{
+                "name":"University of California, San Francisco",
+                "displayname":"University of California, San Francisco",
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ucsf.edu/website-privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c75b5f902ab190444afc7d5cf4ef045692c12c8e",
+            "entityID":"https://healthanalytics.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Tableau",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c75b5f902ab190444afc7d5cf4ef045692c12c8e",
+            "entityID":"https://healthanalytics.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Tableau",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c75b5f902ab190444afc7d5cf4ef045692c12c8e",
+            "entityID":"https://healthanalytics.ucsf.edu/shibboleth",
+            "resourceName":"UCSF Tableau",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "cn",
+                    "displayName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Jack Ha",
+                    "email":"mailto:Jack.Ha@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
