@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-09 16:34",
+    "generated":"2021-07-09 18:29",
     "en":[
         {
             "catalogID":"f2b38960a9249bfb932914567a300bd7105278fb",
@@ -11,12 +11,14 @@
                 "url":"https://open-research-europe.ec.europa.eu/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "commonName",
+                    "surname",
+                    "mail"
+                ],
                 "requested":[
                     "eduPersonTargetedID",
-                    "eduPersonPrincipalName",
-                    "displayName",
-                    "mail"
+                    "eduPersonPrincipalName"
                 ]
             },
             "description":"Open Research Europe offers open access publishing for research stemming from Horizon 2020 funding.",
@@ -49,12 +51,14 @@
                 "url":"https://open-research-europe.ec.europa.eu/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "commonName",
+                    "surname",
+                    "mail"
+                ],
                 "requested":[
                     "eduPersonTargetedID",
-                    "eduPersonPrincipalName",
-                    "displayName",
-                    "mail"
+                    "eduPersonPrincipalName"
                 ]
             },
             "description":"",
@@ -87,12 +91,14 @@
                 "url":"https://open-research-europe.ec.europa.eu/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "commonName",
+                    "surname",
+                    "mail"
+                ],
                 "requested":[
                     "eduPersonTargetedID",
-                    "eduPersonPrincipalName",
-                    "displayName",
-                    "mail"
+                    "eduPersonPrincipalName"
                 ]
             },
             "description":"",
@@ -125,12 +131,14 @@
                 "url":"https://open-research-europe.ec.europa.eu/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "commonName",
+                    "surname",
+                    "mail"
+                ],
                 "requested":[
                     "eduPersonTargetedID",
-                    "eduPersonPrincipalName",
-                    "displayName",
-                    "mail"
+                    "eduPersonPrincipalName"
                 ]
             },
             "description":"",
