@@ -590,6 +590,16 @@
         "description":""
     },
     {
+        "catalogID":"eed0315bd794b373c03b48effe1210013a2daa8b",
+        "resourceName":"Active Classroom (Staging)",
+        "resourceProvider":{
+            "name":"eduhk.hk",
+            "displayname":"The Education University of Hong Kong",
+            "url":"http://www.eduhk.hk"
+        },
+        "description":"AClass Staging server is used for user acceptance test and other testing purposes."
+    },
+    {
         "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
         "resourceName":"KEEP",
         "resourceProvider":{
@@ -600,6 +610,16 @@
         "description":"Knowledge & Education Exchange Platform (KEEP) is a personalized educational portal for users to easily search, subscribe and access content from the KEEP Cloud Ecosystem. KEEP supports the development of innovative teaching and learning with cutting-edge"
     },
     {
+        "catalogID":"67d2ec5b9dc1a89234bd449b04e48e0c1d2dcd55",
+        "resourceName":"SKLMP Facility Booking System",
+        "resourceProvider":{
+            "name":"cityu.edu.hk",
+            "displayname":"City University of Hong Kong",
+            "url":"http://www.cityu.edu.hk"
+        },
+        "description":"Welcome to the State Key Laboratory of Marine Pollution (SKLMP) for performing experimental work. SKLMP Facility Booking System allows users to book equipment and facility simultaneously, view their status instantly, and check the expense usage quickly."
+    },
+    {
         "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
         "resourceName":"Active Classroom (v2)",
         "resourceProvider":{
@@ -608,16 +628,6 @@
             "url":"http://www.eduhk.hk"
         },
         "description":"****** This SP shall supersede the previous Active Classroom (AClass) registration due to a mis-configuration of the metadata URL. ****** Active Classroom (AClass) is a website designed for knowledge transfer of education studies and idea exchanges. Our t"
-    },
-    {
-        "catalogID":"eed0315bd794b373c03b48effe1210013a2daa8b",
-        "resourceName":"Active Classroom (Staging)",
-        "resourceProvider":{
-            "name":"eduhk.hk",
-            "displayname":"The Education University of Hong Kong",
-            "url":"http://www.eduhk.hk"
-        },
-        "description":"AClass Staging server is used for user acceptance test and other testing purposes."
     },
     {
         "catalogID":"b6d0463b7abb6133be665554714fda26bad2d197",
@@ -10500,6 +10510,586 @@
         "description":""
     },
     {
+        "catalogID":"d5a793b4035e5694bc6eb6ae1cd406769c526967",
+        "resourceName":"AcademicWorks - Kansas State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"1e23d3d2ad6b2fd0f86e987d40b134f18761bb0f",
+        "resourceName":"AcademicWorks - University of Kansas",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"8f134ee057732b6f76ba0e75d924d4ffa4a05bcd",
+        "resourceName":"AcademicWorks - Pennsylvania State University, College of the Liberal Arts",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"537d00530b201d296b1a945c4c3f66da9a7ca4d6",
+        "resourceName":"AcademicWorks - University of Miami School of Law",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"d46ce1f7a6a5f7805e29a6e595e3cdb01478ba25",
+        "resourceName":"AcademicWorks - Longwood University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"2d5fa7f875fd5d7e21e66cc4ebae5f91c95fa864",
+        "resourceName":"AcademicWorks - Loyola University, Maryland",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"417af2cea6f9d77b9cb0a72c609af002a7560edc",
+        "resourceName":"AcademicWorks - University of Michigan - LSA",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"71e3c1b7438469b7a45913c75bf0d011f2a31a85",
+        "resourceName":"AcademicWorks - LSU Foundation",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"9c031b64fdee24d793631c5076e4fd7f74ba3439",
+        "resourceName":"AcademicWorks - Loyola University Chicago",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"8d5a699e8abaf02bbf83e8f0c0c7b5356b3501d5",
+        "resourceName":"AcademicWorks - Manhattan College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"1e70a547ce55e4b5fc0f65624d6bbedef99fb264",
+        "resourceName":"AcademicWorks - Manhattan College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"fa3aec841954489ae2094b31783ad5327c16ebe8",
+        "resourceName":"AcademicWorks - Marin",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"fcc686a2e524e5c97c8c226f8c735f463399b969",
+        "resourceName":"AcademicWorks - Marin - QA",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"42dd10ca5cff71c6548c2eac585a108be22ceded",
+        "resourceName":"Academicworks - Marymount University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"9bd68c2b63e115589e0dd28e963a0d681d092dea",
+        "resourceName":"AcademicWorks - University of Memphis",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"715d2601d141b2b667f6bcd5a9b016bb53564b7c",
+        "resourceName":"AcademicWorks - Colorado School of Mines",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"7bc85059a9825251bcdfc0310ca10ee408e6e704",
+        "resourceName":"AcademicWorks - Montana",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"03d919da1a29325b169ff85ec619515357dbb16e",
+        "resourceName":"AcademicWorks - Mississippi State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"9ce0f2fd9480a662b0df51346ea49311c95753d0",
+        "resourceName":"AcademicWorks - Missouri University of Science and Technology",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"d8e64d5259971857625cd212cbf5d9fa48af26d3",
+        "resourceName":"AcademicWorks - MSU Billings",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"bcc71d3209871930efe1b06b07c9a24e971d30ce",
+        "resourceName":"Academicworks - MSU-Northern",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"ce6331302a86c8a87a8d0811ebc936415c711e3f",
+        "resourceName":"AcademicWorks - Northern Arizona University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"05c7987db0f16a28c3b9773298e056abd8c0a26c",
+        "resourceName":"AcademicWorks - Northern Arizona University Foundation",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"26c63918226e0ca383011d9af29bd292fed0a5b3",
+        "resourceName":"AcademicWorks - North Carolina Central University Scholarships",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"91c4874176433784555dac87ac08e7cb64fdcf8b",
+        "resourceName":"AcademicWorks - NC State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"44a29dafc0a5a3424c1ee8dc72285d7dff3448d8",
+        "resourceName":"AcademicWorks - University of Notre Dame",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"161c1df41fa847f375dc41782b7e7f8af15bc724",
+        "resourceName":"AcademicWorks - North Dakota State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"87915a598bb5b19f7c677ce295bda390327693fb",
+        "resourceName":"AcademicWorks - Northern Illinois University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"5b517569b19c86ae3b4947526a208927a32a6301",
+        "resourceName":"AcademicWorks - Northampton - QA",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"c0fb2db5d28709e886a83fd5758773b8acb35a31",
+        "resourceName":"AcademicWorks - Northwestern",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"fb2aeb41129cf78da25b7ca38f66b634b83687a7",
+        "resourceName":"AcademicWorks - Washington State University-College of Nursing",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"e166d3f41c4e2059d52f5261382071e1facb6c1c",
+        "resourceName":"AcademicWorks - New York University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"38b8d1b9769dc67312db3b4f341f238fd33a8afd",
+        "resourceName":"AcademicWorks - (training) University of Wisconsin",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"1eb4c125442110fd6809890d36504eb0b38d5f0d",
+        "resourceName":"AcademicWorks - Oregon State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"ae0dcb65ea2b7bc4107567104ac5a7ecf4e4728c",
+        "resourceName":"AcademicWorks - Owens Community College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"b3b828228e3de810d2d5d815f8cdb06d6f85a533",
+        "resourceName":"AcademicWorks - Pima Community College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"38224818407b9df74e021eff9c9e4a307c7cd779",
+        "resourceName":"AcademicWorks - University of Pittsburgh",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"671fa88daa3fbe7fc7ccaf8ff45bf39b91769821",
+        "resourceName":"AcademicWorks - Radford University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"284e52794947d5a728447f104bc5e255c5026ad6",
+        "resourceName":"Academicworks - Radford University QA",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"c46c5943cd769cdae1f92d9f9a10fe3a4227ba58",
+        "resourceName":"AcademicWorks - Ringling College of Art and Design",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"69cb04cfa114916089561e3e1159a1da873fa20e",
+        "resourceName":"AcademicWorks - Rensselaer Polytechnic",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"c54eea72f98feddf39caf3613d7b1022413370a3",
+        "resourceName":"AcademicWorks - Rutgers School of Communications",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"fb1ec1158e5fc72b2ffc6360820bf25e7a364713",
+        "resourceName":"AcademicWorks - Salisbury",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"088b14d079756f3b18f5b787ccb30fb89f2af183",
+        "resourceName":"AcademicWorks - Santa Barbara City College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"85af7052c90428f9dd68ac35763dc686dc373475",
+        "resourceName":"AcademicWorks - San Bernardino Community College District",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"51c9f3cc38d396ab4e0d39014f70aca87534a67b",
+        "resourceName":"AcademicWorks - Scripps",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"af8253f06d13db8fe7b081527edfba26c4da6760",
+        "resourceName":"AcademicWorks - Santa Clara University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"50a1109aed933850dd17c469243378b481175b57",
+        "resourceName":"AcademicWorks - San Diego State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"1bfdeae4c34f6a67e65c9b6db3e74caab221b239",
+        "resourceName":"AcademicWorks - San Francisco State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"04c7ec08406a46038445de4ab15195ad3751e56f",
+        "resourceName":"AcademicWorks - Sam Houston State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"c84ca5369eab7c003e6667d62ff971d988788ec5",
+        "resourceName":"AcademicWorks - Southern Illinois University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"db0dc05ecb65777bc6b9c449df6a6f73d18d620f",
+        "resourceName":"AcademicWorks - San Jose State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"709e87e4cefa553fb77e64ad86605ae6ed79f653",
+        "resourceName":"AcademicWorks - Sonoma State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"95c53218e8c7ac443f3f36d5eea395572cc1e714",
+        "resourceName":"AcademicWorks - Southern Oregon University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"0d69a2055a4f0add851e672c743d992074f11c92",
+        "resourceName":"AcademicWorks - Stanford University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"96561f150406bd441248fb156bb3f38b19d82cb9",
+        "resourceName":"AcademicWorks - Stanford Athletics",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"b7f7bfc977c12036095aae581956e10664c03a5f",
+        "resourceName":"AcademicWorks - Stanford University GSB",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"7313e559d550eaa3c0c6183474167ee89272a212",
+        "resourceName":"AcademicWorks - University of Saint Thomas",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"8fbfa39215a92dcc5ad1bc596a516de224896004",
         "resourceName":"AcademicWorks - Syracuse",
         "resourceProvider":{
@@ -10510,8 +11100,668 @@
         "description":""
     },
     {
+        "catalogID":"84203e5a4703f39f419506fe7fbac1c2f7564024",
+        "resourceName":"AcademicWorks - Temple University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"3dab175df8a5943df74f13c4010a6a5bc2ea2137",
+        "resourceName":"AcademicWorks - The University of Tennessee",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"959fef29d90760ccc459fd64397ab9da6da8e0b8",
+        "resourceName":"AcademicWorks - Towson",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"e992648ea550a99d3459d9576b369c9fdf68c9af",
+        "resourceName":"AcademicWorks -Tulsa Community College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"0b74ea76d804ef414453306066612cfdf60fcf0e",
+        "resourceName":"AcademicWorks - Texas Woman's University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"288d529637e5f3156787604188cbb9c87432fbac",
+        "resourceName":"AcademicWorks - Texas State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"06e77678662df0107015a8bbdbafa22281f69793",
+        "resourceName":"Academic Works - University of Alabama Birmingham",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"a0629f16b4bf5e47dca980df3a0482f535214ad5",
+        "resourceName":"AcademicWorks - University of Arkansas",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"bbb8971cc5e7877d108f463bef1d5288dd4c8459",
+        "resourceName":"AcademicWorks - University of Baltimore",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"eaa24d79c9f255ab08236fd3ee7389c02fa758af",
+        "resourceName":"AcademicWorks - University of California, Davis",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"b1b94629e828a71508fb85ad4e10b85100e530cc",
+        "resourceName":"AcademicWorks - University of Colorado-Denver",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"fc2f8cfef8d16ff4915eb08ac600f99f3507096b",
+        "resourceName":"AcademicWorks - University of Central Florida",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"467afaa4247c90b7bf6454636d780fe83b270c43",
+        "resourceName":"AcademicWorks - University of California, Hastings",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"2f3f598af53ae72455663ab9f356ca65fa6e4f2e",
+        "resourceName":"AcademicWorks - UCI",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"d09eddd9c67a8b4dc9de579f6f16702d0f348ebe",
+        "resourceName":"AcademicWorks - University of California, Los Angeles",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"0358900ac756f3132449e44a8f2c640044f030f1",
+        "resourceName":"AcademicWorks - University of California Merced",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"e4d0916eff7c0c778475118125745a3d8d86d1c9",
+        "resourceName":"AcademicWorks - Uc Riverside CNAS",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"184762ebfc7860b53e36c64317ea20e891b41195",
+        "resourceName":"AcademicWorks - University of California, San Diego",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"fe654a7e8b4a6f69aea23033b9764e467af88983",
+        "resourceName":"AcademicWorks - UC San Diego",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"ae00414bef29c06958b0fc1fe6a9459de7d7baf1",
+        "resourceName":"AcademicWorks - University of Dayton",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"9d05ab785416bab8d61c68db5a00ac6c07677cae",
+        "resourceName":"AcademicWorks - University of Illinois at Chicago",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"8cf941e8db991c8b5623db140a8bde5e1410aa10",
+        "resourceName":"AcademicWorks - The University of Iowa",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"29d9a86818dd664ff2d6872639c1ab0ce9643f2c",
+        "resourceName":"AcademicWorks - University of Kentucky",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"df553719b7dfeb522224ea27320e10eb726ec99b",
+        "resourceName":"AcademicWorks - University of KY - grad",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"bd6be69649b5ff32c03edc0912b54b75a8932879",
+        "resourceName":"AcademicWorks - University of Maryland",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"2f19a066269c011b6309d8668795908cde16f449",
+        "resourceName":"AcademicWorks - University of Massachusetts Amherst",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"add2e4ee2f32dd1f3823eefbe9858879a05ca8bf",
+        "resourceName":"AcademicWorks - University of Maryland Baltimore County",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"70dd22ddb1e8fb3429cd065d3b0091a6e46a9f02",
+        "resourceName":"AcademicWorks - University of Michigan, Dearborn",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"a8e0c1b6b1847b5242a3d5bac9b506e8bc924319",
+        "resourceName":"AcademicWorks - University of Missouri-Kansas City",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"984ca564d789ec2b13fe2056dc9f685cb90192e7",
+        "resourceName":"AcademicWorks - University of Missouri, St. Louis",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"f8e21540b14a07dad5577831962c88db4d80604b",
+        "resourceName":"AcademicWorks - University of Montana",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"5e33f702eb1492683c0161df37303c00939f0af8",
+        "resourceName":"AcademicWorks - The University of North Carolina at Chapel Hill",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"fd0c81c1de04189e0e890290cac63e8739d94e4d",
+        "resourceName":"AcademicWorks - University of North Carolina at Greensboro",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"cf596b59df6c40dbf4b0835e083b93aea5feff72",
+        "resourceName":"AcademicWorks - University of Northern Colorado",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"7db1af592913b0cabd8f3be060b93ae4e3eef4cc",
+        "resourceName":"AcademicWorks - University of Nevada-Las Vegas",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"9816c4761c9dfc6b5f8b45b0dde4b504bb5c566a",
+        "resourceName":"AcademicWorks - University of Nebraska Omaha",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"ed0eb112f01d3316f1f1533bbbc1881421cee8cc",
+        "resourceName":"AcademicWorks - University of North Texas",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"00fb7187e08b2a467fb2e88a61962e895e4e8cac",
+        "resourceName":"AcademicWorks - University of North Texas Health Sciences Center",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"d266fe968ba68914d0fdc7cef72527da413505ac",
+        "resourceName":"AcademicWorks - uoregon",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"8845a45e1cbb0213c0361441fd56e0f38964c7ff",
+        "resourceName":"AcademicWorks - University of Southern California",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"6433e305168797ecf7e13ec02f9ce8b854b00be0",
+        "resourceName":"AcademicWorks - University of South Florida St. Petersburg",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"2b6c2d825e2e3e58af5a441ebc838ca111ed77e9",
+        "resourceName":"Academic Works - The University of Texas at Arlington",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"fd3c2474d57739e7fb7fdc6d64de489bfe19cdc3",
+        "resourceName":"AcademicWorks - University of Utah",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"07e4e60a7bb1e87d48e7bf5296e37103d119b5a4",
+        "resourceName":"AcademicWorks - University of Texas El Paso",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"5d79c21f40891b0b319522782fbd5198ea0dcaa2",
+        "resourceName":"AcademicWorks - University of Texas Medical Branch",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"f2203c70eed1dbb8d42caa5fc8f18c2aa5bcfa61",
+        "resourceName":"AcademicWorks - The University of Texas at San Antonio",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"ab1c71c47aad6c096dc0f9f9aba21e2640b9ca14",
+        "resourceName":"AcademicWorks - Utah Valley University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"4a5b64a0d29540e3b53b2ec2fa32c754726cad23",
+        "resourceName":"AcademicWorks - University of West Florida",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"0bae3b336402b9786f1b6982e4b9eb31c582f984",
+        "resourceName":"AcademicWorks - University of Wisconsin-Milwaukee",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"0f92549abb5e1d2d69e37cdcdbeb2a32e3498da0",
+        "resourceName":"AcademicWorks - University of Wisconsin Oshkosh",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"29e711d9fb0ba7841a199f8a0797ffe3deaf4a3d",
+        "resourceName":"AcademicWorks - University of Wisconsin-Platteville",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"de0fd08a3eefe44f0621a75364ef7f4a59e4e1de",
+        "resourceName":"Academicworks - UW-River Falls",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"3fc146c65716341d4c2bdf9fb6958fa2723bbb43",
+        "resourceName":"AcademicWorks QA - UW-River Falls",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"b14ea07876f344e478291577c6849647436e4884",
+        "resourceName":"AcademicWorks - Virginia Commonwealth University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"71e356c5af5d9c0885af71c70e6fd10933be6cf0",
+        "resourceName":"AcademicWorks - University of Virginia",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"71809361c9ff2329832585fa8df04e31139f7d16",
+        "resourceName":"AcademicWorks - Washington",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"e8d3a450425417cdd493f97610f67eadf9189a5e",
+        "resourceName":"AcademicWorks - Wayne State University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"b2d96a326307310b0a94614f1b405b0e4e121268",
+        "resourceName":"AcademicWorks - wesleyan",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"322d75448e9340127da695bc5ae1f50d7cb252e1",
+        "resourceName":"AcademicWorks - University of Wisconsin",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"16ef8e05953e5c2ac363dd647435980bfcfd70b7",
+        "resourceName":"AcademicWorks - Wentworth Institute of Technology",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"e568b805c88b7294ca2fa21a2b960f954c0b7b23",
+        "resourceName":"AcademicWorks - Western Michigan University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"a4786c3d65363ffa173c7fd80e8c40d3ece8e16e",
         "resourceName":"AcademicWorks - College of Wooster",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"8f2227b94dde96be61da5d0a99ecc7adcf9e8759",
+        "resourceName":"AcademicWorks - Western Oregon University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"1032f629e908a4c8956db6e86dd07a05b50aec0f",
+        "resourceName":"AcademicWorks - William Paterson University",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"f303d2c50e322f28d0023a50cc11ac80fad783a8",
+        "resourceName":"AcademicWorks - Wayne State College",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"17af2e98d8680cacf1665592662bda77064825bc",
+        "resourceName":"AcademicWorks - Washington State University, Tri-Cities",
+        "resourceProvider":{
+            "name":"Blackbaud, Inc.",
+            "displayname":"Blackbaud, Inc.",
+            "url":"https://www.blackbaud.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"7ae42c8ed535bfbee556fb087f4c22dea7e14665",
+        "resourceName":"AcademicWorks - West Virginia University",
         "resourceProvider":{
             "name":"Blackbaud, Inc.",
             "displayname":"Blackbaud, Inc.",
@@ -11288,6 +12538,16 @@
             "url":"http://www.12twenty.com/"
         },
         "description":"12Twenty Service Provider for Stage environment (v2)"
+    },
+    {
+        "catalogID":"8869e813c8d239adaeabb548e46338673d4334c6",
+        "resourceName":"Lyterati",
+        "resourceProvider":{
+            "name":"Entigence Corporation",
+            "displayname":"Entigence Corporation",
+            "url":"http://www.entigence.com/"
+        },
+        "description":"A comprehensive faculty information system that provides senior university administration insights into faculty contributions, annual reports, promotion & tenure, leave, sabbatical, and other faculty-related processes."
     },
     {
         "catalogID":"dd3545fdaddb3f7187397393c574acd04aff4409",
@@ -27910,6 +29170,56 @@
         "description":""
     },
     {
+        "catalogID":"e0f662e083fbfc2234016543bac529e16430e3f5",
+        "resourceName":"INRAE - Files sharing services",
+        "resourceProvider":{
+            "name":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
+            "displayname":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
+            "url":"http://www.irstea.fr"
+        },
+        "description":"Files sharing services\nOnly Inrae members could store some files an share them to other member of Edugain Inter Federation or C.R.U subscribers\nDefault quota is 10 Mo."
+    },
+    {
+        "catalogID":"4055d3a2f52fab4322bd35699c8182737e93a039",
+        "resourceName":"Université Cote d'Azur - EDM - modules",
+        "resourceProvider":{
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
+        },
+        "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
+    },
+    {
+        "catalogID":"936094b0467daf90b80c904919b738a4ca610e08",
+        "resourceName":"Compilatio - plagiarism Prevention",
+        "resourceProvider":{
+            "name":"COMPILATIO",
+            "displayname":"COMPILATIO",
+            "url":"http://www.compilatio.net"
+        },
+        "description":"Document analysis service made available to higher education and allowing the detection of plagiarism in student work ..."
+    },
+    {
+        "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
+        "resourceName":"IN2P3-IP2I - SAML bridge",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"saml federation bridge production"
+    },
+    {
+        "catalogID":"30653e9f6545b73659ac0f7dce22072b21802033",
+        "resourceName":"Université of Caen Normandie - thecaelab",
+        "resourceProvider":{
+            "name":"Université de Caen Normandie",
+            "displayname":"Université de Caen Normandie",
+            "url":"http://www.unicaen.fr"
+        },
+        "description":"Thecaelab is a experimentation platform dedicated to scholarly edition of ancient inventories. Designed as a texts laboratory it provides to the scientific community testing solutions for XML TEI annotation, search and extraction of information or visualisation of data sets added to the platform."
+    },
+    {
         "catalogID":"a2ee399b0efbd1338fc6cc4bc519f75dcf9a280b",
         "resourceName":"MESHS - collaborative platform",
         "resourceProvider":{
@@ -27928,6 +29238,16 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"TGIR Huma-Num SSO service"
+    },
+    {
+        "catalogID":"1379fdf926f6322c5cc8809cfc551c2245547214",
+        "resourceName":"Guest network access",
+        "resourceProvider":{
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
+        },
+        "description":"Guest network access"
     },
     {
         "catalogID":"3745491bf2c5f85df4d576beb50c1051c2641e3d",
@@ -27950,24 +29270,24 @@
         "description":"Authentication proxy combining the  Federated Identity and the Single Sign-On (SSO) authentification  to give AUF users different ways to access applications:\n  - With the account of their university institution,\n  - By creating a local account,\n  - With an account of one of their social networks (eg Facebook),\n  - With AUF professional account, for AUF staff."
     },
     {
-        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
-        "resourceName":"INRAE - Nextcloud",
+        "catalogID":"85b82810775ec339936b1176f6d3e89a1f5e6704",
+        "resourceName":"rendez-vous platform",
         "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
         },
-        "description":"INRAE ​​data sharing service"
+        "description":"Videoconferencing service Rendez-vous"
     },
     {
-        "catalogID":"1379fdf926f6322c5cc8809cfc551c2245547214",
-        "resourceName":"Guest network access",
+        "catalogID":"8eff1553c76ec7eb0161eec17dd16e4d4f31f294",
+        "resourceName":"MESHS - tools - centralized authentication",
         "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
+            "name":"Université de Lille",
+            "displayname":"Université de Lille",
+            "url":"http://univ-lille.fr"
         },
-        "description":"Guest network access"
+        "description":"The website offer a suite of web service with restricted access to manage and support MESHS's research project."
     },
     {
         "catalogID":"180c7efa20d5f7cee080cb3e917d826d09e99ba7",
@@ -28020,6 +29340,16 @@
         "description":"E-learning plateform of the Grenoble Alpes University."
     },
     {
+        "catalogID":"7b2ad174bcc10ced91a355e9aedf0060adec40b9",
+        "resourceName":"saml federation bridge production",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
+    },
+    {
         "catalogID":"f10f9e09270c66d504fbc821e2e5bb194d16cb9e",
         "resourceName":"Université Grenoble eformation",
         "resourceProvider":{
@@ -28028,26 +29358,6 @@
             "url":"http://www.univ-grenoble-alpes.fr"
         },
         "description":"Moodle of University of Grenoble Alpes"
-    },
-    {
-        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
-        "resourceName":"University Paris 1 - online course",
-        "resourceProvider":{
-            "name":"Université Paris 1 - Panthéon Sorbonne",
-            "displayname":"Université Paris 1 - Panthéon Sorbonne",
-            "url":"http://www.univ-paris1.fr"
-        },
-        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
-    },
-    {
-        "catalogID":"3816cc2796d7fa15e0bbcd9da2778b0c581aee3e",
-        "resourceName":"ENIB - Documents management and sharing",
-        "resourceProvider":{
-            "name":"Ecole Nationale d'Ingénieurs de Brest",
-            "displayname":"Ecole Nationale d'Ingénieurs de Brest",
-            "url":"http://www.enib.fr"
-        },
-        "description":"Documents management and sharing"
     },
     {
         "catalogID":"b76bd3eb38f7581d1bd8a9225114e654ab527558",
@@ -28070,14 +29380,64 @@
         "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
     },
     {
-        "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
-        "resourceName":"Guest network access - Guests",
+        "catalogID":"0b76f7cbb65218e29f08c29baaabe9618d90388f",
+        "resourceName":"Université de Toulon - Portail",
         "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
+            "name":"Université de Toulon",
+            "displayname":"Université de Toulon",
+            "url":"http://www.univ-tln.fr"
         },
-        "description":"Guest network access - Guest side"
+        "description":"Portail d'accès WIFI"
+    },
+    {
+        "catalogID":"e7fa97a32701b7f1c1d2e9385f14c7b76fde6466",
+        "resourceName":"rendez-vous platform (#3)",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
+    },
+    {
+        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
+        "resourceName":"University Paris 1 - online course",
+        "resourceProvider":{
+            "name":"Université Paris 1 - Panthéon Sorbonne",
+            "displayname":"Université Paris 1 - Panthéon Sorbonne",
+            "url":"http://www.univ-paris1.fr"
+        },
+        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
+    },
+    {
+        "catalogID":"3816cc2796d7fa15e0bbcd9da2778b0c581aee3e",
+        "resourceName":"ENIB - Documents management and sharing",
+        "resourceProvider":{
+            "name":"Ecole Nationale d'Ingénieurs de Brest",
+            "displayname":"Ecole Nationale d'Ingénieurs de Brest",
+            "url":"http://www.enib.fr"
+        },
+        "description":"Documents management and sharing"
+    },
+    {
+        "catalogID":"076b38f5b33208e8167109cf8fe33bae0bd34500",
+        "resourceName":"rendez-vous platform (#5)",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
+    },
+    {
+        "catalogID":"d73e41c5b2bec5549d05d463e5ea6fcc1aef9b33",
+        "resourceName":"rendez-vous platform (#1)",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
     },
     {
         "catalogID":"5609519484dadb3837286a11416a8833f05b87ec",
@@ -28088,6 +29448,26 @@
             "url":"http://www.unimes.fr"
         },
         "description":"Eduspot - Nimes University"
+    },
+    {
+        "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
+        "resourceName":"Guest network access - Guests",
+        "resourceProvider":{
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
+        },
+        "description":"Guest network access - Guest side"
+    },
+    {
+        "catalogID":"335a48fbe43ce09b93f13af4d1e604000ecd8d19",
+        "resourceName":"rendez-vous platform (#4)",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
     },
     {
         "catalogID":"7718557b9bf5668ac0e484fd3c9c2194fd5d0457",
@@ -28108,6 +29488,16 @@
             "url":"http://www.unicaen.fr"
         },
         "description":"Spatialized Documentary Information System for the Bayeux Tapestry - pre-production / demo version"
+    },
+    {
+        "catalogID":"a032f098e354f7f2184ec76501ba2bfd38b1e3f0",
+        "resourceName":"portail-eduspot.inra.fr",
+        "resourceProvider":{
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
+        },
+        "description":"portail de test connexion wifi et filaire"
     },
     {
         "catalogID":"14125f65460dc330eefbf167aa9d06ddf3cebd2e",
@@ -28140,6 +29530,16 @@
         "description":"Université Rennes 2 learning platform."
     },
     {
+        "catalogID":"abb73d4a52e000df4c0387e049da54616b038293",
+        "resourceName":"RegApp for Civis Project",
+        "resourceProvider":{
+            "name":"Aix-Marseille Université (AMU)",
+            "displayname":"Aix-Marseille Université (AMU)",
+            "url":"http://www.univ-amu.fr"
+        },
+        "description":"RegApp for European Universities Civis Project"
+    },
+    {
         "catalogID":"f365aeeb691d5e23b366972541db8888b7f0720d",
         "resourceName":"Learning Management System - Université de Tours",
         "resourceProvider":{
@@ -28160,6 +29560,16 @@
         "description":"Wooflash is a web platform that uses the principles of cognitive science to further support your pedagogy for effective and adaptive learning."
     },
     {
+        "catalogID":"eb1ae2d7ba412e5355d4290b513a9336bffda820",
+        "resourceName":"rendez-vous platform (#2)",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Videoconferencing service Rendez-vous"
+    },
+    {
         "catalogID":"20cca6a3ac8f2d51f0b716ab80d37db3e966bb28",
         "resourceName":"University of Perpignan - eduspot",
         "resourceProvider":{
@@ -28168,6 +29578,16 @@
             "url":"http://www.univ-perp.fr"
         },
         "description":"eduspot universite de Perpignan"
+    },
+    {
+        "catalogID":"a43b5e96a3b5721f90373d2fddea170586d0b60e",
+        "resourceName":"Captive Portal UPJV",
+        "resourceProvider":{
+            "name":"Université de Picardie Jules Verne",
+            "displayname":"Université de Picardie Jules Verne",
+            "url":"http://www.u-picardie.fr"
+        },
+        "description":"Eduspot"
     },
     {
         "catalogID":"90019a7cb47f671aa50df53124ef773d0db1842e",
@@ -28180,74 +29600,14 @@
         "description":"UTC - Eduspot"
     },
     {
-        "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
-        "resourceName":"M.N.H.N  eduspot",
-        "resourceProvider":{
-            "name":"Muséum National d'Histoire Naturelle",
-            "displayname":"Muséum National d'Histoire Naturelle",
-            "url":"http://www.mnhn.fr"
-        },
-        "description":"M.N.H.N  eduspot"
-    },
-    {
-        "catalogID":"b3b7816da589a30d26a36aa18d0f07fbff6995fd",
-        "resourceName":"limesurvey service",
-        "resourceProvider":{
-            "name":"Université Paris 1 - Panthéon Sorbonne",
-            "displayname":"Université Paris 1 - Panthéon Sorbonne",
-            "url":"http://www.univ-paris1.fr"
-        },
-        "description":"Shibboleth administration authentification"
-    },
-    {
-        "catalogID":"2bb8a868e833efd8ceb2130ebfca965cb5a8961c",
-        "resourceName":"Lumière University - Lyon 2 - Open Moodle",
-        "resourceProvider":{
-            "name":"Université Lumière Lyon 2",
-            "displayname":"Université Lumière Lyon 2",
-            "url":"http://www.univ-lyon2.fr"
-        },
-        "description":"Courses platform"
-    },
-    {
-        "catalogID":"85b82810775ec339936b1176f6d3e89a1f5e6704",
-        "resourceName":"rendez-vous platform",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Videoconferencing service Rendez-vous"
-    },
-    {
-        "catalogID":"8eff1553c76ec7eb0161eec17dd16e4d4f31f294",
-        "resourceName":"MESHS - tools - centralized authentication",
-        "resourceProvider":{
-            "name":"Université de Lille",
-            "displayname":"Université de Lille",
-            "url":"http://univ-lille.fr"
-        },
-        "description":"The website offer a suite of web service with restricted access to manage and support MESHS's research project."
-    },
-    {
-        "catalogID":"b4adcd9a4cc88078598283e7bb57ac04f580f170",
-        "resourceName":"CAIRN",
-        "resourceProvider":{
-            "name":"CAIRN SA",
-            "displayname":"CAIRN SA",
-            "url":"http://www.cairn.info/"
-        },
-        "description":"Created in September 2005 by four Belgian and French publishers, today Cairn offers the most comprehensive collection of publications in the French language in the humanities and social sciences available online. In 2015, more than 400 journals and around 5,000 eBooks from major French, Belgian and Swiss publishers are available on www.cairn.info. Students, scholars and librarians all over the world are thus able to access more than 200,000 full-text articles and book chapters online.\nTo make this content more visible and accessible to non–francophone scholars, Cairn.info (with the support of the CNL, a French governmental agency dedicated to the promotion of French publications around the world) has designed a special interface, www.cairn-int.info, enabling internet users to browse and easily find content from French journals without speaking a word of French."
-    },
-    {
-        "catalogID":"7b2ad174bcc10ced91a355e9aedf0060adec40b9",
-        "resourceName":"saml federation bridge production",
+        "catalogID":"515a0a67d236bbf0f012a92c875fb3afb4a04a5b",
+        "resourceName":"CNRS - Mathrice services portal",
         "resourceProvider":{
             "name":"C.N.R.S. - DSI",
             "displayname":"C.N.R.S. - DSI",
             "url":"http://www.dsi.cnrs.fr"
         },
-        "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
+        "description":"Portal of services for the franch mathematicians community.\n\nThis portal is used by more than 2000 mathematicians from 60 universities, laboratories, fédérations and there collaborators.\nYou can find the list here : http://plm.math.cnrs.fr/spip.php?article30"
     },
     {
         "catalogID":"6c6fedf84766d9d712c1758c29e217843a16d44e",
@@ -28260,34 +29620,34 @@
         "description":"This platform allows the responsables of the communication to load digital identification elements they need"
     },
     {
-        "catalogID":"c172210413188b32e4b88234b1ba81c8281b733d",
-        "resourceName":" Bordeaux University- Moodle Montesquieu",
+        "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
+        "resourceName":"M.N.H.N  eduspot",
+        "resourceProvider":{
+            "name":"Muséum National d'Histoire Naturelle",
+            "displayname":"Muséum National d'Histoire Naturelle",
+            "url":"http://www.mnhn.fr"
+        },
+        "description":"M.N.H.N  eduspot"
+    },
+    {
+        "catalogID":"97dc86eb308525b5f86e40eb28e759958d327fe3",
+        "resourceName":"Bordeaux University - Moodle FAD",
         "resourceProvider":{
             "name":"Université de Bordeaux",
             "displayname":"Université de Bordeaux",
             "url":"https://www.u-bordeaux.fr/"
         },
-        "description":"Moodle Platform Montesquieu"
+        "description":"Moodle Platform for remote learning"
     },
     {
-        "catalogID":"0e09e8dbcfdaa49e8ad927651a298135ece37d20",
-        "resourceName":"Université de Nice - Fact",
+        "catalogID":"b3b7816da589a30d26a36aa18d0f07fbff6995fd",
+        "resourceName":"limesurvey service",
         "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
+            "name":"Université Paris 1 - Panthéon Sorbonne",
+            "displayname":"Université Paris 1 - Panthéon Sorbonne",
+            "url":"http://www.univ-paris1.fr"
         },
-        "description":"Plateforme de formation à la certification des compétences numériques"
-    },
-    {
-        "catalogID":"611f43c172816eb9a5832c47ec975ded73bff97a",
-        "resourceName":"Listes pour le projet européen Civis",
-        "resourceProvider":{
-            "name":"Aix-Marseille Université (AMU)",
-            "displayname":"Aix-Marseille Université (AMU)",
-            "url":"http://www.univ-amu.fr"
-        },
-        "description":"Listes pour le projet européen Civis"
+        "description":"Shibboleth administration authentification"
     },
     {
         "catalogID":"cdb1838e90404c0fbb60a035b9050c9f6eb93d7d",
@@ -28300,14 +29660,34 @@
         "description":"Organization and planification service Evento"
     },
     {
-        "catalogID":"0b76f7cbb65218e29f08c29baaabe9618d90388f",
-        "resourceName":"Université de Toulon - Portail",
+        "catalogID":"0e09e8dbcfdaa49e8ad927651a298135ece37d20",
+        "resourceName":"Université de Nice - Fact",
         "resourceProvider":{
-            "name":"Université de Toulon",
-            "displayname":"Université de Toulon",
-            "url":"http://www.univ-tln.fr"
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
         },
-        "description":"Portail d'accès WIFI"
+        "description":"Plateforme de formation à la certification des compétences numériques"
+    },
+    {
+        "catalogID":"c172210413188b32e4b88234b1ba81c8281b733d",
+        "resourceName":" Bordeaux University- Moodle Montesquieu",
+        "resourceProvider":{
+            "name":"Université de Bordeaux",
+            "displayname":"Université de Bordeaux",
+            "url":"https://www.u-bordeaux.fr/"
+        },
+        "description":"Moodle Platform Montesquieu"
+    },
+    {
+        "catalogID":"2bb8a868e833efd8ceb2130ebfca965cb5a8961c",
+        "resourceName":"Lumière University - Lyon 2 - Open Moodle",
+        "resourceProvider":{
+            "name":"Université Lumière Lyon 2",
+            "displayname":"Université Lumière Lyon 2",
+            "url":"http://www.univ-lyon2.fr"
+        },
+        "description":"Courses platform"
     },
     {
         "catalogID":"a1b21798fc03da26d584f705f05d1a95fafa4ccf",
@@ -28320,24 +29700,14 @@
         "description":"Temporary files transfert platform."
     },
     {
-        "catalogID":"e7fa97a32701b7f1c1d2e9385f14c7b76fde6466",
-        "resourceName":"rendez-vous platform (#3)",
+        "catalogID":"b4adcd9a4cc88078598283e7bb57ac04f580f170",
+        "resourceName":"CAIRN",
         "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
+            "name":"CAIRN SA",
+            "displayname":"CAIRN SA",
+            "url":"http://www.cairn.info/"
         },
-        "description":"Videoconferencing service Rendez-vous"
-    },
-    {
-        "catalogID":"076b38f5b33208e8167109cf8fe33bae0bd34500",
-        "resourceName":"rendez-vous platform (#5)",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Videoconferencing service Rendez-vous"
+        "description":"Created in September 2005 by four Belgian and French publishers, today Cairn offers the most comprehensive collection of publications in the French language in the humanities and social sciences available online. In 2015, more than 400 journals and around 5,000 eBooks from major French, Belgian and Swiss publishers are available on www.cairn.info. Students, scholars and librarians all over the world are thus able to access more than 200,000 full-text articles and book chapters online.\nTo make this content more visible and accessible to non–francophone scholars, Cairn.info (with the support of the CNL, a French governmental agency dedicated to the promotion of French publications around the world) has designed a special interface, www.cairn-int.info, enabling internet users to browse and easily find content from French journals without speaking a word of French."
     },
     {
         "catalogID":"9b84b3c0e7400766aa488015de2b20c7315708df",
@@ -28350,16 +29720,6 @@
         "description":"Moodle platform for collèges Sciences de l'Homme et Sciences Médicales"
     },
     {
-        "catalogID":"d73e41c5b2bec5549d05d463e5ea6fcc1aef9b33",
-        "resourceName":"rendez-vous platform (#1)",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Videoconferencing service Rendez-vous"
-    },
-    {
         "catalogID":"cd2d7e462ee51a0879abb52627a13682c52fb922",
         "resourceName":"IN2P3 - Gitlab",
         "resourceProvider":{
@@ -28368,6 +29728,16 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"Git collaborative hosting intended for IN2P3 staff and their associates."
+    },
+    {
+        "catalogID":"611f43c172816eb9a5832c47ec975ded73bff97a",
+        "resourceName":"Listes pour le projet européen Civis",
+        "resourceProvider":{
+            "name":"Aix-Marseille Université (AMU)",
+            "displayname":"Aix-Marseille Université (AMU)",
+            "url":"http://www.univ-amu.fr"
+        },
+        "description":"Listes pour le projet européen Civis"
     },
     {
         "catalogID":"51f92826ee93bb3e9a3c9e0e45989c473a13da6c",
@@ -28390,26 +29760,6 @@
         "description":"The https://git.unicaen.fr server hosts software repositories and helps collaboration.\nIt also offers the possibility do manage tickets, documentation (wiki and pages) and tests (continuous integration and deployement)."
     },
     {
-        "catalogID":"335a48fbe43ce09b93f13af4d1e604000ecd8d19",
-        "resourceName":"rendez-vous platform (#4)",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Videoconferencing service Rendez-vous"
-    },
-    {
-        "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
-        "resourceName":"University of Nantes - CCIPL - Accounts Manager",
-        "resourceProvider":{
-            "name":"Université de Nantes",
-            "displayname":"Université de Nantes",
-            "url":"http://www.univ-nantes.fr"
-        },
-        "description":"Request portal and access management to the CCIPL computing cluster. https://ccipl.univ-nantes.fr/"
-    },
-    {
         "catalogID":"ff0848593cfdbac3329e67349045d77a2ca279a2",
         "resourceName":"Open Science INRAE Forum",
         "resourceProvider":{
@@ -28418,16 +29768,6 @@
             "url":"https://www.inra.fr"
         },
         "description":"Forum DipSO INRAE"
-    },
-    {
-        "catalogID":"a032f098e354f7f2184ec76501ba2bfd38b1e3f0",
-        "resourceName":"portail-eduspot.inra.fr",
-        "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
-        },
-        "description":"portail de test connexion wifi et filaire"
     },
     {
         "catalogID":"56b13e9565c3cffb24e193c444903106c68b8ec1",
@@ -28450,16 +29790,6 @@
         "description":"GitLab platform of Observatoire de la Côte d'Azur"
     },
     {
-        "catalogID":"8dcb656333dd56e05706cee13e575934460dd92a",
-        "resourceName":"IN2P3-IP2I - sympa",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Serveurs de listes de l'IP2I"
-    },
-    {
         "catalogID":"913d78965e2237d4f556a9133fd0f3452e3e9690",
         "resourceName":"CRIANN - High Performance Computing Resource Allocation",
         "resourceProvider":{
@@ -28468,6 +29798,26 @@
             "url":"http://www.crihan.fr"
         },
         "description":"This service allows academic users to submit their requests for hours on computing resources before evaluation and access to CRIANN supercomputers.\nIt is primarily intended for researchers, teacher-researchers, engineers or doctoral students assigned to a public research laboratory.\nSome features can potentially be used by any staff of the French ESR."
+    },
+    {
+        "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
+        "resourceName":"University of Nantes - CCIPL - Accounts Manager",
+        "resourceProvider":{
+            "name":"Université de Nantes",
+            "displayname":"Université de Nantes",
+            "url":"http://www.univ-nantes.fr"
+        },
+        "description":"Request portal and access management to the CCIPL computing cluster. https://ccipl.univ-nantes.fr/"
+    },
+    {
+        "catalogID":"8dcb656333dd56e05706cee13e575934460dd92a",
+        "resourceName":"IN2P3-IP2I - sympa",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Serveurs de listes de l'IP2I"
     },
     {
         "catalogID":"467bb3d469b715bfac7b66e3468772d3c96d0021",
@@ -28490,16 +29840,6 @@
         "description":"Moodle Platform Sciences et Techno"
     },
     {
-        "catalogID":"abb73d4a52e000df4c0387e049da54616b038293",
-        "resourceName":"RegApp for Civis Project",
-        "resourceProvider":{
-            "name":"Aix-Marseille Université (AMU)",
-            "displayname":"Aix-Marseille Université (AMU)",
-            "url":"http://www.univ-amu.fr"
-        },
-        "description":"RegApp for European Universities Civis Project"
-    },
-    {
         "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
         "resourceName":"Caseine",
         "resourceProvider":{
@@ -28508,16 +29848,6 @@
             "url":"http://www.univ-grenoble-alpes.fr"
         },
         "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
-    },
-    {
-        "catalogID":"eb1ae2d7ba412e5355d4290b513a9336bffda820",
-        "resourceName":"rendez-vous platform (#2)",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Videoconferencing service Rendez-vous"
     },
     {
         "catalogID":"a1bf98ae2f3fef7d643dbbe82bf38ec07f0d15f2",
@@ -28538,16 +29868,6 @@
             "url":"http://www.insa-rennes.fr"
         },
         "description":"online courses"
-    },
-    {
-        "catalogID":"a43b5e96a3b5721f90373d2fddea170586d0b60e",
-        "resourceName":"Captive Portal UPJV",
-        "resourceProvider":{
-            "name":"Université de Picardie Jules Verne",
-            "displayname":"Université de Picardie Jules Verne",
-            "url":"http://www.u-picardie.fr"
-        },
-        "description":"Eduspot"
     },
     {
         "catalogID":"b3021b6cbff8cdfdc24a2f2e9a0abd1a329c77ad",
@@ -28620,16 +29940,6 @@
         "description":"MEDFILM educational platform is a database on the history of health."
     },
     {
-        "catalogID":"936094b0467daf90b80c904919b738a4ca610e08",
-        "resourceName":"Compilatio - plagiarism Prevention",
-        "resourceProvider":{
-            "name":"COMPILATIO",
-            "displayname":"COMPILATIO",
-            "url":"http://www.compilatio.net"
-        },
-        "description":"Document analysis service made available to higher education and allowing the detection of plagiarism in student work ..."
-    },
-    {
         "catalogID":"9767ddc661b0871253f9a98025ddc837056a1556",
         "resourceName":"SDIS Bayeux - Digital Tapestry",
         "resourceProvider":{
@@ -28638,6 +29948,16 @@
             "url":"http://www.unicaen.fr"
         },
         "description":"Spatialized Documentary Information System for the Bayeux Tapestry"
+    },
+    {
+        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
+        "resourceName":"INRAE - Nextcloud",
+        "resourceProvider":{
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
+        },
+        "description":"INRAE ​​data sharing service"
     },
     {
         "catalogID":"33d408a82be85eaa4d8f84e060c8115e72ebd4eb",
@@ -28738,66 +30058,6 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"Authentication service of the French atmospheric data cluster AERIS."
-    },
-    {
-        "catalogID":"97dc86eb308525b5f86e40eb28e759958d327fe3",
-        "resourceName":"Bordeaux University - Moodle FAD",
-        "resourceProvider":{
-            "name":"Université de Bordeaux",
-            "displayname":"Université de Bordeaux",
-            "url":"https://www.u-bordeaux.fr/"
-        },
-        "description":"Moodle Platform for remote learning"
-    },
-    {
-        "catalogID":"e0f662e083fbfc2234016543bac529e16430e3f5",
-        "resourceName":"INRAE - Files sharing services",
-        "resourceProvider":{
-            "name":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
-            "displayname":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
-            "url":"http://www.irstea.fr"
-        },
-        "description":"Files sharing services\nOnly Inrae members could store some files an share them to other member of Edugain Inter Federation or C.R.U subscribers\nDefault quota is 10 Mo."
-    },
-    {
-        "catalogID":"4055d3a2f52fab4322bd35699c8182737e93a039",
-        "resourceName":"Université Cote d'Azur - EDM - modules",
-        "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
-        },
-        "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
-    },
-    {
-        "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
-        "resourceName":"IN2P3-IP2I - SAML bridge",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"saml federation bridge production"
-    },
-    {
-        "catalogID":"30653e9f6545b73659ac0f7dce22072b21802033",
-        "resourceName":"Université of Caen Normandie - thecaelab",
-        "resourceProvider":{
-            "name":"Université de Caen Normandie",
-            "displayname":"Université de Caen Normandie",
-            "url":"http://www.unicaen.fr"
-        },
-        "description":"Thecaelab is a experimentation platform dedicated to scholarly edition of ancient inventories. Designed as a texts laboratory it provides to the scientific community testing solutions for XML TEI annotation, search and extraction of information or visualisation of data sets added to the platform."
-    },
-    {
-        "catalogID":"515a0a67d236bbf0f012a92c875fb3afb4a04a5b",
-        "resourceName":"CNRS - Mathrice services portal",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Portal of services for the franch mathematicians community.\n\nThis portal is used by more than 2000 mathematicians from 60 universities, laboratories, fédérations and there collaborators.\nYou can find the list here : http://plm.math.cnrs.fr/spip.php?article30"
     },
     {
         "catalogID":"097f562d1f1b8618d5e840ac2d3ba502e3137c3c",
