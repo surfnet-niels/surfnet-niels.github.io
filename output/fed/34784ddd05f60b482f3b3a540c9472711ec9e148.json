@@ -1,14 +1,14 @@
 {
-    "generated":"2021-07-13 08:24",
+    "generated":"2021-07-13 10:25",
     "en":[
         {
             "catalogID":"34784ddd05f60b482f3b3a540c9472711ec9e148",
             "entityID":"https://login.nren.ac.za/sp",
             "resourceName":"SA NREN Service Provider Proxy",
             "resourceProvider":{
-                "name":"Tertiary Education and Research Network of South Africa NPC",
-                "displayname":"TENET South Africa",
-                "url":"http://www.tenet.ac.za/"
+                "name":"SAFIRE - South African Identity Federation",
+                "displayname":"SAFIRE Test Identity Provider",
+                "url":"https://safire.ac.za/"
             },
             "resourceAttributes":{
                 "required":[
@@ -58,7 +58,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.tenet.ac.za/"
+                "url":"https://safire.ac.za/"
             },
             "resourceAttributes":{
                 "required":[
@@ -108,7 +108,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.tenet.ac.za/"
+                "url":"https://safire.ac.za/"
             },
             "resourceAttributes":{
                 "required":[
@@ -158,7 +158,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.tenet.ac.za/"
+                "url":"https://safire.ac.za/"
             },
             "resourceAttributes":{
                 "required":[
