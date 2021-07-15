@@ -1,0 +1,183 @@
+{
+    "generated":"2021-07-15 20:21",
+    "en":[
+        {
+            "catalogID":"dc54df2e039f10ba2516a46b58f13b96355fab2d",
+            "entityID":"https://shsu.davinci-ed.com/shibboleth",
+            "resourceName":"Sam Houston State University Leo Curriculum Portal",
+            "resourceProvider":{
+                "name":"DaVinci Education Inc.",
+                "displayname":"DaVinci Education Inc.",
+                "url":"https://www.davinci-ed.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"Sam Houston State University Curriculum Portal, hosted by DaVinci Education",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                },
+                {
+                    "type":"security",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                }
+            ],
+            "info":"https://www.davinci-ed.com/",
+            "privacy":"https://www.davinci-ed.com/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"dc54df2e039f10ba2516a46b58f13b96355fab2d",
+            "entityID":"https://shsu.davinci-ed.com/shibboleth",
+            "resourceName":"Sam Houston State University Leo Curriculum Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.davinci-ed.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                },
+                {
+                    "type":"security",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"dc54df2e039f10ba2516a46b58f13b96355fab2d",
+            "entityID":"https://shsu.davinci-ed.com/shibboleth",
+            "resourceName":"Sam Houston State University Leo Curriculum Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.davinci-ed.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                },
+                {
+                    "type":"security",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"dc54df2e039f10ba2516a46b58f13b96355fab2d",
+            "entityID":"https://shsu.davinci-ed.com/shibboleth",
+            "resourceName":"Sam Houston State University Leo Curriculum Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.davinci-ed.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                },
+                {
+                    "type":"security",
+                    "name":"LCMS Support",
+                    "email":"mailto:support@lcmsplus.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

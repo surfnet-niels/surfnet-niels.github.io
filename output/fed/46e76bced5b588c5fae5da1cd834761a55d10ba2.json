@@ -1,0 +1,203 @@
+{
+    "generated":"2021-07-15 20:21",
+    "en":[
+        {
+            "catalogID":"46e76bced5b588c5fae5da1cd834761a55d10ba2",
+            "entityID":"https://login.bnl.gov/simplesaml/module.php/saml/sp/metadata.php/incommon",
+            "resourceName":"Brookhaven SSO Portal",
+            "resourceProvider":{
+                "name":"Brookhaven National Laboratory",
+                "displayname":"Brookhaven National Laboratory",
+                "url":"http://www.bnl.gov/world/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"BNL Security Team",
+                    "email":"mailto:security@bnl.gov"
+                }
+            ],
+            "info":"https://login.bnl.gov/simplesaml",
+            "privacy":"https://www.bnl.gov/bnlweb/security-notice.php",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"46e76bced5b588c5fae5da1cd834761a55d10ba2",
+            "entityID":"https://login.bnl.gov/simplesaml/module.php/saml/sp/metadata.php/incommon",
+            "resourceName":"Brookhaven SSO Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.bnl.gov/world/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"BNL Security Team",
+                    "email":"mailto:security@bnl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"46e76bced5b588c5fae5da1cd834761a55d10ba2",
+            "entityID":"https://login.bnl.gov/simplesaml/module.php/saml/sp/metadata.php/incommon",
+            "resourceName":"Brookhaven SSO Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.bnl.gov/world/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"BNL Security Team",
+                    "email":"mailto:security@bnl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"46e76bced5b588c5fae5da1cd834761a55d10ba2",
+            "entityID":"https://login.bnl.gov/simplesaml/module.php/saml/sp/metadata.php/incommon",
+            "resourceName":"Brookhaven SSO Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.bnl.gov/world/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"BNL Security Team",
+                    "email":"mailto:security@bnl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

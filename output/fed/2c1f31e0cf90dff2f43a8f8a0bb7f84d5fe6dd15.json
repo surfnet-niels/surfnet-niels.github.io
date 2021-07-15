@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-15 18:25",
+    "generated":"2021-07-15 20:21",
     "en":[
         {
             "catalogID":"2c1f31e0cf90dff2f43a8f8a0bb7f84d5fe6dd15",
@@ -48,7 +48,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -99,7 +101,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -150,7 +154,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -201,7 +207,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }

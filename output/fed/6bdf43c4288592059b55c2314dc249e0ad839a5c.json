@@ -1,0 +1,199 @@
+{
+    "generated":"2021-07-15 20:21",
+    "en":[
+        {
+            "catalogID":"6bdf43c4288592059b55c2314dc249e0ad839a5c",
+            "entityID":"https://login-dev.bnl.gov/simplesaml/module.php/saml/sp/metadata.php/incommon",
+            "resourceName":"Brookhaven SSO Portal - Development",
+            "resourceProvider":{
+                "name":"Brookhaven National Laboratory",
+                "displayname":"Brookhaven National Laboratory",
+                "url":"http://www.bnl.gov/world/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"BNL Security Team",
+                    "email":"mailto:security@bnl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.bnl.gov/bnlweb/security-notice.php",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"6bdf43c4288592059b55c2314dc249e0ad839a5c",
+            "entityID":"https://login-dev.bnl.gov/simplesaml/module.php/saml/sp/metadata.php/incommon",
+            "resourceName":"Brookhaven SSO Portal - Development",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.bnl.gov/world/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"BNL Security Team",
+                    "email":"mailto:security@bnl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"6bdf43c4288592059b55c2314dc249e0ad839a5c",
+            "entityID":"https://login-dev.bnl.gov/simplesaml/module.php/saml/sp/metadata.php/incommon",
+            "resourceName":"Brookhaven SSO Portal - Development",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.bnl.gov/world/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"BNL Security Team",
+                    "email":"mailto:security@bnl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"6bdf43c4288592059b55c2314dc249e0ad839a5c",
+            "entityID":"https://login-dev.bnl.gov/simplesaml/module.php/saml/sp/metadata.php/incommon",
+            "resourceName":"Brookhaven SSO Portal - Development",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.bnl.gov/world/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"administrative",
+                    "name":"David Cortijo",
+                    "email":"mailto:dcortijo@bnl.gov"
+                },
+                {
+                    "type":"security",
+                    "name":"BNL Security Team",
+                    "email":"mailto:security@bnl.gov"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
