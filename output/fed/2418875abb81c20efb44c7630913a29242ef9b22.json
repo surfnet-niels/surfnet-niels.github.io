@@ -1,10 +1,10 @@
 {
-    "generated":"2021-07-14 18:27",
+    "generated":"2021-07-16 20:21",
     "en":[
         {
             "catalogID":"2418875abb81c20efb44c7630913a29242ef9b22",
             "entityID":"https://starrez-web.sthildas.ox.ac.uk/StarRezPortal/",
-            "resourceName":"STHILDAS - StarRezPortal",
+            "resourceName":"STHILDAS StarRezPortal",
             "resourceProvider":{
                 "name":"StarRez, Inc.",
                 "displayname":"StarRez, Inc.",
@@ -14,7 +14,7 @@
                 "required":[],
                 "requested":[]
             },
-            "description":"Student login in for StarRezPortal",
+            "description":"",
             "resourceContacts":[
                 {
                     "type":"administrative",
@@ -30,15 +30,10 @@
                     "type":"security",
                     "name":"StarCare Technical Support",
                     "email":"mailto:StarCare@starrez.com"
-                },
-                {
-                    "type":"support",
-                    "name":"StarCare Technical Support",
-                    "email":"mailto:StarCare@starrez.com"
                 }
             ],
             "info":"https://www.starrez.com",
-            "privacy":"https://www.starrez.com/starrez-incommon-participant-operational-practices-pop/",
+            "privacy":"https://www.starrez.com/legal/incommon-participant-operational-practices-pop",
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
@@ -75,11 +70,6 @@
                 },
                 {
                     "type":"security",
-                    "name":"StarCare Technical Support",
-                    "email":"mailto:StarCare@starrez.com"
-                },
-                {
-                    "type":"support",
                     "name":"StarCare Technical Support",
                     "email":"mailto:StarCare@starrez.com"
                 }
@@ -124,11 +114,6 @@
                     "type":"security",
                     "name":"StarCare Technical Support",
                     "email":"mailto:StarCare@starrez.com"
-                },
-                {
-                    "type":"support",
-                    "name":"StarCare Technical Support",
-                    "email":"mailto:StarCare@starrez.com"
                 }
             ],
             "info":"",
@@ -169,11 +154,6 @@
                 },
                 {
                     "type":"security",
-                    "name":"StarCare Technical Support",
-                    "email":"mailto:StarCare@starrez.com"
-                },
-                {
-                    "type":"support",
                     "name":"StarCare Technical Support",
                     "email":"mailto:StarCare@starrez.com"
                 }
