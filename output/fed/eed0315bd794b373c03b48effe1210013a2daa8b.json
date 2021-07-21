@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-21 18:27",
+    "generated":"2021-07-21 20:24",
     "en":[
         {
             "catalogID":"eed0315bd794b373c03b48effe1210013a2daa8b",
@@ -12,21 +12,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "givenName",
-                    "mail",
-                    "surname",
                     "eduPersonAffiliation",
+                    "commonName",
                     "displayName",
-                    "eduPersonAssurance",
-                    "commonName"
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "givenName",
+                    "eduPersonAssurance"
                 ],
                 "requested":[
-                    "homeOrganization",
                     "organizationName",
+                    "departmentNumber",
                     "organizationalUnit",
-                    "homeOrganizationType",
-                    "departmentNumber"
+                    "homeOrganization",
+                    "homeOrganizationType"
                 ]
             },
             "description":"AClass Staging server is used for user acceptance test and other testing purposes.",
@@ -55,21 +55,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "givenName",
-                    "mail",
-                    "surname",
                     "eduPersonAffiliation",
+                    "commonName",
                     "displayName",
-                    "eduPersonAssurance",
-                    "commonName"
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "givenName",
+                    "eduPersonAssurance"
                 ],
                 "requested":[
-                    "homeOrganization",
                     "organizationName",
+                    "departmentNumber",
                     "organizationalUnit",
-                    "homeOrganizationType",
-                    "departmentNumber"
+                    "homeOrganization",
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
@@ -98,21 +98,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "givenName",
-                    "mail",
-                    "surname",
                     "eduPersonAffiliation",
+                    "commonName",
                     "displayName",
-                    "eduPersonAssurance",
-                    "commonName"
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "givenName",
+                    "eduPersonAssurance"
                 ],
                 "requested":[
-                    "homeOrganization",
                     "organizationName",
+                    "departmentNumber",
                     "organizationalUnit",
-                    "homeOrganizationType",
-                    "departmentNumber"
+                    "homeOrganization",
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
@@ -141,21 +141,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "givenName",
-                    "mail",
-                    "surname",
                     "eduPersonAffiliation",
+                    "commonName",
                     "displayName",
-                    "eduPersonAssurance",
-                    "commonName"
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "givenName",
+                    "eduPersonAssurance"
                 ],
                 "requested":[
-                    "homeOrganization",
                     "organizationName",
+                    "departmentNumber",
                     "organizationalUnit",
-                    "homeOrganizationType",
-                    "departmentNumber"
+                    "homeOrganization",
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
