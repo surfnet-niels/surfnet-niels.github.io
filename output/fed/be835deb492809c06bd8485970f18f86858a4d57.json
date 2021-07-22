@@ -1,0 +1,191 @@
+{
+    "generated":"2021-07-22 20:24",
+    "en":[
+        {
+            "catalogID":"be835deb492809c06bd8485970f18f86858a4d57",
+            "entityID":"https://research-dev.jhmi.edu/shibboleth-sp",
+            "resourceName":"Johns Hopkins CRMS Dev",
+            "resourceProvider":{
+                "name":"Johns Hopkins University",
+                "displayname":"Johns Hopkins",
+                "url":"http://www.jhu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Andy Baldwin",
+                    "email":"mailto:andrew.baldwin@jhu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Enterprise Authentication",
+                    "email":"mailto:enterpriseauth@jh.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Taylor",
+                    "email":"mailto:john.taylor@jhmi.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Enterprise Authentication",
+                    "email":"mailto:enterpriseauth@jhmi.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.jhu.edu/university-policies/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"be835deb492809c06bd8485970f18f86858a4d57",
+            "entityID":"https://research-dev.jhmi.edu/shibboleth-sp",
+            "resourceName":"https://research-dev.jhmi.edu/shibboleth-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jhu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Andy Baldwin",
+                    "email":"mailto:andrew.baldwin@jhu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Enterprise Authentication",
+                    "email":"mailto:enterpriseauth@jh.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Taylor",
+                    "email":"mailto:john.taylor@jhmi.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Enterprise Authentication",
+                    "email":"mailto:enterpriseauth@jhmi.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"be835deb492809c06bd8485970f18f86858a4d57",
+            "entityID":"https://research-dev.jhmi.edu/shibboleth-sp",
+            "resourceName":"https://research-dev.jhmi.edu/shibboleth-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jhu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Andy Baldwin",
+                    "email":"mailto:andrew.baldwin@jhu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Enterprise Authentication",
+                    "email":"mailto:enterpriseauth@jh.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Taylor",
+                    "email":"mailto:john.taylor@jhmi.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Enterprise Authentication",
+                    "email":"mailto:enterpriseauth@jhmi.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"be835deb492809c06bd8485970f18f86858a4d57",
+            "entityID":"https://research-dev.jhmi.edu/shibboleth-sp",
+            "resourceName":"https://research-dev.jhmi.edu/shibboleth-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.jhu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Andy Baldwin",
+                    "email":"mailto:andrew.baldwin@jhu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Enterprise Authentication",
+                    "email":"mailto:enterpriseauth@jh.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Taylor",
+                    "email":"mailto:john.taylor@jhmi.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Enterprise Authentication",
+                    "email":"mailto:enterpriseauth@jhmi.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
