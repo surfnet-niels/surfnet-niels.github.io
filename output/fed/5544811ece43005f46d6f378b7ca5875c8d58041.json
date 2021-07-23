@@ -1,0 +1,195 @@
+{
+    "generated":"2021-07-23 20:21",
+    "en":[
+        {
+            "catalogID":"5544811ece43005f46d6f378b7ca5875c8d58041",
+            "entityID":"https://umnrochester.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - University of Minnesota Rochester",
+            "resourceProvider":{
+                "name":"PhotoShelter, Inc.",
+                "displayname":"PhotoShelter, Inc.",
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"PhotoShelter - University of Minnesota Rochester SSO Portal",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands TS",
+                    "email":"mailto:techsupport@photoshelterbrands.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.photoshelter.com/support/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"5544811ece43005f46d6f378b7ca5875c8d58041",
+            "entityID":"https://umnrochester.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - University of Minnesota Rochester",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands TS",
+                    "email":"mailto:techsupport@photoshelterbrands.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"5544811ece43005f46d6f378b7ca5875c8d58041",
+            "entityID":"https://umnrochester.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - University of Minnesota Rochester",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands TS",
+                    "email":"mailto:techsupport@photoshelterbrands.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"5544811ece43005f46d6f378b7ca5875c8d58041",
+            "entityID":"https://umnrochester.photoshelter.com/sso/SAML2",
+            "resourceName":"PhotoShelter - University of Minnesota Rochester",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.photoshelter.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"PhotoShelter Brands TS",
+                    "email":"mailto:techsupport@photoshelterbrands.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                },
+                {
+                    "type":"security",
+                    "name":"PhotoShelter Engineering",
+                    "email":"mailto:sso@photoshelter.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
