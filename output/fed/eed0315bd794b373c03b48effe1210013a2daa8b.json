@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-25 18:27",
+    "generated":"2021-07-25 20:21",
     "en":[
         {
             "catalogID":"eed0315bd794b373c03b48effe1210013a2daa8b",
@@ -13,19 +13,19 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAffiliation",
-                    "eduPersonAssurance",
-                    "displayName",
                     "givenName",
                     "mail",
+                    "eduPersonScopedAffiliation",
                     "commonName",
+                    "eduPersonAssurance",
                     "surname",
-                    "eduPersonScopedAffiliation"
+                    "displayName"
                 ],
                 "requested":[
-                    "organizationalUnit",
                     "homeOrganization",
-                    "homeOrganizationType",
                     "organizationName",
+                    "organizationalUnit",
+                    "homeOrganizationType",
                     "departmentNumber"
                 ]
             },
@@ -56,19 +56,19 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAffiliation",
-                    "eduPersonAssurance",
-                    "displayName",
                     "givenName",
                     "mail",
+                    "eduPersonScopedAffiliation",
                     "commonName",
+                    "eduPersonAssurance",
                     "surname",
-                    "eduPersonScopedAffiliation"
+                    "displayName"
                 ],
                 "requested":[
-                    "organizationalUnit",
                     "homeOrganization",
-                    "homeOrganizationType",
                     "organizationName",
+                    "organizationalUnit",
+                    "homeOrganizationType",
                     "departmentNumber"
                 ]
             },
@@ -99,19 +99,19 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAffiliation",
-                    "eduPersonAssurance",
-                    "displayName",
                     "givenName",
                     "mail",
+                    "eduPersonScopedAffiliation",
                     "commonName",
+                    "eduPersonAssurance",
                     "surname",
-                    "eduPersonScopedAffiliation"
+                    "displayName"
                 ],
                 "requested":[
-                    "organizationalUnit",
                     "homeOrganization",
-                    "homeOrganizationType",
                     "organizationName",
+                    "organizationalUnit",
+                    "homeOrganizationType",
                     "departmentNumber"
                 ]
             },
@@ -142,19 +142,19 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAffiliation",
-                    "eduPersonAssurance",
-                    "displayName",
                     "givenName",
                     "mail",
+                    "eduPersonScopedAffiliation",
                     "commonName",
+                    "eduPersonAssurance",
                     "surname",
-                    "eduPersonScopedAffiliation"
+                    "displayName"
                 ],
                 "requested":[
-                    "organizationalUnit",
                     "homeOrganization",
-                    "homeOrganizationType",
                     "organizationName",
+                    "organizationalUnit",
+                    "homeOrganizationType",
                     "departmentNumber"
                 ]
             },
