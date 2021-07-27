@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-27 16:33",
+    "generated":"2021-07-27 18:29",
     "en":[
         {
             "catalogID":"83fbec5d1598eaf840d7b7c147f11bdcae2cc663",
@@ -8,11 +8,15 @@
             "resourceProvider":{
                 "name":"Digital Theatre.com Limited",
                 "displayname":"Digital Theatre.com Limited",
-                "url":"https://edu.digitaltheatreplus.com/"
+                "url":"https://www.digitaltheatreplus.com/"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"Full-length plays and resources to develop your understanding of dramatic texts and performances.",
             "resourceContacts":[
@@ -27,8 +31,8 @@
                     "email":"mailto:nick.myers@digitaltheatreplus.com"
                 }
             ],
-            "info":"",
-            "privacy":"",
+            "info":"https://www.digitaltheatreplus.com",
+            "privacy":"https://edu.digitaltheatreplus.com/privacy-policy",
             "entityCategories":[],
             "SirtfiSupport":[]
         }
@@ -37,15 +41,19 @@
         {
             "catalogID":"83fbec5d1598eaf840d7b7c147f11bdcae2cc663",
             "entityID":"https://auth.digitaltheatreplus.com",
-            "resourceName":"https://auth.digitaltheatreplus.com",
+            "resourceName":"Digital Theatre+",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://edu.digitaltheatreplus.com/"
+                "url":"https://www.digitaltheatreplus.com/"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -70,15 +78,19 @@
         {
             "catalogID":"83fbec5d1598eaf840d7b7c147f11bdcae2cc663",
             "entityID":"https://auth.digitaltheatreplus.com",
-            "resourceName":"https://auth.digitaltheatreplus.com",
+            "resourceName":"Digital Theatre+",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://edu.digitaltheatreplus.com/"
+                "url":"https://www.digitaltheatreplus.com/"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -103,15 +115,19 @@
         {
             "catalogID":"83fbec5d1598eaf840d7b7c147f11bdcae2cc663",
             "entityID":"https://auth.digitaltheatreplus.com",
-            "resourceName":"https://auth.digitaltheatreplus.com",
+            "resourceName":"Digital Theatre+",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://edu.digitaltheatreplus.com/"
+                "url":"https://www.digitaltheatreplus.com/"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"",
             "resourceContacts":[
