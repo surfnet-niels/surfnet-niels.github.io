@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-28 18:28",
+    "generated":"2021-07-28 20:21",
     "en":[
         {
             "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
@@ -12,22 +12,22 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
-                    "organizationName",
-                    "surname",
-                    "schacHomeOrganization",
-                    "homeOrganization",
-                    "eduPersonAffiliation",
                     "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
+                    "organizationName",
+                    "homeOrganization",
+                    "schacHomeOrganization",
+                    "mail",
+                    "eduPersonAffiliation",
+                    "surname",
                     "givenName",
                     "displayName",
                     "commonName"
                 ],
                 "requested":[
-                    "homeOrganizationType",
+                    "organizationalUnit",
                     "departmentNumber",
-                    "organizationalUnit"
+                    "homeOrganizationType"
                 ]
             },
             "description":"****** This SP shall supersede the previous Active Classroom (AClass) registration due to a mis-configuration of the metadata URL. ****** Active Classroom (AClass) is a website designed for knowledge transfer of education studies and idea exchanges. Our t",
@@ -56,22 +56,22 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
-                    "organizationName",
-                    "surname",
-                    "schacHomeOrganization",
-                    "homeOrganization",
-                    "eduPersonAffiliation",
                     "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
+                    "organizationName",
+                    "homeOrganization",
+                    "schacHomeOrganization",
+                    "mail",
+                    "eduPersonAffiliation",
+                    "surname",
                     "givenName",
                     "displayName",
                     "commonName"
                 ],
                 "requested":[
-                    "homeOrganizationType",
+                    "organizationalUnit",
                     "departmentNumber",
-                    "organizationalUnit"
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
@@ -100,22 +100,22 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
-                    "organizationName",
-                    "surname",
-                    "schacHomeOrganization",
-                    "homeOrganization",
-                    "eduPersonAffiliation",
                     "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
+                    "organizationName",
+                    "homeOrganization",
+                    "schacHomeOrganization",
+                    "mail",
+                    "eduPersonAffiliation",
+                    "surname",
                     "givenName",
                     "displayName",
                     "commonName"
                 ],
                 "requested":[
-                    "homeOrganizationType",
+                    "organizationalUnit",
                     "departmentNumber",
-                    "organizationalUnit"
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
@@ -144,22 +144,22 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
-                    "organizationName",
-                    "surname",
-                    "schacHomeOrganization",
-                    "homeOrganization",
-                    "eduPersonAffiliation",
                     "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
+                    "organizationName",
+                    "homeOrganization",
+                    "schacHomeOrganization",
+                    "mail",
+                    "eduPersonAffiliation",
+                    "surname",
                     "givenName",
                     "displayName",
                     "commonName"
                 ],
                 "requested":[
-                    "homeOrganizationType",
+                    "organizationalUnit",
                     "departmentNumber",
-                    "organizationalUnit"
+                    "homeOrganizationType"
                 ]
             },
             "description":"",

@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-28 18:28",
+    "generated":"2021-07-28 20:21",
     "en":[
         {
             "catalogID":"dccfc6bffaead4d5fa651cde9f92a7f260198c66",
@@ -39,8 +39,8 @@
                 },
                 {
                     "type":"security",
-                    "name":"IT Support",
-                    "email":"mailto:itadmin@educause.edu"
+                    "name":"Security Team",
+                    "email":"mailto:security@educause.edu"
                 }
             ],
             "info":"https://www.educause.edu/about/incommon",
@@ -49,7 +49,9 @@
                 "http://refeds.org/category/research-and-scholarship",
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -91,8 +93,8 @@
                 },
                 {
                     "type":"security",
-                    "name":"IT Support",
-                    "email":"mailto:itadmin@educause.edu"
+                    "name":"Security Team",
+                    "email":"mailto:security@educause.edu"
                 }
             ],
             "info":"",
@@ -101,7 +103,9 @@
                 "http://refeds.org/category/research-and-scholarship",
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -143,8 +147,8 @@
                 },
                 {
                     "type":"security",
-                    "name":"IT Support",
-                    "email":"mailto:itadmin@educause.edu"
+                    "name":"Security Team",
+                    "email":"mailto:security@educause.edu"
                 }
             ],
             "info":"",
@@ -153,7 +157,9 @@
                 "http://refeds.org/category/research-and-scholarship",
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -195,8 +201,8 @@
                 },
                 {
                     "type":"security",
-                    "name":"IT Support",
-                    "email":"mailto:itadmin@educause.edu"
+                    "name":"Security Team",
+                    "email":"mailto:security@educause.edu"
                 }
             ],
             "info":"",
@@ -205,7 +211,9 @@
                 "http://refeds.org/category/research-and-scholarship",
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
