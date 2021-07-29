@@ -1,5 +1,5 @@
 {
-    "generated":"2021-07-29 18:28",
+    "generated":"2021-07-29 20:22",
     "en":[
         {
             "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
@@ -12,21 +12,21 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "commonName",
+                    "givenName",
+                    "organizationName",
+                    "eduPersonAffiliation",
+                    "displayName",
                     "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
-                    "organizationName",
-                    "homeOrganization",
-                    "schacHomeOrganization",
                     "mail",
-                    "eduPersonAffiliation",
-                    "surname",
-                    "givenName",
-                    "displayName",
-                    "commonName"
+                    "schacHomeOrganization",
+                    "homeOrganization",
+                    "surname"
                 ],
                 "requested":[
-                    "organizationalUnit",
                     "departmentNumber",
+                    "organizationalUnit",
                     "homeOrganizationType"
                 ]
             },
@@ -56,21 +56,21 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "commonName",
+                    "givenName",
+                    "organizationName",
+                    "eduPersonAffiliation",
+                    "displayName",
                     "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
-                    "organizationName",
-                    "homeOrganization",
-                    "schacHomeOrganization",
                     "mail",
-                    "eduPersonAffiliation",
-                    "surname",
-                    "givenName",
-                    "displayName",
-                    "commonName"
+                    "schacHomeOrganization",
+                    "homeOrganization",
+                    "surname"
                 ],
                 "requested":[
-                    "organizationalUnit",
                     "departmentNumber",
+                    "organizationalUnit",
                     "homeOrganizationType"
                 ]
             },
@@ -100,21 +100,21 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "commonName",
+                    "givenName",
+                    "organizationName",
+                    "eduPersonAffiliation",
+                    "displayName",
                     "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
-                    "organizationName",
-                    "homeOrganization",
-                    "schacHomeOrganization",
                     "mail",
-                    "eduPersonAffiliation",
-                    "surname",
-                    "givenName",
-                    "displayName",
-                    "commonName"
+                    "schacHomeOrganization",
+                    "homeOrganization",
+                    "surname"
                 ],
                 "requested":[
-                    "organizationalUnit",
                     "departmentNumber",
+                    "organizationalUnit",
                     "homeOrganizationType"
                 ]
             },
@@ -144,21 +144,21 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "commonName",
+                    "givenName",
+                    "organizationName",
+                    "eduPersonAffiliation",
+                    "displayName",
                     "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
-                    "organizationName",
-                    "homeOrganization",
-                    "schacHomeOrganization",
                     "mail",
-                    "eduPersonAffiliation",
-                    "surname",
-                    "givenName",
-                    "displayName",
-                    "commonName"
+                    "schacHomeOrganization",
+                    "homeOrganization",
+                    "surname"
                 ],
                 "requested":[
-                    "organizationalUnit",
                     "departmentNumber",
+                    "organizationalUnit",
                     "homeOrganizationType"
                 ]
             },
