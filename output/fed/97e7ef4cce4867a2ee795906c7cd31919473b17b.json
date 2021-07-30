@@ -1,0 +1,195 @@
+{
+    "generated":"2021-07-30 20:21",
+    "en":[
+        {
+            "catalogID":"97e7ef4cce4867a2ee795906c7cd31919473b17b",
+            "entityID":"https://ams.academicanalytics.com/shibboleth",
+            "resourceName":"Activity Management System",
+            "resourceProvider":{
+                "name":"Academic Analytics",
+                "displayname":"Academic Analytics",
+                "url":"https://academicanalytics.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"Activity Management System",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Eric Thrasher",
+                    "email":"mailto:eric.thrasher@academicanalytics.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Victor Rueda",
+                    "email":"mailto:vrueda@academicanalytics.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michele O'Neill",
+                    "email":"mailto:moneill@academicanalytics.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://academicanalytics.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"97e7ef4cce4867a2ee795906c7cd31919473b17b",
+            "entityID":"https://ams.academicanalytics.com/shibboleth",
+            "resourceName":"Activity Management System",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://academicanalytics.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Eric Thrasher",
+                    "email":"mailto:eric.thrasher@academicanalytics.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Victor Rueda",
+                    "email":"mailto:vrueda@academicanalytics.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michele O'Neill",
+                    "email":"mailto:moneill@academicanalytics.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"97e7ef4cce4867a2ee795906c7cd31919473b17b",
+            "entityID":"https://ams.academicanalytics.com/shibboleth",
+            "resourceName":"Activity Management System",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://academicanalytics.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Eric Thrasher",
+                    "email":"mailto:eric.thrasher@academicanalytics.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Victor Rueda",
+                    "email":"mailto:vrueda@academicanalytics.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michele O'Neill",
+                    "email":"mailto:moneill@academicanalytics.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"97e7ef4cce4867a2ee795906c7cd31919473b17b",
+            "entityID":"https://ams.academicanalytics.com/shibboleth",
+            "resourceName":"Activity Management System",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://academicanalytics.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Eric Thrasher",
+                    "email":"mailto:eric.thrasher@academicanalytics.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Victor Rueda",
+                    "email":"mailto:vrueda@academicanalytics.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Michele O'Neill",
+                    "email":"mailto:moneill@academicanalytics.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
