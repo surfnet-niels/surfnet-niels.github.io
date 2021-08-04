@@ -1,0 +1,199 @@
+{
+    "generated":"2021-08-04 20:22",
+    "en":[
+        {
+            "catalogID":"d8c1e24b4a6fe714cf6ab0f01a5888bc845de46e",
+            "entityID":"https://stevens.dserec.com/sp",
+            "resourceName":"DSE RecCenter (Stevens)",
+            "resourceProvider":{
+                "name":"DSE Rec, LLC",
+                "displayname":"DSE Rec, LLC",
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"DSE- Rec Management Software",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"https://www.dserec.com",
+            "privacy":"https://www.dserec.com/privacy_policy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d8c1e24b4a6fe714cf6ab0f01a5888bc845de46e",
+            "entityID":"https://stevens.dserec.com/sp",
+            "resourceName":"DSE RecCenter (Stevens)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d8c1e24b4a6fe714cf6ab0f01a5888bc845de46e",
+            "entityID":"https://stevens.dserec.com/sp",
+            "resourceName":"DSE RecCenter (Stevens)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d8c1e24b4a6fe714cf6ab0f01a5888bc845de46e",
+            "entityID":"https://stevens.dserec.com/sp",
+            "resourceName":"DSE RecCenter (Stevens)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
