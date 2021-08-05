@@ -1,5 +1,5 @@
 {
-    "generated":"2021-08-05 18:27",
+    "generated":"2021-08-05 20:23",
     "en":[
         {
             "catalogID":"eed0315bd794b373c03b48effe1210013a2daa8b",
@@ -14,19 +14,19 @@
                 "required":[
                     "eduPersonAssurance",
                     "givenName",
-                    "eduPersonAffiliation",
                     "eduPersonScopedAffiliation",
-                    "surname",
                     "displayName",
                     "mail",
-                    "commonName"
+                    "eduPersonAffiliation",
+                    "commonName",
+                    "surname"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "departmentNumber",
-                    "homeOrganizationType",
                     "organizationName",
-                    "homeOrganization"
+                    "departmentNumber",
+                    "homeOrganization",
+                    "organizationalUnit",
+                    "homeOrganizationType"
                 ]
             },
             "description":"AClass Staging server is used for user acceptance test and other testing purposes.",
@@ -57,19 +57,19 @@
                 "required":[
                     "eduPersonAssurance",
                     "givenName",
-                    "eduPersonAffiliation",
                     "eduPersonScopedAffiliation",
-                    "surname",
                     "displayName",
                     "mail",
-                    "commonName"
+                    "eduPersonAffiliation",
+                    "commonName",
+                    "surname"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "departmentNumber",
-                    "homeOrganizationType",
                     "organizationName",
-                    "homeOrganization"
+                    "departmentNumber",
+                    "homeOrganization",
+                    "organizationalUnit",
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
@@ -100,19 +100,19 @@
                 "required":[
                     "eduPersonAssurance",
                     "givenName",
-                    "eduPersonAffiliation",
                     "eduPersonScopedAffiliation",
-                    "surname",
                     "displayName",
                     "mail",
-                    "commonName"
+                    "eduPersonAffiliation",
+                    "commonName",
+                    "surname"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "departmentNumber",
-                    "homeOrganizationType",
                     "organizationName",
-                    "homeOrganization"
+                    "departmentNumber",
+                    "homeOrganization",
+                    "organizationalUnit",
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
@@ -143,19 +143,19 @@
                 "required":[
                     "eduPersonAssurance",
                     "givenName",
-                    "eduPersonAffiliation",
                     "eduPersonScopedAffiliation",
-                    "surname",
                     "displayName",
                     "mail",
-                    "commonName"
+                    "eduPersonAffiliation",
+                    "commonName",
+                    "surname"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "departmentNumber",
-                    "homeOrganizationType",
                     "organizationName",
-                    "homeOrganization"
+                    "departmentNumber",
+                    "homeOrganization",
+                    "organizationalUnit",
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
