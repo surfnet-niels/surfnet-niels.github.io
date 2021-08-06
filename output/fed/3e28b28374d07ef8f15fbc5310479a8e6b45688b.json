@@ -1,10 +1,10 @@
 {
-    "generated":"2021-08-06 08:25",
+    "generated":"2021-08-06 10:24",
     "en":[
         {
             "catalogID":"3e28b28374d07ef8f15fbc5310479a8e6b45688b",
             "entityID":"https://liri.linguistik.uzh.ch/shibboleth",
-            "resourceName":"LiRI services",
+            "resourceName":"LiRI Services",
             "resourceProvider":{
                 "name":"uzh.ch",
                 "displayname":"University of Zurich",
@@ -37,8 +37,10 @@
                 }
             ],
             "info":"https://www.liri.uzh.ch/en/services.html",
-            "privacy":"",
-            "entityCategories":[],
+            "privacy":"https://www.liri.uzh.ch/en/services/privacy-statement.html",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -46,7 +48,7 @@
         {
             "catalogID":"3e28b28374d07ef8f15fbc5310479a8e6b45688b",
             "entityID":"https://liri.linguistik.uzh.ch/shibboleth",
-            "resourceName":"LiRI services",
+            "resourceName":"LiRI Services",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -80,7 +82,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -88,7 +92,7 @@
         {
             "catalogID":"3e28b28374d07ef8f15fbc5310479a8e6b45688b",
             "entityID":"https://liri.linguistik.uzh.ch/shibboleth",
-            "resourceName":"LiRI services",
+            "resourceName":"LiRI Services",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -122,7 +126,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -130,7 +136,7 @@
         {
             "catalogID":"3e28b28374d07ef8f15fbc5310479a8e6b45688b",
             "entityID":"https://liri.linguistik.uzh.ch/shibboleth",
-            "resourceName":"LiRI services",
+            "resourceName":"LiRI Services",
             "resourceProvider":{
                 "name":[],
                 "displayname":"Universität Zürich",
@@ -164,7 +170,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ]
