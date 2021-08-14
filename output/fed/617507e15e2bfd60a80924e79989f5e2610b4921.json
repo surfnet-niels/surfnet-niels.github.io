@@ -1,5 +1,5 @@
 {
-    "generated":"2021-08-14 18:26",
+    "generated":"2021-08-14 20:21",
     "en":[
         {
             "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
@@ -12,12 +12,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "commonName",
-                    "givenName",
                     "eduPersonAffiliation",
+                    "givenName",
                     "mail",
                     "organizationName",
+                    "eduPersonTargetedID",
                     "surname"
                 ],
                 "requested":[]
@@ -48,12 +48,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "commonName",
-                    "givenName",
                     "eduPersonAffiliation",
+                    "givenName",
                     "mail",
                     "organizationName",
+                    "eduPersonTargetedID",
                     "surname"
                 ],
                 "requested":[]
@@ -84,12 +84,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "commonName",
-                    "givenName",
                     "eduPersonAffiliation",
+                    "givenName",
                     "mail",
                     "organizationName",
+                    "eduPersonTargetedID",
                     "surname"
                 ],
                 "requested":[]
@@ -120,12 +120,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "commonName",
-                    "givenName",
                     "eduPersonAffiliation",
+                    "givenName",
                     "mail",
                     "organizationName",
+                    "eduPersonTargetedID",
                     "surname"
                 ],
                 "requested":[]
