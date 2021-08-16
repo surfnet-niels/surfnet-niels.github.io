@@ -1,0 +1,171 @@
+{
+    "generated":"2021-08-16 20:22",
+    "en":[
+        {
+            "catalogID":"9f7c1c04455b1c6cdc5ef19b36deff172dfd6caf",
+            "entityID":"https://sp.silverchair.com/aacn/staging/shibboleth",
+            "resourceName":"Silverchair Staging: AACN",
+            "resourceProvider":{
+                "name":"Silverchair Information Systems",
+                "displayname":"Silverchair Information Systems",
+                "url":"https://www.silverchair.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.aacn.org/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"9f7c1c04455b1c6cdc5ef19b36deff172dfd6caf",
+            "entityID":"https://sp.silverchair.com/aacn/staging/shibboleth",
+            "resourceName":"https://sp.silverchair.com/aacn/staging/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.silverchair.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"9f7c1c04455b1c6cdc5ef19b36deff172dfd6caf",
+            "entityID":"https://sp.silverchair.com/aacn/staging/shibboleth",
+            "resourceName":"https://sp.silverchair.com/aacn/staging/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.silverchair.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"9f7c1c04455b1c6cdc5ef19b36deff172dfd6caf",
+            "entityID":"https://sp.silverchair.com/aacn/staging/shibboleth",
+            "resourceName":"https://sp.silverchair.com/aacn/staging/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.silverchair.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Shibboleth Admin",
+                    "email":"mailto:ShibbolethAdmin@silverchair.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

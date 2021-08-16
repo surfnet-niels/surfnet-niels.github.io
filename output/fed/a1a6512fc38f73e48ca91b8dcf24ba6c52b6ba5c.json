@@ -1,10 +1,10 @@
 {
-    "generated":"2021-08-16 18:27",
+    "generated":"2021-08-16 20:22",
     "en":[
         {
             "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
             "entityID":"https://aclass.eduhk.hk/sso/module.php/saml/sp/metadata.php/aclass",
-            "resourceName":"Active Classroom (v2)",
+            "resourceName":"Active Classroom",
             "resourceProvider":{
                 "name":"eduhk.hk",
                 "displayname":"The Education University of Hong Kong",
@@ -12,25 +12,25 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAssurance",
                     "eduPersonAffiliation",
-                    "givenName",
-                    "homeOrganization",
-                    "mail",
-                    "organizationName",
-                    "surname",
-                    "eduPersonScopedAffiliation",
-                    "schacHomeOrganization",
                     "displayName",
+                    "organizationName",
+                    "eduPersonAssurance",
+                    "schacHomeOrganization",
+                    "homeOrganization",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
                     "commonName"
                 ],
                 "requested":[
                     "organizationalUnit",
-                    "homeOrganizationType",
-                    "departmentNumber"
+                    "departmentNumber",
+                    "homeOrganizationType"
                 ]
             },
-            "description":"****** This SP shall supersede the previous Active Classroom (AClass) registration due to a mis-configuration of the metadata URL. ****** Active Classroom (AClass) is a website designed for knowledge transfer of education studies and idea exchanges. Our t",
+            "description":"Active Classroom (AClass) is a website designed for knowledge transfer of education studies and idea exchanges. Our target audience include teachers from different education sectors, ranging from pre-schools, primary schools, secondary schools, to higher ",
             "resourceContacts":[
                 {
                     "type":"technical",
@@ -48,7 +48,7 @@
         {
             "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
             "entityID":"https://aclass.eduhk.hk/sso/module.php/saml/sp/metadata.php/aclass",
-            "resourceName":"Active Classroom (v2)",
+            "resourceName":"Active Classroom",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -56,22 +56,22 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAssurance",
                     "eduPersonAffiliation",
-                    "givenName",
-                    "homeOrganization",
-                    "mail",
-                    "organizationName",
-                    "surname",
-                    "eduPersonScopedAffiliation",
-                    "schacHomeOrganization",
                     "displayName",
+                    "organizationName",
+                    "eduPersonAssurance",
+                    "schacHomeOrganization",
+                    "homeOrganization",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
                     "commonName"
                 ],
                 "requested":[
                     "organizationalUnit",
-                    "homeOrganizationType",
-                    "departmentNumber"
+                    "departmentNumber",
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
@@ -92,7 +92,7 @@
         {
             "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
             "entityID":"https://aclass.eduhk.hk/sso/module.php/saml/sp/metadata.php/aclass",
-            "resourceName":"Active Classroom (v2)",
+            "resourceName":"Active Classroom",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -100,22 +100,22 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAssurance",
                     "eduPersonAffiliation",
-                    "givenName",
-                    "homeOrganization",
-                    "mail",
-                    "organizationName",
-                    "surname",
-                    "eduPersonScopedAffiliation",
-                    "schacHomeOrganization",
                     "displayName",
+                    "organizationName",
+                    "eduPersonAssurance",
+                    "schacHomeOrganization",
+                    "homeOrganization",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
                     "commonName"
                 ],
                 "requested":[
                     "organizationalUnit",
-                    "homeOrganizationType",
-                    "departmentNumber"
+                    "departmentNumber",
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
@@ -136,7 +136,7 @@
         {
             "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
             "entityID":"https://aclass.eduhk.hk/sso/module.php/saml/sp/metadata.php/aclass",
-            "resourceName":"Active Classroom (v2)",
+            "resourceName":"Active Classroom",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -144,22 +144,22 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAssurance",
                     "eduPersonAffiliation",
-                    "givenName",
-                    "homeOrganization",
-                    "mail",
-                    "organizationName",
-                    "surname",
-                    "eduPersonScopedAffiliation",
-                    "schacHomeOrganization",
                     "displayName",
+                    "organizationName",
+                    "eduPersonAssurance",
+                    "schacHomeOrganization",
+                    "homeOrganization",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
                     "commonName"
                 ],
                 "requested":[
                     "organizationalUnit",
-                    "homeOrganizationType",
-                    "departmentNumber"
+                    "departmentNumber",
+                    "homeOrganizationType"
                 ]
             },
             "description":"",
