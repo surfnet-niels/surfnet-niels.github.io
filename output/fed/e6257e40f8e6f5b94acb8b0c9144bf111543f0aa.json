@@ -1,0 +1,179 @@
+{
+    "generated":"2021-08-17 22:22",
+    "en":[
+        {
+            "catalogID":"e6257e40f8e6f5b94acb8b0c9144bf111543f0aa",
+            "entityID":"https://myumbc.umbc.edu/saml-sp",
+            "resourceName":"myUMBC",
+            "resourceProvider":{
+                "name":"University of Maryland Baltimore County",
+                "displayname":"University of Maryland Baltimore County",
+                "url":"http://www.umbc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Collier Jones",
+                    "email":"mailto:collier@umbc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Collier Jones",
+                    "email":"mailto:collier@umbc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UMBC Security Office",
+                    "email":"mailto:security@umbc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.umbc.edu/policies/pdfs/UMBC%20X1.00.06%20UMBC%20Policy%20on%20Web%20Site%20Privacy%20Statement.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e6257e40f8e6f5b94acb8b0c9144bf111543f0aa",
+            "entityID":"https://myumbc.umbc.edu/saml-sp",
+            "resourceName":"myUMBC",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umbc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Collier Jones",
+                    "email":"mailto:collier@umbc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Collier Jones",
+                    "email":"mailto:collier@umbc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UMBC Security Office",
+                    "email":"mailto:security@umbc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e6257e40f8e6f5b94acb8b0c9144bf111543f0aa",
+            "entityID":"https://myumbc.umbc.edu/saml-sp",
+            "resourceName":"myUMBC",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umbc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Collier Jones",
+                    "email":"mailto:collier@umbc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Collier Jones",
+                    "email":"mailto:collier@umbc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UMBC Security Office",
+                    "email":"mailto:security@umbc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e6257e40f8e6f5b94acb8b0c9144bf111543f0aa",
+            "entityID":"https://myumbc.umbc.edu/saml-sp",
+            "resourceName":"myUMBC",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umbc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Collier Jones",
+                    "email":"mailto:collier@umbc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Collier Jones",
+                    "email":"mailto:collier@umbc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UMBC Security Office",
+                    "email":"mailto:security@umbc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
