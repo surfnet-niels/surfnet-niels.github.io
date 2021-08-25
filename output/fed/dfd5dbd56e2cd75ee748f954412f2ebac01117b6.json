@@ -1,0 +1,187 @@
+{
+    "generated":"2021-08-25 20:22",
+    "en":[
+        {
+            "catalogID":"dfd5dbd56e2cd75ee748f954412f2ebac01117b6",
+            "entityID":"https://sptest.ebrary.com/shibboleth",
+            "resourceName":"Shibboleth TEST service from ProQuest EbookCentral",
+            "resourceProvider":{
+                "name":"ProQuest LLC",
+                "displayname":"ProQuest LLC",
+                "url":"http://www.proquest.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"Shibboleth TEST service from ProQuest EbookCentral",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                }
+            ],
+            "info":"https://about.proquest.com/en/content-solutions/books/",
+            "privacy":"https://www.proquest.com/about/privacy-home.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"dfd5dbd56e2cd75ee748f954412f2ebac01117b6",
+            "entityID":"https://sptest.ebrary.com/shibboleth",
+            "resourceName":"Shibboleth TEST service from ProQuest EbookCentral",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.proquest.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"dfd5dbd56e2cd75ee748f954412f2ebac01117b6",
+            "entityID":"https://sptest.ebrary.com/shibboleth",
+            "resourceName":"Shibboleth TEST service from ProQuest EbookCentral",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.proquest.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"dfd5dbd56e2cd75ee748f954412f2ebac01117b6",
+            "entityID":"https://sptest.ebrary.com/shibboleth",
+            "resourceName":"Shibboleth TEST service from ProQuest EbookCentral",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.proquest.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Suresh Gankidi",
+                    "email":"mailto:suresh.gankidi@proquest.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
