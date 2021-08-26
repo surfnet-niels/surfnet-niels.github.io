@@ -1,5 +1,5 @@
 {
-    "generated":"2021-08-26 14:19",
+    "generated":"2021-08-26 16:35",
     "en":[
         {
             "catalogID":"9fa3a1b4eab3a08620f4f59b135fe20a2b9609c4",
@@ -12,7 +12,14 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "mail",
+                    "schacHomeOrganization",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ]
             },
             "description":"A Service Provider used for testing by and with SURFconext",
             "resourceContacts":[
@@ -54,7 +61,7 @@
         {
             "catalogID":"9fa3a1b4eab3a08620f4f59b135fe20a2b9609c4",
             "entityID":"https://testsp.surfconext.nl",
-            "resourceName":"https://testsp.surfconext.nl",
+            "resourceName":"SURFconext Test SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -62,7 +69,14 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "mail",
+                    "schacHomeOrganization",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -104,7 +118,7 @@
         {
             "catalogID":"9fa3a1b4eab3a08620f4f59b135fe20a2b9609c4",
             "entityID":"https://testsp.surfconext.nl",
-            "resourceName":"https://testsp.surfconext.nl",
+            "resourceName":"SURFconext Test SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -112,7 +126,14 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "mail",
+                    "schacHomeOrganization",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -154,7 +175,7 @@
         {
             "catalogID":"9fa3a1b4eab3a08620f4f59b135fe20a2b9609c4",
             "entityID":"https://testsp.surfconext.nl",
-            "resourceName":"https://testsp.surfconext.nl",
+            "resourceName":"SURFconext Test SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -162,7 +183,14 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "mail",
+                    "schacHomeOrganization",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "displayName"
+                ]
             },
             "description":"",
             "resourceContacts":[
