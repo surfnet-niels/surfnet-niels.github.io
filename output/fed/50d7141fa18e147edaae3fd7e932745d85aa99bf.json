@@ -1,10 +1,10 @@
 {
-    "generated":"2021-09-02 18:25",
+    "generated":"2021-09-02 20:22",
     "en":[
         {
             "catalogID":"50d7141fa18e147edaae3fd7e932745d85aa99bf",
             "entityID":"https://app.teamsparx.com/api/saml2/metadata",
-            "resourceName":"Team Sparx™",
+            "resourceName":"Team Sparx",
             "resourceProvider":{
                 "name":"Florida Atlantic University",
                 "displayname":"Florida Atlantic University",
@@ -44,14 +44,16 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
         {
             "catalogID":"50d7141fa18e147edaae3fd7e932745d85aa99bf",
             "entityID":"https://app.teamsparx.com/api/saml2/metadata",
-            "resourceName":"Team Sparx™",
+            "resourceName":"Team Sparx",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -91,14 +93,16 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
         {
             "catalogID":"50d7141fa18e147edaae3fd7e932745d85aa99bf",
             "entityID":"https://app.teamsparx.com/api/saml2/metadata",
-            "resourceName":"Team Sparx™",
+            "resourceName":"Team Sparx",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -138,14 +142,16 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
         {
             "catalogID":"50d7141fa18e147edaae3fd7e932745d85aa99bf",
             "entityID":"https://app.teamsparx.com/api/saml2/metadata",
-            "resourceName":"Team Sparx™",
+            "resourceName":"Team Sparx",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -185,7 +191,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
