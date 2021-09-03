@@ -1,5 +1,5 @@
 {
-    "generated":"2021-09-03 08:25",
+    "generated":"2021-09-03 10:24",
     "en":[
         {
             "catalogID":"b889e872101d6f2cb4fff2cec25a84cb5a302f6d",
@@ -14,6 +14,8 @@
                 "required":[
                     "email",
                     "eduPersonEntitlement",
+                    "surname",
+                    "givenName",
                     "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "eduPersonTargetedID",
@@ -23,8 +25,6 @@
                     "schacPersonalUniqueCode"
                 ],
                 "requested":[
-                    "surname",
-                    "givenName",
                     "preferredLanguage",
                     "commonName",
                     "title",
@@ -77,6 +77,8 @@
                 "required":[
                     "email",
                     "eduPersonEntitlement",
+                    "surname",
+                    "givenName",
                     "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "eduPersonTargetedID",
@@ -86,8 +88,6 @@
                     "schacPersonalUniqueCode"
                 ],
                 "requested":[
-                    "surname",
-                    "givenName",
                     "preferredLanguage",
                     "commonName",
                     "title",
@@ -140,6 +140,8 @@
                 "required":[
                     "email",
                     "eduPersonEntitlement",
+                    "surname",
+                    "givenName",
                     "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "eduPersonTargetedID",
@@ -149,8 +151,6 @@
                     "schacPersonalUniqueCode"
                 ],
                 "requested":[
-                    "surname",
-                    "givenName",
                     "preferredLanguage",
                     "commonName",
                     "title",
@@ -203,6 +203,8 @@
                 "required":[
                     "email",
                     "eduPersonEntitlement",
+                    "surname",
+                    "givenName",
                     "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "eduPersonTargetedID",
@@ -212,8 +214,6 @@
                     "schacPersonalUniqueCode"
                 ],
                 "requested":[
-                    "surname",
-                    "givenName",
                     "preferredLanguage",
                     "commonName",
                     "title",
