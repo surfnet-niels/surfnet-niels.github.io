@@ -1,5 +1,5 @@
 {
-    "generated":"2021-09-07 18:26",
+    "generated":"2021-09-07 20:22",
     "en":[
         {
             "catalogID":"eed0315bd794b373c03b48effe1210013a2daa8b",
@@ -13,20 +13,20 @@
             "resourceAttributes":{
                 "required":[
                     "givenName",
-                    "commonName",
-                    "eduPersonAssurance",
-                    "mail",
-                    "surname",
                     "displayName",
+                    "commonName",
+                    "mail",
                     "eduPersonAffiliation",
+                    "eduPersonAssurance",
+                    "surname",
                     "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "organizationalUnit",
-                    "organizationName",
                     "departmentNumber",
                     "homeOrganization",
-                    "homeOrganizationType"
+                    "homeOrganizationType",
+                    "organizationName"
                 ]
             },
             "description":"AClass Staging server is used for user acceptance test and other testing purposes.",
@@ -56,20 +56,20 @@
             "resourceAttributes":{
                 "required":[
                     "givenName",
-                    "commonName",
-                    "eduPersonAssurance",
-                    "mail",
-                    "surname",
                     "displayName",
+                    "commonName",
+                    "mail",
                     "eduPersonAffiliation",
+                    "eduPersonAssurance",
+                    "surname",
                     "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "organizationalUnit",
-                    "organizationName",
                     "departmentNumber",
                     "homeOrganization",
-                    "homeOrganizationType"
+                    "homeOrganizationType",
+                    "organizationName"
                 ]
             },
             "description":"",
@@ -99,20 +99,20 @@
             "resourceAttributes":{
                 "required":[
                     "givenName",
-                    "commonName",
-                    "eduPersonAssurance",
-                    "mail",
-                    "surname",
                     "displayName",
+                    "commonName",
+                    "mail",
                     "eduPersonAffiliation",
+                    "eduPersonAssurance",
+                    "surname",
                     "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "organizationalUnit",
-                    "organizationName",
                     "departmentNumber",
                     "homeOrganization",
-                    "homeOrganizationType"
+                    "homeOrganizationType",
+                    "organizationName"
                 ]
             },
             "description":"",
@@ -142,20 +142,20 @@
             "resourceAttributes":{
                 "required":[
                     "givenName",
-                    "commonName",
-                    "eduPersonAssurance",
-                    "mail",
-                    "surname",
                     "displayName",
+                    "commonName",
+                    "mail",
                     "eduPersonAffiliation",
+                    "eduPersonAssurance",
+                    "surname",
                     "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "organizationalUnit",
-                    "organizationName",
                     "departmentNumber",
                     "homeOrganization",
-                    "homeOrganizationType"
+                    "homeOrganizationType",
+                    "organizationName"
                 ]
             },
             "description":"",

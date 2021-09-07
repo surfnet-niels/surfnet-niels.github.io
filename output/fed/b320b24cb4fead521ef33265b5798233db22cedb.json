@@ -1,0 +1,223 @@
+{
+    "generated":"2021-09-07 20:22",
+    "en":[
+        {
+            "catalogID":"b320b24cb4fead521ef33265b5798233db22cedb",
+            "entityID":"https://services.internet2.edu/shibboleth",
+            "resourceName":"Internet2 Services",
+            "resourceProvider":{
+                "name":"Internet2",
+                "displayname":"Internet2",
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"services.internet2.edu provides Internet2 services in support of our Research and Education Networking mission. Current examples include: e-mail lists, Internet2 meeting registration, and trouble ticketing for administration of Net+ services.  Planned additions include Filesender, the Internet2 Member Portal, and wikis.",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                }
+            ],
+            "info":"https://www.internet2.edu/help/federated-services-user-guide/",
+            "privacy":"https://internet2.edu/community/about-us/policies/privacy/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b320b24cb4fead521ef33265b5798233db22cedb",
+            "entityID":"https://services.internet2.edu/shibboleth",
+            "resourceName":"Internet2 Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b320b24cb4fead521ef33265b5798233db22cedb",
+            "entityID":"https://services.internet2.edu/shibboleth",
+            "resourceName":"Internet2 Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b320b24cb4fead521ef33265b5798233db22cedb",
+            "entityID":"https://services.internet2.edu/shibboleth",
+            "resourceName":"Internet2 Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Tech Support",
+                    "email":"mailto:techsupport@internet2.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
