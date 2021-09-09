@@ -1,0 +1,195 @@
+{
+    "generated":"2021-09-09 20:22",
+    "en":[
+        {
+            "catalogID":"58f10b6983f1d617ee5f8eff8953a5d10d7bc69a",
+            "entityID":"https://shib.pcgcid.org/shibboleth",
+            "resourceName":"Bench to Bassinet",
+            "resourceProvider":{
+                "name":"Cincinnati Children's Hospital Medical Center",
+                "displayname":"Cincinnati Children's Hospital Medical Center",
+                "url":"http://www.cincinnatichildrens.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:michal.kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Sandy",
+                    "email":"mailto:kevin.sandy@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Gavin Durman",
+                    "email":"mailto:gavin.durman@cchmc.org"
+                }
+            ],
+            "info":"https://benchtobassinet.com",
+            "privacy":"https://benchtobassinet.com",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"58f10b6983f1d617ee5f8eff8953a5d10d7bc69a",
+            "entityID":"https://shib.pcgcid.org/shibboleth",
+            "resourceName":"Bench to Bassinet",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cincinnatichildrens.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:michal.kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Sandy",
+                    "email":"mailto:kevin.sandy@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Gavin Durman",
+                    "email":"mailto:gavin.durman@cchmc.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"58f10b6983f1d617ee5f8eff8953a5d10d7bc69a",
+            "entityID":"https://shib.pcgcid.org/shibboleth",
+            "resourceName":"Bench to Bassinet",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cincinnatichildrens.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:michal.kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Sandy",
+                    "email":"mailto:kevin.sandy@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Gavin Durman",
+                    "email":"mailto:gavin.durman@cchmc.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"58f10b6983f1d617ee5f8eff8953a5d10d7bc69a",
+            "entityID":"https://shib.pcgcid.org/shibboleth",
+            "resourceName":"Bench to Bassinet",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cincinnatichildrens.org/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michal Kouril",
+                    "email":"mailto:michal.kouril@cchmc.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Kevin Sandy",
+                    "email":"mailto:kevin.sandy@cchmc.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Gavin Durman",
+                    "email":"mailto:gavin.durman@cchmc.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
