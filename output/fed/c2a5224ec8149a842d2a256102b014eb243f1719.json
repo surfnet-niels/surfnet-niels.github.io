@@ -1,5 +1,5 @@
 {
-    "generated":"2021-09-11 14:19",
+    "generated":"2021-09-11 16:32",
     "en":[
         {
             "catalogID":"c2a5224ec8149a842d2a256102b014eb243f1719",
@@ -12,17 +12,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "transientId",
                     "givenName",
                     "surname",
+                    "eduPersonAffiliation",
                     "email",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "transientId",
                     "eduPersonEntitlement",
                     "eduPersonScopedAffiliation",
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "persistentId"
-                ],
-                "requested":[]
+                    "commonName",
+                    "uid"
+                ]
             },
             "description":"A dedicated site to test the SSO login",
             "resourceContacts":[
@@ -40,8 +44,7 @@
             "info":"https://ssotest.sifulan.my",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "https://sifulan.my/category/registered-by-sifulan"
+                "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
         }
@@ -58,17 +61,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "transientId",
                     "givenName",
                     "surname",
+                    "eduPersonAffiliation",
                     "email",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "transientId",
                     "eduPersonEntitlement",
                     "eduPersonScopedAffiliation",
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "persistentId"
-                ],
-                "requested":[]
+                    "commonName",
+                    "uid"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -86,8 +93,7 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "https://sifulan.my/category/registered-by-sifulan"
+                "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
         }
@@ -104,17 +110,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "transientId",
                     "givenName",
                     "surname",
+                    "eduPersonAffiliation",
                     "email",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "transientId",
                     "eduPersonEntitlement",
                     "eduPersonScopedAffiliation",
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "persistentId"
-                ],
-                "requested":[]
+                    "commonName",
+                    "uid"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -132,8 +142,7 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "https://sifulan.my/category/registered-by-sifulan"
+                "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
         }
@@ -150,17 +159,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "transientId",
                     "givenName",
                     "surname",
+                    "eduPersonAffiliation",
                     "email",
+                    "eduPersonTargetedID",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "transientId",
                     "eduPersonEntitlement",
                     "eduPersonScopedAffiliation",
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "persistentId"
-                ],
-                "requested":[]
+                    "commonName",
+                    "uid"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -178,8 +191,7 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "https://sifulan.my/category/registered-by-sifulan"
+                "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
         }
