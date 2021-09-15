@@ -1,0 +1,191 @@
+{
+    "generated":"2021-09-15 20:22",
+    "en":[
+        {
+            "catalogID":"e50a290c032c6a612bd51a916a6e06bb78049d73",
+            "entityID":"https://cloud.cs.colorado.edu/shibboleth",
+            "resourceName":"University of Colorado Boulder CS OpenStack",
+            "resourceProvider":{
+                "name":"University of Colorado at Boulder",
+                "displayname":"University of Colorado at Boulder",
+                "url":"http://www.colorado.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"University of Colorado Boulder Computer Science Cloud",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Stephanie Morris",
+                    "email":"mailto:csteam@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:cscihelp@colorado.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Security Office",
+                    "email":"mailto:security@colorado.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Computer Science IT Services",
+                    "email":"mailto:cscihelp@colorado.edu"
+                }
+            ],
+            "info":"https://www.colorado.edu/cs",
+            "privacy":"https://www.colorado.edu/policies/privacy-statement",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e50a290c032c6a612bd51a916a6e06bb78049d73",
+            "entityID":"https://cloud.cs.colorado.edu/shibboleth",
+            "resourceName":"https://cloud.cs.colorado.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.colorado.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Stephanie Morris",
+                    "email":"mailto:csteam@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:cscihelp@colorado.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Security Office",
+                    "email":"mailto:security@colorado.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Computer Science IT Services",
+                    "email":"mailto:cscihelp@colorado.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e50a290c032c6a612bd51a916a6e06bb78049d73",
+            "entityID":"https://cloud.cs.colorado.edu/shibboleth",
+            "resourceName":"https://cloud.cs.colorado.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.colorado.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Stephanie Morris",
+                    "email":"mailto:csteam@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:cscihelp@colorado.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Security Office",
+                    "email":"mailto:security@colorado.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Computer Science IT Services",
+                    "email":"mailto:cscihelp@colorado.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e50a290c032c6a612bd51a916a6e06bb78049d73",
+            "entityID":"https://cloud.cs.colorado.edu/shibboleth",
+            "resourceName":"https://cloud.cs.colorado.edu/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.colorado.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Stephanie Morris",
+                    "email":"mailto:csteam@colorado.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Adam Zheng",
+                    "email":"mailto:cscihelp@colorado.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"IT Security Office",
+                    "email":"mailto:security@colorado.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Computer Science IT Services",
+                    "email":"mailto:cscihelp@colorado.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
