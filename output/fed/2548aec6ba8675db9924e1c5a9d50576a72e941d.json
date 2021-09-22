@@ -1,0 +1,183 @@
+{
+    "generated":"2021-09-22 10:25",
+    "en":[
+        {
+            "catalogID":"2548aec6ba8675db9924e1c5a9d50576a72e941d",
+            "entityID":"https://accountlinker.mta.hu/simplesaml/module.php/saml/sp/metadata.php/aat-sp",
+            "resourceName":"SECRETARIAT OF THE HUNGARIAN ACADEMY OF SCIENCES AAT-eduID",
+            "resourceProvider":{
+                "name":"Hungarian Academy of Sciences",
+                "displayname":"Hungarian Academy of Sciences",
+                "url":"http://aat.mta.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"SECRETARIAT OF THE HUNGARIAN ACADEMY OF SCIENCES AAT-eduID",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                }
+            ],
+            "info":"https://mta.hu/",
+            "privacy":"https://mta.hu/hatteranyagok/adatkezelesi-tajekoztato-106870",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2548aec6ba8675db9924e1c5a9d50576a72e941d",
+            "entityID":"https://accountlinker.mta.hu/simplesaml/module.php/saml/sp/metadata.php/aat-sp",
+            "resourceName":"SECRETARIAT OF THE HUNGARIAN ACADEMY OF SCIENCES AAT-eduID",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://aat.mta.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2548aec6ba8675db9924e1c5a9d50576a72e941d",
+            "entityID":"https://accountlinker.mta.hu/simplesaml/module.php/saml/sp/metadata.php/aat-sp",
+            "resourceName":"SECRETARIAT OF THE HUNGARIAN ACADEMY OF SCIENCES AAT-eduID",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://aat.mta.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2548aec6ba8675db9924e1c5a9d50576a72e941d",
+            "entityID":"https://accountlinker.mta.hu/simplesaml/module.php/saml/sp/metadata.php/aat-sp",
+            "resourceName":"SECRETARIAT OF THE HUNGARIAN ACADEMY OF SCIENCES AAT-eduID",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://aat.mta.hu/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"MTA TITKARSAGMTA TITKARSAG",
+                    "email":"mailto:it@titkarsag.mta.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
