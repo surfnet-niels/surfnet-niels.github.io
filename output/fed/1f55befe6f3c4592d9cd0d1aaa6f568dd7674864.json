@@ -1,0 +1,191 @@
+{
+    "generated":"2021-09-29 20:23",
+    "en":[
+        {
+            "catalogID":"1f55befe6f3c4592d9cd0d1aaa6f568dd7674864",
+            "entityID":"https://fm.prod.ti.internet2.edu/sp",
+            "resourceName":"InCommon Federation Manager",
+            "resourceProvider":{
+                "name":"Internet2",
+                "displayname":"Internet2",
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"The InCommon Federation Manager is a web application for managing InCommon Federation metadata and services.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                }
+            ],
+            "info":"https://spaces.internet2.edu/x/hofNAQ",
+            "privacy":"https://internet2.edu/community/about-us/policies/privacy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1f55befe6f3c4592d9cd0d1aaa6f568dd7674864",
+            "entityID":"https://fm.prod.ti.internet2.edu/sp",
+            "resourceName":"InCommon Federation Manager",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1f55befe6f3c4592d9cd0d1aaa6f568dd7674864",
+            "entityID":"https://fm.prod.ti.internet2.edu/sp",
+            "resourceName":"InCommon Federation Manager",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1f55befe6f3c4592d9cd0d1aaa6f568dd7674864",
+            "entityID":"https://fm.prod.ti.internet2.edu/sp",
+            "resourceName":"InCommon Federation Manager",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.internet2.edu"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                },
+                {
+                    "type":"security",
+                    "name":"InCommon Support",
+                    "email":"mailto:help@incommon.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
