@@ -29860,6 +29860,26 @@
         "description":"Moodle Platform Montesquieu"
     },
     {
+        "catalogID":"b76bd3eb38f7581d1bd8a9225114e654ab527558",
+        "resourceName":"API ISTEX development version",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
+    },
+    {
+        "catalogID":"f365aeeb691d5e23b366972541db8888b7f0720d",
+        "resourceName":"Learning Management System - Université de Tours",
+        "resourceProvider":{
+            "name":"Université de Tours",
+            "displayname":"Université de Tours",
+            "url":"http://www.univ-tours.fr"
+        },
+        "description":"Learning Management System - Université de Tours"
+    },
+    {
         "catalogID":"a1b21798fc03da26d584f705f05d1a95fafa4ccf",
         "resourceName":"Observatoire de la Côte d'Azur - FileSender",
         "resourceProvider":{
@@ -29868,6 +29888,16 @@
             "url":"http://www.oca.eu"
         },
         "description":"Temporary files transfert platform."
+    },
+    {
+        "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
+        "resourceName":"Wooclap",
+        "resourceProvider":{
+            "name":"Wooclap",
+            "displayname":"Wooclap",
+            "url":"https://www.wooclap.com/fr/"
+        },
+        "description":"**Wooclap is a collaborative web-based platform** that makes your training sessions, conferences and classes more fun, interactive and effective. Used in more than **100 countries around the world**, the solution is used by big companies, universities / colleges and ministries.\n\nThrough questionnaires and other animations, the solution allows the teacher, trainers and speakers to follow up closely the degree of understanding of the participants in real time. The solution is simple and intuitive for both the teacher and the participants."
     },
     {
         "catalogID":"9b84b3c0e7400766aa488015de2b20c7315708df",
@@ -29900,6 +29930,26 @@
         "description":"Guest network access - Management Interface"
     },
     {
+        "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
+        "resourceName":"De Boeck Supérieur License Desk",
+        "resourceProvider":{
+            "name":"DE BOECK SUPERIEUR",
+            "displayname":"DE BOECK SUPERIEUR",
+            "url":"https://www.deboecksuperieur.com/"
+        },
+        "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
+    },
+    {
+        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
+        "resourceName":"University Paris 1 - online course",
+        "resourceProvider":{
+            "name":"Université Paris 1 - Panthéon Sorbonne",
+            "displayname":"Université Paris 1 - Panthéon Sorbonne",
+            "url":"http://www.univ-paris1.fr"
+        },
+        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
+    },
+    {
         "catalogID":"69542c102234bb2a90c19d01fbc99cc419982576",
         "resourceName":"University of Caen Normandy — Web-based Git repository manager with wiki and issue tracking features",
         "resourceProvider":{
@@ -29908,16 +29958,6 @@
             "url":"http://www.unicaen.fr"
         },
         "description":"The https://git.unicaen.fr server hosts software repositories and helps collaboration.\nIt also offers the possibility do manage tickets, documentation (wiki and pages) and tests (continuous integration and deployement)."
-    },
-    {
-        "catalogID":"9153376bc50ae4d3aeedc1185bf471453376cc40",
-        "resourceName":"neuGRID for you",
-        "resourceProvider":{
-            "name":"MAAT FRANCE GNUBILA",
-            "displayname":"MAAT FRANCE GNUBILA",
-            "url":"http://www.gnubila.fr"
-        },
-        "description":"neuGRID is a web portal aimed to (i) help neuroscientists do high-throughput imaging research, and (ii) provide clinical neurologists automated diagnostic imaging markers of neurodegenerative diseases for individual patient diagnosis. neuGRID’s user-friendly environment is customised to a range of users from students to senior neuroscientists working in the fields of Alzheimer’s disease, psychiatric diseases, and white matter diseases. neuGRID aims to become a widespread resource for brain imaging analyses."
     },
     {
         "catalogID":"ff0848593cfdbac3329e67349045d77a2ca279a2",
@@ -29940,6 +29980,16 @@
         "description":"Hal is an Open Archive for the scientific publication of french scientist"
     },
     {
+        "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
+        "resourceName":"Guest network access - Guests",
+        "resourceProvider":{
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
+        },
+        "description":"Guest network access - Guest side"
+    },
+    {
         "catalogID":"cce9f436e3db2f02d08ba513795e42dbc3c29aa9",
         "resourceName":"Observatoire de la Côte d'Azur - GitLab",
         "resourceProvider":{
@@ -29948,6 +29998,16 @@
             "url":"http://www.oca.eu"
         },
         "description":"GitLab platform of Observatoire de la Côte d'Azur"
+    },
+    {
+        "catalogID":"7718557b9bf5668ac0e484fd3c9c2194fd5d0457",
+        "resourceName":"API ISTEX integration version",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
     },
     {
         "catalogID":"913d78965e2237d4f556a9133fd0f3452e3e9690",
@@ -29970,246 +30030,6 @@
         "description":"TGIR Huma-Num SSO service"
     },
     {
-        "catalogID":"f365aeeb691d5e23b366972541db8888b7f0720d",
-        "resourceName":"Learning Management System - Université de Tours",
-        "resourceProvider":{
-            "name":"Université de Tours",
-            "displayname":"Université de Tours",
-            "url":"http://www.univ-tours.fr"
-        },
-        "description":"Learning Management System - Université de Tours"
-    },
-    {
-        "catalogID":"b76bd3eb38f7581d1bd8a9225114e654ab527558",
-        "resourceName":"API ISTEX development version",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
-    },
-    {
-        "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
-        "resourceName":"Wooclap",
-        "resourceProvider":{
-            "name":"Wooclap",
-            "displayname":"Wooclap",
-            "url":"https://www.wooclap.com/fr/"
-        },
-        "description":"**Wooclap is a collaborative web-based platform** that makes your training sessions, conferences and classes more fun, interactive and effective. Used in more than **100 countries around the world**, the solution is used by big companies, universities / colleges and ministries.\n\nThrough questionnaires and other animations, the solution allows the teacher, trainers and speakers to follow up closely the degree of understanding of the participants in real time. The solution is simple and intuitive for both the teacher and the participants."
-    },
-    {
-        "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
-        "resourceName":"De Boeck Supérieur License Desk",
-        "resourceProvider":{
-            "name":"DE BOECK SUPERIEUR",
-            "displayname":"DE BOECK SUPERIEUR",
-            "url":"https://www.deboecksuperieur.com/"
-        },
-        "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
-    },
-    {
-        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
-        "resourceName":"University Paris 1 - online course",
-        "resourceProvider":{
-            "name":"Université Paris 1 - Panthéon Sorbonne",
-            "displayname":"Université Paris 1 - Panthéon Sorbonne",
-            "url":"http://www.univ-paris1.fr"
-        },
-        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
-    },
-    {
-        "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
-        "resourceName":"Guest network access - Guests",
-        "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
-        },
-        "description":"Guest network access - Guest side"
-    },
-    {
-        "catalogID":"7718557b9bf5668ac0e484fd3c9c2194fd5d0457",
-        "resourceName":"API ISTEX integration version",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
-    },
-    {
-        "catalogID":"e0f662e083fbfc2234016543bac529e16430e3f5",
-        "resourceName":"INRAE - Files sharing services",
-        "resourceProvider":{
-            "name":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
-            "displayname":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
-            "url":"http://www.irstea.fr"
-        },
-        "description":"Files sharing services\nOnly Inrae members could store some files an share them to other member of Edugain Inter Federation or C.R.U subscribers\nDefault quota is 10 Mo."
-    },
-    {
-        "catalogID":"2bb8a868e833efd8ceb2130ebfca965cb5a8961c",
-        "resourceName":"Lumière University - Lyon 2 - Open Moodle",
-        "resourceProvider":{
-            "name":"Université Lumière Lyon 2",
-            "displayname":"Université Lumière Lyon 2",
-            "url":"http://www.univ-lyon2.fr"
-        },
-        "description":"Courses platform"
-    },
-    {
-        "catalogID":"1e41be03fae005c9e5fd388d66ec53b66720617d",
-        "resourceName":"Classiques Garnier Numérique",
-        "resourceProvider":{
-            "name":"Classiques Garnier",
-            "displayname":"Classiques Garnier",
-            "url":"https://www.classiques-garnier.com"
-        },
-        "description":"Classiques Garnier Numérique offers academic libraries, public and research centers access to databases, online book collections and journals in the fields of literature, the humanities and social sciences.\n\nTeachers, academics, researchers, students, pupils and enthusiasts have tens of thousands of reference works at their disposal, on every device, in text mode, easily searchable at simple or advanced levels thanks to a full data mark-up and a powerful search engine."
-    },
-    {
-        "catalogID":"8c5869fa36258d39e69cb7e2ab1f0b2436e0d7f7",
-        "resourceName":"Civis projet user management",
-        "resourceProvider":{
-            "name":"Aix-Marseille Université (AMU)",
-            "displayname":"Aix-Marseille Université (AMU)",
-            "url":"http://www.univ-amu.fr"
-        },
-        "description":"Civis projet user management"
-    },
-    {
-        "catalogID":"7def547ca3c8453adae8a8b8f731816434bb8f96",
-        "resourceName":"ESPCI ParisTech  WiFi Acess",
-        "resourceProvider":{
-            "name":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
-            "displayname":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
-            "url":"http://www.espci.fr"
-        },
-        "description":"ESPCI ParisTech  WiFi Acess"
-    },
-    {
-        "catalogID":"545787a2cb8d37a5c687d3682c8874ecb3658c43",
-        "resourceName":"Ecole Nationale Superieure de l'Electronique et de ses Applications - Eduspot",
-        "resourceProvider":{
-            "name":"Ecole Nationale Supérieure de l'Electronique et de ses Applications",
-            "displayname":"Ecole Nationale Supérieure de l'Electronique et de ses Applications",
-            "url":"http://www.ensea.fr"
-        },
-        "description":"Eduspot wifi portal"
-    },
-    {
-        "catalogID":"9767ddc661b0871253f9a98025ddc837056a1556",
-        "resourceName":"SDIS Bayeux - Digital Tapestry",
-        "resourceProvider":{
-            "name":"Université de Caen Normandie",
-            "displayname":"Université de Caen Normandie",
-            "url":"http://www.unicaen.fr"
-        },
-        "description":"Spatialized Documentary Information System for the Bayeux Tapestry"
-    },
-    {
-        "catalogID":"30653e9f6545b73659ac0f7dce22072b21802033",
-        "resourceName":"Université of Caen Normandie - thecaelab",
-        "resourceProvider":{
-            "name":"Université de Caen Normandie",
-            "displayname":"Université de Caen Normandie",
-            "url":"http://www.unicaen.fr"
-        },
-        "description":"Thecaelab is a experimentation platform dedicated to scholarly edition of ancient inventories. Designed as a texts laboratory it provides to the scientific community testing solutions for XML TEI annotation, search and extraction of information or visualisation of data sets added to the platform."
-    },
-    {
-        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
-        "resourceName":"Caseine",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
-    },
-    {
-        "catalogID":"5f065f4ce207f504a8641ed112c2ead6b73872a0",
-        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
-        "resourceProvider":{
-            "name":"Observatoire de la Côte d'Azur",
-            "displayname":"Observatoire de la Côte d'Azur",
-            "url":"http://www.oca.eu"
-        },
-        "description":"eduspot captive portal"
-    },
-    {
-        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
-        "resourceName":"INRAE - Nextcloud",
-        "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
-        },
-        "description":"INRAE ​​data sharing service"
-    },
-    {
-        "catalogID":"8eff1553c76ec7eb0161eec17dd16e4d4f31f294",
-        "resourceName":"MESHS - administration management",
-        "resourceProvider":{
-            "name":"Université de Lille",
-            "displayname":"Université de Lille",
-            "url":"http://univ-lille.fr"
-        },
-        "description":"The website offer a suite of web service with restricted access to manage and support MESHS's research project."
-    },
-    {
-        "catalogID":"611f43c172816eb9a5832c47ec975ded73bff97a",
-        "resourceName":"Listes pour le projet européen Civis",
-        "resourceProvider":{
-            "name":"Aix-Marseille Université (AMU)",
-            "displayname":"Aix-Marseille Université (AMU)",
-            "url":"http://www.univ-amu.fr"
-        },
-        "description":"Listes pour le projet européen Civis"
-    },
-    {
-        "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
-        "resourceName":"IN2P3-IP2I - SAML bridge",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"saml federation bridge production"
-    },
-    {
-        "catalogID":"a1bf98ae2f3fef7d643dbbe82bf38ec07f0d15f2",
-        "resourceName":"Université de Paris - Moodle",
-        "resourceProvider":{
-            "name":"Université de Paris",
-            "displayname":"Université de Paris",
-            "url":"https://u-paris.fr/"
-        },
-        "description":"Université de Paris - Moodle"
-    },
-    {
-        "catalogID":"b17bfcb61cc36fd58934e5bbeef314c21cf01d41",
-        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
-        "resourceProvider":{
-            "name":"Observatoire de la Côte d'Azur",
-            "displayname":"Observatoire de la Côte d'Azur",
-            "url":"http://www.oca.eu"
-        },
-        "description":"eduspot captive portal"
-    },
-    {
-        "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
-        "resourceName":"Service indico.in2p3.fr",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Service indico.in2p3.fr"
-    },
-    {
         "catalogID":"102c4bc12e5200d4beecb9f883d986f02c986c95",
         "resourceName":"IN2P3 - Atrium - Document Management System",
         "resourceProvider":{
@@ -30230,24 +30050,34 @@
         "description":"Wooflash is a web platform that uses the principles of cognitive science to further support your pedagogy for effective and adaptive learning."
     },
     {
-        "catalogID":"abb73d4a52e000df4c0387e049da54616b038293",
-        "resourceName":"RegApp for Civis Project",
+        "catalogID":"e0f662e083fbfc2234016543bac529e16430e3f5",
+        "resourceName":"INRAE - Files sharing services",
         "resourceProvider":{
-            "name":"Aix-Marseille Université (AMU)",
-            "displayname":"Aix-Marseille Université (AMU)",
-            "url":"http://www.univ-amu.fr"
+            "name":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
+            "displayname":"Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture",
+            "url":"http://www.irstea.fr"
         },
-        "description":"RegApp for European Universities Civis Project"
+        "description":"Files sharing services\nOnly Inrae members could store some files an share them to other member of Edugain Inter Federation or C.R.U subscribers\nDefault quota is 10 Mo."
     },
     {
-        "catalogID":"7b2ad174bcc10ced91a355e9aedf0060adec40b9",
-        "resourceName":"saml federation bridge production",
+        "catalogID":"8eff1553c76ec7eb0161eec17dd16e4d4f31f294",
+        "resourceName":"MESHS - administration management",
         "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
+            "name":"Université de Lille",
+            "displayname":"Université de Lille",
+            "url":"http://univ-lille.fr"
         },
-        "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
+        "description":"The website offer a suite of web service with restricted access to manage and support MESHS's research project."
+    },
+    {
+        "catalogID":"1e41be03fae005c9e5fd388d66ec53b66720617d",
+        "resourceName":"Classiques Garnier Numérique",
+        "resourceProvider":{
+            "name":"Classiques Garnier",
+            "displayname":"Classiques Garnier",
+            "url":"https://www.classiques-garnier.com"
+        },
+        "description":"Classiques Garnier Numérique offers academic libraries, public and research centers access to databases, online book collections and journals in the fields of literature, the humanities and social sciences.\n\nTeachers, academics, researchers, students, pupils and enthusiasts have tens of thousands of reference works at their disposal, on every device, in text mode, easily searchable at simple or advanced levels thanks to a full data mark-up and a powerful search engine."
     },
     {
         "catalogID":"3745491bf2c5f85df4d576beb50c1051c2641e3d",
@@ -30270,6 +30100,26 @@
         "description":"E-learning plateform of the Grenoble Alpes University."
     },
     {
+        "catalogID":"8c5869fa36258d39e69cb7e2ab1f0b2436e0d7f7",
+        "resourceName":"Civis projet user management",
+        "resourceProvider":{
+            "name":"Aix-Marseille Université (AMU)",
+            "displayname":"Aix-Marseille Université (AMU)",
+            "url":"http://www.univ-amu.fr"
+        },
+        "description":"Civis projet user management"
+    },
+    {
+        "catalogID":"7def547ca3c8453adae8a8b8f731816434bb8f96",
+        "resourceName":"ESPCI ParisTech  WiFi Acess",
+        "resourceProvider":{
+            "name":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
+            "displayname":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
+            "url":"http://www.espci.fr"
+        },
+        "description":"ESPCI ParisTech  WiFi Acess"
+    },
+    {
         "catalogID":"90019a7cb47f671aa50df53124ef773d0db1842e",
         "resourceName":"UTC - Eduspot",
         "resourceProvider":{
@@ -30290,14 +30140,34 @@
         "description":"Authentication proxy combining the  Federated Identity and the Single Sign-On (SSO) authentification  to give AUF users different ways to access applications:\n  - With the account of their university institution,\n  - By creating a local account,\n  - With an account of one of their social networks (eg Facebook),\n  - With AUF professional account, for AUF staff."
     },
     {
-        "catalogID":"0b76f7cbb65218e29f08c29baaabe9618d90388f",
-        "resourceName":"Université de Toulon - Portail",
+        "catalogID":"545787a2cb8d37a5c687d3682c8874ecb3658c43",
+        "resourceName":"Ecole Nationale Superieure de l'Electronique et de ses Applications - Eduspot",
         "resourceProvider":{
-            "name":"Université de Toulon",
-            "displayname":"Université de Toulon",
-            "url":"http://www.univ-tln.fr"
+            "name":"Ecole Nationale Supérieure de l'Electronique et de ses Applications",
+            "displayname":"Ecole Nationale Supérieure de l'Electronique et de ses Applications",
+            "url":"http://www.ensea.fr"
         },
-        "description":"Portail d'accès WIFI"
+        "description":"Eduspot wifi portal"
+    },
+    {
+        "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
+        "resourceName":"Service indico.in2p3.fr",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Service indico.in2p3.fr"
+    },
+    {
+        "catalogID":"b17bfcb61cc36fd58934e5bbeef314c21cf01d41",
+        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
+        "resourceProvider":{
+            "name":"Observatoire de la Côte d'Azur",
+            "displayname":"Observatoire de la Côte d'Azur",
+            "url":"http://www.oca.eu"
+        },
+        "description":"eduspot captive portal"
     },
     {
         "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
@@ -30320,6 +30190,26 @@
         "description":"eduspot universite de Perpignan"
     },
     {
+        "catalogID":"9767ddc661b0871253f9a98025ddc837056a1556",
+        "resourceName":"SDIS Bayeux - Digital Tapestry",
+        "resourceProvider":{
+            "name":"Université de Caen Normandie",
+            "displayname":"Université de Caen Normandie",
+            "url":"http://www.unicaen.fr"
+        },
+        "description":"Spatialized Documentary Information System for the Bayeux Tapestry"
+    },
+    {
+        "catalogID":"30653e9f6545b73659ac0f7dce22072b21802033",
+        "resourceName":"Université of Caen Normandie - thecaelab",
+        "resourceProvider":{
+            "name":"Université de Caen Normandie",
+            "displayname":"Université de Caen Normandie",
+            "url":"http://www.unicaen.fr"
+        },
+        "description":"Thecaelab is a experimentation platform dedicated to scholarly edition of ancient inventories. Designed as a texts laboratory it provides to the scientific community testing solutions for XML TEI annotation, search and extraction of information or visualisation of data sets added to the platform."
+    },
+    {
         "catalogID":"3669443cf53b39c836777fef8a387ac31c6e9090",
         "resourceName":"European Student Card Router",
         "resourceProvider":{
@@ -30338,6 +30228,86 @@
             "url":"http://univ-lille.fr"
         },
         "description":"Give access to tools linked with MESHS supported research's project"
+    },
+    {
+        "catalogID":"5f065f4ce207f504a8641ed112c2ead6b73872a0",
+        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
+        "resourceProvider":{
+            "name":"Observatoire de la Côte d'Azur",
+            "displayname":"Observatoire de la Côte d'Azur",
+            "url":"http://www.oca.eu"
+        },
+        "description":"eduspot captive portal"
+    },
+    {
+        "catalogID":"5609519484dadb3837286a11416a8833f05b87ec",
+        "resourceName":"Eduspot - Nimes University",
+        "resourceProvider":{
+            "name":"Université de Nîmes",
+            "displayname":"Université de Nîmes",
+            "url":"http://www.unimes.fr"
+        },
+        "description":"Eduspot - Nimes University"
+    },
+    {
+        "catalogID":"fa72e7910296434ffc6932d0a8ed12badf167252",
+        "resourceName":"SDIS Bayeux - Digital Tapestry - preprod",
+        "resourceProvider":{
+            "name":"Université de Caen Normandie",
+            "displayname":"Université de Caen Normandie",
+            "url":"http://www.unicaen.fr"
+        },
+        "description":"Spatialized Documentary Information System for the Bayeux Tapestry - pre-production / demo version"
+    },
+    {
+        "catalogID":"14125f65460dc330eefbf167aa9d06ddf3cebd2e",
+        "resourceName":"CivisBox for Civis poject",
+        "resourceProvider":{
+            "name":"Aix-Marseille Université (AMU)",
+            "displayname":"Aix-Marseille Université (AMU)",
+            "url":"http://www.univ-amu.fr"
+        },
+        "description":"User sharing information for CIVIS"
+    },
+    {
+        "catalogID":"1f28f8a6a987104634bc3a472610216e1d936310",
+        "resourceName":"Cursus - Learning platform",
+        "resourceProvider":{
+            "name":"Université Rennes 2",
+            "displayname":"Université Rennes 2",
+            "url":"https://www.univ-rennes2.fr"
+        },
+        "description":"Université Rennes 2 learning platform."
+    },
+    {
+        "catalogID":"abb73d4a52e000df4c0387e049da54616b038293",
+        "resourceName":"RegApp for Civis Project",
+        "resourceProvider":{
+            "name":"Aix-Marseille Université (AMU)",
+            "displayname":"Aix-Marseille Université (AMU)",
+            "url":"http://www.univ-amu.fr"
+        },
+        "description":"RegApp for European Universities Civis Project"
+    },
+    {
+        "catalogID":"7b2ad174bcc10ced91a355e9aedf0060adec40b9",
+        "resourceName":"saml federation bridge production",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
+    },
+    {
+        "catalogID":"0b76f7cbb65218e29f08c29baaabe9618d90388f",
+        "resourceName":"Université de Toulon - Portail",
+        "resourceProvider":{
+            "name":"Université de Toulon",
+            "displayname":"Université de Toulon",
+            "url":"http://www.univ-tln.fr"
+        },
+        "description":"Portail d'accès WIFI"
     },
     {
         "catalogID":"1379fdf926f6322c5cc8809cfc551c2245547214",
@@ -30380,16 +30350,6 @@
         "description":"Shared learning platform - Forthem partner university\n\nPlatform  to students enrolled in The University of Bourgogne and / or the partner Universities of the Federation."
     },
     {
-        "catalogID":"5609519484dadb3837286a11416a8833f05b87ec",
-        "resourceName":"Eduspot - Nimes University",
-        "resourceProvider":{
-            "name":"Université de Nîmes",
-            "displayname":"Université de Nîmes",
-            "url":"http://www.unimes.fr"
-        },
-        "description":"Eduspot - Nimes University"
-    },
-    {
         "catalogID":"85b82810775ec339936b1176f6d3e89a1f5e6704",
         "resourceName":"rendez-vous platform",
         "resourceProvider":{
@@ -30400,34 +30360,74 @@
         "description":"Videoconferencing service Rendez-vous"
     },
     {
-        "catalogID":"fa72e7910296434ffc6932d0a8ed12badf167252",
-        "resourceName":"SDIS Bayeux - Digital Tapestry - preprod",
+        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
+        "resourceName":"INRAE - Nextcloud",
         "resourceProvider":{
-            "name":"Université de Caen Normandie",
-            "displayname":"Université de Caen Normandie",
-            "url":"http://www.unicaen.fr"
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
         },
-        "description":"Spatialized Documentary Information System for the Bayeux Tapestry - pre-production / demo version"
+        "description":"INRAE ​​data sharing service"
     },
     {
-        "catalogID":"14125f65460dc330eefbf167aa9d06ddf3cebd2e",
-        "resourceName":"CivisBox for Civis poject",
+        "catalogID":"9153376bc50ae4d3aeedc1185bf471453376cc40",
+        "resourceName":"neuGRID for you",
+        "resourceProvider":{
+            "name":"MAAT FRANCE GNUBILA",
+            "displayname":"MAAT FRANCE GNUBILA",
+            "url":"http://www.gnubila.fr"
+        },
+        "description":"neuGRID is a web portal aimed to (i) help neuroscientists do high-throughput imaging research, and (ii) provide clinical neurologists automated diagnostic imaging markers of neurodegenerative diseases for individual patient diagnosis. neuGRID’s user-friendly environment is customised to a range of users from students to senior neuroscientists working in the fields of Alzheimer’s disease, psychiatric diseases, and white matter diseases. neuGRID aims to become a widespread resource for brain imaging analyses."
+    },
+    {
+        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
+        "resourceName":"Caseine",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
+    },
+    {
+        "catalogID":"2bb8a868e833efd8ceb2130ebfca965cb5a8961c",
+        "resourceName":"Lumière University - Lyon 2 - Open Moodle",
+        "resourceProvider":{
+            "name":"Université Lumière Lyon 2",
+            "displayname":"Université Lumière Lyon 2",
+            "url":"http://www.univ-lyon2.fr"
+        },
+        "description":"Courses platform"
+    },
+    {
+        "catalogID":"611f43c172816eb9a5832c47ec975ded73bff97a",
+        "resourceName":"Listes pour le projet européen Civis",
         "resourceProvider":{
             "name":"Aix-Marseille Université (AMU)",
             "displayname":"Aix-Marseille Université (AMU)",
             "url":"http://www.univ-amu.fr"
         },
-        "description":"User sharing information for CIVIS"
+        "description":"Listes pour le projet européen Civis"
     },
     {
-        "catalogID":"1f28f8a6a987104634bc3a472610216e1d936310",
-        "resourceName":"Cursus - Learning platform",
+        "catalogID":"a1bf98ae2f3fef7d643dbbe82bf38ec07f0d15f2",
+        "resourceName":"Université de Paris - Moodle",
         "resourceProvider":{
-            "name":"Université Rennes 2",
-            "displayname":"Université Rennes 2",
-            "url":"https://www.univ-rennes2.fr"
+            "name":"Université de Paris",
+            "displayname":"Université de Paris",
+            "url":"https://u-paris.fr/"
         },
-        "description":"Université Rennes 2 learning platform."
+        "description":"Université de Paris - Moodle"
+    },
+    {
+        "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
+        "resourceName":"IN2P3-IP2I - SAML bridge",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"saml federation bridge production"
     },
     {
         "catalogID":"33d408a82be85eaa4d8f84e060c8115e72ebd4eb",
@@ -32798,6 +32798,16 @@
             "url":"https://www.unipa.it/en"
         },
         "description":"Moodle platform of the University of Palermo, used for the FORTHEM alliance"
+    },
+    {
+        "catalogID":"50fdd4a8a178d6a489b5d548585a8c301734d4e8",
+        "resourceName":"FORTHEM Digital Academy",
+        "resourceProvider":{
+            "name":"FORTHEM Alliance",
+            "displayname":"FORTHEM Alliance",
+            "url":"https://www.forthem-alliance.eu/"
+        },
+        "description":"Moodle central platform of the FORTHEM alliance. The FORTHEM Digital Academy is an online platform for virtual mobility, provision of online courses, collaboration and networking for students and staff."
     },
     {
         "catalogID":"e23d378b5ab81d14fde52d07facd81aa5f7e4e2d",
