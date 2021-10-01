@@ -1,0 +1,191 @@
+{
+    "generated":"2021-10-01 20:22",
+    "en":[
+        {
+            "catalogID":"c82f0154430e6deb523662e1c9f05ad40d3f4499",
+            "entityID":"https://faculty.researchcommons.gwu.edu/saml",
+            "resourceName":"InfoReady Engagement Hub - GWU Faculty",
+            "resourceProvider":{
+                "name":"InfoReady Corp",
+                "displayname":"InfoReady Corp",
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"http://privacy-policy.inforeadycorp.com/InfoReady%20Privacy%20Notice.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c82f0154430e6deb523662e1c9f05ad40d3f4499",
+            "entityID":"https://faculty.researchcommons.gwu.edu/saml",
+            "resourceName":"InfoReady Engagement Hub - GWU Faculty",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c82f0154430e6deb523662e1c9f05ad40d3f4499",
+            "entityID":"https://faculty.researchcommons.gwu.edu/saml",
+            "resourceName":"InfoReady Engagement Hub - GWU Faculty",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c82f0154430e6deb523662e1c9f05ad40d3f4499",
+            "entityID":"https://faculty.researchcommons.gwu.edu/saml",
+            "resourceName":"InfoReady Engagement Hub - GWU Faculty",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
