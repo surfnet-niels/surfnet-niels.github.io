@@ -1,0 +1,191 @@
+{
+    "generated":"2021-10-04 12:35",
+    "en":[
+        {
+            "catalogID":"c5c751320adc6097a7958819fd061088b8bc4f3b",
+            "entityID":"https://moodle.szfe.hu/shibboleth",
+            "resourceName":"University of Theatre and Film Arts Budapest - Moodle",
+            "resourceProvider":{
+                "name":"University of Theatre and Film Arts Budapest",
+                "displayname":"University of Theatre and Film Arts Budapest",
+                "url":"http://szfe.hu/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"University of Theatre and Film Arts Budapest - Moodle",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"https://moodle.szfe.hu",
+            "privacy":"https://moodle.szfe.hu",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c5c751320adc6097a7958819fd061088b8bc4f3b",
+            "entityID":"https://moodle.szfe.hu/shibboleth",
+            "resourceName":"University of Theatre and Film Arts Budapest - Moodle",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://szfe.hu/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c5c751320adc6097a7958819fd061088b8bc4f3b",
+            "entityID":"https://moodle.szfe.hu/shibboleth",
+            "resourceName":"University of Theatre and Film Arts Budapest - Moodle",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://szfe.hu/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c5c751320adc6097a7958819fd061088b8bc4f3b",
+            "entityID":"https://moodle.szfe.hu/shibboleth",
+            "resourceName":"University of Theatre and Film Arts Budapest - Moodle",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://szfe.hu/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"KIFÜ AAIKIFÜ AAI",
+                    "email":"mailto:core@eduid.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
