@@ -1,0 +1,191 @@
+{
+    "generated":"2021-10-06 20:22",
+    "en":[
+        {
+            "catalogID":"0ebd0aafe00fa44f8941c9780d7d3e00989061a0",
+            "entityID":"https://archerapi-dev.clinecenter.illinois.edu",
+            "resourceName":"Archer API (Dev)",
+            "resourceProvider":{
+                "name":"University of Illinois at Urbana-Champaign",
+                "displayname":"University of Illinois at Urbana-Champaign",
+                "url":"http://illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonTargetedID",
+                    "sn"
+                ]
+            },
+            "description":"testing version for Archer API",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.vpaa.uillinois.edu/resources/web_privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"0ebd0aafe00fa44f8941c9780d7d3e00989061a0",
+            "entityID":"https://archerapi-dev.clinecenter.illinois.edu",
+            "resourceName":"Archer API (Dev)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonTargetedID",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"0ebd0aafe00fa44f8941c9780d7d3e00989061a0",
+            "entityID":"https://archerapi-dev.clinecenter.illinois.edu",
+            "resourceName":"Archer API (Dev)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonTargetedID",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"0ebd0aafe00fa44f8941c9780d7d3e00989061a0",
+            "entityID":"https://archerapi-dev.clinecenter.illinois.edu",
+            "resourceName":"Archer API (Dev)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://illinois.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonTargetedID",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Ya-Lan Yang",
+                    "email":"mailto:ylyang@illinois.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
