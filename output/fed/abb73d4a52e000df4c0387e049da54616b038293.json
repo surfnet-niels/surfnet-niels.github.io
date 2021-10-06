@@ -1,5 +1,5 @@
 {
-    "generated":"2021-10-06 16:31",
+    "generated":"2021-10-06 18:25",
     "en":[
         {
             "catalogID":"abb73d4a52e000df4c0387e049da54616b038293",
@@ -13,6 +13,7 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
+                    "schacPersonalUniqueCode",
                     "schacHomeOrganization",
                     "eduPersonAffiliation",
                     "eduPersonPrincipalName",
@@ -37,7 +38,7 @@
                 }
             ],
             "info":"",
-            "privacy":"https://geant3plus.archive.geant.net/Pages/uri/V1.html",
+            "privacy":"https://www.univ-amu.fr/fr/public/donnees-personnelles-et-saisine-du-dpo",
             "entityCategories":[
                 "https://federation.renater.fr/category/metier",
                 "https://federation.renater.fr/scope/community",
@@ -62,6 +63,7 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
+                    "schacPersonalUniqueCode",
                     "schacHomeOrganization",
                     "eduPersonAffiliation",
                     "eduPersonPrincipalName",
@@ -111,6 +113,7 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
+                    "schacPersonalUniqueCode",
                     "schacHomeOrganization",
                     "eduPersonAffiliation",
                     "eduPersonPrincipalName",
@@ -160,6 +163,7 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
+                    "schacPersonalUniqueCode",
                     "schacHomeOrganization",
                     "eduPersonAffiliation",
                     "eduPersonPrincipalName",
