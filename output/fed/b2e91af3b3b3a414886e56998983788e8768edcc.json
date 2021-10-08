@@ -1,0 +1,211 @@
+{
+    "generated":"2021-10-08 20:21",
+    "en":[
+        {
+            "catalogID":"b2e91af3b3b3a414886e56998983788e8768edcc",
+            "entityID":"https://quizexchange.osu.edu/shibboleth",
+            "resourceName":"QuizExchange",
+            "resourceProvider":{
+                "name":"The Ohio State University",
+                "displayname":"Ohio State University",
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"Instructors have difficulty finding and using high-quality test questions for their courses, and many times the lack of them provides a barrier to moving to more affordable learning materials. Quiz Exchange allows instructors to create custom quizzes and download them for use in their course, in addition to creating a space for instructors to collaborate on the creation and revision of questions in their discipline.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Quiz Exchange Administration",
+                    "email":"mailto:quizexchange@osu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ODEE Infrastructure Team",
+                    "email":"mailto:odee-infra@osu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"OSU Incident Response",
+                    "email":"mailto:security@osu.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ODEE Learning Services",
+                    "email":"mailto:ODEE-lsi-assist@osu.edu"
+                }
+            ],
+            "info":"https://osuitsm.service-now.com/selfservice/view_service.do?service=Quiz-Exchange",
+            "privacy":"https://it.osu.edu/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b2e91af3b3b3a414886e56998983788e8768edcc",
+            "entityID":"https://quizexchange.osu.edu/shibboleth",
+            "resourceName":"QuizExchange",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Quiz Exchange Administration",
+                    "email":"mailto:quizexchange@osu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ODEE Infrastructure Team",
+                    "email":"mailto:odee-infra@osu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"OSU Incident Response",
+                    "email":"mailto:security@osu.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ODEE Learning Services",
+                    "email":"mailto:ODEE-lsi-assist@osu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b2e91af3b3b3a414886e56998983788e8768edcc",
+            "entityID":"https://quizexchange.osu.edu/shibboleth",
+            "resourceName":"QuizExchange",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Quiz Exchange Administration",
+                    "email":"mailto:quizexchange@osu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ODEE Infrastructure Team",
+                    "email":"mailto:odee-infra@osu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"OSU Incident Response",
+                    "email":"mailto:security@osu.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ODEE Learning Services",
+                    "email":"mailto:ODEE-lsi-assist@osu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b2e91af3b3b3a414886e56998983788e8768edcc",
+            "entityID":"https://quizexchange.osu.edu/shibboleth",
+            "resourceName":"QuizExchange",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Quiz Exchange Administration",
+                    "email":"mailto:quizexchange@osu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"ODEE Infrastructure Team",
+                    "email":"mailto:odee-infra@osu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"OSU Incident Response",
+                    "email":"mailto:security@osu.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"ODEE Learning Services",
+                    "email":"mailto:ODEE-lsi-assist@osu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
