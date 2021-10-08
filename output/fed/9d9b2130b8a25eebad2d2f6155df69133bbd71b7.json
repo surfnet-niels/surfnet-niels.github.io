@@ -1,5 +1,5 @@
 {
-    "generated":"2021-10-08 16:35",
+    "generated":"2021-10-08 18:24",
     "en":[
         {
             "catalogID":"9d9b2130b8a25eebad2d2f6155df69133bbd71b7",
@@ -11,7 +11,9 @@
                 "url":"https://global.oup.com/?cc=gb"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"Oxford University Press - Shibboleth 2 SP Sigma Test",
@@ -37,14 +39,16 @@
         {
             "catalogID":"9d9b2130b8a25eebad2d2f6155df69133bbd71b7",
             "entityID":"https://oup-sp.sams-sigma.com/shibboleth",
-            "resourceName":"https://oup-sp.sams-sigma.com/shibboleth",
+            "resourceName":"Oxford University Press - Shibboleth 2 SP Sigma Test",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://global.oup.com/?cc=gb"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -70,14 +74,16 @@
         {
             "catalogID":"9d9b2130b8a25eebad2d2f6155df69133bbd71b7",
             "entityID":"https://oup-sp.sams-sigma.com/shibboleth",
-            "resourceName":"https://oup-sp.sams-sigma.com/shibboleth",
+            "resourceName":"Oxford University Press - Shibboleth 2 SP Sigma Test",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://global.oup.com/?cc=gb"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -103,14 +109,16 @@
         {
             "catalogID":"9d9b2130b8a25eebad2d2f6155df69133bbd71b7",
             "entityID":"https://oup-sp.sams-sigma.com/shibboleth",
-            "resourceName":"https://oup-sp.sams-sigma.com/shibboleth",
+            "resourceName":"Oxford University Press - Shibboleth 2 SP Sigma Test",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://global.oup.com/?cc=gb"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"",
