@@ -1,0 +1,191 @@
+{
+    "generated":"2021-10-11 20:22",
+    "en":[
+        {
+            "catalogID":"34a0afb3aab5777e867d8e5017ad4bc5cf6e1281",
+            "entityID":"https://servicenowqa.es.net",
+            "resourceName":"ESnet ServicenowQA instance",
+            "resourceProvider":{
+                "name":"ESnet",
+                "displayname":"ESnet",
+                "url":"http://www.es.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"ESnet ServicenowQA instance",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Anne White",
+                    "email":"mailto:amwhite@es.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Dhivakaran Muruganantham",
+                    "email":"mailto:dhiva@es.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Mike Dopheide",
+                    "email":"mailto:security@es.net"
+                }
+            ],
+            "info":"",
+            "privacy":"http://www.lbl.gov/disclaimers/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"34a0afb3aab5777e867d8e5017ad4bc5cf6e1281",
+            "entityID":"https://servicenowqa.es.net",
+            "resourceName":"ESnet ServicenowQA instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.es.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Anne White",
+                    "email":"mailto:amwhite@es.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Dhivakaran Muruganantham",
+                    "email":"mailto:dhiva@es.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Mike Dopheide",
+                    "email":"mailto:security@es.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"34a0afb3aab5777e867d8e5017ad4bc5cf6e1281",
+            "entityID":"https://servicenowqa.es.net",
+            "resourceName":"ESnet ServicenowQA instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.es.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Anne White",
+                    "email":"mailto:amwhite@es.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Dhivakaran Muruganantham",
+                    "email":"mailto:dhiva@es.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Mike Dopheide",
+                    "email":"mailto:security@es.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"34a0afb3aab5777e867d8e5017ad4bc5cf6e1281",
+            "entityID":"https://servicenowqa.es.net",
+            "resourceName":"ESnet ServicenowQA instance",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.es.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Anne White",
+                    "email":"mailto:amwhite@es.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Dhivakaran Muruganantham",
+                    "email":"mailto:dhiva@es.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Mike Dopheide",
+                    "email":"mailto:security@es.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

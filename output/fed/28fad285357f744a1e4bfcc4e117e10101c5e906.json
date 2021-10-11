@@ -1,0 +1,199 @@
+{
+    "generated":"2021-10-11 20:22",
+    "en":[
+        {
+            "catalogID":"28fad285357f744a1e4bfcc4e117e10101c5e906",
+            "entityID":"https://vu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Victoria University - CampusPress",
+            "resourceProvider":{
+                "name":"Edublogs",
+                "displayname":"Edublogs",
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Oskar Kossuth",
+                    "email":"mailto:oskar@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://incsub.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"28fad285357f744a1e4bfcc4e117e10101c5e906",
+            "entityID":"https://vu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Victoria University - CampusPress",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Oskar Kossuth",
+                    "email":"mailto:oskar@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"28fad285357f744a1e4bfcc4e117e10101c5e906",
+            "entityID":"https://vu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Victoria University - CampusPress",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Oskar Kossuth",
+                    "email":"mailto:oskar@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"28fad285357f744a1e4bfcc4e117e10101c5e906",
+            "entityID":"https://vu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Victoria University - CampusPress",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Oskar Kossuth",
+                    "email":"mailto:oskar@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
