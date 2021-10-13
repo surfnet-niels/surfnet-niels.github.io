@@ -29710,76 +29710,6 @@
         "description":"Access the IGI Global Platform using your institution credentials."
     },
     {
-        "catalogID":"7718557b9bf5668ac0e484fd3c9c2194fd5d0457",
-        "resourceName":"API ISTEX integration version",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
-    },
-    {
-        "catalogID":"870848e5d86e96af9cb731545f65193cab03f047",
-        "resourceName":"Wooflash",
-        "resourceProvider":{
-            "name":"Wooclap",
-            "displayname":"Wooclap",
-            "url":"https://www.wooclap.com/fr/"
-        },
-        "description":"Wooflash is a web platform that uses the principles of cognitive science to further support your pedagogy for effective and adaptive learning."
-    },
-    {
-        "catalogID":"6f5f0cc43191c04077e86faff8edb1dd2e55279f",
-        "resourceName":"EChamilo - UGA",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"E-learning plateform of the Grenoble Alpes University."
-    },
-    {
-        "catalogID":"102c4bc12e5200d4beecb9f883d986f02c986c95",
-        "resourceName":"IN2P3 - Atrium - Document Management System",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"IN2P3 - Atrium - Document Management System based on Nuxeo"
-    },
-    {
-        "catalogID":"a0f58366cc69a3a92947266e8a43589f32ca44de",
-        "resourceName":"MESHS - tools - centralized authentication",
-        "resourceProvider":{
-            "name":"Université de Lille",
-            "displayname":"Université de Lille",
-            "url":"http://univ-lille.fr"
-        },
-        "description":"Give access to tools linked with MESHS supported research's project"
-    },
-    {
-        "catalogID":"3745491bf2c5f85df4d576beb50c1051c2641e3d",
-        "resourceName":"CALMIP - Resources allocation",
-        "resourceProvider":{
-            "name":"Institut National Polytechnique de Toulouse",
-            "displayname":"Institut National Polytechnique de Toulouse",
-            "url":"http://www.inp-toulouse.fr"
-        },
-        "description":"his service allows users of the Calmip calculation system to submit their requests for resources, and the allocation committee to examine and respond to them.\n\nIt is primarily intended for researchers, university lecturers, engineers or doctoral students assigned to a public research laboratory in the Midi-Pyrénées region.\nSome features can potentially be used by any staff or collaborator of the French ESR, including from a foreign country"
-    },
-    {
-        "catalogID":"58487d30237b5afe5a8dd7eb8cc36a186ced19cb",
-        "resourceName":"Agence universitaire de la Francophonie (AUF) — Users access",
-        "resourceProvider":{
-            "name":"Agence Universitaire de la Francophonie",
-            "displayname":"Agence Universitaire de la Francophonie",
-            "url":"http://www.auf.org"
-        },
-        "description":"Authentication proxy combining the  Federated Identity and the Single Sign-On (SSO) authentification  to give AUF users different ways to access applications:\n  - With the account of their university institution,\n  - By creating a local account,\n  - With an account of one of their social networks (eg Facebook),\n  - With AUF professional account, for AUF staff."
-    },
-    {
         "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
         "resourceName":"University Paris 1 - online course",
         "resourceProvider":{
@@ -30030,6 +29960,16 @@
         "description":"Courses platform"
     },
     {
+        "catalogID":"611f43c172816eb9a5832c47ec975ded73bff97a",
+        "resourceName":"Listes pour le projet européen Civis",
+        "resourceProvider":{
+            "name":"Aix-Marseille Université (AMU)",
+            "displayname":"Aix-Marseille Université (AMU)",
+            "url":"http://www.univ-amu.fr"
+        },
+        "description":"Listes pour le projet européen Civis"
+    },
+    {
         "catalogID":"180c7efa20d5f7cee080cb3e917d826d09e99ba7",
         "resourceName":"ENS Paris-Saclay - Eduspot Portal",
         "resourceProvider":{
@@ -30038,16 +29978,6 @@
             "url":"http://www.ens-cachan.fr"
         },
         "description":"Wireless access for eduspot project members."
-    },
-    {
-        "catalogID":"3669443cf53b39c836777fef8a387ac31c6e9090",
-        "resourceName":"European Student Card Router",
-        "resourceProvider":{
-            "name":"CNOUS",
-            "displayname":"CNOUS",
-            "url":"http://www.cnous.fr"
-        },
-        "description":"Registration platform of European Student Card ; access to technical  documentation"
     },
     {
         "catalogID":"a1bf98ae2f3fef7d643dbbe82bf38ec07f0d15f2",
@@ -30060,14 +29990,14 @@
         "description":"Université de Paris - Moodle"
     },
     {
-        "catalogID":"611f43c172816eb9a5832c47ec975ded73bff97a",
-        "resourceName":"Listes pour le projet européen Civis",
+        "catalogID":"3669443cf53b39c836777fef8a387ac31c6e9090",
+        "resourceName":"European Student Card Router",
         "resourceProvider":{
-            "name":"Aix-Marseille Université (AMU)",
-            "displayname":"Aix-Marseille Université (AMU)",
-            "url":"http://www.univ-amu.fr"
+            "name":"CNOUS",
+            "displayname":"CNOUS",
+            "url":"http://www.cnous.fr"
         },
-        "description":"Listes pour le projet européen Civis"
+        "description":"Registration platform of European Student Card ; access to technical  documentation"
     },
     {
         "catalogID":"936094b0467daf90b80c904919b738a4ca610e08",
@@ -30140,6 +30070,16 @@
         "description":"Organization and planification service Evento"
     },
     {
+        "catalogID":"6f5f0cc43191c04077e86faff8edb1dd2e55279f",
+        "resourceName":"EChamilo - UGA",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"E-learning plateform of the Grenoble Alpes University."
+    },
+    {
         "catalogID":"a1b21798fc03da26d584f705f05d1a95fafa4ccf",
         "resourceName":"Observatoire de la Côte d'Azur - FileSender",
         "resourceProvider":{
@@ -30160,6 +30100,26 @@
         "description":"Moodle platform for collèges Sciences de l'Homme et Sciences Médicales"
     },
     {
+        "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
+        "resourceName":"Wooclap",
+        "resourceProvider":{
+            "name":"Wooclap",
+            "displayname":"Wooclap",
+            "url":"https://www.wooclap.com/fr/"
+        },
+        "description":"**Wooclap is a collaborative web-based platform** that makes your training sessions, conferences and classes more fun, interactive and effective. Used in more than **100 countries around the world**, the solution is used by big companies, universities / colleges and ministries.\n\nThrough questionnaires and other animations, the solution allows the teacher, trainers and speakers to follow up closely the degree of understanding of the participants in real time. The solution is simple and intuitive for both the teacher and the participants."
+    },
+    {
+        "catalogID":"b76bd3eb38f7581d1bd8a9225114e654ab527558",
+        "resourceName":"API ISTEX development version",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
+    },
+    {
         "catalogID":"56b13e9565c3cffb24e193c444903106c68b8ec1",
         "resourceName":"HAL-CCSD",
         "resourceProvider":{
@@ -30168,6 +30128,16 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"Hal is an Open Archive for the scientific publication of french scientist"
+    },
+    {
+        "catalogID":"f365aeeb691d5e23b366972541db8888b7f0720d",
+        "resourceName":"Learning Management System - Université de Tours",
+        "resourceProvider":{
+            "name":"Université de Tours",
+            "displayname":"Université de Tours",
+            "url":"http://www.univ-tours.fr"
+        },
+        "description":"Learning Management System - Université de Tours"
     },
     {
         "catalogID":"cd2d7e462ee51a0879abb52627a13682c52fb922",
@@ -30200,6 +30170,16 @@
         "description":"TGIR Huma-Num SSO service"
     },
     {
+        "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
+        "resourceName":"De Boeck Supérieur License Desk",
+        "resourceProvider":{
+            "name":"DE BOECK SUPERIEUR",
+            "displayname":"DE BOECK SUPERIEUR",
+            "url":"https://www.deboecksuperieur.com/"
+        },
+        "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
+    },
+    {
         "catalogID":"69542c102234bb2a90c19d01fbc99cc419982576",
         "resourceName":"University of Caen Normandy — Web-based Git repository manager with wiki and issue tracking features",
         "resourceProvider":{
@@ -30218,6 +30198,26 @@
             "url":"https://www.inra.fr"
         },
         "description":"Forum DipSO INRAE"
+    },
+    {
+        "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
+        "resourceName":"Guest network access - Guests",
+        "resourceProvider":{
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
+        },
+        "description":"Guest network access - Guest side"
+    },
+    {
+        "catalogID":"7718557b9bf5668ac0e484fd3c9c2194fd5d0457",
+        "resourceName":"API ISTEX integration version",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
     },
     {
         "catalogID":"cce9f436e3db2f02d08ba513795e42dbc3c29aa9",
@@ -30540,54 +30540,54 @@
         "description":"Thecaelab is a experimentation platform dedicated to scholarly edition of ancient inventories. Designed as a texts laboratory it provides to the scientific community testing solutions for XML TEI annotation, search and extraction of information or visualisation of data sets added to the platform."
     },
     {
-        "catalogID":"b76bd3eb38f7581d1bd8a9225114e654ab527558",
-        "resourceName":"API ISTEX development version",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
-    },
-    {
-        "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
-        "resourceName":"Wooclap",
+        "catalogID":"870848e5d86e96af9cb731545f65193cab03f047",
+        "resourceName":"Wooflash",
         "resourceProvider":{
             "name":"Wooclap",
             "displayname":"Wooclap",
             "url":"https://www.wooclap.com/fr/"
         },
-        "description":"**Wooclap is a collaborative web-based platform** that makes your training sessions, conferences and classes more fun, interactive and effective. Used in more than **100 countries around the world**, the solution is used by big companies, universities / colleges and ministries.\n\nThrough questionnaires and other animations, the solution allows the teacher, trainers and speakers to follow up closely the degree of understanding of the participants in real time. The solution is simple and intuitive for both the teacher and the participants."
+        "description":"Wooflash is a web platform that uses the principles of cognitive science to further support your pedagogy for effective and adaptive learning."
     },
     {
-        "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
-        "resourceName":"Guest network access - Guests",
+        "catalogID":"102c4bc12e5200d4beecb9f883d986f02c986c95",
+        "resourceName":"IN2P3 - Atrium - Document Management System",
         "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
         },
-        "description":"Guest network access - Guest side"
+        "description":"IN2P3 - Atrium - Document Management System based on Nuxeo"
     },
     {
-        "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
-        "resourceName":"De Boeck Supérieur License Desk",
+        "catalogID":"a0f58366cc69a3a92947266e8a43589f32ca44de",
+        "resourceName":"MESHS - tools - centralized authentication",
         "resourceProvider":{
-            "name":"DE BOECK SUPERIEUR",
-            "displayname":"DE BOECK SUPERIEUR",
-            "url":"https://www.deboecksuperieur.com/"
+            "name":"Université de Lille",
+            "displayname":"Université de Lille",
+            "url":"http://univ-lille.fr"
         },
-        "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
+        "description":"Give access to tools linked with MESHS supported research's project"
     },
     {
-        "catalogID":"f365aeeb691d5e23b366972541db8888b7f0720d",
-        "resourceName":"Learning Management System - Université de Tours",
+        "catalogID":"3745491bf2c5f85df4d576beb50c1051c2641e3d",
+        "resourceName":"CALMIP - Resources allocation",
         "resourceProvider":{
-            "name":"Université de Tours",
-            "displayname":"Université de Tours",
-            "url":"http://www.univ-tours.fr"
+            "name":"Institut National Polytechnique de Toulouse",
+            "displayname":"Institut National Polytechnique de Toulouse",
+            "url":"http://www.inp-toulouse.fr"
         },
-        "description":"Learning Management System - Université de Tours"
+        "description":"his service allows users of the Calmip calculation system to submit their requests for resources, and the allocation committee to examine and respond to them.\n\nIt is primarily intended for researchers, university lecturers, engineers or doctoral students assigned to a public research laboratory in the Midi-Pyrénées region.\nSome features can potentially be used by any staff or collaborator of the French ESR, including from a foreign country"
+    },
+    {
+        "catalogID":"58487d30237b5afe5a8dd7eb8cc36a186ced19cb",
+        "resourceName":"Agence universitaire de la Francophonie (AUF) — Users access",
+        "resourceProvider":{
+            "name":"Agence Universitaire de la Francophonie",
+            "displayname":"Agence Universitaire de la Francophonie",
+            "url":"http://www.auf.org"
+        },
+        "description":"Authentication proxy combining the  Federated Identity and the Single Sign-On (SSO) authentification  to give AUF users different ways to access applications:\n  - With the account of their university institution,\n  - By creating a local account,\n  - With an account of one of their social networks (eg Facebook),\n  - With AUF professional account, for AUF staff."
     },
     {
         "catalogID":"097f562d1f1b8618d5e840ac2d3ba502e3137c3c",
