@@ -1,0 +1,195 @@
+{
+    "generated":"2021-10-15 20:23",
+    "en":[
+        {
+            "catalogID":"5ba79b804f8f145af42467485cfdb3686f45d6dd",
+            "entityID":"https://dev.facilityoptimization.net",
+            "resourceName":"FOSCore (Development)",
+            "resourceProvider":{
+                "name":"Facility Optimization Solutions, LLC",
+                "displayname":"Facility Optimization Solutions, LLC",
+                "url":"https://www.foscd.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"FOSCore Development / Test Service",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mark Schrock",
+                    "email":"mailto:mschrock@foscd.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cody Becker",
+                    "email":"mailto:cbecker@beckertech.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Kara Mecomonaco",
+                    "email":"mailto:kmecomonaco@foscd.com"
+                }
+            ],
+            "info":"https://www.foscd.com/foscore",
+            "privacy":"https://www.foscd.com/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"5ba79b804f8f145af42467485cfdb3686f45d6dd",
+            "entityID":"https://dev.facilityoptimization.net",
+            "resourceName":"FOSCore (Development)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.foscd.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mark Schrock",
+                    "email":"mailto:mschrock@foscd.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cody Becker",
+                    "email":"mailto:cbecker@beckertech.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Kara Mecomonaco",
+                    "email":"mailto:kmecomonaco@foscd.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"5ba79b804f8f145af42467485cfdb3686f45d6dd",
+            "entityID":"https://dev.facilityoptimization.net",
+            "resourceName":"FOSCore (Development)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.foscd.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mark Schrock",
+                    "email":"mailto:mschrock@foscd.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cody Becker",
+                    "email":"mailto:cbecker@beckertech.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Kara Mecomonaco",
+                    "email":"mailto:kmecomonaco@foscd.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"5ba79b804f8f145af42467485cfdb3686f45d6dd",
+            "entityID":"https://dev.facilityoptimization.net",
+            "resourceName":"FOSCore (Development)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.foscd.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Mark Schrock",
+                    "email":"mailto:mschrock@foscd.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Cody Becker",
+                    "email":"mailto:cbecker@beckertech.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Kara Mecomonaco",
+                    "email":"mailto:kmecomonaco@foscd.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
