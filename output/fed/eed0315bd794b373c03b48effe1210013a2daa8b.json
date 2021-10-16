@@ -1,5 +1,5 @@
 {
-    "generated":"2021-10-16 18:24",
+    "generated":"2021-10-16 20:22",
     "en":[
         {
             "catalogID":"eed0315bd794b373c03b48effe1210013a2daa8b",
@@ -12,20 +12,20 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "givenName",
-                    "eduPersonScopedAffiliation",
                     "surname",
+                    "eduPersonScopedAffiliation",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "givenName",
                     "mail",
                     "eduPersonAssurance",
-                    "displayName",
-                    "eduPersonAffiliation",
-                    "commonName"
+                    "displayName"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "homeOrganization",
                     "organizationName",
+                    "homeOrganization",
                     "departmentNumber",
+                    "organizationalUnit",
                     "homeOrganizationType"
                 ]
             },
@@ -55,20 +55,20 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "givenName",
-                    "eduPersonScopedAffiliation",
                     "surname",
+                    "eduPersonScopedAffiliation",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "givenName",
                     "mail",
                     "eduPersonAssurance",
-                    "displayName",
-                    "eduPersonAffiliation",
-                    "commonName"
+                    "displayName"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "homeOrganization",
                     "organizationName",
+                    "homeOrganization",
                     "departmentNumber",
+                    "organizationalUnit",
                     "homeOrganizationType"
                 ]
             },
@@ -98,20 +98,20 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "givenName",
-                    "eduPersonScopedAffiliation",
                     "surname",
+                    "eduPersonScopedAffiliation",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "givenName",
                     "mail",
                     "eduPersonAssurance",
-                    "displayName",
-                    "eduPersonAffiliation",
-                    "commonName"
+                    "displayName"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "homeOrganization",
                     "organizationName",
+                    "homeOrganization",
                     "departmentNumber",
+                    "organizationalUnit",
                     "homeOrganizationType"
                 ]
             },
@@ -141,20 +141,20 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "givenName",
-                    "eduPersonScopedAffiliation",
                     "surname",
+                    "eduPersonScopedAffiliation",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "givenName",
                     "mail",
                     "eduPersonAssurance",
-                    "displayName",
-                    "eduPersonAffiliation",
-                    "commonName"
+                    "displayName"
                 ],
                 "requested":[
-                    "organizationalUnit",
-                    "homeOrganization",
                     "organizationName",
+                    "homeOrganization",
                     "departmentNumber",
+                    "organizationalUnit",
                     "homeOrganizationType"
                 ]
             },
