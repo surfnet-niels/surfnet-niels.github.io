@@ -1,10 +1,10 @@
 {
-    "generated":"2021-10-19 16:33",
+    "generated":"2021-10-19 18:26",
     "en":[
         {
             "catalogID":"9c6c50d337f979d691c1415cea63b55e95f3eb6f",
             "entityID":"https://vsso.uni-muenster.de/shibboleth-sp",
-            "resourceName":"Various portals of the WWU: Seat tracking due to Corona, video portals ViU and ProVision, Meta-Videoportal",
+            "resourceName":"Video portals ViU and ProVision, Meta-Videoportal",
             "resourceProvider":{
                 "name":"e247",
                 "displayname":"Westfälische Wilhelms-Universität Münster",
@@ -24,7 +24,7 @@
                     "displayName"
                 ]
             },
-            "description":"Due to the Corona pandemic, in various buildings it is recorded who is sitting in which place. (Your data are kept and deleted according to the currently valid regulations.) The Meta-Videoportal  combines several video portals.– The video portals “ViU: Early Science - Videobasierte Unterrichtsanalyse“ and “ProVision” contain lesson records from different grades and subjects as well as additional materials and notes on the use of these videos in courses. (Please see our privacy statement.) – Required data are (ONE OF eppn subject-id pairwise-id persistent-id targeted-id) AND (mail) AND (displayName or (sn AND givenName)).",
+            "description":"The video portals “ViU: Early Science - Videobasierte Unterrichtsanalyse“ and “ProVision” contain lesson records from different grades and subjects as well as additional materials and notes on the use of these videos in courses. (Please see our privacy statement.) The Meta-Videoportal combines several video portals. – Required data are (ONE OF eppn subject-id pairwise-id persistent-id targeted-id) AND (mail) AND (displayName or (sn AND givenName)).",
             "resourceContacts":[
                 {
                     "type":"technical",
@@ -57,7 +57,7 @@
         {
             "catalogID":"9c6c50d337f979d691c1415cea63b55e95f3eb6f",
             "entityID":"https://vsso.uni-muenster.de/shibboleth-sp",
-            "resourceName":"Various portals of the WWU: Seat tracking due to Corona, video portals ViU and ProVision, Meta-Videoportal",
+            "resourceName":"Video portals ViU and ProVision, Meta-Videoportal",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -110,7 +110,7 @@
         {
             "catalogID":"9c6c50d337f979d691c1415cea63b55e95f3eb6f",
             "entityID":"https://vsso.uni-muenster.de/shibboleth-sp",
-            "resourceName":"Various portals of the WWU: Seat tracking due to Corona, video portals ViU and ProVision, Meta-Videoportal",
+            "resourceName":"Video portals ViU and ProVision, Meta-Videoportal",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -163,7 +163,7 @@
         {
             "catalogID":"9c6c50d337f979d691c1415cea63b55e95f3eb6f",
             "entityID":"https://vsso.uni-muenster.de/shibboleth-sp",
-            "resourceName":"Verschiedene Portale der WWU: Sitzplatzerfassung wegen Corona, Videoportale ViU und ProVision, Meta-Videoportal",
+            "resourceName":"Videoportale ViU und ProVision, Meta-Videoportal",
             "resourceProvider":{
                 "name":"e247",
                 "displayname":"Westfälische Wilhelms-Universität Münster",
@@ -183,7 +183,7 @@
                     "displayName"
                 ]
             },
-            "description":"In zahlreichen Gebäuden wird wegen der Corona-Pandemie erfasst, wer an welchem Platz gesessen hat. (Aufbewahrung und Löschung Ihrer Daten erfolgen nach den aktuell gültigen Vorschriften.) – Die Videoportale „ViU: Early Science - Videobasierte Unterrichtsanalyse“ und „ProVision“ enthalten Unterrichtsaufzeichnungen aus unterschiedlichen Klassenstufen und Fächern sowie Zusatzmaterialien und Hinweise zur Nutzung dieser Videos in Lehrveranstaltungen. (Beachten Sie bitte unsere Datenschutzerklärung.) Das Meta-Videoportal fasst mehrere Videoportale zusammen. – Benötigte Daten sind (EINER VON eppn subject-id pairwise-id persistent-id targeted-id) UND (mail) UND (displayName ODER (sn UND givenName))",
+            "description":"Die Videoportale „ViU: Early Science - Videobasierte Unterrichtsanalyse“ und „ProVision“ enthalten Unterrichtsaufzeichnungen aus unterschiedlichen Klassenstufen und Fächern sowie Zusatzmaterialien und Hinweise zur Nutzung dieser Videos in Lehrveranstaltungen. (Beachten Sie bitte unsere Datenschutzerklärung.) Das Meta-Videoportal fasst mehrere Videoportale zusammen. – Benötigte Daten sind (EINER VON eppn subject-id pairwise-id persistent-id targeted-id) UND (mail) UND (displayName ODER (sn UND givenName))",
             "resourceContacts":[
                 {
                     "type":"technical",
