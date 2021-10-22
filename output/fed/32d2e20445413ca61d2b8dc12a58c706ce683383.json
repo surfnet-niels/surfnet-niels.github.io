@@ -1,0 +1,183 @@
+{
+    "generated":"2021-10-22 20:23",
+    "en":[
+        {
+            "catalogID":"32d2e20445413ca61d2b8dc12a58c706ce683383",
+            "entityID":"https://comanage.gcrnet.org/shibboleth",
+            "resourceName":"gcrNet's COmanage",
+            "resourceProvider":{
+                "name":"University of North Carolina at Greensboro",
+                "displayname":"University of North Carolina at Greensboro",
+                "url":"http://www.uncg.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"Gate City Research Network's COmanage service",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jeff Whitworth",
+                    "email":"mailto:jnwhitwo@uncg.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"6-Tech @ UNCG",
+                    "email":"mailto:6tech@uncg.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UNCG ITS Information Security and Compliance",
+                    "email":"mailto:its-isc-information_security_and_compliance-g@uncg.edu"
+                }
+            ],
+            "info":"https://gcrnet.org/",
+            "privacy":"https://policy.uncg.edu/university_policies/acceptable-use/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"32d2e20445413ca61d2b8dc12a58c706ce683383",
+            "entityID":"https://comanage.gcrnet.org/shibboleth",
+            "resourceName":"gcrNet's COmanage",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uncg.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jeff Whitworth",
+                    "email":"mailto:jnwhitwo@uncg.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"6-Tech @ UNCG",
+                    "email":"mailto:6tech@uncg.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UNCG ITS Information Security and Compliance",
+                    "email":"mailto:its-isc-information_security_and_compliance-g@uncg.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"32d2e20445413ca61d2b8dc12a58c706ce683383",
+            "entityID":"https://comanage.gcrnet.org/shibboleth",
+            "resourceName":"gcrNet's COmanage",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uncg.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jeff Whitworth",
+                    "email":"mailto:jnwhitwo@uncg.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"6-Tech @ UNCG",
+                    "email":"mailto:6tech@uncg.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UNCG ITS Information Security and Compliance",
+                    "email":"mailto:its-isc-information_security_and_compliance-g@uncg.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"32d2e20445413ca61d2b8dc12a58c706ce683383",
+            "entityID":"https://comanage.gcrnet.org/shibboleth",
+            "resourceName":"gcrNet's COmanage",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uncg.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jeff Whitworth",
+                    "email":"mailto:jnwhitwo@uncg.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"6-Tech @ UNCG",
+                    "email":"mailto:6tech@uncg.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UNCG ITS Information Security and Compliance",
+                    "email":"mailto:its-isc-information_security_and_compliance-g@uncg.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
