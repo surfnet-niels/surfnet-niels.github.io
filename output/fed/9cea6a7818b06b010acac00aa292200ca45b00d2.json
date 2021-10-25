@@ -29660,6 +29660,46 @@
         "description":"IAM for the Fairdata project services"
     },
     {
+        "catalogID":"97dc86eb308525b5f86e40eb28e759958d327fe3",
+        "resourceName":"Bordeaux University - Moodle FAD",
+        "resourceProvider":{
+            "name":"Université de Bordeaux",
+            "displayname":"Université de Bordeaux",
+            "url":"https://www.u-bordeaux.fr/"
+        },
+        "description":"Moodle Platform for remote learning"
+    },
+    {
+        "catalogID":"b3b7816da589a30d26a36aa18d0f07fbff6995fd",
+        "resourceName":"limesurvey service",
+        "resourceProvider":{
+            "name":"Université Paris 1 - Panthéon Sorbonne",
+            "displayname":"Université Paris 1 - Panthéon Sorbonne",
+            "url":"http://www.univ-paris1.fr"
+        },
+        "description":"Shibboleth administration authentification"
+    },
+    {
+        "catalogID":"0e09e8dbcfdaa49e8ad927651a298135ece37d20",
+        "resourceName":"Université de Nice - Fact",
+        "resourceProvider":{
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
+        },
+        "description":"Plateforme de formation à la certification des compétences numériques"
+    },
+    {
+        "catalogID":"cdb1838e90404c0fbb60a035b9050c9f6eb93d7d",
+        "resourceName":"Organization and planification service Evento",
+        "resourceProvider":{
+            "name":"GIP RENATER",
+            "displayname":"GIP RENATER",
+            "url":"http://www.renater.fr"
+        },
+        "description":"Organization and planification service Evento"
+    },
+    {
         "catalogID":"a1b21798fc03da26d584f705f05d1a95fafa4ccf",
         "resourceName":"Observatoire de la Côte d'Azur - FileSender",
         "resourceProvider":{
@@ -29750,16 +29790,6 @@
         "description":"Authentication service of the French atmospheric data cluster AERIS."
     },
     {
-        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
-        "resourceName":"University Paris 1 - online course",
-        "resourceProvider":{
-            "name":"Université Paris 1 - Panthéon Sorbonne",
-            "displayname":"Université Paris 1 - Panthéon Sorbonne",
-            "url":"http://www.univ-paris1.fr"
-        },
-        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
-    },
-    {
         "catalogID":"b4adcd9a4cc88078598283e7bb57ac04f580f170",
         "resourceName":"CAIRN",
         "resourceProvider":{
@@ -29820,16 +29850,6 @@
         "description":"Dataset sharing platform PerSCiDO from the Persyval-lab labex.\nThis platform aims at fostering datasets sharing among researchers from all domains."
     },
     {
-        "catalogID":"870848e5d86e96af9cb731545f65193cab03f047",
-        "resourceName":"Wooflash",
-        "resourceProvider":{
-            "name":"Wooclap",
-            "displayname":"Wooclap",
-            "url":"https://www.wooclap.com/fr/"
-        },
-        "description":"Wooflash is a web platform that uses the principles of cognitive science to further support your pedagogy for effective and adaptive learning."
-    },
-    {
         "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
         "resourceName":"Service indico.in2p3.fr",
         "resourceProvider":{
@@ -29860,26 +29880,6 @@
         "description":"Request portal and access management to the CCIPL computing cluster. https://ccipl.univ-nantes.fr/"
     },
     {
-        "catalogID":"102c4bc12e5200d4beecb9f883d986f02c986c95",
-        "resourceName":"IN2P3 - Atrium - Document Management System",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"IN2P3 - Atrium - Document Management System based on Nuxeo"
-    },
-    {
-        "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
-        "resourceName":"M.N.H.N  eduspot",
-        "resourceProvider":{
-            "name":"Muséum National d'Histoire Naturelle",
-            "displayname":"Muséum National d'Histoire Naturelle",
-            "url":"http://www.mnhn.fr"
-        },
-        "description":"M.N.H.N  eduspot"
-    },
-    {
         "catalogID":"85b82810775ec339936b1176f6d3e89a1f5e6704",
         "resourceName":"rendez-vous platform",
         "resourceProvider":{
@@ -29900,6 +29900,16 @@
         "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
     },
     {
+        "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
+        "resourceName":"M.N.H.N  eduspot",
+        "resourceProvider":{
+            "name":"Muséum National d'Histoire Naturelle",
+            "displayname":"Muséum National d'Histoire Naturelle",
+            "url":"http://www.mnhn.fr"
+        },
+        "description":"M.N.H.N  eduspot"
+    },
+    {
         "catalogID":"6f5f0cc43191c04077e86faff8edb1dd2e55279f",
         "resourceName":"EChamilo - UGA",
         "resourceProvider":{
@@ -29908,6 +29918,16 @@
             "url":"http://www.univ-grenoble-alpes.fr"
         },
         "description":"E-learning plateform of the Grenoble Alpes University."
+    },
+    {
+        "catalogID":"8a7358a5ecd78d8b8b807831f12f494adb1ffdd9",
+        "resourceName":"Indico@IJCLab",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Meeting and conference management service"
     },
     {
         "catalogID":"515a0a67d236bbf0f012a92c875fb3afb4a04a5b",
@@ -30000,6 +30020,16 @@
         "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
     },
     {
+        "catalogID":"8eff1553c76ec7eb0161eec17dd16e4d4f31f294",
+        "resourceName":"MESHS - administration management",
+        "resourceProvider":{
+            "name":"Université de Lille",
+            "displayname":"Université de Lille",
+            "url":"http://univ-lille.fr"
+        },
+        "description":"The website offer a suite of web service with restricted access to manage and support MESHS's research project."
+    },
+    {
         "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
         "resourceName":"Guest network access - Guests",
         "resourceProvider":{
@@ -30058,6 +30088,46 @@
             "url":"http://www.univ-amu.fr"
         },
         "description":"Listes pour le projet européen Civis"
+    },
+    {
+        "catalogID":"b3021b6cbff8cdfdc24a2f2e9a0abd1a329c77ad",
+        "resourceName":"IN2P3-IP2I - Support",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"IP2I Users support"
+    },
+    {
+        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
+        "resourceName":"University Paris 1 - online course",
+        "resourceProvider":{
+            "name":"Université Paris 1 - Panthéon Sorbonne",
+            "displayname":"Université Paris 1 - Panthéon Sorbonne",
+            "url":"http://www.univ-paris1.fr"
+        },
+        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
+    },
+    {
+        "catalogID":"102c4bc12e5200d4beecb9f883d986f02c986c95",
+        "resourceName":"IN2P3 - Atrium - Document Management System",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"IN2P3 - Atrium - Document Management System based on Nuxeo"
+    },
+    {
+        "catalogID":"870848e5d86e96af9cb731545f65193cab03f047",
+        "resourceName":"Wooflash",
+        "resourceProvider":{
+            "name":"Wooclap",
+            "displayname":"Wooclap",
+            "url":"https://www.wooclap.com/fr/"
+        },
+        "description":"Wooflash is a web platform that uses the principles of cognitive science to further support your pedagogy for effective and adaptive learning."
     },
     {
         "catalogID":"e0f662e083fbfc2234016543bac529e16430e3f5",
@@ -30180,14 +30250,14 @@
         "description":"Set of services offered in the scope of Ulysseus European University"
     },
     {
-        "catalogID":"8a7358a5ecd78d8b8b807831f12f494adb1ffdd9",
-        "resourceName":"Indico@IJCLab",
+        "catalogID":"a032f098e354f7f2184ec76501ba2bfd38b1e3f0",
+        "resourceName":"portail-eduspot.inra.fr",
         "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
         },
-        "description":"Meeting and conference management service"
+        "description":"portail de test connexion wifi et filaire"
     },
     {
         "catalogID":"90019a7cb47f671aa50df53124ef773d0db1842e",
@@ -30198,16 +30268,6 @@
             "url":"http://www.utc.fr/"
         },
         "description":"UTC - Eduspot"
-    },
-    {
-        "catalogID":"b3021b6cbff8cdfdc24a2f2e9a0abd1a329c77ad",
-        "resourceName":"IN2P3-IP2I - Support",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"IP2I Users support"
     },
     {
         "catalogID":"3669443cf53b39c836777fef8a387ac31c6e9090",
@@ -30290,54 +30350,14 @@
         "description":"This platform allows the responsables of the communication to load digital identification elements they need"
     },
     {
-        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
-        "resourceName":"INRAE - Nextcloud",
+        "catalogID":"2bb8a868e833efd8ceb2130ebfca965cb5a8961c",
+        "resourceName":"Lumière University - Lyon 2 - Open Moodle",
         "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
+            "name":"Université Lumière Lyon 2",
+            "displayname":"Université Lumière Lyon 2",
+            "url":"http://www.univ-lyon2.fr"
         },
-        "description":"INRAE ​​data sharing service"
-    },
-    {
-        "catalogID":"8eff1553c76ec7eb0161eec17dd16e4d4f31f294",
-        "resourceName":"MESHS - administration management",
-        "resourceProvider":{
-            "name":"Université de Lille",
-            "displayname":"Université de Lille",
-            "url":"http://univ-lille.fr"
-        },
-        "description":"The website offer a suite of web service with restricted access to manage and support MESHS's research project."
-    },
-    {
-        "catalogID":"a032f098e354f7f2184ec76501ba2bfd38b1e3f0",
-        "resourceName":"portail-eduspot.inra.fr",
-        "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
-        },
-        "description":"portail de test connexion wifi et filaire"
-    },
-    {
-        "catalogID":"0b76f7cbb65218e29f08c29baaabe9618d90388f",
-        "resourceName":"Université de Toulon - Portail",
-        "resourceProvider":{
-            "name":"Université de Toulon",
-            "displayname":"Université de Toulon",
-            "url":"http://www.univ-tln.fr"
-        },
-        "description":"Portail d'accès WIFI"
-    },
-    {
-        "catalogID":"7b2ad174bcc10ced91a355e9aedf0060adec40b9",
-        "resourceName":"saml federation bridge production",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
+        "description":"Courses platform"
     },
     {
         "catalogID":"a43b5e96a3b5721f90373d2fddea170586d0b60e",
@@ -30360,6 +30380,46 @@
         "description":"saml federation bridge production"
     },
     {
+        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
+        "resourceName":"Caseine",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
+    },
+    {
+        "catalogID":"7b2ad174bcc10ced91a355e9aedf0060adec40b9",
+        "resourceName":"saml federation bridge production",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
+    },
+    {
+        "catalogID":"4ca19fdc39dc306b98e451afeb09a8ef25f8a230",
+        "resourceName":"Bordeaux  University- Moodle Sciences et Techno",
+        "resourceProvider":{
+            "name":"Université de Bordeaux",
+            "displayname":"Université de Bordeaux",
+            "url":"https://www.u-bordeaux.fr/"
+        },
+        "description":"Moodle Platform Sciences et Techno"
+    },
+    {
+        "catalogID":"0b76f7cbb65218e29f08c29baaabe9618d90388f",
+        "resourceName":"Université de Toulon - Portail",
+        "resourceProvider":{
+            "name":"Université de Toulon",
+            "displayname":"Université de Toulon",
+            "url":"http://www.univ-tln.fr"
+        },
+        "description":"Portail d'accès WIFI"
+    },
+    {
         "catalogID":"8c5869fa36258d39e69cb7e2ab1f0b2436e0d7f7",
         "resourceName":"Civis projet user management",
         "resourceProvider":{
@@ -30378,36 +30438,6 @@
             "url":"https://www.inra.fr"
         },
         "description":"Guest network access"
-    },
-    {
-        "catalogID":"2bb8a868e833efd8ceb2130ebfca965cb5a8961c",
-        "resourceName":"Lumière University - Lyon 2 - Open Moodle",
-        "resourceProvider":{
-            "name":"Université Lumière Lyon 2",
-            "displayname":"Université Lumière Lyon 2",
-            "url":"http://www.univ-lyon2.fr"
-        },
-        "description":"Courses platform"
-    },
-    {
-        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
-        "resourceName":"Caseine",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
-    },
-    {
-        "catalogID":"4ca19fdc39dc306b98e451afeb09a8ef25f8a230",
-        "resourceName":"Bordeaux  University- Moodle Sciences et Techno",
-        "resourceProvider":{
-            "name":"Université de Bordeaux",
-            "displayname":"Université de Bordeaux",
-            "url":"https://www.u-bordeaux.fr/"
-        },
-        "description":"Moodle Platform Sciences et Techno"
     },
     {
         "catalogID":"edf6a66f3ec5bff1b7e7b1122aad27d7834b21e5",
@@ -30438,6 +30468,16 @@
             "url":"https://u-paris.fr/"
         },
         "description":"Université de Paris - Moodle"
+    },
+    {
+        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
+        "resourceName":"INRAE - Nextcloud",
+        "resourceProvider":{
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
+        },
+        "description":"INRAE ​​data sharing service"
     },
     {
         "catalogID":"8bdb175c606c0e8081bf062adfb114f070a4b340",
@@ -30498,46 +30538,6 @@
             "url":"http://www.univ-grenoble-alpes.fr"
         },
         "description":"Moodle of University of Grenoble Alpes"
-    },
-    {
-        "catalogID":"97dc86eb308525b5f86e40eb28e759958d327fe3",
-        "resourceName":"Bordeaux University - Moodle FAD",
-        "resourceProvider":{
-            "name":"Université de Bordeaux",
-            "displayname":"Université de Bordeaux",
-            "url":"https://www.u-bordeaux.fr/"
-        },
-        "description":"Moodle Platform for remote learning"
-    },
-    {
-        "catalogID":"b3b7816da589a30d26a36aa18d0f07fbff6995fd",
-        "resourceName":"limesurvey service",
-        "resourceProvider":{
-            "name":"Université Paris 1 - Panthéon Sorbonne",
-            "displayname":"Université Paris 1 - Panthéon Sorbonne",
-            "url":"http://www.univ-paris1.fr"
-        },
-        "description":"Shibboleth administration authentification"
-    },
-    {
-        "catalogID":"0e09e8dbcfdaa49e8ad927651a298135ece37d20",
-        "resourceName":"Université de Nice - Fact",
-        "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
-        },
-        "description":"Plateforme de formation à la certification des compétences numériques"
-    },
-    {
-        "catalogID":"cdb1838e90404c0fbb60a035b9050c9f6eb93d7d",
-        "resourceName":"Organization and planification service Evento",
-        "resourceProvider":{
-            "name":"GIP RENATER",
-            "displayname":"GIP RENATER",
-            "url":"http://www.renater.fr"
-        },
-        "description":"Organization and planification service Evento"
     },
     {
         "catalogID":"097f562d1f1b8618d5e840ac2d3ba502e3137c3c",
@@ -32538,6 +32538,16 @@
             "url":"http://szfe.hu/en/"
         },
         "description":"University of Theatre and Film Arts Budapest - Moodle"
+    },
+    {
+        "catalogID":"08ffb26168bcbc0da8160f1979b9f27b4cbf6224",
+        "resourceName":"ELKH Cloud",
+        "resourceProvider":{
+            "name":"SZTAKI - Computer and Automation Research Institute",
+            "displayname":"SZTAKI - Computer and Automation Research Institute",
+            "url":"http://sztaki.hu/?en"
+        },
+        "description":"Cloud services for national and international research projects"
     },
     {
         "catalogID":"d315381231bf88d9c23f7193c958abd34e37fb14",
