@@ -1,5 +1,5 @@
 {
-    "generated":"2021-10-27 06:26",
+    "generated":"2021-10-27 08:27",
     "en":[
         {
             "catalogID":"4c060b0e8bef8a492e2e003775ce89114115391c",
@@ -12,15 +12,14 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName"
-                ],
-                "requested":[
+                    "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "givenName",
                     "sn",
                     "mail",
                     "eduPersonAffiliation"
-                ]
+                ],
+                "requested":[]
             },
             "description":"Inspera Assessment is a leading European SaaS provider for high stakes assessments.",
             "resourceContacts":[
@@ -60,15 +59,14 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName"
-                ],
-                "requested":[
+                    "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "givenName",
                     "sn",
                     "mail",
                     "eduPersonAffiliation"
-                ]
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -108,15 +106,14 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName"
-                ],
-                "requested":[
+                    "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "givenName",
                     "sn",
                     "mail",
                     "eduPersonAffiliation"
-                ]
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -156,15 +153,14 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName"
-                ],
-                "requested":[
+                    "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "givenName",
                     "sn",
                     "mail",
                     "eduPersonAffiliation"
-                ]
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
