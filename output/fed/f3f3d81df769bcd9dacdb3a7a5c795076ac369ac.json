@@ -1,0 +1,219 @@
+{
+    "generated":"2021-11-01 20:23",
+    "en":[
+        {
+            "catalogID":"f3f3d81df769bcd9dacdb3a7a5c795076ac369ac",
+            "entityID":"https://voicethread.com/auth/saml2/sp/",
+            "resourceName":"VoiceThread Service Provider",
+            "resourceProvider":{
+                "name":"VoiceThread",
+                "displayname":"VoiceThread",
+                "url":"http://voicethread.com/#home"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"A service provider for authenticating through Shibboleth into VoiceThread.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steve Muth",
+                    "email":"mailto:stevemuth@voicethread.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Alex Byrd",
+                    "email":"mailto:abyrd@voicethread.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Support",
+                    "email":"mailto:integration@voicethread.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Integration Support",
+                    "email":"mailto:integration@voicethread.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://auth.voicethread.com/termsofuse/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f3f3d81df769bcd9dacdb3a7a5c795076ac369ac",
+            "entityID":"https://voicethread.com/auth/saml2/sp/",
+            "resourceName":"VoiceThread Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://voicethread.com/#home"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steve Muth",
+                    "email":"mailto:stevemuth@voicethread.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Alex Byrd",
+                    "email":"mailto:abyrd@voicethread.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Support",
+                    "email":"mailto:integration@voicethread.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Integration Support",
+                    "email":"mailto:integration@voicethread.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f3f3d81df769bcd9dacdb3a7a5c795076ac369ac",
+            "entityID":"https://voicethread.com/auth/saml2/sp/",
+            "resourceName":"VoiceThread Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://voicethread.com/#home"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steve Muth",
+                    "email":"mailto:stevemuth@voicethread.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Alex Byrd",
+                    "email":"mailto:abyrd@voicethread.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Support",
+                    "email":"mailto:integration@voicethread.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Integration Support",
+                    "email":"mailto:integration@voicethread.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f3f3d81df769bcd9dacdb3a7a5c795076ac369ac",
+            "entityID":"https://voicethread.com/auth/saml2/sp/",
+            "resourceName":"VoiceThread Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://voicethread.com/#home"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Steve Muth",
+                    "email":"mailto:stevemuth@voicethread.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"Alex Byrd",
+                    "email":"mailto:abyrd@voicethread.net"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Support",
+                    "email":"mailto:integration@voicethread.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Integration Support",
+                    "email":"mailto:integration@voicethread.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
