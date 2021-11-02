@@ -1,0 +1,191 @@
+{
+    "generated":"2021-11-02 20:23",
+    "en":[
+        {
+            "catalogID":"fe466e373a2fa317d297eca748a23eafbb2d7947",
+            "entityID":"https://usd.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - University of South Dakota",
+            "resourceProvider":{
+                "name":"InfoReady Corp",
+                "displayname":"InfoReady Corp",
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"http://privacy-policy.inforeadycorp.com/InfoReady%20Privacy%20Notice.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"fe466e373a2fa317d297eca748a23eafbb2d7947",
+            "entityID":"https://usd.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - University of South Dakota",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"fe466e373a2fa317d297eca748a23eafbb2d7947",
+            "entityID":"https://usd.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - University of South Dakota",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"fe466e373a2fa317d297eca748a23eafbb2d7947",
+            "entityID":"https://usd.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - University of South Dakota",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
