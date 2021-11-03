@@ -30180,16 +30180,6 @@
         "description":"Moodle teaching platform for EU-CONEXUS"
     },
     {
-        "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
-        "resourceName":"M.N.H.N  eduspot",
-        "resourceProvider":{
-            "name":"Muséum National d'Histoire Naturelle",
-            "displayname":"Muséum National d'Histoire Naturelle",
-            "url":"http://www.mnhn.fr"
-        },
-        "description":"M.N.H.N  eduspot"
-    },
-    {
         "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
         "resourceName":"Service indico.in2p3.fr",
         "resourceProvider":{
@@ -30208,6 +30198,16 @@
             "url":"http://univ-lille.fr"
         },
         "description":"The collaborative platform \"plateforme.meshs.fr\" is dedicated to collaborative work for MESHS's research project"
+    },
+    {
+        "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
+        "resourceName":"M.N.H.N  eduspot",
+        "resourceProvider":{
+            "name":"Muséum National d'Histoire Naturelle",
+            "displayname":"Muséum National d'Histoire Naturelle",
+            "url":"http://www.mnhn.fr"
+        },
+        "description":"M.N.H.N  eduspot"
     },
     {
         "catalogID":"33d408a82be85eaa4d8f84e060c8115e72ebd4eb",
@@ -30240,16 +30240,6 @@
         "description":"Moodle Platform Sciences et Techno"
     },
     {
-        "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
-        "resourceName":"Wooclap",
-        "resourceProvider":{
-            "name":"Wooclap",
-            "displayname":"Wooclap",
-            "url":"https://www.wooclap.com/fr/"
-        },
-        "description":"**Wooclap is a collaborative web-based platform** that makes your training sessions, conferences and classes more fun, interactive and effective. Used in more than **100 countries around the world**, the solution is used by big companies, universities / colleges and ministries.\n\nThrough questionnaires and other animations, the solution allows the teacher, trainers and speakers to follow up closely the degree of understanding of the participants in real time. The solution is simple and intuitive for both the teacher and the participants."
-    },
-    {
         "catalogID":"4055d3a2f52fab4322bd35699c8182737e93a039",
         "resourceName":"Université Cote d'Azur - EDM - modules",
         "resourceProvider":{
@@ -30258,6 +30248,16 @@
             "url":"http://www.unice.fr"
         },
         "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
+    },
+    {
+        "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
+        "resourceName":"Wooclap",
+        "resourceProvider":{
+            "name":"Wooclap",
+            "displayname":"Wooclap",
+            "url":"https://www.wooclap.com/fr/"
+        },
+        "description":"**Wooclap is a collaborative web-based platform** that makes your training sessions, conferences and classes more fun, interactive and effective. Used in more than **100 countries around the world**, the solution is used by big companies, universities / colleges and ministries.\n\nThrough questionnaires and other animations, the solution allows the teacher, trainers and speakers to follow up closely the degree of understanding of the participants in real time. The solution is simple and intuitive for both the teacher and the participants."
     },
     {
         "catalogID":"3816cc2796d7fa15e0bbcd9da2778b0c581aee3e",
@@ -30270,14 +30270,14 @@
         "description":"Documents management and sharing"
     },
     {
-        "catalogID":"b76bd3eb38f7581d1bd8a9225114e654ab527558",
-        "resourceName":"API ISTEX development version",
+        "catalogID":"f365aeeb691d5e23b366972541db8888b7f0720d",
+        "resourceName":"Learning Management System - Université de Tours",
         "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
+            "name":"Université de Tours",
+            "displayname":"Université de Tours",
+            "url":"http://www.univ-tours.fr"
         },
-        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
+        "description":"Learning Management System - Université de Tours"
     },
     {
         "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
@@ -30290,16 +30290,6 @@
         "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
     },
     {
-        "catalogID":"f365aeeb691d5e23b366972541db8888b7f0720d",
-        "resourceName":"Learning Management System - Université de Tours",
-        "resourceProvider":{
-            "name":"Université de Tours",
-            "displayname":"Université de Tours",
-            "url":"http://www.univ-tours.fr"
-        },
-        "description":"Learning Management System - Université de Tours"
-    },
-    {
         "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
         "resourceName":"INRAE - Nextcloud",
         "resourceProvider":{
@@ -30308,6 +30298,16 @@
             "url":"https://www.inra.fr"
         },
         "description":"INRAE ​​data sharing service"
+    },
+    {
+        "catalogID":"b76bd3eb38f7581d1bd8a9225114e654ab527558",
+        "resourceName":"API ISTEX development version",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
     },
     {
         "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
