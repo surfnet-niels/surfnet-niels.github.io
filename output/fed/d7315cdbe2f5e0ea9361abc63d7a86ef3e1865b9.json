@@ -1,0 +1,199 @@
+{
+    "generated":"2021-11-08 22:21",
+    "en":[
+        {
+            "catalogID":"d7315cdbe2f5e0ea9361abc63d7a86ef3e1865b9",
+            "entityID":"https://id.demo.studentclearinghouse.org/saml2/service-provider/myhub",
+            "resourceName":"Myhub Service Demo",
+            "resourceProvider":{
+                "name":"National Student Clearinghouse",
+                "displayname":"National Student Clearinghouse",
+                "url":"http://www.studentclearinghouse.org/default.asp"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"Myhub Service Demo Site",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Doug Falk",
+                    "email":"mailto:falk@studentclearinghouse.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Lan Qian",
+                    "email":"mailto:qian@studentclearinghouse.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support Team",
+                    "email":"mailto:apse@studentclearinghouse.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support Team",
+                    "email":"mailto:apse@studentclearinghouse.org"
+                }
+            ],
+            "info":"https://demo.myhub.org",
+            "privacy":"https://studentclearinghouse.info/onestop/wp-content/uploads/terms-privacy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d7315cdbe2f5e0ea9361abc63d7a86ef3e1865b9",
+            "entityID":"https://id.demo.studentclearinghouse.org/saml2/service-provider/myhub",
+            "resourceName":"Myhub Service Demo",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.studentclearinghouse.org/default.asp"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Doug Falk",
+                    "email":"mailto:falk@studentclearinghouse.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Lan Qian",
+                    "email":"mailto:qian@studentclearinghouse.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support Team",
+                    "email":"mailto:apse@studentclearinghouse.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support Team",
+                    "email":"mailto:apse@studentclearinghouse.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d7315cdbe2f5e0ea9361abc63d7a86ef3e1865b9",
+            "entityID":"https://id.demo.studentclearinghouse.org/saml2/service-provider/myhub",
+            "resourceName":"Myhub Service Demo",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.studentclearinghouse.org/default.asp"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Doug Falk",
+                    "email":"mailto:falk@studentclearinghouse.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Lan Qian",
+                    "email":"mailto:qian@studentclearinghouse.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support Team",
+                    "email":"mailto:apse@studentclearinghouse.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support Team",
+                    "email":"mailto:apse@studentclearinghouse.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d7315cdbe2f5e0ea9361abc63d7a86ef3e1865b9",
+            "entityID":"https://id.demo.studentclearinghouse.org/saml2/service-provider/myhub",
+            "resourceName":"Myhub Service Demo",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.studentclearinghouse.org/default.asp"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Doug Falk",
+                    "email":"mailto:falk@studentclearinghouse.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"Lan Qian",
+                    "email":"mailto:qian@studentclearinghouse.org"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support Team",
+                    "email":"mailto:apse@studentclearinghouse.org"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support Team",
+                    "email":"mailto:apse@studentclearinghouse.org"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
