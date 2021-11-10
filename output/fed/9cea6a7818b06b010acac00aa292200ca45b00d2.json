@@ -29720,24 +29720,54 @@
         "description":""
     },
     {
-        "catalogID":"1f28f8a6a987104634bc3a472610216e1d936310",
-        "resourceName":"Cursus - Learning platform",
+        "catalogID":"a0f58366cc69a3a92947266e8a43589f32ca44de",
+        "resourceName":"MESHS - tools - centralized authentication",
         "resourceProvider":{
-            "name":"Université Rennes 2",
-            "displayname":"Université Rennes 2",
-            "url":"https://www.univ-rennes2.fr"
+            "name":"Université de Lille",
+            "displayname":"Université de Lille",
+            "url":"http://univ-lille.fr"
         },
-        "description":"Université Rennes 2 learning platform."
+        "description":"Give access to tools linked with MESHS supported research's project"
     },
     {
-        "catalogID":"58487d30237b5afe5a8dd7eb8cc36a186ced19cb",
-        "resourceName":"Agence universitaire de la Francophonie (AUF) — Users access",
+        "catalogID":"870848e5d86e96af9cb731545f65193cab03f047",
+        "resourceName":"Wooflash",
         "resourceProvider":{
-            "name":"Agence Universitaire de la Francophonie",
-            "displayname":"Agence Universitaire de la Francophonie",
-            "url":"http://www.auf.org"
+            "name":"Wooclap",
+            "displayname":"Wooclap",
+            "url":"https://www.wooclap.com/fr/"
         },
-        "description":"Authentication proxy combining the  Federated Identity and the Single Sign-On (SSO) authentification  to give AUF users different ways to access applications:\n  - With the account of their university institution,\n  - By creating a local account,\n  - With an account of one of their social networks (eg Facebook),\n  - With AUF professional account, for AUF staff."
+        "description":"Wooflash is a web platform that uses the principles of cognitive science to further support your pedagogy for effective and adaptive learning."
+    },
+    {
+        "catalogID":"102c4bc12e5200d4beecb9f883d986f02c986c95",
+        "resourceName":"IN2P3 - Atrium - Document Management System",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"IN2P3 - Atrium - Document Management System based on Nuxeo"
+    },
+    {
+        "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
+        "resourceName":"Wooclap",
+        "resourceProvider":{
+            "name":"Wooclap",
+            "displayname":"Wooclap",
+            "url":"https://www.wooclap.com/fr/"
+        },
+        "description":"**Wooclap is a collaborative web-based platform** that makes your training sessions, conferences and classes more fun, interactive and effective. Used in more than **100 countries around the world**, the solution is used by big companies, universities / colleges and ministries.\n\nThrough questionnaires and other animations, the solution allows the teacher, trainers and speakers to follow up closely the degree of understanding of the participants in real time. The solution is simple and intuitive for both the teacher and the participants."
+    },
+    {
+        "catalogID":"3745491bf2c5f85df4d576beb50c1051c2641e3d",
+        "resourceName":"CALMIP - Resources allocation",
+        "resourceProvider":{
+            "name":"Institut National Polytechnique de Toulouse",
+            "displayname":"Institut National Polytechnique de Toulouse",
+            "url":"http://www.inp-toulouse.fr"
+        },
+        "description":"his service allows users of the Calmip calculation system to submit their requests for resources, and the allocation committee to examine and respond to them.\n\nIt is primarily intended for researchers, university lecturers, engineers or doctoral students assigned to a public research laboratory in the Midi-Pyrénées region.\nSome features can potentially be used by any staff or collaborator of the French ESR, including from a foreign country"
     },
     {
         "catalogID":"7b2ad174bcc10ced91a355e9aedf0060adec40b9",
@@ -29748,6 +29778,16 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
+    },
+    {
+        "catalogID":"58487d30237b5afe5a8dd7eb8cc36a186ced19cb",
+        "resourceName":"Agence universitaire de la Francophonie (AUF) — Users access",
+        "resourceProvider":{
+            "name":"Agence Universitaire de la Francophonie",
+            "displayname":"Agence Universitaire de la Francophonie",
+            "url":"http://www.auf.org"
+        },
+        "description":"Authentication proxy combining the  Federated Identity and the Single Sign-On (SSO) authentification  to give AUF users different ways to access applications:\n  - With the account of their university institution,\n  - By creating a local account,\n  - With an account of one of their social networks (eg Facebook),\n  - With AUF professional account, for AUF staff."
     },
     {
         "catalogID":"a2ee399b0efbd1338fc6cc4bc519f75dcf9a280b",
@@ -29768,6 +29808,26 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"saml federation bridge production"
+    },
+    {
+        "catalogID":"1f28f8a6a987104634bc3a472610216e1d936310",
+        "resourceName":"Cursus - Learning platform",
+        "resourceProvider":{
+            "name":"Université Rennes 2",
+            "displayname":"Université Rennes 2",
+            "url":"https://www.univ-rennes2.fr"
+        },
+        "description":"Université Rennes 2 learning platform."
+    },
+    {
+        "catalogID":"c172210413188b32e4b88234b1ba81c8281b733d",
+        "resourceName":" Bordeaux University- Moodle Montesquieu",
+        "resourceProvider":{
+            "name":"Université de Bordeaux",
+            "displayname":"Université de Bordeaux",
+            "url":"https://www.u-bordeaux.fr/"
+        },
+        "description":"Moodle Platform Montesquieu"
     },
     {
         "catalogID":"0e09e8dbcfdaa49e8ad927651a298135ece37d20",
@@ -29800,16 +29860,6 @@
         "description":"Portail d'accès WIFI"
     },
     {
-        "catalogID":"d4b8fab9493d84d1db38d2501188e2b9e3293ac9",
-        "resourceName":"Digital Skills",
-        "resourceProvider":{
-            "name":"Université Jean Moulin - Lyon 3",
-            "displayname":"Université Jean Moulin - Lyon 3",
-            "url":"http://www.univ-lyon3.fr"
-        },
-        "description":"Lyon3 resource for access to PIX education resources via a moodle platform."
-    },
-    {
         "catalogID":"1379fdf926f6322c5cc8809cfc551c2245547214",
         "resourceName":"Guest network access",
         "resourceProvider":{
@@ -29838,6 +29888,16 @@
             "url":"http://www.enib.fr"
         },
         "description":"Documents management and sharing"
+    },
+    {
+        "catalogID":"d4b8fab9493d84d1db38d2501188e2b9e3293ac9",
+        "resourceName":"Digital Skills",
+        "resourceProvider":{
+            "name":"Université Jean Moulin - Lyon 3",
+            "displayname":"Université Jean Moulin - Lyon 3",
+            "url":"http://www.univ-lyon3.fr"
+        },
+        "description":"Lyon3 resource for access to PIX education resources via a moodle platform."
     },
     {
         "catalogID":"20cca6a3ac8f2d51f0b716ab80d37db3e966bb28",
@@ -29900,16 +29960,6 @@
         "description":"Shared learning platform - Forthem partner university\n\nPlatform  to students enrolled in The University of Bourgogne and / or the partner Universities of the Federation."
     },
     {
-        "catalogID":"14125f65460dc330eefbf167aa9d06ddf3cebd2e",
-        "resourceName":"CivisBox for Civis poject",
-        "resourceProvider":{
-            "name":"Aix-Marseille Université (AMU)",
-            "displayname":"Aix-Marseille Université (AMU)",
-            "url":"http://www.univ-amu.fr"
-        },
-        "description":"User sharing information for CIVIS"
-    },
-    {
         "catalogID":"515a0a67d236bbf0f012a92c875fb3afb4a04a5b",
         "resourceName":"CNRS - Mathrice services portal",
         "resourceProvider":{
@@ -29918,6 +29968,16 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"Portal of services for the franch mathematicians community.\n\nThis portal is used by more than 2000 mathematicians from 60 universities, laboratories, fédérations and there collaborators.\nYou can find the list here : http://plm.math.cnrs.fr/spip.php?article30"
+    },
+    {
+        "catalogID":"14125f65460dc330eefbf167aa9d06ddf3cebd2e",
+        "resourceName":"CivisBox for Civis poject",
+        "resourceProvider":{
+            "name":"Aix-Marseille Université (AMU)",
+            "displayname":"Aix-Marseille Université (AMU)",
+            "url":"http://www.univ-amu.fr"
+        },
+        "description":"User sharing information for CIVIS"
     },
     {
         "catalogID":"f365aeeb691d5e23b366972541db8888b7f0720d",
@@ -30030,16 +30090,6 @@
         "description":"Registration platform of European Student Card ; access to technical  documentation"
     },
     {
-        "catalogID":"6c6fedf84766d9d712c1758c29e217843a16d44e",
-        "resourceName":"Université de Lille - plate-forme charte digitale (identité)",
-        "resourceProvider":{
-            "name":"Université de Lille",
-            "displayname":"Université de Lille",
-            "url":"http://univ-lille.fr"
-        },
-        "description":"This platform allows the responsables of the communication to load digital identification elements they need"
-    },
-    {
         "catalogID":"493c1fb1bf0c64c217170fbd229e08e7e5eb22d6",
         "resourceName":"POD EU-CONEXUS",
         "resourceProvider":{
@@ -30048,6 +30098,16 @@
             "url":"http://www.univ-lr.fr"
         },
         "description":"POD platform of EU-CONEXUS"
+    },
+    {
+        "catalogID":"6c6fedf84766d9d712c1758c29e217843a16d44e",
+        "resourceName":"Université de Lille - plate-forme charte digitale (identité)",
+        "resourceProvider":{
+            "name":"Université de Lille",
+            "displayname":"Université de Lille",
+            "url":"http://univ-lille.fr"
+        },
+        "description":"This platform allows the responsables of the communication to load digital identification elements they need"
     },
     {
         "catalogID":"180c7efa20d5f7cee080cb3e917d826d09e99ba7",
@@ -30080,16 +30140,6 @@
         "description":"moodle 4EU+"
     },
     {
-        "catalogID":"102c4bc12e5200d4beecb9f883d986f02c986c95",
-        "resourceName":"IN2P3 - Atrium - Document Management System",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"IN2P3 - Atrium - Document Management System based on Nuxeo"
-    },
-    {
         "catalogID":"f10f9e09270c66d504fbc821e2e5bb194d16cb9e",
         "resourceName":"Université Grenoble eformation",
         "resourceProvider":{
@@ -30100,16 +30150,6 @@
         "description":"Moodle of University of Grenoble Alpes"
     },
     {
-        "catalogID":"b3b7816da589a30d26a36aa18d0f07fbff6995fd",
-        "resourceName":"limesurvey service",
-        "resourceProvider":{
-            "name":"Université Paris 1 - Panthéon Sorbonne",
-            "displayname":"Université Paris 1 - Panthéon Sorbonne",
-            "url":"http://www.univ-paris1.fr"
-        },
-        "description":"Shibboleth administration authentification"
-    },
-    {
         "catalogID":"2edc6535792abed493e4454a9726c67579834a8f",
         "resourceName":"Université Cote d'Azur - EDM",
         "resourceProvider":{
@@ -30118,6 +30158,16 @@
             "url":"http://www.unice.fr"
         },
         "description":"Electronic Document Management for Université Cote d'Azur. Access restricted to members"
+    },
+    {
+        "catalogID":"b3b7816da589a30d26a36aa18d0f07fbff6995fd",
+        "resourceName":"limesurvey service",
+        "resourceProvider":{
+            "name":"Université Paris 1 - Panthéon Sorbonne",
+            "displayname":"Université Paris 1 - Panthéon Sorbonne",
+            "url":"http://www.univ-paris1.fr"
+        },
+        "description":"Shibboleth administration authentification"
     },
     {
         "catalogID":"936094b0467daf90b80c904919b738a4ca610e08",
@@ -30150,26 +30200,6 @@
         "description":"Organization and planification service Evento"
     },
     {
-        "catalogID":"3745491bf2c5f85df4d576beb50c1051c2641e3d",
-        "resourceName":"CALMIP - Resources allocation",
-        "resourceProvider":{
-            "name":"Institut National Polytechnique de Toulouse",
-            "displayname":"Institut National Polytechnique de Toulouse",
-            "url":"http://www.inp-toulouse.fr"
-        },
-        "description":"his service allows users of the Calmip calculation system to submit their requests for resources, and the allocation committee to examine and respond to them.\n\nIt is primarily intended for researchers, university lecturers, engineers or doctoral students assigned to a public research laboratory in the Midi-Pyrénées region.\nSome features can potentially be used by any staff or collaborator of the French ESR, including from a foreign country"
-    },
-    {
-        "catalogID":"870848e5d86e96af9cb731545f65193cab03f047",
-        "resourceName":"Wooflash",
-        "resourceProvider":{
-            "name":"Wooclap",
-            "displayname":"Wooclap",
-            "url":"https://www.wooclap.com/fr/"
-        },
-        "description":"Wooflash is a web platform that uses the principles of cognitive science to further support your pedagogy for effective and adaptive learning."
-    },
-    {
         "catalogID":"5559dba31e456858b8c667916eccdf8d8f847a8f",
         "resourceName":"HumanID",
         "resourceProvider":{
@@ -30178,26 +30208,6 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"TGIR Huma-Num SSO service"
-    },
-    {
-        "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
-        "resourceName":"Wooclap",
-        "resourceProvider":{
-            "name":"Wooclap",
-            "displayname":"Wooclap",
-            "url":"https://www.wooclap.com/fr/"
-        },
-        "description":"**Wooclap is a collaborative web-based platform** that makes your training sessions, conferences and classes more fun, interactive and effective. Used in more than **100 countries around the world**, the solution is used by big companies, universities / colleges and ministries.\n\nThrough questionnaires and other animations, the solution allows the teacher, trainers and speakers to follow up closely the degree of understanding of the participants in real time. The solution is simple and intuitive for both the teacher and the participants."
-    },
-    {
-        "catalogID":"c172210413188b32e4b88234b1ba81c8281b733d",
-        "resourceName":" Bordeaux University- Moodle Montesquieu",
-        "resourceProvider":{
-            "name":"Université de Bordeaux",
-            "displayname":"Université de Bordeaux",
-            "url":"https://www.u-bordeaux.fr/"
-        },
-        "description":"Moodle Platform Montesquieu"
     },
     {
         "catalogID":"a1b21798fc03da26d584f705f05d1a95fafa4ccf",
@@ -30290,24 +30300,14 @@
         "description":"GitLab platform of Observatoire de la Côte d'Azur"
     },
     {
-        "catalogID":"90019a7cb47f671aa50df53124ef773d0db1842e",
-        "resourceName":"UTC - Eduspot",
+        "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
+        "resourceName":"De Boeck Supérieur License Desk",
         "resourceProvider":{
-            "name":"Université de Technologie de Compiègne",
-            "displayname":"Université de Technologie de Compiègne",
-            "url":"http://www.utc.fr/"
+            "name":"DE BOECK SUPERIEUR",
+            "displayname":"DE BOECK SUPERIEUR",
+            "url":"https://www.deboecksuperieur.com/"
         },
-        "description":"UTC - Eduspot"
-    },
-    {
-        "catalogID":"b76bd3eb38f7581d1bd8a9225114e654ab527558",
-        "resourceName":"API ISTEX development version",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
+        "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
     },
     {
         "catalogID":"d54711a2d2076bb74b6b50f08273deef68357513",
@@ -30320,14 +30320,24 @@
         "description":"Compilatio detects and measures similarities to prevent plagiarism in student work. It is an online document analysis service available to higher education institutions on subscription."
     },
     {
-        "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
-        "resourceName":"De Boeck Supérieur License Desk",
+        "catalogID":"b76bd3eb38f7581d1bd8a9225114e654ab527558",
+        "resourceName":"API ISTEX development version",
         "resourceProvider":{
-            "name":"DE BOECK SUPERIEUR",
-            "displayname":"DE BOECK SUPERIEUR",
-            "url":"https://www.deboecksuperieur.com/"
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
         },
-        "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
+        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
+    },
+    {
+        "catalogID":"90019a7cb47f671aa50df53124ef773d0db1842e",
+        "resourceName":"UTC - Eduspot",
+        "resourceProvider":{
+            "name":"Université de Technologie de Compiègne",
+            "displayname":"Université de Technologie de Compiègne",
+            "url":"http://www.utc.fr/"
+        },
+        "description":"UTC - Eduspot"
     },
     {
         "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
@@ -30618,16 +30628,6 @@
             "url":"http://www.cairn.info/"
         },
         "description":"Created in September 2005 by four Belgian and French publishers, today Cairn offers the most comprehensive collection of publications in the French language in the humanities and social sciences available online. In 2015, more than 400 journals and around 5,000 eBooks from major French, Belgian and Swiss publishers are available on www.cairn.info. Students, scholars and librarians all over the world are thus able to access more than 200,000 full-text articles and book chapters online.\nTo make this content more visible and accessible to non–francophone scholars, Cairn.info (with the support of the CNL, a French governmental agency dedicated to the promotion of French publications around the world) has designed a special interface, www.cairn-int.info, enabling internet users to browse and easily find content from French journals without speaking a word of French."
-    },
-    {
-        "catalogID":"a0f58366cc69a3a92947266e8a43589f32ca44de",
-        "resourceName":"MESHS - tools - centralized authentication",
-        "resourceProvider":{
-            "name":"Université de Lille",
-            "displayname":"Université de Lille",
-            "url":"http://univ-lille.fr"
-        },
-        "description":"Give access to tools linked with MESHS supported research's project"
     },
     {
         "catalogID":"097f562d1f1b8618d5e840ac2d3ba502e3137c3c",
