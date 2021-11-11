@@ -1,0 +1,183 @@
+{
+    "generated":"2021-11-11 10:24",
+    "en":[
+        {
+            "catalogID":"8d29f6e81141c36ac71827d8b33154ba6561af14",
+            "entityID":"https://www.tectum-elibrary.de/Shibboleth.sso",
+            "resourceName":"Tectum eLibrary",
+            "resourceProvider":{
+                "name":"e482",
+                "displayname":"Nomos Verlagsgesellschaft mbH & Co. KG",
+                "url":"https://www.nomos.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"The Tectum eLibrary is the publisher's way of providing easy access to published material from the fields of Law, Politics, Economics, Media and Communication Studies, History, Sociology, Education Research, Cultural Science, EU Studies, Health Science, Philosophy and Religion.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"AchimJander",
+                    "email":"mailto:jander@nomos.de"
+                },
+                {
+                    "type":"technical",
+                    "name":"Flying CircusSupport",
+                    "email":"mailto:support@flyingcircus.io"
+                },
+                {
+                    "type":"support",
+                    "name":"Flying CircusSupport",
+                    "email":"mailto:support@flyingcircus.io"
+                },
+                {
+                    "type":"security",
+                    "name":"AchimJander",
+                    "email":"mailto:jander@nomos.de"
+                }
+            ],
+            "info":"https://www.tectum-elibrary.de/about",
+            "privacy":"https://www.tectum-elibrary.de/datenschutz",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"8d29f6e81141c36ac71827d8b33154ba6561af14",
+            "entityID":"https://www.tectum-elibrary.de/Shibboleth.sso",
+            "resourceName":"Tectum eLibrary",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.nomos.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"AchimJander",
+                    "email":"mailto:jander@nomos.de"
+                },
+                {
+                    "type":"technical",
+                    "name":"Flying CircusSupport",
+                    "email":"mailto:support@flyingcircus.io"
+                },
+                {
+                    "type":"support",
+                    "name":"Flying CircusSupport",
+                    "email":"mailto:support@flyingcircus.io"
+                },
+                {
+                    "type":"security",
+                    "name":"AchimJander",
+                    "email":"mailto:jander@nomos.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"8d29f6e81141c36ac71827d8b33154ba6561af14",
+            "entityID":"https://www.tectum-elibrary.de/Shibboleth.sso",
+            "resourceName":"Tectum eLibrary",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.nomos.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"AchimJander",
+                    "email":"mailto:jander@nomos.de"
+                },
+                {
+                    "type":"technical",
+                    "name":"Flying CircusSupport",
+                    "email":"mailto:support@flyingcircus.io"
+                },
+                {
+                    "type":"support",
+                    "name":"Flying CircusSupport",
+                    "email":"mailto:support@flyingcircus.io"
+                },
+                {
+                    "type":"security",
+                    "name":"AchimJander",
+                    "email":"mailto:jander@nomos.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"8d29f6e81141c36ac71827d8b33154ba6561af14",
+            "entityID":"https://www.tectum-elibrary.de/Shibboleth.sso",
+            "resourceName":"Tectum eLibrary",
+            "resourceProvider":{
+                "name":"e482",
+                "displayname":"Nomos Verlagsgesellschaft mbH & Co. KG",
+                "url":"https://www.nomos.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"Mit der Tectum eLibrary bietet der Verlag einen komfortablen Zugang zu Verlagsinhalten aus den Bereichen Recht, Politik, Wirtschaft, Medienwissenschaft und Kommunikationsforschung, Geschichte, Soziologie, Bildungsforschung, Kulturwissenschaft, Europa, Gesundheitswissenschaft, Philosophie und Religion.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"AchimJander",
+                    "email":"mailto:jander@nomos.de"
+                },
+                {
+                    "type":"technical",
+                    "name":"Flying CircusSupport",
+                    "email":"mailto:support@flyingcircus.io"
+                },
+                {
+                    "type":"support",
+                    "name":"Flying CircusSupport",
+                    "email":"mailto:support@flyingcircus.io"
+                },
+                {
+                    "type":"security",
+                    "name":"AchimJander",
+                    "email":"mailto:jander@nomos.de"
+                }
+            ],
+            "info":"https://www.tectum-elibrary.de/about",
+            "privacy":"https://www.tectum-elibrary.de/datenschutz",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
