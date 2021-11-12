@@ -1,0 +1,155 @@
+{
+    "generated":"2021-11-12 18:25",
+    "en":[
+        {
+            "catalogID":"a07417010e3694110f0fbbcb076a0d73bde9567c",
+            "entityID":"http://idp.unibo.it/adfs/services/trust",
+            "resourceName":"UNIBO Service gateway",
+            "resourceProvider":{
+                "name":"ALMA MATER STUDIORUM - University of Bologna",
+                "displayname":"ALMA MATER STUDIORUM - University of Bologna",
+                "url":"https://www.unibo.it/en/homepage"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation",
+                    "email",
+                    "givenName",
+                    "surname",
+                    "schacHomeOrganization",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "schacPersonalUniqueCode"
+                ]
+            },
+            "description":"The service allows users to authenticate themselves in some applications federated with UNIBO ADFS by using their EDUGAIN credentials",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CesiaSSO Support",
+                    "email":"mailto:cesia-sso-support@unibo.it"
+                }
+            ],
+            "info":"https://spid-cie.unibo.it/idemedugain/info/en",
+            "privacy":"https://www.unibo.it/en/university/privacy-policy-and-legal-notes/privacy-policy/personal-data-processing",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a07417010e3694110f0fbbcb076a0d73bde9567c",
+            "entityID":"http://idp.unibo.it/adfs/services/trust",
+            "resourceName":"UNIBO Service gateway",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.unibo.it/en/homepage"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation",
+                    "email",
+                    "givenName",
+                    "surname",
+                    "schacHomeOrganization",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "schacPersonalUniqueCode"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CesiaSSO Support",
+                    "email":"mailto:cesia-sso-support@unibo.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a07417010e3694110f0fbbcb076a0d73bde9567c",
+            "entityID":"http://idp.unibo.it/adfs/services/trust",
+            "resourceName":"UNIBO Service gateway",
+            "resourceProvider":{
+                "name":"ALMA MATER STUDIORUM - Università di Bologna",
+                "displayname":"ALMA MATER STUDIORUM - Università di Bologna",
+                "url":"https://www.unibo.it/en/homepage"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation",
+                    "email",
+                    "givenName",
+                    "surname",
+                    "schacHomeOrganization",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "schacPersonalUniqueCode"
+                ]
+            },
+            "description":"Il servizio consente agli utenti di autenticarsi in alcune applicazioni federate con ADFS UNIBO utilizzando le loro credenziali EDUGAIN",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CesiaSSO Support",
+                    "email":"mailto:cesia-sso-support@unibo.it"
+                }
+            ],
+            "info":"https://spid-cie.unibo.it/idemedugain/info/it",
+            "privacy":"https://www.unibo.it/it/ateneo/privacy-e-note-legali/privacy",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a07417010e3694110f0fbbcb076a0d73bde9567c",
+            "entityID":"http://idp.unibo.it/adfs/services/trust",
+            "resourceName":"UNIBO Service gateway",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.unibo.it/en/homepage"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation",
+                    "email",
+                    "givenName",
+                    "surname",
+                    "schacHomeOrganization",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "schacPersonalUniqueCode"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"CesiaSSO Support",
+                    "email":"mailto:cesia-sso-support@unibo.it"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
