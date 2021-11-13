@@ -1,18 +1,20 @@
 {
-    "generated":"2021-11-13 16:33",
+    "generated":"2021-11-13 18:25",
     "en":[
         {
             "catalogID":"e5eb5b5ea8746872004c2155ca0a871dca8c9bcb",
             "entityID":"https://shibboleth2sp.pm.semcs.net/shibboleth",
-            "resourceName":"https://shibboleth2sp.pm.semcs.net/shibboleth",
+            "resourceName":"Semantico Limited: Palgrave Macmillan Shibboleth 2 SP",
             "resourceProvider":{
                 "name":"Semantico Limited",
-                "displayname":"Semantico Limited: Palgrave Macmillan Shibboleth 2 SP",
+                "displayname":"Semantico Limited",
                 "url":"http://www.semantico.com/"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -37,7 +39,7 @@
         {
             "catalogID":"e5eb5b5ea8746872004c2155ca0a871dca8c9bcb",
             "entityID":"https://shibboleth2sp.pm.semcs.net/shibboleth",
-            "resourceName":"https://shibboleth2sp.pm.semcs.net/shibboleth",
+            "resourceName":"Semantico Limited: Palgrave Macmillan Shibboleth 2 SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -45,7 +47,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -70,7 +74,7 @@
         {
             "catalogID":"e5eb5b5ea8746872004c2155ca0a871dca8c9bcb",
             "entityID":"https://shibboleth2sp.pm.semcs.net/shibboleth",
-            "resourceName":"https://shibboleth2sp.pm.semcs.net/shibboleth",
+            "resourceName":"Semantico Limited: Palgrave Macmillan Shibboleth 2 SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -78,7 +82,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -103,7 +109,7 @@
         {
             "catalogID":"e5eb5b5ea8746872004c2155ca0a871dca8c9bcb",
             "entityID":"https://shibboleth2sp.pm.semcs.net/shibboleth",
-            "resourceName":"https://shibboleth2sp.pm.semcs.net/shibboleth",
+            "resourceName":"Semantico Limited: Palgrave Macmillan Shibboleth 2 SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -111,7 +117,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
             },
             "description":"",
             "resourceContacts":[
