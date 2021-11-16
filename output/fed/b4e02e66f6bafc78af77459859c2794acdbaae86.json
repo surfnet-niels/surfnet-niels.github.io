@@ -1,0 +1,179 @@
+{
+    "generated":"2021-11-16 18:27",
+    "en":[
+        {
+            "catalogID":"b4e02e66f6bafc78af77459859c2794acdbaae86",
+            "entityID":"https://proxy.aai.muni.cz/edugain/proxy_saml2_backend.xml",
+            "resourceName":"MUNI Unified Login proxy",
+            "resourceProvider":{
+                "name":"Masaryk University",
+                "displayname":"MUNI",
+                "url":"https://www.muni.cz"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "edupersonuniqueid",
+                    "mail",
+                    "givenName",
+                    "sn",
+                    "edupersonprincipalname",
+                    "edupersontargetedid",
+                    "edupersonscopedaffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Primary Identity Provider for MU",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"MUNI Unified LoginSupport",
+                    "email":"mailto:idp@ics.muni.cz"
+                },
+                {
+                    "type":"support",
+                    "name":"ITService Desk",
+                    "email":"mailto:it@muni.cz"
+                }
+            ],
+            "info":"https://it.muni.cz/en/services/jednotne-prihlaseni-na-muni",
+            "privacy":"https://www.muni.cz/en/about-us/official-notice-board/personal-data-protection",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b4e02e66f6bafc78af77459859c2794acdbaae86",
+            "entityID":"https://proxy.aai.muni.cz/edugain/proxy_saml2_backend.xml",
+            "resourceName":"MUNI Unified Login proxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.muni.cz"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "edupersonuniqueid",
+                    "mail",
+                    "givenName",
+                    "sn",
+                    "edupersonprincipalname",
+                    "edupersontargetedid",
+                    "edupersonscopedaffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"MUNI Unified LoginSupport",
+                    "email":"mailto:idp@ics.muni.cz"
+                },
+                {
+                    "type":"support",
+                    "name":"ITService Desk",
+                    "email":"mailto:it@muni.cz"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b4e02e66f6bafc78af77459859c2794acdbaae86",
+            "entityID":"https://proxy.aai.muni.cz/edugain/proxy_saml2_backend.xml",
+            "resourceName":"MUNI Unified Login proxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.muni.cz"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "edupersonuniqueid",
+                    "mail",
+                    "givenName",
+                    "sn",
+                    "edupersonprincipalname",
+                    "edupersontargetedid",
+                    "edupersonscopedaffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"MUNI Unified LoginSupport",
+                    "email":"mailto:idp@ics.muni.cz"
+                },
+                {
+                    "type":"support",
+                    "name":"ITService Desk",
+                    "email":"mailto:it@muni.cz"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b4e02e66f6bafc78af77459859c2794acdbaae86",
+            "entityID":"https://proxy.aai.muni.cz/edugain/proxy_saml2_backend.xml",
+            "resourceName":"MUNI Unified Login proxy",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.muni.cz"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "edupersonuniqueid",
+                    "mail",
+                    "givenName",
+                    "sn",
+                    "edupersonprincipalname",
+                    "edupersontargetedid",
+                    "edupersonscopedaffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"MUNI Unified LoginSupport",
+                    "email":"mailto:idp@ics.muni.cz"
+                },
+                {
+                    "type":"support",
+                    "name":"ITService Desk",
+                    "email":"mailto:it@muni.cz"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
