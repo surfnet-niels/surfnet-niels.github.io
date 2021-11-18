@@ -1,0 +1,20 @@
+[
+    {
+        "catalogID":"a37c1a247f8ac71f2b099865c7dc5c6ba9f89cd4",
+        "entityID":"https://api.naxosmusiclibrary.com/sso/nml/mlp",
+        "service":{
+            "licence":"FALSE",
+            "mfa required":"FALSE",
+            "tenancy":"single",
+            "service type":"other",
+            "landing_page":"https://example.org/acmp_sp"
+        },
+        "vendor":{
+            "vendor_name":"ACME Inc.",
+            "vendor information":"ACME product line is featuring outlandish products that fail or backfire catastrophically at the worst possible times",
+            "vendor logo":"images/acme.jpeg",
+            "vendor support pages":"https://example.org/acme/support",
+            "vendor website":"https://example.org/acme"
+        }
+    }
+]
