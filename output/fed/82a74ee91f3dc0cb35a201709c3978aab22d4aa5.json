@@ -1,5 +1,5 @@
 {
-    "generated":"2021-12-06 06:28",
+    "generated":"2021-12-06 08:29",
     "en":[
         {
             "catalogID":"82a74ee91f3dc0cb35a201709c3978aab22d4aa5",
@@ -21,7 +21,7 @@
                     "surname"
                 ]
             },
-            "description":"Damit Sie Zugriff auf die gewünschten NZZ-Produkte erhalten, benötigen wir Ihre AAI-Zugangsdaten.",
+            "description":"In order for you to have access to the desired NZZ products, we need your AAI access data.",
             "resourceContacts":[
                 {
                     "type":"support",
@@ -35,8 +35,10 @@
                 }
             ],
             "info":"",
-            "privacy":"",
-            "entityCategories":[],
+            "privacy":"https://aai-priv.nzz.ch/privacy.html",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -75,8 +77,10 @@
                 }
             ],
             "info":"",
-            "privacy":"",
-            "entityCategories":[],
+            "privacy":"https://aai-priv.nzz.ch/privacy.html",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -115,8 +119,10 @@
                 }
             ],
             "info":"",
-            "privacy":"",
-            "entityCategories":[],
+            "privacy":"https://aai-priv.nzz.ch/privacy.html",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -155,8 +161,10 @@
                 }
             ],
             "info":"",
-            "privacy":"",
-            "entityCategories":[],
+            "privacy":"https://aai-priv.nzz.ch/privacy.html",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ]
