@@ -1,5 +1,5 @@
 {
-    "generated":"2021-12-07 10:28",
+    "generated":"2021-12-07 12:40",
     "en":[
         {
             "catalogID":"b6c1c0b1fb59df543f6b4571b3ec521325a97c36",
@@ -43,7 +43,9 @@
             "info":"https://b2access-integration.fz-juelich.de/unitygw/VAADIN/files/about-b2access.html",
             "privacy":"https://b2access-integration.fz-juelich.de/unitygw/VAADIN/files/data-privacy-statement.html",
             "entityCategories":[],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -89,7 +91,9 @@
             "info":"",
             "privacy":"",
             "entityCategories":[],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -135,7 +139,9 @@
             "info":"",
             "privacy":"",
             "entityCategories":[],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -181,7 +187,9 @@
             "info":"https://b2access-integration.fz-juelich.de/unitygw/VAADIN/files/about-b2access.html",
             "privacy":"https://b2access-integration.fz-juelich.de/unitygw/VAADIN/files/data-privacy-statement.html",
             "entityCategories":[],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
