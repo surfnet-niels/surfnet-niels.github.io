@@ -1,0 +1,135 @@
+{
+    "generated":"2021-12-10 16:36",
+    "en":[
+        {
+            "catalogID":"7f1be6511e8f8dd053cb98037646ab78bf926007",
+            "entityID":"https://fs.restena.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
+            "resourceName":"RESTENA FileSender Service",
+            "resourceProvider":{
+                "name":"RESTENA Foundation asbl",
+                "displayname":"RESTENA Foundation",
+                "url":"http://www.restena.lu/restena/fr/FR-Presentation.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            "description":"RESTENA FileSender is a secure way to share large files with anyone! Logon to upload your files or to invite people to send you a file.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"RESTENANOC",
+                    "email":"mailto:noc@restena.lu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7f1be6511e8f8dd053cb98037646ab78bf926007",
+            "entityID":"https://fs.restena.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
+            "resourceName":"RESTENA FileSender Service",
+            "resourceProvider":{
+                "name":"Fondation RESTENA asbl",
+                "displayname":"Fondation RESTENA",
+                "url":"http://www.restena.lu/restena/fr/FR-Presentation.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            "description":"RESTENA FileSender propose un moyen sécurisé pour partager des gros fichiers avec vos collègues! Connectez-vous pour envoyer vos fichiers ou pour inviter vos interlocuteurs à vous en envoyer.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"RESTENANOC",
+                    "email":"mailto:noc@restena.lu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7f1be6511e8f8dd053cb98037646ab78bf926007",
+            "entityID":"https://fs.restena.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
+            "resourceName":"RESTENA FileSender Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.restena.lu/restena/fr/FR-Presentation.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"RESTENANOC",
+                    "email":"mailto:noc@restena.lu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7f1be6511e8f8dd053cb98037646ab78bf926007",
+            "entityID":"https://fs.restena.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
+            "resourceName":"RESTENA FileSender Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.restena.lu/restena/fr/FR-Presentation.html"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    null,
+                    null,
+                    null,
+                    null
+                ]
+            },
+            "description":"RESTENA FileSender ist eine sichere Methode grosse Dateien mit jedermann zu teilen! Verbinden Sie sich um Dateien zu verschicken oder um jemanden aufzufordern Ihnen eine Datei zu schicken.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"RESTENANOC",
+                    "email":"mailto:noc@restena.lu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
