@@ -1,5 +1,5 @@
 {
-    "generated":"2021-12-10 18:27",
+    "generated":"2021-12-10 20:25",
     "en":[
         {
             "catalogID":"7254b862d988aff72f42756e08eb9ee362da7131",
@@ -42,7 +42,9 @@
             ],
             "info":"http://staatsbibliothek-berlin.de",
             "privacy":"https://staatsbibliothek-berlin.de/en/extras/allgemeines/imprint/privacy-policy/",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://aai.dfn.de/category/fid-licences-member"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -88,7 +90,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://aai.dfn.de/category/fid-licences-member"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -134,7 +138,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://aai.dfn.de/category/fid-licences-member"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -180,7 +186,9 @@
             ],
             "info":"http://staatsbibliothek-berlin.de",
             "privacy":"https://staatsbibliothek-berlin.de/extras/allgemeines/impressum/datenschutz-privacy-policy/",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://aai.dfn.de/category/fid-licences-member"
+            ],
             "SirtfiSupport":[]
         }
     ]
