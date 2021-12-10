@@ -1,5 +1,5 @@
 {
-    "generated":"2021-12-10 20:25",
+    "generated":"2021-12-10 22:25",
     "en":[
         {
             "catalogID":"5c36733687980e525c3b8d27261f66d7f7f2d917",
@@ -27,32 +27,34 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
-                    "name":"Single Sign On Support Team",
-                    "email":"mailto:support@turningtechnologies.com"
-                },
-                {
                     "type":"technical",
                     "name":"Single Sign On Technical Support Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Single Sign On Administrative Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Single Sign On Support Team",
+                    "email":"mailto:support@turning.com"
                 },
                 {
                     "type":"security",
                     "name":"Single Sign On Security Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
                 }
             ],
-            "info":"",
-            "privacy":"https://www.turningtechnologies.com/privacy-policy/",
+            "info":"https://www.turning.com",
+            "privacy":"https://www.turning.com/privacy-policy",
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -82,24 +84,24 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
-                    "name":"Single Sign On Support Team",
-                    "email":"mailto:support@turningtechnologies.com"
-                },
-                {
                     "type":"technical",
                     "name":"Single Sign On Technical Support Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Single Sign On Administrative Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Single Sign On Support Team",
+                    "email":"mailto:support@turning.com"
                 },
                 {
                     "type":"security",
                     "name":"Single Sign On Security Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
                 }
             ],
             "info":"",
@@ -107,7 +109,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -137,24 +141,24 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
-                    "name":"Single Sign On Support Team",
-                    "email":"mailto:support@turningtechnologies.com"
-                },
-                {
                     "type":"technical",
                     "name":"Single Sign On Technical Support Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Single Sign On Administrative Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Single Sign On Support Team",
+                    "email":"mailto:support@turning.com"
                 },
                 {
                     "type":"security",
                     "name":"Single Sign On Security Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
                 }
             ],
             "info":"",
@@ -162,7 +166,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -192,24 +198,24 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
-                    "name":"Single Sign On Support Team",
-                    "email":"mailto:support@turningtechnologies.com"
-                },
-                {
                     "type":"technical",
                     "name":"Single Sign On Technical Support Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Single Sign On Administrative Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Single Sign On Support Team",
+                    "email":"mailto:support@turning.com"
                 },
                 {
                     "type":"security",
                     "name":"Single Sign On Security Team",
-                    "email":"mailto:SSOSupport@turningtechnologies.com"
+                    "email":"mailto:support@turning.com"
                 }
             ],
             "info":"",
@@ -217,7 +223,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
