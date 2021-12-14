@@ -1,5 +1,5 @@
 {
-    "generated":"2021-12-14 16:40",
+    "generated":"2021-12-14 18:28",
     "en":[
         {
             "catalogID":"e5eb5b5ea8746872004c2155ca0a871dca8c9bcb",
@@ -13,7 +13,8 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ]
             },
             "description":"",
@@ -48,7 +49,8 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ]
             },
             "description":"",
@@ -83,7 +85,8 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ]
             },
             "description":"",
@@ -118,7 +121,8 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ]
             },
             "description":"",
