@@ -1,5 +1,5 @@
 {
-    "generated":"2021-12-15 12:36",
+    "generated":"2021-12-15 14:22",
     "en":[
         {
             "catalogID":"541f6dae6623b61f2a5eb89b767fcb4281ff13cb",
@@ -14,11 +14,16 @@
                 "required":[
                     "eduPersonTargetedID",
                     "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "sn",
+                    "gn",
+                    "cn",
+                    "displayName"
                 ],
                 "requested":[]
             },
-            "description":"Med Amberscript kan man automatisk få dannet tekst og undertekster for lyd- eller videofiler man uploader.",
+            "description":"Amberscript allows you to automatically create text and subtitles from audio or video files you upload.",
             "resourceContacts":[
                 {
                     "type":"technical",
@@ -48,7 +53,12 @@
                 "required":[
                     "eduPersonTargetedID",
                     "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "sn",
+                    "gn",
+                    "cn",
+                    "displayName"
                 ],
                 "requested":[]
             },
@@ -82,7 +92,12 @@
                 "required":[
                     "eduPersonTargetedID",
                     "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "sn",
+                    "gn",
+                    "cn",
+                    "displayName"
                 ],
                 "requested":[]
             },
@@ -116,7 +131,12 @@
                 "required":[
                     "eduPersonTargetedID",
                     "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "schacHomeOrganization",
+                    "sn",
+                    "gn",
+                    "cn",
+                    "displayName"
                 ],
                 "requested":[]
             },
