@@ -29550,6 +29550,96 @@
         "description":"Plateforme de formation à la certification des compétences numériques"
     },
     {
+        "catalogID":"493c1fb1bf0c64c217170fbd229e08e7e5eb22d6",
+        "resourceName":"POD EU-CONEXUS",
+        "resourceProvider":{
+            "name":"La Rochelle Université",
+            "displayname":"La Rochelle Université",
+            "url":"http://www.univ-lr.fr"
+        },
+        "description":"POD platform of EU-CONEXUS"
+    },
+    {
+        "catalogID":"4055d3a2f52fab4322bd35699c8182737e93a039",
+        "resourceName":"Université Cote d'Azur - EDM - modules",
+        "resourceProvider":{
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
+        },
+        "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
+    },
+    {
+        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
+        "resourceName":"INRAE - Nextcloud",
+        "resourceProvider":{
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
+        },
+        "description":"INRAE ​​data sharing service"
+    },
+    {
+        "catalogID":"9153376bc50ae4d3aeedc1185bf471453376cc40",
+        "resourceName":"neuGRID for you",
+        "resourceProvider":{
+            "name":"MAAT FRANCE GNUBILA",
+            "displayname":"MAAT FRANCE GNUBILA",
+            "url":"http://www.gnubila.fr"
+        },
+        "description":"neuGRID is a web portal aimed to (i) help neuroscientists do high-throughput imaging research, and (ii) provide clinical neurologists automated diagnostic imaging markers of neurodegenerative diseases for individual patient diagnosis. neuGRID’s user-friendly environment is customised to a range of users from students to senior neuroscientists working in the fields of Alzheimer’s disease, psychiatric diseases, and white matter diseases. neuGRID aims to become a widespread resource for brain imaging analyses."
+    },
+    {
+        "catalogID":"a9c17f79220af7bf57ad2bcdf2caa05dcea36ef6",
+        "resourceName":"INSA rennes moodle ng",
+        "resourceProvider":{
+            "name":"Institut National des Sciences Appliquées de Rennes",
+            "displayname":"Institut National des Sciences Appliquées de Rennes",
+            "url":"http://www.insa-rennes.fr"
+        },
+        "description":"online courses"
+    },
+    {
+        "catalogID":"4ca19fdc39dc306b98e451afeb09a8ef25f8a230",
+        "resourceName":"Bordeaux  University- Moodle Sciences et Techno",
+        "resourceProvider":{
+            "name":"Université de Bordeaux",
+            "displayname":"Université de Bordeaux",
+            "url":"https://www.u-bordeaux.fr/"
+        },
+        "description":"Moodle Platform Sciences et Techno"
+    },
+    {
+        "catalogID":"33d408a82be85eaa4d8f84e060c8115e72ebd4eb",
+        "resourceName":"PerSCiDO datasets sharing platform",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"Dataset sharing platform PerSCiDO from the Persyval-lab labex.\nThis platform aims at fostering datasets sharing among researchers from all domains."
+    },
+    {
+        "catalogID":"edf6a66f3ec5bff1b7e7b1122aad27d7834b21e5",
+        "resourceName":"myCivica",
+        "resourceProvider":{
+            "name":"Fondation Nationale des Sciences Politiques",
+            "displayname":"Fondation Nationale des Sciences Politiques",
+            "url":"http://www.sciences-po.fr"
+        },
+        "description":"Civica will bring together 8 world-reknowned institutions from across the European continent."
+    },
+    {
+        "catalogID":"9463cd39f6bc618101be1ef2b54be03cba5d5f6f",
+        "resourceName":"Shared learning platform - Forthem partner university",
+        "resourceProvider":{
+            "name":"Université de Bourgogne",
+            "displayname":"Université de Bourgogne",
+            "url":"http://www.u-bourgogne.fr"
+        },
+        "description":"Shared learning platform - Forthem partner university\n\nPlatform  to students enrolled in The University of Bourgogne and / or the partner Universities of the Federation."
+    },
+    {
         "catalogID":"8a7358a5ecd78d8b8b807831f12f494adb1ffdd9",
         "resourceName":"Indico@IJCLab",
         "resourceProvider":{
@@ -29558,6 +29648,16 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"Meeting and conference management service"
+    },
+    {
+        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
+        "resourceName":"Caseine",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
     },
     {
         "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
@@ -29640,26 +29740,6 @@
         "description":"portail de test connexion wifi et filaire"
     },
     {
-        "catalogID":"493c1fb1bf0c64c217170fbd229e08e7e5eb22d6",
-        "resourceName":"POD EU-CONEXUS",
-        "resourceProvider":{
-            "name":"La Rochelle Université",
-            "displayname":"La Rochelle Université",
-            "url":"http://www.univ-lr.fr"
-        },
-        "description":"POD platform of EU-CONEXUS"
-    },
-    {
-        "catalogID":"4055d3a2f52fab4322bd35699c8182737e93a039",
-        "resourceName":"Université Cote d'Azur - EDM - modules",
-        "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
-        },
-        "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
-    },
-    {
         "catalogID":"2edc6535792abed493e4454a9726c67579834a8f",
         "resourceName":"Université Cote d'Azur - EDM",
         "resourceProvider":{
@@ -29690,26 +29770,6 @@
         "description":"RegApp for European Universities Civis Project"
     },
     {
-        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
-        "resourceName":"INRAE - Nextcloud",
-        "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
-        },
-        "description":"INRAE ​​data sharing service"
-    },
-    {
-        "catalogID":"9153376bc50ae4d3aeedc1185bf471453376cc40",
-        "resourceName":"neuGRID for you",
-        "resourceProvider":{
-            "name":"MAAT FRANCE GNUBILA",
-            "displayname":"MAAT FRANCE GNUBILA",
-            "url":"http://www.gnubila.fr"
-        },
-        "description":"neuGRID is a web portal aimed to (i) help neuroscientists do high-throughput imaging research, and (ii) provide clinical neurologists automated diagnostic imaging markers of neurodegenerative diseases for individual patient diagnosis. neuGRID’s user-friendly environment is customised to a range of users from students to senior neuroscientists working in the fields of Alzheimer’s disease, psychiatric diseases, and white matter diseases. neuGRID aims to become a widespread resource for brain imaging analyses."
-    },
-    {
         "catalogID":"85b82810775ec339936b1176f6d3e89a1f5e6704",
         "resourceName":"rendez-vous platform",
         "resourceProvider":{
@@ -29730,16 +29790,6 @@
         "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
     },
     {
-        "catalogID":"a9c17f79220af7bf57ad2bcdf2caa05dcea36ef6",
-        "resourceName":"INSA rennes moodle ng",
-        "resourceProvider":{
-            "name":"Institut National des Sciences Appliquées de Rennes",
-            "displayname":"Institut National des Sciences Appliquées de Rennes",
-            "url":"http://www.insa-rennes.fr"
-        },
-        "description":"online courses"
-    },
-    {
         "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
         "resourceName":"IN2P3-IP2I - SAML bridge",
         "resourceProvider":{
@@ -29748,16 +29798,6 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"saml federation bridge production"
-    },
-    {
-        "catalogID":"4ca19fdc39dc306b98e451afeb09a8ef25f8a230",
-        "resourceName":"Bordeaux  University- Moodle Sciences et Techno",
-        "resourceProvider":{
-            "name":"Université de Bordeaux",
-            "displayname":"Université de Bordeaux",
-            "url":"https://www.u-bordeaux.fr/"
-        },
-        "description":"Moodle Platform Sciences et Techno"
     },
     {
         "catalogID":"8eff1553c76ec7eb0161eec17dd16e4d4f31f294",
@@ -29770,36 +29810,6 @@
         "description":"The website offer a suite of web service with restricted access to manage and support MESHS's research project."
     },
     {
-        "catalogID":"33d408a82be85eaa4d8f84e060c8115e72ebd4eb",
-        "resourceName":"PerSCiDO datasets sharing platform",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"Dataset sharing platform PerSCiDO from the Persyval-lab labex.\nThis platform aims at fostering datasets sharing among researchers from all domains."
-    },
-    {
-        "catalogID":"edf6a66f3ec5bff1b7e7b1122aad27d7834b21e5",
-        "resourceName":"myCivica",
-        "resourceProvider":{
-            "name":"Fondation Nationale des Sciences Politiques",
-            "displayname":"Fondation Nationale des Sciences Politiques",
-            "url":"http://www.sciences-po.fr"
-        },
-        "description":"Civica will bring together 8 world-reknowned institutions from across the European continent."
-    },
-    {
-        "catalogID":"9463cd39f6bc618101be1ef2b54be03cba5d5f6f",
-        "resourceName":"Shared learning platform - Forthem partner university",
-        "resourceProvider":{
-            "name":"Université de Bourgogne",
-            "displayname":"Université de Bourgogne",
-            "url":"http://www.u-bourgogne.fr"
-        },
-        "description":"Shared learning platform - Forthem partner university\n\nPlatform  to students enrolled in The University of Bourgogne and / or the partner Universities of the Federation."
-    },
-    {
         "catalogID":"b3021b6cbff8cdfdc24a2f2e9a0abd1a329c77ad",
         "resourceName":"IN2P3-IP2I - Support",
         "resourceProvider":{
@@ -29808,16 +29818,6 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"IP2I Users support"
-    },
-    {
-        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
-        "resourceName":"Caseine",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
     },
     {
         "catalogID":"e0f662e083fbfc2234016543bac529e16430e3f5",
@@ -29940,16 +29940,6 @@
         "description":"Git collaborative hosting intended for IN2P3 staff and their associates."
     },
     {
-        "catalogID":"5559dba31e456858b8c667916eccdf8d8f847a8f",
-        "resourceName":"HumanID",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"TGIR Huma-Num SSO service"
-    },
-    {
         "catalogID":"7718557b9bf5668ac0e484fd3c9c2194fd5d0457",
         "resourceName":"API ISTEX integration version",
         "resourceProvider":{
@@ -29958,6 +29948,16 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
+    },
+    {
+        "catalogID":"5559dba31e456858b8c667916eccdf8d8f847a8f",
+        "resourceName":"HumanID",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"TGIR Huma-Num SSO service"
     },
     {
         "catalogID":"a1b21798fc03da26d584f705f05d1a95fafa4ccf",
@@ -29990,16 +29990,6 @@
         "description":"Moodle platform for collèges Sciences de l'Homme et Sciences Médicales"
     },
     {
-        "catalogID":"fa72e7910296434ffc6932d0a8ed12badf167252",
-        "resourceName":"SDIS Bayeux - Digital Tapestry - preprod",
-        "resourceProvider":{
-            "name":"Université de Caen Normandie",
-            "displayname":"Université de Caen Normandie",
-            "url":"http://www.unicaen.fr"
-        },
-        "description":"Spatialized Documentary Information System for the Bayeux Tapestry - pre-production / demo version"
-    },
-    {
         "catalogID":"cce9f436e3db2f02d08ba513795e42dbc3c29aa9",
         "resourceName":"Observatoire de la Côte d'Azur - GitLab",
         "resourceProvider":{
@@ -30008,6 +29998,16 @@
             "url":"http://www.oca.eu"
         },
         "description":"GitLab platform of Observatoire de la Côte d'Azur"
+    },
+    {
+        "catalogID":"fa72e7910296434ffc6932d0a8ed12badf167252",
+        "resourceName":"SDIS Bayeux - Digital Tapestry - preprod",
+        "resourceProvider":{
+            "name":"Université de Caen Normandie",
+            "displayname":"Université de Caen Normandie",
+            "url":"http://www.unicaen.fr"
+        },
+        "description":"Spatialized Documentary Information System for the Bayeux Tapestry - pre-production / demo version"
     },
     {
         "catalogID":"14125f65460dc330eefbf167aa9d06ddf3cebd2e",
