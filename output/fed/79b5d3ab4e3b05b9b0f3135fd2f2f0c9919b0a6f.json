@@ -1,0 +1,115 @@
+{
+    "generated":"2021-12-26 06:29",
+    "en":[
+        {
+            "catalogID":"79b5d3ab4e3b05b9b0f3135fd2f2f0c9919b0a6f",
+            "entityID":"https://sp.tigerfed.net.bd/shibboleth",
+            "resourceName":"TIGERFed Test",
+            "resourceProvider":{
+                "name":"TIGERFed Test",
+                "displayname":"TIGERFed Test",
+                "url":"https://sp.tigerfed.net.bd"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"This is the test service of TIGERFed",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"BdREN NOCBdREN",
+                    "email":"mailto:noc@bdren.net.bd"
+                }
+            ],
+            "info":"https://sp.tigerfed.net.bd",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"79b5d3ab4e3b05b9b0f3135fd2f2f0c9919b0a6f",
+            "entityID":"https://sp.tigerfed.net.bd/shibboleth",
+            "resourceName":"https://sp.tigerfed.net.bd/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://sp.tigerfed.net.bd"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"BdREN NOCBdREN",
+                    "email":"mailto:noc@bdren.net.bd"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"79b5d3ab4e3b05b9b0f3135fd2f2f0c9919b0a6f",
+            "entityID":"https://sp.tigerfed.net.bd/shibboleth",
+            "resourceName":"https://sp.tigerfed.net.bd/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://sp.tigerfed.net.bd"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"BdREN NOCBdREN",
+                    "email":"mailto:noc@bdren.net.bd"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"79b5d3ab4e3b05b9b0f3135fd2f2f0c9919b0a6f",
+            "entityID":"https://sp.tigerfed.net.bd/shibboleth",
+            "resourceName":"https://sp.tigerfed.net.bd/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://sp.tigerfed.net.bd"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"BdREN NOCBdREN",
+                    "email":"mailto:noc@bdren.net.bd"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
