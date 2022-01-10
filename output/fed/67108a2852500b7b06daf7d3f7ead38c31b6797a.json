@@ -1,5 +1,5 @@
 {
-    "generated":"2022-01-10 12:41",
+    "generated":"2022-01-10 14:23",
     "en":[
         {
             "catalogID":"67108a2852500b7b06daf7d3f7ead38c31b6797a",
@@ -13,7 +13,10 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonPrincipalName",
+                    "eduPersonUniqueId",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ]
             },
             "description":"This central Single Sign-On covers almost all services of the university of Münster (Alternative entry point, same services) and is used to test deviating Shibboleth configurations in practical operation. Currently required: subject-id",
@@ -55,7 +58,10 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonPrincipalName",
+                    "eduPersonUniqueId",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ]
             },
             "description":"",
@@ -97,7 +103,10 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonPrincipalName",
+                    "eduPersonUniqueId",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ]
             },
             "description":"",
@@ -139,7 +148,10 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonPrincipalName",
+                    "eduPersonUniqueId",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ]
             },
             "description":"Dieses zentrale Single Sign-On umfasst fast alle Dienste der Universität Münster (Alternativzugang, gleiche Dienste) und dient zur Erprobung abweichender Shibboleth-Konfigurationen im Praxisbetrieb. Aktuell verlangt: subject-id",

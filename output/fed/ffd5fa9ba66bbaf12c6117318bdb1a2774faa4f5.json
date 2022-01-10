@@ -1,5 +1,5 @@
 {
-    "generated":"2022-01-10 12:41",
+    "generated":"2022-01-10 14:23",
     "en":[
         {
             "catalogID":"ffd5fa9ba66bbaf12c6117318bdb1a2774faa4f5",
@@ -14,11 +14,12 @@
                 "required":[
                     "eduPersonScopedAffiliation",
                     "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
                     "cn",
-                    "mail "
+                    "mail"
                 ],
                 "requested":[
-                    "eduPersonEntitlement "
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"Digital library subscription",
@@ -54,11 +55,12 @@
                 "required":[
                     "eduPersonScopedAffiliation",
                     "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
                     "cn",
-                    "mail "
+                    "mail"
                 ],
                 "requested":[
-                    "eduPersonEntitlement "
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"",
@@ -94,11 +96,12 @@
                 "required":[
                     "eduPersonScopedAffiliation",
                     "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
                     "cn",
-                    "mail "
+                    "mail"
                 ],
                 "requested":[
-                    "eduPersonEntitlement "
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"",
@@ -134,11 +137,12 @@
                 "required":[
                     "eduPersonScopedAffiliation",
                     "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
                     "cn",
-                    "mail "
+                    "mail"
                 ],
                 "requested":[
-                    "eduPersonEntitlement "
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"",
