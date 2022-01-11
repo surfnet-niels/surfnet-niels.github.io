@@ -1,5 +1,5 @@
 {
-    "generated":"2022-01-11 12:41",
+    "generated":"2022-01-11 14:27",
     "en":[
         {
             "catalogID":"b42d710c65e8309042866363f7a9d3cbbea49dd7",
@@ -11,7 +11,11 @@
                 "url":"https://liu.se/en"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonAssurance",
+                    "norEduPersonNIN",
+                    "personalIdentityNumber"
+                ],
                 "requested":[]
             },
             "description":"Linköping University",
@@ -37,12 +41,13 @@
                     "email":"mailto:abuse@liu.se"
                 }
             ],
-            "info":"http://www.liu.se/?l=en",
-            "privacy":"https://liu.se/en/article/policy-for-hantering-av-personuppgifter-inom-ramen-for-identitetsutgivaren",
+            "info":"https://www.liu.se/?l=en",
+            "privacy":"https://minit.liu.se/static/privacy_policy.html",
             "entityCategories":[
                 "http://www.swamid.se/category/hei-service",
                 "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/sfs-1993-1153"
+                "http://www.swamid.se/category/sfs-1993-1153",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[
                 "http://www.swamid.se/policy/assurance/al1",
@@ -55,14 +60,18 @@
         {
             "catalogID":"b42d710c65e8309042866363f7a9d3cbbea49dd7",
             "entityID":"http://fs.liu.se/adfs/services/trust",
-            "resourceName":"http://fs.liu.se/adfs/services/trust",
+            "resourceName":"Linköping University",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://liu.se/en"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonAssurance",
+                    "norEduPersonNIN",
+                    "personalIdentityNumber"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -93,7 +102,8 @@
             "entityCategories":[
                 "http://www.swamid.se/category/hei-service",
                 "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/sfs-1993-1153"
+                "http://www.swamid.se/category/sfs-1993-1153",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[
                 "http://www.swamid.se/policy/assurance/al1",
@@ -106,14 +116,18 @@
         {
             "catalogID":"b42d710c65e8309042866363f7a9d3cbbea49dd7",
             "entityID":"http://fs.liu.se/adfs/services/trust",
-            "resourceName":"http://fs.liu.se/adfs/services/trust",
+            "resourceName":"Linköping University",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://liu.se/en"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonAssurance",
+                    "norEduPersonNIN",
+                    "personalIdentityNumber"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -144,7 +158,8 @@
             "entityCategories":[
                 "http://www.swamid.se/category/hei-service",
                 "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/sfs-1993-1153"
+                "http://www.swamid.se/category/sfs-1993-1153",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[
                 "http://www.swamid.se/policy/assurance/al1",
@@ -157,14 +172,18 @@
         {
             "catalogID":"b42d710c65e8309042866363f7a9d3cbbea49dd7",
             "entityID":"http://fs.liu.se/adfs/services/trust",
-            "resourceName":"http://fs.liu.se/adfs/services/trust",
+            "resourceName":"Linköping University",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://liu.se/en"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonAssurance",
+                    "norEduPersonNIN",
+                    "personalIdentityNumber"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -195,7 +214,8 @@
             "entityCategories":[
                 "http://www.swamid.se/category/hei-service",
                 "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/sfs-1993-1153"
+                "http://www.swamid.se/category/sfs-1993-1153",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[
                 "http://www.swamid.se/policy/assurance/al1",
