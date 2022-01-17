@@ -1,0 +1,159 @@
+{
+    "generated":"2022-01-17 18:29",
+    "en":[
+        {
+            "catalogID":"d5ecdc93c748c32ec2f9b953cd409937913f3921",
+            "entityID":"https://sam.ihsmarkit.com/sso/Ukfed-W228SA1MKb",
+            "resourceName":"IHS Markit",
+            "resourceProvider":{
+                "name":"IHS Global Limited",
+                "displayname":"IHS Global Limited",
+                "url":"http://ihsmarkit.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"IHS Markit",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IHS Markit Customer Care",
+                    "email":"mailto:customer.care@ihsmarkit.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SAM Application Support",
+                    "email":"mailto:SAM_App_Support@ihsmarkit.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"d5ecdc93c748c32ec2f9b953cd409937913f3921",
+            "entityID":"https://sam.ihsmarkit.com/sso/Ukfed-W228SA1MKb",
+            "resourceName":"IHS Markit",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://ihsmarkit.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IHS Markit Customer Care",
+                    "email":"mailto:customer.care@ihsmarkit.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SAM Application Support",
+                    "email":"mailto:SAM_App_Support@ihsmarkit.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"d5ecdc93c748c32ec2f9b953cd409937913f3921",
+            "entityID":"https://sam.ihsmarkit.com/sso/Ukfed-W228SA1MKb",
+            "resourceName":"IHS Markit",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://ihsmarkit.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IHS Markit Customer Care",
+                    "email":"mailto:customer.care@ihsmarkit.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SAM Application Support",
+                    "email":"mailto:SAM_App_Support@ihsmarkit.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"d5ecdc93c748c32ec2f9b953cd409937913f3921",
+            "entityID":"https://sam.ihsmarkit.com/sso/Ukfed-W228SA1MKb",
+            "resourceName":"IHS Markit",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://ihsmarkit.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"IHS Markit Customer Care",
+                    "email":"mailto:customer.care@ihsmarkit.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SAM Application Support",
+                    "email":"mailto:SAM_App_Support@ihsmarkit.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
