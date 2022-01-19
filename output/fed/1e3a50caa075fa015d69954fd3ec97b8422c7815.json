@@ -1,5 +1,5 @@
 {
-    "generated":"2022-01-19 08:27",
+    "generated":"2022-01-19 10:23",
     "en":[
         {
             "catalogID":"1e3a50caa075fa015d69954fd3ec97b8422c7815",
@@ -11,8 +11,15 @@
                 "url":"https://aai.cstcloud.net"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "givenName",
+                    "mail"
+                ]
             },
             "description":"https://aai.cstcloud.net",
             "resourceContacts":[
@@ -37,15 +44,22 @@
         {
             "catalogID":"1e3a50caa075fa015d69954fd3ec97b8422c7815",
             "entityID":"https://aai.cstcloud.net/saml/sp",
-            "resourceName":"https://aai.cstcloud.net/saml/sp",
+            "resourceName":"CSTCloud AAI",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://aai.cstcloud.net"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "givenName",
+                    "mail"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -70,15 +84,22 @@
         {
             "catalogID":"1e3a50caa075fa015d69954fd3ec97b8422c7815",
             "entityID":"https://aai.cstcloud.net/saml/sp",
-            "resourceName":"https://aai.cstcloud.net/saml/sp",
+            "resourceName":"CSTCloud AAI",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://aai.cstcloud.net"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "givenName",
+                    "mail"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -103,15 +124,22 @@
         {
             "catalogID":"1e3a50caa075fa015d69954fd3ec97b8422c7815",
             "entityID":"https://aai.cstcloud.net/saml/sp",
-            "resourceName":"https://aai.cstcloud.net/saml/sp",
+            "resourceName":"CSTCloud AAI",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://aai.cstcloud.net"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "givenName",
+                    "mail"
+                ]
             },
             "description":"",
             "resourceContacts":[
