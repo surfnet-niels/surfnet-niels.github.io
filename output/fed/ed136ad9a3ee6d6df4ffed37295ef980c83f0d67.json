@@ -1,5 +1,5 @@
 {
-    "generated":"2022-01-21 18:27",
+    "generated":"2022-01-21 20:22",
     "en":[
         {
             "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
@@ -13,20 +13,16 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail",
-                    "eduPersonPrincipalName",
-                    "ou",
-                    "sn",
-                    "givenName"
+                    "mail"
                 ],
                 "requested":[
-                    "schacHomeOrganizationType",
-                    "schacHomeOrganization",
-                    "eduPersonAffiliation",
-                    "eduPersonPrimaryAffiliation",
+                    "eduPersonPrincipalName",
                     "supannEtablissement",
                     "displayName",
-                    "cn"
+                    "ou",
+                    "cn",
+                    "sn",
+                    "givenName"
                 ]
             },
             "description":"saml federation bridge production",
@@ -34,7 +30,7 @@
                 {
                     "type":"technical",
                     "name":[],
-                    "email":"mailto:telecom@ip2i.in2p3.fr"
+                    "email":"mailto:keycloakmaster@ip2i.in2p3.fr"
                 }
             ],
             "info":"",
@@ -58,20 +54,16 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail",
-                    "eduPersonPrincipalName",
-                    "ou",
-                    "sn",
-                    "givenName"
+                    "mail"
                 ],
                 "requested":[
-                    "schacHomeOrganizationType",
-                    "schacHomeOrganization",
-                    "eduPersonAffiliation",
-                    "eduPersonPrimaryAffiliation",
+                    "eduPersonPrincipalName",
                     "supannEtablissement",
                     "displayName",
-                    "cn"
+                    "ou",
+                    "cn",
+                    "sn",
+                    "givenName"
                 ]
             },
             "description":"saml federation bridge production",
@@ -79,7 +71,7 @@
                 {
                     "type":"technical",
                     "name":[],
-                    "email":"mailto:telecom@ip2i.in2p3.fr"
+                    "email":"mailto:keycloakmaster@ip2i.in2p3.fr"
                 }
             ],
             "info":"https://saml.ip2i.in2p3.fr",
@@ -103,20 +95,16 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail",
-                    "eduPersonPrincipalName",
-                    "ou",
-                    "sn",
-                    "givenName"
+                    "mail"
                 ],
                 "requested":[
-                    "schacHomeOrganizationType",
-                    "schacHomeOrganization",
-                    "eduPersonAffiliation",
-                    "eduPersonPrimaryAffiliation",
+                    "eduPersonPrincipalName",
                     "supannEtablissement",
                     "displayName",
-                    "cn"
+                    "ou",
+                    "cn",
+                    "sn",
+                    "givenName"
                 ]
             },
             "description":"",
@@ -124,7 +112,7 @@
                 {
                     "type":"technical",
                     "name":[],
-                    "email":"mailto:telecom@ip2i.in2p3.fr"
+                    "email":"mailto:keycloakmaster@ip2i.in2p3.fr"
                 }
             ],
             "info":"",
@@ -148,20 +136,16 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail",
-                    "eduPersonPrincipalName",
-                    "ou",
-                    "sn",
-                    "givenName"
+                    "mail"
                 ],
                 "requested":[
-                    "schacHomeOrganizationType",
-                    "schacHomeOrganization",
-                    "eduPersonAffiliation",
-                    "eduPersonPrimaryAffiliation",
+                    "eduPersonPrincipalName",
                     "supannEtablissement",
                     "displayName",
-                    "cn"
+                    "ou",
+                    "cn",
+                    "sn",
+                    "givenName"
                 ]
             },
             "description":"",
@@ -169,7 +153,7 @@
                 {
                     "type":"technical",
                     "name":[],
-                    "email":"mailto:telecom@ip2i.in2p3.fr"
+                    "email":"mailto:keycloakmaster@ip2i.in2p3.fr"
                 }
             ],
             "info":"",
