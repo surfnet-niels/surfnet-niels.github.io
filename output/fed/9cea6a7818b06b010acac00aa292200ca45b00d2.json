@@ -950,6 +950,16 @@
         "description":"Research Information Portal (TRC) - testSP"
     },
     {
+        "catalogID":"d27b8e80d92ba4f14c6505ba9cd022ee392e9956",
+        "resourceName":"File sender",
+        "resourceProvider":{
+            "name":"United Institute of Informatics Problems  National Academy of Sciences of Belarus",
+            "displayname":"UIIP NAS Belarus",
+            "url":"https://basnet.by"
+        },
+        "description":"file sender service"
+    },
+    {
         "catalogID":"0afc7f392ce07f054facdb0d4ed6f9b0dd7f14c2",
         "resourceName":"Capitaline SP",
         "resourceProvider":{
@@ -1028,16 +1038,6 @@
             "url":"http://www.ligo-india.in"
         },
         "description":"LIGO-India COmanage Registry"
-    },
-    {
-        "catalogID":"d27b8e80d92ba4f14c6505ba9cd022ee392e9956",
-        "resourceName":"File sender",
-        "resourceProvider":{
-            "name":"United Institute of Informatics Problems  National Academy of Sciences of Belarus",
-            "displayname":"UIIP NAS Belarus",
-            "url":"https://basnet.by"
-        },
-        "description":"file sender service"
     },
     {
         "catalogID":"d0256aec7abee32bd4e0db7308f43b54a79a96e4",
@@ -29550,6 +29550,16 @@
         "description":"Spatialized Documentary Information System for the Bayeux Tapestry - pre-production / demo version"
     },
     {
+        "catalogID":"d54711a2d2076bb74b6b50f08273deef68357513",
+        "resourceName":"Compilatio - Plagiarism prevention (v5)",
+        "resourceProvider":{
+            "name":"COMPILATIO",
+            "displayname":"COMPILATIO",
+            "url":"http://www.compilatio.net"
+        },
+        "description":"Compilatio detects and measures similarities to prevent plagiarism in student work. It is an online document analysis service available to higher education institutions on subscription."
+    },
+    {
         "catalogID":"6c6fedf84766d9d712c1758c29e217843a16d44e",
         "resourceName":"Université de Lille - plate-forme charte digitale (identité)",
         "resourceProvider":{
@@ -29558,6 +29568,56 @@
             "url":"http://univ-lille.fr"
         },
         "description":"This platform allows the responsables of the communication to load digital identification elements they need"
+    },
+    {
+        "catalogID":"2edc6535792abed493e4454a9726c67579834a8f",
+        "resourceName":"Université Cote d'Azur - EDM",
+        "resourceProvider":{
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
+        },
+        "description":"Electronic Document Management for Université Cote d'Azur. Access restricted to members"
+    },
+    {
+        "catalogID":"1ec47cf028507e82a10287e03305a70a3175bc38",
+        "resourceName":"Moodle Platform PLUBEL University of Burgundy (FRANCE)",
+        "resourceProvider":{
+            "name":"Université de Bourgogne",
+            "displayname":"Université de Bourgogne",
+            "url":"http://www.u-bourgogne.fr"
+        },
+        "description":"Plateforme d'enseignements en Ligne de l'université de Bourgogne (France) à destination des étudiants de l'université et des universités partenaires."
+    },
+    {
+        "catalogID":"4055d3a2f52fab4322bd35699c8182737e93a039",
+        "resourceName":"Université Cote d'Azur - EDM - modules",
+        "resourceProvider":{
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
+        },
+        "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
+    },
+    {
+        "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
+        "resourceName":"Service indico.in2p3.fr",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Service indico.in2p3.fr"
+    },
+    {
+        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
+        "resourceName":"INRAE - Nextcloud",
+        "resourceProvider":{
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
+        },
+        "description":"INRAE ​​data sharing service"
     },
     {
         "catalogID":"8a7358a5ecd78d8b8b807831f12f494adb1ffdd9",
@@ -29570,6 +29630,46 @@
         "description":"Meeting and conference management service"
     },
     {
+        "catalogID":"3816cc2796d7fa15e0bbcd9da2778b0c581aee3e",
+        "resourceName":"ENIB - Documents management and sharing",
+        "resourceProvider":{
+            "name":"Ecole Nationale d'Ingénieurs de Brest",
+            "displayname":"Ecole Nationale d'Ingénieurs de Brest",
+            "url":"http://www.enib.fr"
+        },
+        "description":"Documents management and sharing"
+    },
+    {
+        "catalogID":"a9c17f79220af7bf57ad2bcdf2caa05dcea36ef6",
+        "resourceName":"INSA rennes moodle ng",
+        "resourceProvider":{
+            "name":"Institut National des Sciences Appliquées de Rennes",
+            "displayname":"Institut National des Sciences Appliquées de Rennes",
+            "url":"http://www.insa-rennes.fr"
+        },
+        "description":"online courses"
+    },
+    {
+        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
+        "resourceName":"Caseine",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
+    },
+    {
+        "catalogID":"edf6a66f3ec5bff1b7e7b1122aad27d7834b21e5",
+        "resourceName":"myCivica",
+        "resourceProvider":{
+            "name":"Fondation Nationale des Sciences Politiques",
+            "displayname":"Fondation Nationale des Sciences Politiques",
+            "url":"http://www.sciences-po.fr"
+        },
+        "description":"Civica will bring together 8 world-reknowned institutions from across the European continent."
+    },
+    {
         "catalogID":"467bb3d469b715bfac7b66e3468772d3c96d0021",
         "resourceName":"Moodle EU-CONEXUS",
         "resourceProvider":{
@@ -29578,6 +29678,16 @@
             "url":"http://www.univ-lr.fr"
         },
         "description":"Moodle teaching platform for EU-CONEXUS"
+    },
+    {
+        "catalogID":"9153376bc50ae4d3aeedc1185bf471453376cc40",
+        "resourceName":"neuGRID for you",
+        "resourceProvider":{
+            "name":"MAAT FRANCE GNUBILA",
+            "displayname":"MAAT FRANCE GNUBILA",
+            "url":"http://www.gnubila.fr"
+        },
+        "description":"neuGRID is a web portal aimed to (i) help neuroscientists do high-throughput imaging research, and (ii) provide clinical neurologists automated diagnostic imaging markers of neurodegenerative diseases for individual patient diagnosis. neuGRID’s user-friendly environment is customised to a range of users from students to senior neuroscientists working in the fields of Alzheimer’s disease, psychiatric diseases, and white matter diseases. neuGRID aims to become a widespread resource for brain imaging analyses."
     },
     {
         "catalogID":"3669443cf53b39c836777fef8a387ac31c6e9090",
@@ -29760,16 +29870,6 @@
         "description":"Civis projet user management"
     },
     {
-        "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
-        "resourceName":"De Boeck Supérieur License Desk",
-        "resourceProvider":{
-            "name":"DE BOECK SUPERIEUR",
-            "displayname":"DE BOECK SUPERIEUR",
-            "url":"https://www.deboecksuperieur.com/"
-        },
-        "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
-    },
-    {
         "catalogID":"9b84b3c0e7400766aa488015de2b20c7315708df",
         "resourceName":"Bordeaux University - Moodle Sc. de l'Homme et Sc. médicales",
         "resourceProvider":{
@@ -29860,16 +29960,6 @@
         "description":"Forum DipSO INRAE"
     },
     {
-        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
-        "resourceName":"University Paris 1 - online course",
-        "resourceProvider":{
-            "name":"Université Paris 1 - Panthéon Sorbonne",
-            "displayname":"Université Paris 1 - Panthéon Sorbonne",
-            "url":"http://www.univ-paris1.fr"
-        },
-        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
-    },
-    {
         "catalogID":"cdb1838e90404c0fbb60a035b9050c9f6eb93d7d",
         "resourceName":"Organization and planification service Evento",
         "resourceProvider":{
@@ -29878,6 +29968,16 @@
             "url":"http://www.renater.fr"
         },
         "description":"Organization and planification service Evento"
+    },
+    {
+        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
+        "resourceName":"University Paris 1 - online course",
+        "resourceProvider":{
+            "name":"Université Paris 1 - Panthéon Sorbonne",
+            "displayname":"Université Paris 1 - Panthéon Sorbonne",
+            "url":"http://www.univ-paris1.fr"
+        },
+        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
     },
     {
         "catalogID":"14125f65460dc330eefbf167aa9d06ddf3cebd2e",
@@ -29908,6 +30008,16 @@
             "url":"https://www.univ-rennes2.fr"
         },
         "description":"Université Rennes 2 learning platform."
+    },
+    {
+        "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
+        "resourceName":"De Boeck Supérieur License Desk",
+        "resourceProvider":{
+            "name":"DE BOECK SUPERIEUR",
+            "displayname":"DE BOECK SUPERIEUR",
+            "url":"https://www.deboecksuperieur.com/"
+        },
+        "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
     },
     {
         "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
@@ -30060,106 +30170,6 @@
         "description":"Serveurs de listes de l'IP2I"
     },
     {
-        "catalogID":"2edc6535792abed493e4454a9726c67579834a8f",
-        "resourceName":"Université Cote d'Azur - EDM",
-        "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
-        },
-        "description":"Electronic Document Management for Université Cote d'Azur. Access restricted to members"
-    },
-    {
-        "catalogID":"1ec47cf028507e82a10287e03305a70a3175bc38",
-        "resourceName":"Moodle Platform PLUBEL University of Burgundy (FRANCE)",
-        "resourceProvider":{
-            "name":"Université de Bourgogne",
-            "displayname":"Université de Bourgogne",
-            "url":"http://www.u-bourgogne.fr"
-        },
-        "description":"Plateforme d'enseignements en Ligne de l'université de Bourgogne (France) à destination des étudiants de l'université et des universités partenaires."
-    },
-    {
-        "catalogID":"4055d3a2f52fab4322bd35699c8182737e93a039",
-        "resourceName":"Université Cote d'Azur - EDM - modules",
-        "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
-        },
-        "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
-    },
-    {
-        "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
-        "resourceName":"Service indico.in2p3.fr",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Service indico.in2p3.fr"
-    },
-    {
-        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
-        "resourceName":"INRAE - Nextcloud",
-        "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
-        },
-        "description":"INRAE ​​data sharing service"
-    },
-    {
-        "catalogID":"3816cc2796d7fa15e0bbcd9da2778b0c581aee3e",
-        "resourceName":"ENIB - Documents management and sharing",
-        "resourceProvider":{
-            "name":"Ecole Nationale d'Ingénieurs de Brest",
-            "displayname":"Ecole Nationale d'Ingénieurs de Brest",
-            "url":"http://www.enib.fr"
-        },
-        "description":"Documents management and sharing"
-    },
-    {
-        "catalogID":"a9c17f79220af7bf57ad2bcdf2caa05dcea36ef6",
-        "resourceName":"INSA rennes moodle ng",
-        "resourceProvider":{
-            "name":"Institut National des Sciences Appliquées de Rennes",
-            "displayname":"Institut National des Sciences Appliquées de Rennes",
-            "url":"http://www.insa-rennes.fr"
-        },
-        "description":"online courses"
-    },
-    {
-        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
-        "resourceName":"Caseine",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
-    },
-    {
-        "catalogID":"edf6a66f3ec5bff1b7e7b1122aad27d7834b21e5",
-        "resourceName":"myCivica",
-        "resourceProvider":{
-            "name":"Fondation Nationale des Sciences Politiques",
-            "displayname":"Fondation Nationale des Sciences Politiques",
-            "url":"http://www.sciences-po.fr"
-        },
-        "description":"Civica will bring together 8 world-reknowned institutions from across the European continent."
-    },
-    {
-        "catalogID":"9153376bc50ae4d3aeedc1185bf471453376cc40",
-        "resourceName":"neuGRID for you",
-        "resourceProvider":{
-            "name":"MAAT FRANCE GNUBILA",
-            "displayname":"MAAT FRANCE GNUBILA",
-            "url":"http://www.gnubila.fr"
-        },
-        "description":"neuGRID is a web portal aimed to (i) help neuroscientists do high-throughput imaging research, and (ii) provide clinical neurologists automated diagnostic imaging markers of neurodegenerative diseases for individual patient diagnosis. neuGRID’s user-friendly environment is customised to a range of users from students to senior neuroscientists working in the fields of Alzheimer’s disease, psychiatric diseases, and white matter diseases. neuGRID aims to become a widespread resource for brain imaging analyses."
-    },
-    {
         "catalogID":"20cca6a3ac8f2d51f0b716ab80d37db3e966bb28",
         "resourceName":"University of Perpignan - eduspot",
         "resourceProvider":{
@@ -30178,16 +30188,6 @@
             "url":"http://www.ensea.fr"
         },
         "description":"Eduspot wifi portal"
-    },
-    {
-        "catalogID":"493c1fb1bf0c64c217170fbd229e08e7e5eb22d6",
-        "resourceName":"POD EU-CONEXUS",
-        "resourceProvider":{
-            "name":"La Rochelle Université",
-            "displayname":"La Rochelle Université",
-            "url":"http://www.univ-lr.fr"
-        },
-        "description":"POD platform of EU-CONEXUS"
     },
     {
         "catalogID":"515a0a67d236bbf0f012a92c875fb3afb4a04a5b",
@@ -30310,14 +30310,14 @@
         "description":"French data in humanities and social sciences"
     },
     {
-        "catalogID":"d54711a2d2076bb74b6b50f08273deef68357513",
-        "resourceName":"Compilatio - Plagiarism prevention (v5)",
+        "catalogID":"493c1fb1bf0c64c217170fbd229e08e7e5eb22d6",
+        "resourceName":"POD EU-CONEXUS",
         "resourceProvider":{
-            "name":"COMPILATIO",
-            "displayname":"COMPILATIO",
-            "url":"http://www.compilatio.net"
+            "name":"La Rochelle Université",
+            "displayname":"La Rochelle Université",
+            "url":"http://www.univ-lr.fr"
         },
-        "description":"Compilatio detects and measures similarities to prevent plagiarism in student work. It is an online document analysis service available to higher education institutions on subscription."
+        "description":"POD platform of EU-CONEXUS"
     },
     {
         "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
