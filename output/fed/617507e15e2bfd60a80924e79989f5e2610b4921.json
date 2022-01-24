@@ -1,5 +1,5 @@
 {
-    "generated":"2022-01-24 18:24",
+    "generated":"2022-01-24 20:27",
     "en":[
         {
             "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
@@ -12,12 +12,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
                     "givenName",
                     "mail",
+                    "eduPersonAffiliation",
+                    "commonName",
                     "surname",
                     "eduPersonTargetedID",
-                    "commonName",
                     "organizationName"
                 ],
                 "requested":[]
@@ -48,12 +48,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
                     "givenName",
                     "mail",
+                    "eduPersonAffiliation",
+                    "commonName",
                     "surname",
                     "eduPersonTargetedID",
-                    "commonName",
                     "organizationName"
                 ],
                 "requested":[]
@@ -84,12 +84,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
                     "givenName",
                     "mail",
+                    "eduPersonAffiliation",
+                    "commonName",
                     "surname",
                     "eduPersonTargetedID",
-                    "commonName",
                     "organizationName"
                 ],
                 "requested":[]
@@ -120,12 +120,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAffiliation",
                     "givenName",
                     "mail",
+                    "eduPersonAffiliation",
+                    "commonName",
                     "surname",
                     "eduPersonTargetedID",
-                    "commonName",
                     "organizationName"
                 ],
                 "requested":[]
