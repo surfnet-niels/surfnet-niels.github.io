@@ -1,0 +1,191 @@
+{
+    "generated":"2022-01-25 22:22",
+    "en":[
+        {
+            "catalogID":"ee4428d29fb3d8306a7fcedcbc1191b9f8999496",
+            "entityID":"https://montana.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - Montana State University",
+            "resourceProvider":{
+                "name":"InfoReady Corp",
+                "displayname":"InfoReady Corp",
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"http://privacy-policy.inforeadycorp.com/InfoReady%20Privacy%20Notice.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ee4428d29fb3d8306a7fcedcbc1191b9f8999496",
+            "entityID":"https://montana.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - Montana State University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ee4428d29fb3d8306a7fcedcbc1191b9f8999496",
+            "entityID":"https://montana.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - Montana State University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ee4428d29fb3d8306a7fcedcbc1191b9f8999496",
+            "entityID":"https://montana.infoready4.com/shibboleth",
+            "resourceName":"InfoReady Review - Montana State University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
