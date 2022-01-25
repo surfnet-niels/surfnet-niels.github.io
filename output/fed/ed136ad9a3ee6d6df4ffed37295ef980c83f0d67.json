@@ -1,5 +1,5 @@
 {
-    "generated":"2022-01-25 08:29",
+    "generated":"2022-01-25 10:26",
     "en":[
         {
             "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
@@ -13,16 +13,16 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail"
+                    "mail",
+                    "supannEtablissement",
+                    "ou",
+                    "givenName"
                 ],
                 "requested":[
                     "eduPersonPrincipalName",
-                    "supannEtablissement",
                     "displayName",
-                    "ou",
                     "cn",
-                    "sn",
-                    "givenName"
+                    "sn"
                 ]
             },
             "description":"saml federation bridge production",
@@ -36,6 +36,7 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
+                "https://federation.renater.fr/category/metier",
                 "https://federation.renater.fr/scope/community"
             ],
             "SirtfiSupport":[]
@@ -54,16 +55,16 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail"
+                    "mail",
+                    "supannEtablissement",
+                    "ou",
+                    "givenName"
                 ],
                 "requested":[
                     "eduPersonPrincipalName",
-                    "supannEtablissement",
                     "displayName",
-                    "ou",
                     "cn",
-                    "sn",
-                    "givenName"
+                    "sn"
                 ]
             },
             "description":"saml federation bridge production",
@@ -77,6 +78,7 @@
             "info":"https://saml.ip2i.in2p3.fr",
             "privacy":"",
             "entityCategories":[
+                "https://federation.renater.fr/category/metier",
                 "https://federation.renater.fr/scope/community"
             ],
             "SirtfiSupport":[]
@@ -95,16 +97,16 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail"
+                    "mail",
+                    "supannEtablissement",
+                    "ou",
+                    "givenName"
                 ],
                 "requested":[
                     "eduPersonPrincipalName",
-                    "supannEtablissement",
                     "displayName",
-                    "ou",
                     "cn",
-                    "sn",
-                    "givenName"
+                    "sn"
                 ]
             },
             "description":"",
@@ -118,6 +120,7 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
+                "https://federation.renater.fr/category/metier",
                 "https://federation.renater.fr/scope/community"
             ],
             "SirtfiSupport":[]
@@ -136,16 +139,16 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail"
+                    "mail",
+                    "supannEtablissement",
+                    "ou",
+                    "givenName"
                 ],
                 "requested":[
                     "eduPersonPrincipalName",
-                    "supannEtablissement",
                     "displayName",
-                    "ou",
                     "cn",
-                    "sn",
-                    "givenName"
+                    "sn"
                 ]
             },
             "description":"",
@@ -159,6 +162,7 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
+                "https://federation.renater.fr/category/metier",
                 "https://federation.renater.fr/scope/community"
             ],
             "SirtfiSupport":[]
