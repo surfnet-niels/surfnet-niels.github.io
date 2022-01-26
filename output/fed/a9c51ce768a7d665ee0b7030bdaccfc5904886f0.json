@@ -1,5 +1,5 @@
 {
-    "generated":"2022-01-26 12:35",
+    "generated":"2022-01-26 14:21",
     "en":[
         {
             "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
@@ -15,16 +15,15 @@
                     "uid",
                     "mail",
                     "eduPersonTargetedID",
+                    "eduPersonUniqueId",
                     "eduPersonPrincipalName",
+                    "supannEtablissement",
                     "displayName",
                     "telephoneNumber",
                     "sn",
                     "givenName"
                 ],
-                "requested":[
-                    "eduPersonUniqueId",
-                    "supannEtablissement"
-                ]
+                "requested":[]
             },
             "description":"Request portal and access management to the CCIPL computing cluster. https://ccipl.univ-nantes.fr/",
             "resourceContacts":[
@@ -67,16 +66,15 @@
                     "uid",
                     "mail",
                     "eduPersonTargetedID",
+                    "eduPersonUniqueId",
                     "eduPersonPrincipalName",
+                    "supannEtablissement",
                     "displayName",
                     "telephoneNumber",
                     "sn",
                     "givenName"
                 ],
-                "requested":[
-                    "eduPersonUniqueId",
-                    "supannEtablissement"
-                ]
+                "requested":[]
             },
             "description":"Portail de demande et gestion d'accès au cluster de calcul du CCIPL. https://ccipl.univ-nantes.fr/",
             "resourceContacts":[
@@ -119,16 +117,15 @@
                     "uid",
                     "mail",
                     "eduPersonTargetedID",
+                    "eduPersonUniqueId",
                     "eduPersonPrincipalName",
+                    "supannEtablissement",
                     "displayName",
                     "telephoneNumber",
                     "sn",
                     "givenName"
                 ],
-                "requested":[
-                    "eduPersonUniqueId",
-                    "supannEtablissement"
-                ]
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -171,16 +168,15 @@
                     "uid",
                     "mail",
                     "eduPersonTargetedID",
+                    "eduPersonUniqueId",
                     "eduPersonPrincipalName",
+                    "supannEtablissement",
                     "displayName",
                     "telephoneNumber",
                     "sn",
                     "givenName"
                 ],
-                "requested":[
-                    "eduPersonUniqueId",
-                    "supannEtablissement"
-                ]
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
