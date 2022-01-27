@@ -1,0 +1,179 @@
+{
+    "generated":"2022-01-27 22:25",
+    "en":[
+        {
+            "catalogID":"f720903764ad849850b97a6a5d435d56e9b0e767",
+            "entityID":"https://www.palmetto.clemson.edu/shibboleth",
+            "resourceName":"www.palmetto.clemson.edu",
+            "resourceProvider":{
+                "name":"Clemson University",
+                "displayname":"Clemson University",
+                "url":"http://www.clemson.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"Advanced Computing at Clemson University",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kathy Wright",
+                    "email":"mailto:kewrig@clemson.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Scott Groel",
+                    "email":"mailto:sgroel@clemson.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Hoyt",
+                    "email":"mailto:hoytj@clemson.edu"
+                }
+            ],
+            "info":"https://ccit.clemson.edu/services/research-and-hpc/",
+            "privacy":"https://citi.sites.clemson.edu/index.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f720903764ad849850b97a6a5d435d56e9b0e767",
+            "entityID":"https://www.palmetto.clemson.edu/shibboleth",
+            "resourceName":"www.palmetto.clemson.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.clemson.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kathy Wright",
+                    "email":"mailto:kewrig@clemson.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Scott Groel",
+                    "email":"mailto:sgroel@clemson.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Hoyt",
+                    "email":"mailto:hoytj@clemson.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f720903764ad849850b97a6a5d435d56e9b0e767",
+            "entityID":"https://www.palmetto.clemson.edu/shibboleth",
+            "resourceName":"www.palmetto.clemson.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.clemson.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kathy Wright",
+                    "email":"mailto:kewrig@clemson.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Scott Groel",
+                    "email":"mailto:sgroel@clemson.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Hoyt",
+                    "email":"mailto:hoytj@clemson.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f720903764ad849850b97a6a5d435d56e9b0e767",
+            "entityID":"https://www.palmetto.clemson.edu/shibboleth",
+            "resourceName":"www.palmetto.clemson.edu",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.clemson.edu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Kathy Wright",
+                    "email":"mailto:kewrig@clemson.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Scott Groel",
+                    "email":"mailto:sgroel@clemson.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"John Hoyt",
+                    "email":"mailto:hoytj@clemson.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
