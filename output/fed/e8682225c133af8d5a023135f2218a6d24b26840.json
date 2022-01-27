@@ -1,5 +1,5 @@
 {
-    "generated":"2022-01-27 04:30",
+    "generated":"2022-01-27 06:28",
     "en":[
         {
             "catalogID":"e8682225c133af8d5a023135f2218a6d24b26840",
@@ -19,7 +19,7 @@
                     "eduPersonPrincipalName"
                 ]
             },
-            "description":"https://www.osapublishing.org/",
+            "description":"https://auth.osa.org/oa/entity",
             "resourceContacts":[
                 {
                     "type":"administrative",
@@ -35,14 +35,16 @@
             "info":"",
             "privacy":"",
             "entityCategories":[],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
         {
             "catalogID":"e8682225c133af8d5a023135f2218a6d24b26840",
             "entityID":"https://auth.osa.org/oa/entity",
-            "resourceName":"OSA",
+            "resourceName":"Optica",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -73,14 +75,16 @@
             "info":"",
             "privacy":"",
             "entityCategories":[],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
         {
             "catalogID":"e8682225c133af8d5a023135f2218a6d24b26840",
             "entityID":"https://auth.osa.org/oa/entity",
-            "resourceName":"OSA",
+            "resourceName":"Optica",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -111,14 +115,16 @@
             "info":"",
             "privacy":"",
             "entityCategories":[],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
         {
             "catalogID":"e8682225c133af8d5a023135f2218a6d24b26840",
             "entityID":"https://auth.osa.org/oa/entity",
-            "resourceName":"OSA",
+            "resourceName":"Optica",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -149,7 +155,9 @@
             "info":"",
             "privacy":"",
             "entityCategories":[],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
