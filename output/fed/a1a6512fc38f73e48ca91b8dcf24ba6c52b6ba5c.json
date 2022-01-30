@@ -1,5 +1,5 @@
 {
-    "generated":"2022-01-30 18:25",
+    "generated":"2022-01-30 20:22",
     "en":[
         {
             "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
@@ -13,20 +13,20 @@
             "resourceAttributes":{
                 "required":[
                     "surname",
-                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "displayName",
                     "commonName",
                     "mail",
-                    "displayName",
                     "eduPersonAffiliation",
-                    "eduPersonScopedAffiliation"
+                    "givenName"
                 ],
                 "requested":[
-                    "eduPersonAssurance",
-                    "homeOrganization",
-                    "schacHomeOrganization",
-                    "homeOrganizationType",
                     "organizationalUnit",
+                    "homeOrganization",
+                    "homeOrganizationType",
+                    "schacHomeOrganization",
                     "organizationName",
+                    "eduPersonAssurance",
                     "departmentNumber"
                 ]
             },
@@ -62,20 +62,20 @@
             "resourceAttributes":{
                 "required":[
                     "surname",
-                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "displayName",
                     "commonName",
                     "mail",
-                    "displayName",
                     "eduPersonAffiliation",
-                    "eduPersonScopedAffiliation"
+                    "givenName"
                 ],
                 "requested":[
-                    "eduPersonAssurance",
-                    "homeOrganization",
-                    "schacHomeOrganization",
-                    "homeOrganizationType",
                     "organizationalUnit",
+                    "homeOrganization",
+                    "homeOrganizationType",
+                    "schacHomeOrganization",
                     "organizationName",
+                    "eduPersonAssurance",
                     "departmentNumber"
                 ]
             },
@@ -111,20 +111,20 @@
             "resourceAttributes":{
                 "required":[
                     "surname",
-                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "displayName",
                     "commonName",
                     "mail",
-                    "displayName",
                     "eduPersonAffiliation",
-                    "eduPersonScopedAffiliation"
+                    "givenName"
                 ],
                 "requested":[
-                    "eduPersonAssurance",
-                    "homeOrganization",
-                    "schacHomeOrganization",
-                    "homeOrganizationType",
                     "organizationalUnit",
+                    "homeOrganization",
+                    "homeOrganizationType",
+                    "schacHomeOrganization",
                     "organizationName",
+                    "eduPersonAssurance",
                     "departmentNumber"
                 ]
             },
@@ -160,20 +160,20 @@
             "resourceAttributes":{
                 "required":[
                     "surname",
-                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "displayName",
                     "commonName",
                     "mail",
-                    "displayName",
                     "eduPersonAffiliation",
-                    "eduPersonScopedAffiliation"
+                    "givenName"
                 ],
                 "requested":[
-                    "eduPersonAssurance",
-                    "homeOrganization",
-                    "schacHomeOrganization",
-                    "homeOrganizationType",
                     "organizationalUnit",
+                    "homeOrganization",
+                    "homeOrganizationType",
+                    "schacHomeOrganization",
                     "organizationName",
+                    "eduPersonAssurance",
                     "departmentNumber"
                 ]
             },
