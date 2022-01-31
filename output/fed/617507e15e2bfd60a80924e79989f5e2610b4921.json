@@ -1,5 +1,5 @@
 {
-    "generated":"2022-01-31 18:30",
+    "generated":"2022-01-31 20:23",
     "en":[
         {
             "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
@@ -12,11 +12,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "organizationName",
-                    "eduPersonAffiliation",
+                    "givenName",
                     "eduPersonTargetedID",
                     "mail",
-                    "givenName",
+                    "eduPersonAffiliation",
+                    "organizationName",
                     "surname",
                     "commonName"
                 ],
@@ -48,11 +48,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "organizationName",
-                    "eduPersonAffiliation",
+                    "givenName",
                     "eduPersonTargetedID",
                     "mail",
-                    "givenName",
+                    "eduPersonAffiliation",
+                    "organizationName",
                     "surname",
                     "commonName"
                 ],
@@ -84,11 +84,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "organizationName",
-                    "eduPersonAffiliation",
+                    "givenName",
                     "eduPersonTargetedID",
                     "mail",
-                    "givenName",
+                    "eduPersonAffiliation",
+                    "organizationName",
                     "surname",
                     "commonName"
                 ],
@@ -120,11 +120,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "organizationName",
-                    "eduPersonAffiliation",
+                    "givenName",
                     "eduPersonTargetedID",
                     "mail",
-                    "givenName",
+                    "eduPersonAffiliation",
+                    "organizationName",
                     "surname",
                     "commonName"
                 ],
