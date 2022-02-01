@@ -1,0 +1,199 @@
+{
+    "generated":"2022-02-01 01:17",
+    "en":[
+        {
+            "catalogID":"2f70f4d0cd5dd6a8c74d6a98f218b1a8851af407",
+            "entityID":"https://charlotte.dserec.com/sp",
+            "resourceName":"DSE RecCenter (Charlotte)",
+            "resourceProvider":{
+                "name":"DSE Rec, LLC",
+                "displayname":"DSE Rec, LLC",
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"DSE- Rec Management Software",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"https://www.dserec.com",
+            "privacy":"https://www.dserec.com/privacy_policy.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2f70f4d0cd5dd6a8c74d6a98f218b1a8851af407",
+            "entityID":"https://charlotte.dserec.com/sp",
+            "resourceName":"DSE RecCenter (Charlotte)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2f70f4d0cd5dd6a8c74d6a98f218b1a8851af407",
+            "entityID":"https://charlotte.dserec.com/sp",
+            "resourceName":"DSE RecCenter (Charlotte)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2f70f4d0cd5dd6a8c74d6a98f218b1a8851af407",
+            "entityID":"https://charlotte.dserec.com/sp",
+            "resourceName":"DSE RecCenter (Charlotte)",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.dserec.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Michael Meirovich",
+                    "email":"mailto:michael@dserec.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

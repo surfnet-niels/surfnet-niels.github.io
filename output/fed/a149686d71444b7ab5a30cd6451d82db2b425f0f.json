@@ -1,0 +1,219 @@
+{
+    "generated":"2022-02-01 01:17",
+    "en":[
+        {
+            "catalogID":"a149686d71444b7ab5a30cd6451d82db2b425f0f",
+            "entityID":"https://dev.ithriv.org/shibboleth",
+            "resourceName":"Dev iTHRIV Research Portal",
+            "resourceProvider":{
+                "name":"University of Virginia",
+                "displayname":"University of Virginia",
+                "url":"http://www.virginia.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"A Development research portal for iTHRIV consortium members.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Byoung-Do Kim",
+                    "email":"mailto:bk7k@hscmail.mcc.virginia.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Neal Magee",
+                    "email":"mailto:nem2p@hscmail.mcc.virginia.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UVA IT Security",
+                    "email":"mailto:it-security@virginia.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Byoung-Do Kim",
+                    "email":"mailto:bk7k@hscmail.mcc.virginia.edu"
+                }
+            ],
+            "info":"https://uat.ithriv.org/",
+            "privacy":"https://www.virginia.edu/siteinfo/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a149686d71444b7ab5a30cd6451d82db2b425f0f",
+            "entityID":"https://dev.ithriv.org/shibboleth",
+            "resourceName":"Dev iTHRIV Research Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.virginia.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Byoung-Do Kim",
+                    "email":"mailto:bk7k@hscmail.mcc.virginia.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Neal Magee",
+                    "email":"mailto:nem2p@hscmail.mcc.virginia.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UVA IT Security",
+                    "email":"mailto:it-security@virginia.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Byoung-Do Kim",
+                    "email":"mailto:bk7k@hscmail.mcc.virginia.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a149686d71444b7ab5a30cd6451d82db2b425f0f",
+            "entityID":"https://dev.ithriv.org/shibboleth",
+            "resourceName":"Dev iTHRIV Research Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.virginia.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Byoung-Do Kim",
+                    "email":"mailto:bk7k@hscmail.mcc.virginia.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Neal Magee",
+                    "email":"mailto:nem2p@hscmail.mcc.virginia.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UVA IT Security",
+                    "email":"mailto:it-security@virginia.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Byoung-Do Kim",
+                    "email":"mailto:bk7k@hscmail.mcc.virginia.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a149686d71444b7ab5a30cd6451d82db2b425f0f",
+            "entityID":"https://dev.ithriv.org/shibboleth",
+            "resourceName":"Dev iTHRIV Research Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.virginia.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Byoung-Do Kim",
+                    "email":"mailto:bk7k@hscmail.mcc.virginia.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Neal Magee",
+                    "email":"mailto:nem2p@hscmail.mcc.virginia.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"UVA IT Security",
+                    "email":"mailto:it-security@virginia.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Byoung-Do Kim",
+                    "email":"mailto:bk7k@hscmail.mcc.virginia.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
