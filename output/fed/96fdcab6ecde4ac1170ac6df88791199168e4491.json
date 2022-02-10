@@ -1,5 +1,5 @@
 {
-    "generated":"2022-02-10 06:26",
+    "generated":"2022-02-10 08:27",
     "en":[
         {
             "catalogID":"96fdcab6ecde4ac1170ac6df88791199168e4491",
@@ -11,8 +11,20 @@
                 "url":"https://trainrdm.crescdi.pub.ro"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "cn",
+                    "givenName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
+                ]
             },
             "description":"This Service Provider (SP) serves the TrainRDM project of UPB",
             "resourceContacts":[
@@ -25,7 +37,7 @@
             "info":"https://trainrdm.crescdi.pub.ro/",
             "privacy":"https://trainrdm.crescdi.pub.ro/",
             "entityCategories":[
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+                "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
         }
@@ -34,15 +46,27 @@
         {
             "catalogID":"96fdcab6ecde4ac1170ac6df88791199168e4491",
             "entityID":"https://trainrdm.crescdi.pub.ro/auth/saml2/sp/module.php/saml/sp/discoresp.php",
-            "resourceName":"https://trainrdm.crescdi.pub.ro/auth/saml2/sp/module.php/saml/sp/discoresp.php",
+            "resourceName":"TrainRDM SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://trainrdm.crescdi.pub.ro"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "cn",
+                    "givenName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -55,7 +79,7 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+                "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
         }
@@ -64,15 +88,27 @@
         {
             "catalogID":"96fdcab6ecde4ac1170ac6df88791199168e4491",
             "entityID":"https://trainrdm.crescdi.pub.ro/auth/saml2/sp/module.php/saml/sp/discoresp.php",
-            "resourceName":"https://trainrdm.crescdi.pub.ro/auth/saml2/sp/module.php/saml/sp/discoresp.php",
+            "resourceName":"TrainRDM SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://trainrdm.crescdi.pub.ro"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "cn",
+                    "givenName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -85,7 +121,7 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+                "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
         }
@@ -94,15 +130,27 @@
         {
             "catalogID":"96fdcab6ecde4ac1170ac6df88791199168e4491",
             "entityID":"https://trainrdm.crescdi.pub.ro/auth/saml2/sp/module.php/saml/sp/discoresp.php",
-            "resourceName":"https://trainrdm.crescdi.pub.ro/auth/saml2/sp/module.php/saml/sp/discoresp.php",
+            "resourceName":"TrainRDM SP",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://trainrdm.crescdi.pub.ro"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "cn",
+                    "givenName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -115,7 +163,7 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+                "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
         }
