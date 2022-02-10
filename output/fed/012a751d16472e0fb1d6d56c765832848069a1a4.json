@@ -1,110 +1,105 @@
 {
-    "generated":"2022-02-09 12:36",
+    "generated":"2022-02-10 10:25",
     "en":[
         {
             "catalogID":"012a751d16472e0fb1d6d56c765832848069a1a4",
             "entityID":"https://metacampus.unite-university.eu/auth/saml2/sp/metadata.php",
-            "resourceName":"Metacampus for Unite!",
+            "resourceName":"metacampus unite test UGA",
             "resourceProvider":{
-                "name":"Metacampus for Unite!",
-                "displayname":"Metacampus for Unite!",
-                "url":"https://metacampus.unite-university.eu"
+                "name":"Université Grenoble Alpes",
+                "displayname":"Université Grenoble Alpes",
+                "url":"http://www.univ-grenoble-alpes.fr"
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
+                    "mail",
                     "eduPersonAffiliation",
+                    "eduPersonTargetedID",
                     "eduPersonPrincipalName",
-                    "commonName",
-                    "email"
+                    "displayName",
+                    "cn",
+                    "sn",
+                    "givenName"
                 ],
                 "requested":[]
             },
-            "description":"The Unite! metacampus is a digital platform that connects the seven universities of the alliance, to enable mobile access exclusively to the range of programmes and diversity of activities that are offered through Unite!.",
+            "description":"metacampus unite",
             "resourceContacts":[
                 {
                     "type":"technical",
-                    "name":"MetacampusAdmin",
-                    "email":"mailto:unite.metacampus@upc.edu"
-                },
-                {
-                    "type":"security",
-                    "name":"JordiAubia i de Higes",
-                    "email":"mailto:jordi.aubia@ithinkupc.com"
+                    "name":[],
+                    "email":"mailto:dgdsi-shibboleth@univ-grenoble-alpes.fr"
                 }
             ],
-            "info":"https://metacampus.unite-university.eu",
-            "privacy":"https://metacampus.unite-university.eu/admin/tool/policy/view.php?policyid=4&versionid=5",
+            "info":"",
+            "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+                "https://federation.renater.fr/category/elearning",
+                "https://federation.renater.fr/scope/community"
             ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi"
-            ]
+            "SirtfiSupport":[]
         }
     ],
     "fr":[
         {
             "catalogID":"012a751d16472e0fb1d6d56c765832848069a1a4",
             "entityID":"https://metacampus.unite-university.eu/auth/saml2/sp/metadata.php",
-            "resourceName":"Metacampus for Unite!",
+            "resourceName":"metacampus unite test UGA",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://metacampus.unite-university.eu"
+                "url":"http://www.univ-grenoble-alpes.fr"
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
+                    "mail",
                     "eduPersonAffiliation",
+                    "eduPersonTargetedID",
                     "eduPersonPrincipalName",
-                    "commonName",
-                    "email"
+                    "displayName",
+                    "cn",
+                    "sn",
+                    "givenName"
                 ],
                 "requested":[]
             },
-            "description":"",
+            "description":"metacampus unite",
             "resourceContacts":[
                 {
                     "type":"technical",
-                    "name":"MetacampusAdmin",
-                    "email":"mailto:unite.metacampus@upc.edu"
-                },
-                {
-                    "type":"security",
-                    "name":"JordiAubia i de Higes",
-                    "email":"mailto:jordi.aubia@ithinkupc.com"
+                    "name":[],
+                    "email":"mailto:dgdsi-shibboleth@univ-grenoble-alpes.fr"
                 }
             ],
-            "info":"",
+            "info":"https://metacampus.unite-university.eu",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+                "https://federation.renater.fr/category/elearning",
+                "https://federation.renater.fr/scope/community"
             ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi"
-            ]
+            "SirtfiSupport":[]
         }
     ],
     "it":[
         {
             "catalogID":"012a751d16472e0fb1d6d56c765832848069a1a4",
             "entityID":"https://metacampus.unite-university.eu/auth/saml2/sp/metadata.php",
-            "resourceName":"Metacampus for Unite!",
+            "resourceName":"metacampus unite test UGA",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://metacampus.unite-university.eu"
+                "url":"http://www.univ-grenoble-alpes.fr"
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
+                    "mail",
                     "eduPersonAffiliation",
+                    "eduPersonTargetedID",
                     "eduPersonPrincipalName",
-                    "commonName",
-                    "email"
+                    "displayName",
+                    "cn",
+                    "sn",
+                    "givenName"
                 ],
                 "requested":[]
             },
@@ -112,43 +107,39 @@
             "resourceContacts":[
                 {
                     "type":"technical",
-                    "name":"MetacampusAdmin",
-                    "email":"mailto:unite.metacampus@upc.edu"
-                },
-                {
-                    "type":"security",
-                    "name":"JordiAubia i de Higes",
-                    "email":"mailto:jordi.aubia@ithinkupc.com"
+                    "name":[],
+                    "email":"mailto:dgdsi-shibboleth@univ-grenoble-alpes.fr"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+                "https://federation.renater.fr/category/elearning",
+                "https://federation.renater.fr/scope/community"
             ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi"
-            ]
+            "SirtfiSupport":[]
         }
     ],
     "de":[
         {
             "catalogID":"012a751d16472e0fb1d6d56c765832848069a1a4",
             "entityID":"https://metacampus.unite-university.eu/auth/saml2/sp/metadata.php",
-            "resourceName":"Metacampus for Unite!",
+            "resourceName":"metacampus unite test UGA",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://metacampus.unite-university.eu"
+                "url":"http://www.univ-grenoble-alpes.fr"
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
+                    "mail",
                     "eduPersonAffiliation",
+                    "eduPersonTargetedID",
                     "eduPersonPrincipalName",
-                    "commonName",
-                    "email"
+                    "displayName",
+                    "cn",
+                    "sn",
+                    "givenName"
                 ],
                 "requested":[]
             },
@@ -156,24 +147,17 @@
             "resourceContacts":[
                 {
                     "type":"technical",
-                    "name":"MetacampusAdmin",
-                    "email":"mailto:unite.metacampus@upc.edu"
-                },
-                {
-                    "type":"security",
-                    "name":"JordiAubia i de Higes",
-                    "email":"mailto:jordi.aubia@ithinkupc.com"
+                    "name":[],
+                    "email":"mailto:dgdsi-shibboleth@univ-grenoble-alpes.fr"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+                "https://federation.renater.fr/category/elearning",
+                "https://federation.renater.fr/scope/community"
             ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi"
-            ]
+            "SirtfiSupport":[]
         }
     ]
 }
