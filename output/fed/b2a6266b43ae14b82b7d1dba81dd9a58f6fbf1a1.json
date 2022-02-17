@@ -1,0 +1,191 @@
+{
+    "generated":"2022-02-17 22:22",
+    "en":[
+        {
+            "catalogID":"b2a6266b43ae14b82b7d1dba81dd9a58f6fbf1a1",
+            "entityID":"https://hestia.cac.cornell.edu/pegr/shibboleth",
+            "resourceName":"Platform for Epigenomic and Genomic Research (PEGR)",
+            "resourceProvider":{
+                "name":"Cornell University",
+                "displayname":"Cornell University",
+                "url":"http://www.cornell.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Platform for Epigenomic and Genomic Research (PEGR) is a web service platform that logs metadata for samples and sequencing experiments, manages the data processing workflows, and provides reporting and visualization. PEGR links together people, samples, protocols, sequencer and bioinformatics computation",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Gretta Kellogg",
+                    "email":"mailto:gdk44@cornell.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"William Lai",
+                    "email":"mailto:wkl29@cornell.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"University Security Office",
+                    "email":"mailto:security-services@cornell.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"William Lai",
+                    "email":"mailto:wkl29@cornell.edu"
+                }
+            ],
+            "info":"https://www.biorxiv.org/content/10.1101/2021.07.26.453821v1",
+            "privacy":"https://www.dfa.cornell.edu/policy/policies/access-information-technology-data-and-monitoring-network-transmissions",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"b2a6266b43ae14b82b7d1dba81dd9a58f6fbf1a1",
+            "entityID":"https://hestia.cac.cornell.edu/pegr/shibboleth",
+            "resourceName":"https://hestia.cac.cornell.edu/pegr/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cornell.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Gretta Kellogg",
+                    "email":"mailto:gdk44@cornell.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"William Lai",
+                    "email":"mailto:wkl29@cornell.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"University Security Office",
+                    "email":"mailto:security-services@cornell.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"William Lai",
+                    "email":"mailto:wkl29@cornell.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"b2a6266b43ae14b82b7d1dba81dd9a58f6fbf1a1",
+            "entityID":"https://hestia.cac.cornell.edu/pegr/shibboleth",
+            "resourceName":"https://hestia.cac.cornell.edu/pegr/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cornell.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Gretta Kellogg",
+                    "email":"mailto:gdk44@cornell.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"William Lai",
+                    "email":"mailto:wkl29@cornell.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"University Security Office",
+                    "email":"mailto:security-services@cornell.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"William Lai",
+                    "email":"mailto:wkl29@cornell.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"b2a6266b43ae14b82b7d1dba81dd9a58f6fbf1a1",
+            "entityID":"https://hestia.cac.cornell.edu/pegr/shibboleth",
+            "resourceName":"https://hestia.cac.cornell.edu/pegr/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.cornell.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Gretta Kellogg",
+                    "email":"mailto:gdk44@cornell.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"William Lai",
+                    "email":"mailto:wkl29@cornell.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"University Security Office",
+                    "email":"mailto:security-services@cornell.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"William Lai",
+                    "email":"mailto:wkl29@cornell.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
