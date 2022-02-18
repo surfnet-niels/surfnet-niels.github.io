@@ -1,0 +1,179 @@
+{
+    "generated":"2022-02-18 10:25",
+    "en":[
+        {
+            "catalogID":"1ceca92d2d19587a05f826567b6faaafb425cb13",
+            "entityID":"https://moodle.utad.pt/shibboleth",
+            "resourceName":"Moodle UTAD",
+            "resourceProvider":{
+                "name":"University of Trás-os-Montes and Alto Douro",
+                "displayname":"UTAD",
+                "url":"https://www.utad.pt"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "surname",
+                    "givenName",
+                    "email",
+                    "transientId"
+                ],
+                "requested":[]
+            },
+            "description":"UTAD Online Learning Platform",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Serviços de Informática e de Comunicações",
+                    "email":"mailto:suporte@utad.pt"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serviços de Informática e de Comunicações",
+                    "email":"mailto:suporte@utad.pt"
+                },
+                {
+                    "type":"support",
+                    "name":"Gabinete de E-learning",
+                    "email":"mailto:elearning@utad.pt"
+                }
+            ],
+            "info":"https://e-learning.utad.pt/plataforma-moodle/",
+            "privacy":"https://moodle.utad.pt/privacy.html",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1ceca92d2d19587a05f826567b6faaafb425cb13",
+            "entityID":"https://moodle.utad.pt/shibboleth",
+            "resourceName":"Moodle UTAD",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.utad.pt"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "surname",
+                    "givenName",
+                    "email",
+                    "transientId"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Serviços de Informática e de Comunicações",
+                    "email":"mailto:suporte@utad.pt"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serviços de Informática e de Comunicações",
+                    "email":"mailto:suporte@utad.pt"
+                },
+                {
+                    "type":"support",
+                    "name":"Gabinete de E-learning",
+                    "email":"mailto:elearning@utad.pt"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1ceca92d2d19587a05f826567b6faaafb425cb13",
+            "entityID":"https://moodle.utad.pt/shibboleth",
+            "resourceName":"Moodle UTAD",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.utad.pt"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "surname",
+                    "givenName",
+                    "email",
+                    "transientId"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Serviços de Informática e de Comunicações",
+                    "email":"mailto:suporte@utad.pt"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serviços de Informática e de Comunicações",
+                    "email":"mailto:suporte@utad.pt"
+                },
+                {
+                    "type":"support",
+                    "name":"Gabinete de E-learning",
+                    "email":"mailto:elearning@utad.pt"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1ceca92d2d19587a05f826567b6faaafb425cb13",
+            "entityID":"https://moodle.utad.pt/shibboleth",
+            "resourceName":"Moodle UTAD",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.utad.pt"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "surname",
+                    "givenName",
+                    "email",
+                    "transientId"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Serviços de Informática e de Comunicações",
+                    "email":"mailto:suporte@utad.pt"
+                },
+                {
+                    "type":"technical",
+                    "name":"Serviços de Informática e de Comunicações",
+                    "email":"mailto:suporte@utad.pt"
+                },
+                {
+                    "type":"support",
+                    "name":"Gabinete de E-learning",
+                    "email":"mailto:elearning@utad.pt"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
