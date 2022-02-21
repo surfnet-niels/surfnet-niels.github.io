@@ -1,0 +1,215 @@
+{
+    "generated":"2022-02-21 22:22",
+    "en":[
+        {
+            "catalogID":"c69a92e66ccb708d48459c67a9f341aa72930744",
+            "entityID":"https://sso.grammarly.com/saml/metadata",
+            "resourceName":"Grammarly",
+            "resourceProvider":{
+                "name":"Grammarly, Inc.",
+                "displayname":"Grammarly, Inc.",
+                "url":"https://www.grammarly.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Greg Karpets",
+                    "email":"mailto:greg.carpets@grammarly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Yury Bubnov",
+                    "email":"mailto:Identity-Authentication-SF@grammarly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Andrii Kudiurov",
+                    "email":"mailto:security@grammalry.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Grammarly Helpdesk",
+                    "email":"mailto:support@grammarly.com"
+                }
+            ],
+            "info":"https://www.grammarly.com/",
+            "privacy":"https://www.grammarly.com/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c69a92e66ccb708d48459c67a9f341aa72930744",
+            "entityID":"https://sso.grammarly.com/saml/metadata",
+            "resourceName":"Grammarly",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.grammarly.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Greg Karpets",
+                    "email":"mailto:greg.carpets@grammarly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Yury Bubnov",
+                    "email":"mailto:Identity-Authentication-SF@grammarly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Andrii Kudiurov",
+                    "email":"mailto:security@grammalry.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Grammarly Helpdesk",
+                    "email":"mailto:support@grammarly.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c69a92e66ccb708d48459c67a9f341aa72930744",
+            "entityID":"https://sso.grammarly.com/saml/metadata",
+            "resourceName":"Grammarly",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.grammarly.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Greg Karpets",
+                    "email":"mailto:greg.carpets@grammarly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Yury Bubnov",
+                    "email":"mailto:Identity-Authentication-SF@grammarly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Andrii Kudiurov",
+                    "email":"mailto:security@grammalry.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Grammarly Helpdesk",
+                    "email":"mailto:support@grammarly.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c69a92e66ccb708d48459c67a9f341aa72930744",
+            "entityID":"https://sso.grammarly.com/saml/metadata",
+            "resourceName":"Grammarly",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.grammarly.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[
+                    "displayName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Greg Karpets",
+                    "email":"mailto:greg.carpets@grammarly.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Yury Bubnov",
+                    "email":"mailto:Identity-Authentication-SF@grammarly.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Andrii Kudiurov",
+                    "email":"mailto:security@grammalry.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Grammarly Helpdesk",
+                    "email":"mailto:support@grammarly.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
