@@ -70,6 +70,396 @@
         "description":"Diversos grupos de expertos (comunidades) dedicados al desarrollo de aplicaciones y de recursos educativos, que son concebidos como herramientas de apoyo a los procesos de enseñanza-aprendizaje en la educación superior, que fomentan la innovación educativa, el desarrollo de formadores, la actualización docente, la vinculación de la universidad con la sociedad y que, al mismo tiempo, permiten a personas ajenas al sistema educativo formal adquirir las competencias necesarias tanto para su desempeño profesional como para el aprendizaje a lo largo de toda la vida."
     },
     {
+        "catalogID":"46291ba92c07adfa9d55f96977a33dece087fe4a",
+        "resourceName":"CSTCloud Online Service",
+        "resourceProvider":{
+            "name":"CSTCloud Online Service",
+            "displayname":"CSTCloud Online Service",
+            "url":"https://passport.escience.cn/Shibboleth.sso/Login"
+        },
+        "description":"cstnet.cn"
+    },
+    {
+        "catalogID":"97f01f5b1f482a06d2058bc6da2b4ef6c4a5f779",
+        "resourceName":"fenqubiao",
+        "resourceProvider":{
+            "name":"fenqubiao",
+            "displayname":"fenqubiao",
+            "url":"https://shibboleth.group123.cc/Shibboleth.sso/Login"
+        },
+        "description":"https://sp.fenqubiao.com/Shibboleth.sso/Login"
+    },
+    {
+        "catalogID":"13840f2cb9eca0d8431384c049835c718c778b3c",
+        "resourceName":"https://sp.foxitsoftware.cn/shibboleth",
+        "resourceProvider":{
+            "name":"Foxit Software",
+            "displayname":"Foxit Software",
+            "url":"https://www.foxitsoftware.cn/"
+        },
+        "description":"https://online.foxitsoftware.cn"
+    },
+    {
+        "catalogID":"e312cc49fd1a8c61c159b174930047d3dc20e5db",
+        "resourceName":"http://websso1.um.edu.mo/adfs/services/trust",
+        "resourceProvider":{
+            "name":[],
+            "displayname":[],
+            "url":"https://www.um.edu.mo/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"1e3a50caa075fa015d69954fd3ec97b8422c7815",
+        "resourceName":"CSTCloud AAI",
+        "resourceProvider":{
+            "name":"Computer Network Information Center, Chinese Academy of Sciences",
+            "displayname":"Computer Network Information Center, Chinese Academy of Sciences",
+            "url":"https://aai.cstcloud.net"
+        },
+        "description":"https://aai.cstcloud.net"
+    },
+    {
+        "catalogID":"e8682225c133af8d5a023135f2218a6d24b26840",
+        "resourceName":"https://auth.osa.org/oa/entity",
+        "resourceProvider":{
+            "name":"The Optical Society",
+            "displayname":"The Optical Society",
+            "url":"https://www.osa.org"
+        },
+        "description":"https://auth.osa.org/oa/entity"
+    },
+    {
+        "catalogID":"fcb3bc5915467b9b7ed0f51a26926bfc350fff95",
+        "resourceName":"https://fsso.cnki.net/shibboleth",
+        "resourceProvider":{
+            "name":"Tongfang Knowledge Network Technology",
+            "displayname":"Tongfang Knowledge Network Technology",
+            "url":"http://www.cnki.net/"
+        },
+        "description":"https://fsso.cnki.net"
+    },
+    {
+        "catalogID":"9d506953bdad826ce7c4982eb3d4c115f38c6c7a",
+        "resourceName":"https://scifundsp.wanfangdata.com.cn/shibboleth",
+        "resourceProvider":{
+            "name":"wanfangdata",
+            "displayname":"wanfangdata",
+            "url":"http://www.wanfangdata.com.cn"
+        },
+        "description":"https://fsso.wanfangdata.com.cn/scifund"
+    },
+    {
+        "catalogID":"6e80262e07f9968ac8b51667297df62c820a7321",
+        "resourceName":"https://shibboleth.wanfangdata.com.cn/shibboleth",
+        "resourceProvider":{
+            "name":"wanfangdata",
+            "displayname":"wanfangdata",
+            "url":"http://www.wanfangdata.com.cn"
+        },
+        "description":"https://fsso.wanfangdata.com.cn"
+    },
+    {
+        "catalogID":"b55208828b377016cbe5f9c1f1a57e7819c49194",
+        "resourceName":"Clarivate Analytics SP (Web of Knowledge & EndNote Web)",
+        "resourceProvider":{
+            "name":"Camelot UK BIDCO Limited",
+            "displayname":"Clarivate Analytics",
+            "url":"https://clarivate.com/"
+        },
+        "description":"Explore literature in the sciences, social sciences, arts and humanities and publish bibliographies."
+    },
+    {
+        "catalogID":"22d2d3a3225f21888193392c08cb1e86da8c633b",
+        "resourceName":"Elsevier",
+        "resourceProvider":{
+            "name":"Elsevier B.V.",
+            "displayname":"Elsevier",
+            "url":"http://www.elsevier.com/"
+        },
+        "description":"Access Elsevier products using your institutional credentials"
+    },
+    {
+        "catalogID":"894645779c78bcfdc105ce32b8aca5c96efb66d9",
+        "resourceName":"Cambridge Core",
+        "resourceProvider":{
+            "name":"University of Cambridge",
+            "displayname":"University of Cambridge",
+            "url":"http://www.cambridge.org/"
+        },
+        "description":"Cambridge Core is the home of academic content from Cambridge University."
+    },
+    {
+        "catalogID":"d3b388e44563d52c6193912e29a003a902e1d1db",
+        "resourceName":"https://shib.rsc.org/shibboleth",
+        "resourceProvider":{
+            "name":"Royal Society of Chemistry",
+            "displayname":"Royal Society of Chemistry",
+            "url":"http://www.rsc.org/aboutus/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"455cc89fecfa3db0316aa5f82fb77aa690440e4b",
+        "resourceName":"https://shib.rsc-uat.org/shibboleth",
+        "resourceProvider":{
+            "name":"Royal Society of Chemistry",
+            "displayname":"Royal Society of Chemistry Test System",
+            "url":"http://www.rsc.org/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"be245f2023530b857c5001eae75337ef0403cbbb",
+        "resourceName":"ProQuest Test",
+        "resourceProvider":{
+            "name":"ProQuest LLC",
+            "displayname":"ProQuest LLC",
+            "url":"http://www.proquest.com/"
+        },
+        "description":"ProQuest provides subscription access to numerous premium technical journals, dissertations and other information databases."
+    },
+    {
+        "catalogID":"16dd115fcfdb006e234b90490e10235517fd1823",
+        "resourceName":"ProQuest PROD SP",
+        "resourceProvider":{
+            "name":"ProQuest LLC",
+            "displayname":"ProQuest LLC",
+            "url":"http://www.proquest.com/"
+        },
+        "description":"ProQuest provides subscription access to numerous premium technical journals, dissertations and other information databases."
+    },
+    {
+        "catalogID":"e44e6e07b84a8edf14d9429481bfc96db1def5e5",
+        "resourceName":"ACS Publications",
+        "resourceProvider":{
+            "name":"American Chemical Society",
+            "displayname":"American Chemical Society",
+            "url":"http://www.acs.org"
+        },
+        "description":"Publishes products and services for the practice and advancement of the chemical sciences."
+    },
+    {
+        "catalogID":"ed6261546aa0607f40a3f04e6ee9e8e1da8dc047",
+        "resourceName":"CILogon",
+        "resourceProvider":{
+            "name":"University of Illinois at Urbana-Champaign",
+            "displayname":"National Center for Supercomputing Applications",
+            "url":"http://www.ncsa.illinois.edu/"
+        },
+        "description":"CILogon facilitates secure access to CyberInfrastructure (CI)."
+    },
+    {
+        "catalogID":"07820fa7e2ab0b2252d9a109616e2104a8cbeabb",
+        "resourceName":"Ovid",
+        "resourceProvider":{
+            "name":"Ovid Technologies, Inc",
+            "displayname":"Ovid Technologies, Inc",
+            "url":"http://www.ovid.com/"
+        },
+        "description":"Wolters Kluwer OpenAthens Keystone Production"
+    },
+    {
+        "catalogID":"1f3949c4d52b44a29d5431865366000629d88649",
+        "resourceName":"EBSCO Publishing, Inc",
+        "resourceProvider":{
+            "name":"EBSCO Publishing, Inc",
+            "displayname":"EBSCO Publishing, Inc",
+            "url":"http://www.ebsco.com/home/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"136b988a23ad7de45b7855c72d89adc83e106f5a",
+        "resourceName":"IOPscience",
+        "resourceProvider":{
+            "name":"IOP Publishing Limited",
+            "displayname":"IOPscience",
+            "url":"http://www.iop.org/"
+        },
+        "description":"IOPscience is an online service for journal content published by IOP Publishing. IOPscience embraces innovative technologies to make it easier for researchers to access scientific, technical and medical content."
+    },
+    {
+        "catalogID":"2c683cf6d5672db482c281bcf76f6b77d8687d6f",
+        "resourceName":"https://shibboleth.eb.com/sp",
+        "resourceProvider":{
+            "name":"Encyclopaedia Britannica (UK) Limited",
+            "displayname":"Britannica Online School Edition",
+            "url":"http://www.britannica.co.uk/BritannicaCoUK_Info_History.htm"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"3529a0564e4d91964fd0ced7f7f2ddefa33ec68f",
+        "resourceName":"Nature Research",
+        "resourceProvider":{
+            "name":"Springer Nature Limited",
+            "displayname":"Nature Research",
+            "url":"https://www.springernature.com/"
+        },
+        "description":"Nature Research serves the research community by publishing its most significant discoveries."
+    },
+    {
+        "catalogID":"60e9ca41488cef84071402f2779fa7c78c302c2d",
+        "resourceName":"https://ieeexplore.ieee.org/shibboleth-sp",
+        "resourceProvider":{
+            "name":"The Institute of Electrical And Electronics Engineers, Incorporated",
+            "displayname":"IEEE XploreDigital Library",
+            "url":"http://www.ieee.org/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"0b0ee19886cdf4801274ce5fdeca615c75350fa0",
+        "resourceName":"https://www.annualreviews.org/shibboleth",
+        "resourceProvider":{
+            "name":"Atypon Systems, Inc",
+            "displayname":"Atypon Systems: Annual Reviews",
+            "url":"http://www.annualreviews.org/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"1ae9182ea2d6ce7e4ecaf887e7b9bd65e2ff323b",
+        "resourceName":"https://www.tandfonline.com/shibboleth",
+        "resourceProvider":{
+            "name":"Atypon Systems, Inc",
+            "displayname":"Atypon Systems: Taylor & Francis Online",
+            "url":"http://www.tandfonline.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"4eb89e825f99b1c3cf29d49a09e7a28fcb54ffa4",
+        "resourceName":"https://fsso-qa1.springer.com",
+        "resourceProvider":{
+            "name":"Springer-Verlag London Limited",
+            "displayname":"Springer Link (qa1)",
+            "url":"http://link.springer.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"2d313376ea5015e5c770a7f2cb155368caa44357",
+        "resourceName":"World Scientific Publishing",
+        "resourceProvider":{
+            "name":"Atypon Systems, Inc",
+            "displayname":"Atypon Systems, Inc",
+            "url":"https://www.worldscientific.com/"
+        },
+        "description":"World Scientific Publishing is a leading independent publisher of academic and professional books and journals."
+    },
+    {
+        "catalogID":"b08b2baeffbe9dce89824755970c2ebeb6725fc0",
+        "resourceName":"Springer",
+        "resourceProvider":{
+            "name":"Springer-Verlag London Limited",
+            "displayname":"Springer",
+            "url":"https://www.springernature.com/"
+        },
+        "description":"The world's most comprehensive online collection of scientific, technological and medical journals."
+    },
+    {
+        "catalogID":"79371483f72c9f57628748224542a46502ca22a7",
+        "resourceName":"https://shibboleth.highwire.org/entity/secure-sp",
+        "resourceProvider":{
+            "name":"HighWire Press, Inc.",
+            "displayname":"HighWire Press Online",
+            "url":"http://highwire.stanford.edu/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"42ac84cf04daee3058b4e69fb6dcad51773368ee",
+        "resourceName":"https://www.jove.com/shibboleth",
+        "resourceProvider":{
+            "name":"MYJOVE Corporation",
+            "displayname":"Journal of Visualized Experiments",
+            "url":"http://www.jove.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"1a051adcb5fae052aaa0c6329a933929cd917559",
+        "resourceName":"Atypon SP",
+        "resourceProvider":{
+            "name":"Atypon Systems, Inc",
+            "displayname":"Atypon SP",
+            "url":"http://www.atypon.com"
+        },
+        "description":"Atypon Systems operates a hosting platform that provides content delivery services to a wide range of professional and scholarly publishers."
+    },
+    {
+        "catalogID":"a4b97e232b31526593aef339f61ff5fe33e07ea4",
+        "resourceName":"Karger Publishers",
+        "resourceProvider":{
+            "name":"S. Karger AG",
+            "displayname":"Karger Publishers",
+            "url":"http://www.karger.com"
+        },
+        "description":"Karger Publishers in Basel, Switzerland, is a globally active medical and scientific publishing company."
+    },
+    {
+        "catalogID":"aa1966c75e6b4abf93748da6e33591495809a657",
+        "resourceName":"Digital Science",
+        "resourceProvider":{
+            "name":"LibLynx LLC",
+            "displayname":"Digital Science",
+            "url":"https://www.digital-science.com/"
+        },
+        "description":"Research tools for finding, reading, managing & citing papers"
+    },
+    {
+        "catalogID":"aab4044f503bc386e55c7963d1cc39e43180833f",
+        "resourceName":"SPIE -- International Society for Optics and Photonics",
+        "resourceProvider":{
+            "name":"Society of Photo-Optical Instrumentation Engineers",
+            "displayname":"Society of Photo-Optical Instrumentation Engineers",
+            "url":"http://spie.org/"
+        },
+        "description":"SPIE Digital Library - The world's largest collection of optics and photonics applied research."
+    },
+    {
+        "catalogID":"9d9b2130b8a25eebad2d2f6155df69133bbd71b7",
+        "resourceName":"Oxford University Press - Shibboleth 2 SP Sigma Test",
+        "resourceProvider":{
+            "name":"Semantico Limited",
+            "displayname":"Semantico Limited",
+            "url":"https://global.oup.com/?cc=gb"
+        },
+        "description":"Oxford University Press - Shibboleth 2 SP Sigma Test"
+    },
+    {
+        "catalogID":"718dcc35b350955f966aca6ae0c646f9c40c8d43",
+        "resourceName":"Wolters Kluwer OneID (int)",
+        "resourceProvider":{
+            "name":"Wolters Kluwer United States Inc",
+            "displayname":"Wolters Kluwer United States Inc",
+            "url":"http://kluwerlawonline.com"
+        },
+        "description":"Wolters Kluwer Content and Resources (integration)"
+    },
+    {
+        "catalogID":"0c63644e3ea0fa5596523879b7e4c7d1f8741233",
+        "resourceName":"BioOne Complete",
+        "resourceProvider":{
+            "name":"Society of Photo-Optical Instrumentation Engineers",
+            "displayname":"Society of Photo-Optical Instrumentation Engineers",
+            "url":"https://bioone.org/"
+        },
+        "description":"BioOne Complete is BioOne's full-text database of more than 200 leading journals in the biological, ecological, and environmental sciences."
+    },
+    {
+        "catalogID":"cbdfd406d89b42c1f17d2e4bc49b1e44386c4b1f",
+        "resourceName":"EGI Check-in Service",
+        "resourceProvider":{
+            "name":"EGI Foundation",
+            "displayname":"EGI Foundation",
+            "url":"https://www.egi.eu/"
+        },
+        "description":"EGI Check-in Service"
+    },
+    {
         "catalogID":"c7507439fa50273077b4fc077a358aaddc905cc3",
         "resourceName":"KIF Filesender (in English)",
         "resourceProvider":{
@@ -110,16 +500,6 @@
         "description":"RASH main SP"
     },
     {
-        "catalogID":"e8682225c133af8d5a023135f2218a6d24b26840",
-        "resourceName":"https://auth.osa.org/oa/entity",
-        "resourceProvider":{
-            "name":"The Optical Society",
-            "displayname":"The Optical Society",
-            "url":"https://www.osa.org"
-        },
-        "description":"https://auth.osa.org/oa/entity"
-    },
-    {
         "catalogID":"96fb3603d220261410cd2bc7b035bc1671e76fe3",
         "resourceName":"https://ds.carsi.edu.cn/shibboleth-sp/carsifed",
         "resourceProvider":{
@@ -128,16 +508,6 @@
             "url":"https://www.carsi.edu.cn/"
         },
         "description":"https://ds.carsi.edu.cn/ds/index.html"
-    },
-    {
-        "catalogID":"fcb3bc5915467b9b7ed0f51a26926bfc350fff95",
-        "resourceName":"https://fsso.cnki.net/shibboleth",
-        "resourceProvider":{
-            "name":"Tongfang Knowledge Network Technology",
-            "displayname":"Tongfang Knowledge Network Technology",
-            "url":"http://www.cnki.net/"
-        },
-        "description":"https://fsso.cnki.net"
     },
     {
         "catalogID":"3bc1cef0c82b8a7e84d264bf19e2d453257d6c42",
@@ -150,16 +520,6 @@
         "description":"https://fsso.zhizhen.com"
     },
     {
-        "catalogID":"9d506953bdad826ce7c4982eb3d4c115f38c6c7a",
-        "resourceName":"https://scifundsp.wanfangdata.com.cn/shibboleth",
-        "resourceProvider":{
-            "name":"wanfangdata",
-            "displayname":"wanfangdata",
-            "url":"http://www.wanfangdata.com.cn"
-        },
-        "description":"https://fsso.wanfangdata.com.cn/scifund"
-    },
-    {
         "catalogID":"321c5a32e52bff3daaac4926a64cd79c4bed7a18",
         "resourceName":"https://shibboleth.guodao.cn/shibboleth",
         "resourceProvider":{
@@ -168,16 +528,6 @@
             "url":"http://guodao.cn/"
         },
         "description":"http://fsso.metel.cn"
-    },
-    {
-        "catalogID":"6e80262e07f9968ac8b51667297df62c820a7321",
-        "resourceName":"https://shibboleth.wanfangdata.com.cn/shibboleth",
-        "resourceProvider":{
-            "name":"wanfangdata",
-            "displayname":"wanfangdata",
-            "url":"http://www.wanfangdata.com.cn"
-        },
-        "description":"https://fsso.wanfangdata.com.cn"
     },
     {
         "catalogID":"3c2f243c3e941ca60bc11896785b70fd25fcc77b",
@@ -198,16 +548,6 @@
             "url":"https://www.carsi.edu.cn/"
         },
         "description":"https://sp-txmeeting.carsi.edu.cn/shibboleth"
-    },
-    {
-        "catalogID":"13840f2cb9eca0d8431384c049835c718c778b3c",
-        "resourceName":"https://sp.foxitsoftware.cn/shibboleth",
-        "resourceProvider":{
-            "name":"Foxit Software",
-            "displayname":"Foxit Software",
-            "url":"https://www.foxitsoftware.cn/"
-        },
-        "description":"https://online.foxitsoftware.cn"
     },
     {
         "catalogID":"c25348f2b14810ddc75355239f430a47f1240d18",
@@ -470,36 +810,6 @@
         "description":""
     },
     {
-        "catalogID":"b55208828b377016cbe5f9c1f1a57e7819c49194",
-        "resourceName":"Clarivate Analytics SP (Web of Knowledge & EndNote Web)",
-        "resourceProvider":{
-            "name":"Camelot UK BIDCO Limited",
-            "displayname":"Clarivate Analytics",
-            "url":"https://clarivate.com/"
-        },
-        "description":"Explore literature in the sciences, social sciences, arts and humanities and publish bibliographies."
-    },
-    {
-        "catalogID":"22d2d3a3225f21888193392c08cb1e86da8c633b",
-        "resourceName":"Elsevier",
-        "resourceProvider":{
-            "name":"Elsevier B.V.",
-            "displayname":"Elsevier",
-            "url":"http://www.elsevier.com/"
-        },
-        "description":"Access Elsevier products using your institutional credentials"
-    },
-    {
-        "catalogID":"894645779c78bcfdc105ce32b8aca5c96efb66d9",
-        "resourceName":"Cambridge Core",
-        "resourceProvider":{
-            "name":"University of Cambridge",
-            "displayname":"University of Cambridge",
-            "url":"http://www.cambridge.org/"
-        },
-        "description":"Cambridge Core is the home of academic content from Cambridge University."
-    },
-    {
         "catalogID":"f5245c9b8857597180a57e49ff571621c76ac13a",
         "resourceName":"Filesender on RUNNet",
         "resourceProvider":{
@@ -658,26 +968,6 @@
             "url":"http://www.capitalmarket.com/"
         },
         "description":"Capitaline Service provider"
-    },
-    {
-        "catalogID":"d3b388e44563d52c6193912e29a003a902e1d1db",
-        "resourceName":"https://shib.rsc.org/shibboleth",
-        "resourceProvider":{
-            "name":"Royal Society of Chemistry",
-            "displayname":"Royal Society of Chemistry",
-            "url":"http://www.rsc.org/aboutus/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"455cc89fecfa3db0316aa5f82fb77aa690440e4b",
-        "resourceName":"https://shib.rsc-uat.org/shibboleth",
-        "resourceProvider":{
-            "name":"Royal Society of Chemistry",
-            "displayname":"Royal Society of Chemistry Test System",
-            "url":"http://www.rsc.org/"
-        },
-        "description":""
     },
     {
         "catalogID":"3f3d92ae42a6fb0c2e199434d30137e06f64ea29",
@@ -5040,26 +5330,6 @@
         "description":""
     },
     {
-        "catalogID":"be245f2023530b857c5001eae75337ef0403cbbb",
-        "resourceName":"ProQuest Test",
-        "resourceProvider":{
-            "name":"ProQuest LLC",
-            "displayname":"ProQuest LLC",
-            "url":"http://www.proquest.com/"
-        },
-        "description":"ProQuest provides subscription access to numerous premium technical journals, dissertations and other information databases."
-    },
-    {
-        "catalogID":"16dd115fcfdb006e234b90490e10235517fd1823",
-        "resourceName":"ProQuest PROD SP",
-        "resourceProvider":{
-            "name":"ProQuest LLC",
-            "displayname":"ProQuest LLC",
-            "url":"http://www.proquest.com/"
-        },
-        "description":"ProQuest provides subscription access to numerous premium technical journals, dissertations and other information databases."
-    },
-    {
         "catalogID":"3aebc2840372f921285a0b9a2bf34baf97d5398e",
         "resourceName":"Ebook Central/ebrary ebooks",
         "resourceProvider":{
@@ -9228,16 +9498,6 @@
             "url":"http://www.ou.edu/"
         },
         "description":"University of Oklahoma Health Sciences Center REDCap Research Tool"
-    },
-    {
-        "catalogID":"e44e6e07b84a8edf14d9429481bfc96db1def5e5",
-        "resourceName":"ACS Publications",
-        "resourceProvider":{
-            "name":"American Chemical Society",
-            "displayname":"American Chemical Society",
-            "url":"http://www.acs.org"
-        },
-        "description":"Publishes products and services for the practice and advancement of the chemical sciences."
     },
     {
         "catalogID":"d4a23cefe5ad5748ad74340910d49552ed076e46",
@@ -16060,16 +16320,6 @@
         "description":""
     },
     {
-        "catalogID":"ed6261546aa0607f40a3f04e6ee9e8e1da8dc047",
-        "resourceName":"CILogon",
-        "resourceProvider":{
-            "name":"University of Illinois at Urbana-Champaign",
-            "displayname":"National Center for Supercomputing Applications",
-            "url":"http://www.ncsa.illinois.edu/"
-        },
-        "description":"CILogon facilitates secure access to CyberInfrastructure (CI)."
-    },
-    {
         "catalogID":"47b48224f8b3421f32271689cf56e4bcd8726c15",
         "resourceName":"PeopleGrove",
         "resourceProvider":{
@@ -18600,26 +18850,6 @@
         "description":"370,000 images from museums, galleries & archives. All resources rights cleared for use in teaching and learning."
     },
     {
-        "catalogID":"07820fa7e2ab0b2252d9a109616e2104a8cbeabb",
-        "resourceName":"Ovid",
-        "resourceProvider":{
-            "name":"Ovid Technologies, Inc",
-            "displayname":"Ovid Technologies, Inc",
-            "url":"http://www.ovid.com/"
-        },
-        "description":"Wolters Kluwer OpenAthens Keystone Production"
-    },
-    {
-        "catalogID":"1f3949c4d52b44a29d5431865366000629d88649",
-        "resourceName":"EBSCO Publishing, Inc",
-        "resourceProvider":{
-            "name":"EBSCO Publishing, Inc",
-            "displayname":"EBSCO Publishing, Inc",
-            "url":"http://www.ebsco.com/home/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"30bb41517282c570ed38017807dcbc305a86f6f4",
         "resourceName":"JiscMail",
         "resourceProvider":{
@@ -18668,16 +18898,6 @@
             "url":"http://www.rocksbackpages.com/"
         },
         "description":""
-    },
-    {
-        "catalogID":"136b988a23ad7de45b7855c72d89adc83e106f5a",
-        "resourceName":"IOPscience",
-        "resourceProvider":{
-            "name":"IOP Publishing Limited",
-            "displayname":"IOPscience",
-            "url":"http://www.iop.org/"
-        },
-        "description":"IOPscience is an online service for journal content published by IOP Publishing. IOPscience embraces innovative technologies to make it easier for researchers to access scientific, technical and medical content."
     },
     {
         "catalogID":"9a5d67aefb44abc4ee625415b4abcff29572f902",
@@ -18950,16 +19170,6 @@
         "description":"Issues Online explores today's most important social issues through \n\t\t\t\t\tarticles, videos, ebooks & more."
     },
     {
-        "catalogID":"2c683cf6d5672db482c281bcf76f6b77d8687d6f",
-        "resourceName":"https://shibboleth.eb.com/sp",
-        "resourceProvider":{
-            "name":"Encyclopaedia Britannica (UK) Limited",
-            "displayname":"Britannica Online School Edition",
-            "url":"http://www.britannica.co.uk/BritannicaCoUK_Info_History.htm"
-        },
-        "description":""
-    },
-    {
         "catalogID":"3f33f84d45b1f81e50de9d564954badbf90be7bf",
         "resourceName":"https://journals.bmj.com/shibboleth",
         "resourceProvider":{
@@ -19118,16 +19328,6 @@
             "url":"http://www.booksforallscotland.org.uk/"
         },
         "description":"Books For All Scotland provides accessible books to support pupils who have difficulty with ordinary printed text."
-    },
-    {
-        "catalogID":"3529a0564e4d91964fd0ced7f7f2ddefa33ec68f",
-        "resourceName":"Nature Research",
-        "resourceProvider":{
-            "name":"Springer Nature Limited",
-            "displayname":"Nature Research",
-            "url":"https://www.springernature.com/"
-        },
-        "description":"Nature Research serves the research community by publishing its most significant discoveries."
     },
     {
         "catalogID":"0e8dacba378386e377224788f93bd84493b7ee11",
@@ -19530,16 +19730,6 @@
         "description":""
     },
     {
-        "catalogID":"60e9ca41488cef84071402f2779fa7c78c302c2d",
-        "resourceName":"https://ieeexplore.ieee.org/shibboleth-sp",
-        "resourceProvider":{
-            "name":"The Institute of Electrical And Electronics Engineers, Incorporated",
-            "displayname":"IEEE XploreDigital Library",
-            "url":"http://www.ieee.org/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"74902594cf91e81b46d690b160ef2bc34e7e7ddd",
         "resourceName":"https://shibboleth2sp.brill.test.semantico.net/shibboleth",
         "resourceProvider":{
@@ -19656,16 +19846,6 @@
             "name":"Perfect Information Ltd",
             "displayname":"Perfect Information Ltd: PI Navigator",
             "url":"http://www.perfectinfo.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"0b0ee19886cdf4801274ce5fdeca615c75350fa0",
-        "resourceName":"https://www.annualreviews.org/shibboleth",
-        "resourceProvider":{
-            "name":"Atypon Systems, Inc",
-            "displayname":"Atypon Systems: Annual Reviews",
-            "url":"http://www.annualreviews.org/"
         },
         "description":""
     },
@@ -19926,16 +20106,6 @@
             "name":"University of Edinburgh",
             "displayname":"University of Edinburgh: EDINA CRIS",
             "url":"http://edina.ac.uk/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"1ae9182ea2d6ce7e4ecaf887e7b9bd65e2ff323b",
-        "resourceName":"https://www.tandfonline.com/shibboleth",
-        "resourceProvider":{
-            "name":"Atypon Systems, Inc",
-            "displayname":"Atypon Systems: Taylor & Francis Online",
-            "url":"http://www.tandfonline.com/"
         },
         "description":""
     },
@@ -20540,16 +20710,6 @@
         "description":"GOEsend uses your email address to provide the file exchange service to you"
     },
     {
-        "catalogID":"4eb89e825f99b1c3cf29d49a09e7a28fcb54ffa4",
-        "resourceName":"https://fsso-qa1.springer.com",
-        "resourceProvider":{
-            "name":"Springer-Verlag London Limited",
-            "displayname":"Springer Link (qa1)",
-            "url":"http://link.springer.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"08925a19190d85389bcf69f6c39184b65b307723",
         "resourceName":"Instant Anatomy",
         "resourceProvider":{
@@ -20558,26 +20718,6 @@
             "url":"https://instantanatomy.co.uk/"
         },
         "description":""
-    },
-    {
-        "catalogID":"2d313376ea5015e5c770a7f2cb155368caa44357",
-        "resourceName":"World Scientific Publishing",
-        "resourceProvider":{
-            "name":"Atypon Systems, Inc",
-            "displayname":"Atypon Systems, Inc",
-            "url":"https://www.worldscientific.com/"
-        },
-        "description":"World Scientific Publishing is a leading independent publisher of academic and professional books and journals."
-    },
-    {
-        "catalogID":"b08b2baeffbe9dce89824755970c2ebeb6725fc0",
-        "resourceName":"Springer",
-        "resourceProvider":{
-            "name":"Springer-Verlag London Limited",
-            "displayname":"Springer",
-            "url":"https://www.springernature.com/"
-        },
-        "description":"The world's most comprehensive online collection of scientific, technological and medical journals."
     },
     {
         "catalogID":"5accdd10b5312f76f75d1a0fcee87a45ae4a44f7",
@@ -20636,16 +20776,6 @@
             "name":"HighWire Press, Inc.",
             "displayname":"American Physiology Society",
             "url":"http://www.physiology.org/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"79371483f72c9f57628748224542a46502ca22a7",
-        "resourceName":"https://shibboleth.highwire.org/entity/secure-sp",
-        "resourceProvider":{
-            "name":"HighWire Press, Inc.",
-            "displayname":"HighWire Press Online",
-            "url":"http://highwire.stanford.edu/"
         },
         "description":""
     },
@@ -22060,16 +22190,6 @@
         "description":""
     },
     {
-        "catalogID":"42ac84cf04daee3058b4e69fb6dcad51773368ee",
-        "resourceName":"https://www.jove.com/shibboleth",
-        "resourceProvider":{
-            "name":"MYJOVE Corporation",
-            "displayname":"Journal of Visualized Experiments",
-            "url":"http://www.jove.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"f964dd561f50a2329ade4ef7fd1f7da7d4a83ca0",
         "resourceName":"https://gcs.simitive.com",
         "resourceProvider":{
@@ -22558,16 +22678,6 @@
             "url":"http://www.markallengroup.com/ma-healthcare/"
         },
         "description":"Vital information for professionals working with disabled and older people"
-    },
-    {
-        "catalogID":"1a051adcb5fae052aaa0c6329a933929cd917559",
-        "resourceName":"Atypon SP",
-        "resourceProvider":{
-            "name":"Atypon Systems, Inc",
-            "displayname":"Atypon SP",
-            "url":"http://www.atypon.com"
-        },
-        "description":"Atypon Systems operates a hosting platform that provides content delivery services to a wide range of professional and scholarly publishers."
     },
     {
         "catalogID":"4b0ee4666a47adc607685a46a2e7365edb6450bd",
@@ -25810,16 +25920,6 @@
         "description":""
     },
     {
-        "catalogID":"a4b97e232b31526593aef339f61ff5fe33e07ea4",
-        "resourceName":"Karger Publishers",
-        "resourceProvider":{
-            "name":"S. Karger AG",
-            "displayname":"Karger Publishers",
-            "url":"http://www.karger.com"
-        },
-        "description":"Karger Publishers in Basel, Switzerland, is a globally active medical and scientific publishing company."
-    },
-    {
         "catalogID":"00805add9d37d00212fc13a4158d52e8f9882443",
         "resourceName":"https://cityofbristol.idm.oclc.org/shibboleth",
         "resourceProvider":{
@@ -26890,16 +26990,6 @@
         "description":""
     },
     {
-        "catalogID":"aa1966c75e6b4abf93748da6e33591495809a657",
-        "resourceName":"Digital Science",
-        "resourceProvider":{
-            "name":"LibLynx LLC",
-            "displayname":"Digital Science",
-            "url":"https://www.digital-science.com/"
-        },
-        "description":"Research tools for finding, reading, managing & citing papers"
-    },
-    {
         "catalogID":"ea6fa76682ff93f50e3c6dcaad9328a830dba76b",
         "resourceName":"Actus Performance Management Software",
         "resourceProvider":{
@@ -27920,16 +28010,6 @@
         "description":"University of Oxford's WIN Centre Open Neuroscience"
     },
     {
-        "catalogID":"aab4044f503bc386e55c7963d1cc39e43180833f",
-        "resourceName":"SPIE -- International Society for Optics and Photonics",
-        "resourceProvider":{
-            "name":"Society of Photo-Optical Instrumentation Engineers",
-            "displayname":"Society of Photo-Optical Instrumentation Engineers",
-            "url":"http://spie.org/"
-        },
-        "description":"SPIE Digital Library - The world's largest collection of optics and photonics applied research."
-    },
-    {
         "catalogID":"38742ddb954687a24d54705a76b02be5103c1571",
         "resourceName":"PEP-Web",
         "resourceProvider":{
@@ -27988,16 +28068,6 @@
             "url":"http://www.siso.co.uk"
         },
         "description":"Smarthub: Bournemouth University"
-    },
-    {
-        "catalogID":"9d9b2130b8a25eebad2d2f6155df69133bbd71b7",
-        "resourceName":"Oxford University Press - Shibboleth 2 SP Sigma Test",
-        "resourceProvider":{
-            "name":"Semantico Limited",
-            "displayname":"Semantico Limited",
-            "url":"https://global.oup.com/?cc=gb"
-        },
-        "description":"Oxford University Press - Shibboleth 2 SP Sigma Test"
     },
     {
         "catalogID":"8ae4fb7b09e931763928c22f2851f8c69bf1f92a",
@@ -28278,16 +28348,6 @@
             "url":"http://www.instructure.com/"
         },
         "description":"Instructure, Inc. is the software-as-a-service (SaaS) technology company that makes Canvas VLE."
-    },
-    {
-        "catalogID":"718dcc35b350955f966aca6ae0c646f9c40c8d43",
-        "resourceName":"Wolters Kluwer OneID (int)",
-        "resourceProvider":{
-            "name":"Wolters Kluwer United States Inc",
-            "displayname":"Wolters Kluwer United States Inc",
-            "url":"http://kluwerlawonline.com"
-        },
-        "description":"Wolters Kluwer Content and Resources (integration)"
     },
     {
         "catalogID":"21b831c5611b16c3135521bc5c3745844ce64985",
@@ -28718,16 +28778,6 @@
             "url":"https://ndmpdr.simitive.com"
         },
         "description":""
-    },
-    {
-        "catalogID":"0c63644e3ea0fa5596523879b7e4c7d1f8741233",
-        "resourceName":"BioOne Complete",
-        "resourceProvider":{
-            "name":"Society of Photo-Optical Instrumentation Engineers",
-            "displayname":"Society of Photo-Optical Instrumentation Engineers",
-            "url":"https://bioone.org/"
-        },
-        "description":"BioOne Complete is BioOne's full-text database of more than 200 leading journals in the biological, ecological, and environmental sciences."
     },
     {
         "catalogID":"14397306b4107b48483e5aac748bd3abbcc6798a",
@@ -29360,14 +29410,34 @@
         "description":"This is a test SP for Lexis Advance and Plus – CDC1"
     },
     {
-        "catalogID":"5609519484dadb3837286a11416a8833f05b87ec",
-        "resourceName":"Eduspot - Nimes University",
+        "catalogID":"9463cd39f6bc618101be1ef2b54be03cba5d5f6f",
+        "resourceName":"Shared learning platform - Forthem partner university",
         "resourceProvider":{
-            "name":"Université de Nîmes",
-            "displayname":"Université de Nîmes",
-            "url":"http://www.unimes.fr"
+            "name":"Université de Bourgogne",
+            "displayname":"Université de Bourgogne",
+            "url":"http://www.u-bourgogne.fr"
         },
-        "description":"Eduspot - Nimes University"
+        "description":"Shared learning platform - Forthem partner university\n\nPlatform  to students enrolled in The University of Bourgogne and / or the partner Universities of the Federation."
+    },
+    {
+        "catalogID":"6c6fedf84766d9d712c1758c29e217843a16d44e",
+        "resourceName":"Université de Lille - plate-forme charte digitale (identité)",
+        "resourceProvider":{
+            "name":"Université de Lille",
+            "displayname":"Université de Lille",
+            "url":"http://univ-lille.fr"
+        },
+        "description":"This platform allows the responsables of the communication to load digital identification elements they need"
+    },
+    {
+        "catalogID":"96de1ef4abd876f599d02df40438735104954634",
+        "resourceName":"AERIS-SSO",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Authentication service of the French atmospheric data cluster AERIS."
     },
     {
         "catalogID":"a2ee399b0efbd1338fc6cc4bc519f75dcf9a280b",
@@ -29380,36 +29450,6 @@
         "description":"The collaborative platform \"plateforme.meshs.fr\" is dedicated to collaborative work for MESHS's research project"
     },
     {
-        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
-        "resourceName":"University Paris 1 - online course",
-        "resourceProvider":{
-            "name":"Université Paris 1 - Panthéon Sorbonne",
-            "displayname":"Université Paris 1 - Panthéon Sorbonne",
-            "url":"http://www.univ-paris1.fr"
-        },
-        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
-    },
-    {
-        "catalogID":"1ec47cf028507e82a10287e03305a70a3175bc38",
-        "resourceName":"Moodle Platform PLUBEL University of Burgundy (FRANCE)",
-        "resourceProvider":{
-            "name":"Université de Bourgogne",
-            "displayname":"Université de Bourgogne",
-            "url":"http://www.u-bourgogne.fr"
-        },
-        "description":"Plateforme d'enseignements en Ligne de l'université de Bourgogne (France) à destination des étudiants de l'université et des universités partenaires."
-    },
-    {
-        "catalogID":"3669443cf53b39c836777fef8a387ac31c6e9090",
-        "resourceName":"European Student Card Router",
-        "resourceProvider":{
-            "name":"CNOUS",
-            "displayname":"CNOUS",
-            "url":"http://www.cnous.fr"
-        },
-        "description":"Registration platform of European Student Card ; access to technical  documentation"
-    },
-    {
         "catalogID":"edf6a66f3ec5bff1b7e7b1122aad27d7834b21e5",
         "resourceName":"myCivica",
         "resourceProvider":{
@@ -29418,6 +29458,16 @@
             "url":"http://www.sciences-po.fr"
         },
         "description":"Civica will bring together 8 world-reknowned institutions from across the European continent."
+    },
+    {
+        "catalogID":"493c1fb1bf0c64c217170fbd229e08e7e5eb22d6",
+        "resourceName":"POD EU-CONEXUS",
+        "resourceProvider":{
+            "name":"La Rochelle Université",
+            "displayname":"La Rochelle Université",
+            "url":"http://www.univ-lr.fr"
+        },
+        "description":"POD platform of EU-CONEXUS"
     },
     {
         "catalogID":"515a0a67d236bbf0f012a92c875fb3afb4a04a5b",
@@ -29440,56 +29490,6 @@
         "description":"online courses"
     },
     {
-        "catalogID":"6f5f0cc43191c04077e86faff8edb1dd2e55279f",
-        "resourceName":"EChamilo - UGA",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"E-learning plateform of the Grenoble Alpes University."
-    },
-    {
-        "catalogID":"493c1fb1bf0c64c217170fbd229e08e7e5eb22d6",
-        "resourceName":"POD EU-CONEXUS",
-        "resourceProvider":{
-            "name":"La Rochelle Université",
-            "displayname":"La Rochelle Université",
-            "url":"http://www.univ-lr.fr"
-        },
-        "description":"POD platform of EU-CONEXUS"
-    },
-    {
-        "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
-        "resourceName":"M.N.H.N  eduspot",
-        "resourceProvider":{
-            "name":"Muséum National d'Histoire Naturelle",
-            "displayname":"Muséum National d'Histoire Naturelle",
-            "url":"http://www.mnhn.fr"
-        },
-        "description":"M.N.H.N  eduspot"
-    },
-    {
-        "catalogID":"5559dba31e456858b8c667916eccdf8d8f847a8f",
-        "resourceName":"HumanID",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"TGIR Huma-Num SSO service"
-    },
-    {
-        "catalogID":"180c7efa20d5f7cee080cb3e917d826d09e99ba7",
-        "resourceName":"ENS Paris-Saclay - Eduspot Portal",
-        "resourceProvider":{
-            "name":"Ecole Normale Supérieure Paris-Saclay",
-            "displayname":"Ecole Normale Supérieure Paris-Saclay",
-            "url":"https://www.ens-paris-saclay.fr"
-        },
-        "description":"Wireless access for eduspot project members."
-    },
-    {
         "catalogID":"a032f098e354f7f2184ec76501ba2bfd38b1e3f0",
         "resourceName":"portail-eduspot.inra.fr",
         "resourceProvider":{
@@ -29498,26 +29498,6 @@
             "url":"https://www.inra.fr"
         },
         "description":"portail de test connexion wifi et filaire"
-    },
-    {
-        "catalogID":"c172210413188b32e4b88234b1ba81c8281b733d",
-        "resourceName":" Bordeaux University- Moodle Montesquieu",
-        "resourceProvider":{
-            "name":"Université de Bordeaux",
-            "displayname":"Université de Bordeaux",
-            "url":"https://www.u-bordeaux.fr/"
-        },
-        "description":"Moodle Platform Montesquieu"
-    },
-    {
-        "catalogID":"936094b0467daf90b80c904919b738a4ca610e08",
-        "resourceName":"Compilatio - plagiarism Prevention (v4)",
-        "resourceProvider":{
-            "name":"COMPILATIO",
-            "displayname":"COMPILATIO",
-            "url":"http://www.compilatio.net"
-        },
-        "description":"Compilatio detects and measures similarities to prevent plagiarism in student work. It is an online document analysis service available to higher education institutions on subscription."
     },
     {
         "catalogID":"1379fdf926f6322c5cc8809cfc551c2245547214",
@@ -29530,16 +29510,6 @@
         "description":"Guest network access"
     },
     {
-        "catalogID":"0e09e8dbcfdaa49e8ad927651a298135ece37d20",
-        "resourceName":"Université de Nice - Fact",
-        "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
-        },
-        "description":"Plateforme de formation à la certification des compétences numériques"
-    },
-    {
         "catalogID":"abb73d4a52e000df4c0387e049da54616b038293",
         "resourceName":"RegApp for Civis Project",
         "resourceProvider":{
@@ -29548,16 +29518,6 @@
             "url":"http://www.univ-amu.fr"
         },
         "description":"RegApp for European Universities Civis Project"
-    },
-    {
-        "catalogID":"7def547ca3c8453adae8a8b8f731816434bb8f96",
-        "resourceName":"ESPCI ParisTech  WiFi Acess",
-        "resourceProvider":{
-            "name":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
-            "displayname":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
-            "url":"http://www.espci.fr"
-        },
-        "description":"ESPCI ParisTech  WiFi Acess"
     },
     {
         "catalogID":"0b76f7cbb65218e29f08c29baaabe9618d90388f",
@@ -29570,36 +29530,6 @@
         "description":"Portail d'accès WIFI"
     },
     {
-        "catalogID":"63ada97a7b0e140ef0507796519b6c56ac117131",
-        "resourceName":"moodle 4EU+",
-        "resourceProvider":{
-            "name":"Sorbonne Université",
-            "displayname":"Sorbonne Université",
-            "url":"https://www.sorbonne-universite.fr"
-        },
-        "description":"moodle 4EU+"
-    },
-    {
-        "catalogID":"6c6fedf84766d9d712c1758c29e217843a16d44e",
-        "resourceName":"Université de Lille - plate-forme charte digitale (identité)",
-        "resourceProvider":{
-            "name":"Université de Lille",
-            "displayname":"Université de Lille",
-            "url":"http://univ-lille.fr"
-        },
-        "description":"This platform allows the responsables of the communication to load digital identification elements they need"
-    },
-    {
-        "catalogID":"f10f9e09270c66d504fbc821e2e5bb194d16cb9e",
-        "resourceName":"Université Grenoble eformation",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"Moodle of University of Grenoble Alpes"
-    },
-    {
         "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
         "resourceName":"IN2P3-IP2I - SAML bridge",
         "resourceProvider":{
@@ -29608,36 +29538,6 @@
             "url":"http://www.dsi.cnrs.fr"
         },
         "description":"saml federation bridge production"
-    },
-    {
-        "catalogID":"56b13e9565c3cffb24e193c444903106c68b8ec1",
-        "resourceName":"HAL-CCSD",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Hal is an Open Archive for the scientific publication of french scientist"
-    },
-    {
-        "catalogID":"96de1ef4abd876f599d02df40438735104954634",
-        "resourceName":"AERIS-SSO",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Authentication service of the French atmospheric data cluster AERIS."
-    },
-    {
-        "catalogID":"913d78965e2237d4f556a9133fd0f3452e3e9690",
-        "resourceName":"CRIANN - High Performance Computing Resource Allocation",
-        "resourceProvider":{
-            "name":"CRIANN",
-            "displayname":"CRIANN",
-            "url":"http://www.crihan.fr"
-        },
-        "description":"This service allows academic users to submit their requests for hours on computing resources before evaluation and access to CRIANN supercomputers.\nIt is primarily intended for researchers, teacher-researchers, engineers or doctoral students assigned to a public research laboratory.\nSome features can potentially be used by any staff of the French ESR."
     },
     {
         "catalogID":"8eff1553c76ec7eb0161eec17dd16e4d4f31f294",
@@ -29660,36 +29560,6 @@
         "description":"Videoconferencing service Rendez-vous"
     },
     {
-        "catalogID":"cce9f436e3db2f02d08ba513795e42dbc3c29aa9",
-        "resourceName":"Observatoire de la Côte d'Azur - GitLab",
-        "resourceProvider":{
-            "name":"Observatoire de la Côte d'Azur",
-            "displayname":"Observatoire de la Côte d'Azur",
-            "url":"http://www.oca.eu"
-        },
-        "description":"GitLab platform of Observatoire de la Côte d'Azur"
-    },
-    {
-        "catalogID":"69542c102234bb2a90c19d01fbc99cc419982576",
-        "resourceName":"University of Caen Normandy — Web-based Git repository manager with wiki and issue tracking features",
-        "resourceProvider":{
-            "name":"Université de Caen Normandie",
-            "displayname":"Université de Caen Normandie",
-            "url":"http://www.unicaen.fr"
-        },
-        "description":"The https://git.unicaen.fr server hosts software repositories and helps collaboration.\nIt also offers the possibility do manage tickets, documentation (wiki and pages) and tests (continuous integration and deployement)."
-    },
-    {
-        "catalogID":"9b84b3c0e7400766aa488015de2b20c7315708df",
-        "resourceName":"Bordeaux University - Moodle Sc. de l'Homme et Sc. médicales",
-        "resourceProvider":{
-            "name":"Université de Bordeaux",
-            "displayname":"Université de Bordeaux",
-            "url":"https://www.u-bordeaux.fr/"
-        },
-        "description":"Moodle platform for collèges Sciences de l'Homme et Sciences Médicales"
-    },
-    {
         "catalogID":"1d89e65d6318141a837bfa81ec4f7b4a2ee2af82",
         "resourceName":"Dissemin",
         "resourceProvider":{
@@ -29700,6 +29570,146 @@
         "description":"Free and open service to help researchers deposit their articles in open repositories with respect to self-archiving policies of the publisher and in align with guidelines of employers or funders.\n\nThe service is supported by CCSD (HAL), CERN (Zenodo) and the universities of Braunschweig, Darmstadt and Stuttgart."
     },
     {
+        "catalogID":"7def547ca3c8453adae8a8b8f731816434bb8f96",
+        "resourceName":"ESPCI ParisTech  WiFi Acess",
+        "resourceProvider":{
+            "name":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
+            "displayname":"Ecole Supérieure de Physique et de Chimie Industrielles de la Ville de Paris",
+            "url":"http://www.espci.fr"
+        },
+        "description":"ESPCI ParisTech  WiFi Acess"
+    },
+    {
+        "catalogID":"6928146b17f1623713cebedea419f35a4edacbf1",
+        "resourceName":"University Paris 1 - online course",
+        "resourceProvider":{
+            "name":"Université Paris 1 - Panthéon Sorbonne",
+            "displayname":"Université Paris 1 - Panthéon Sorbonne",
+            "url":"http://www.univ-paris1.fr"
+        },
+        "description":"Online course of University Paris 1 Pantheon - Sorbonne (LMS Moodle)"
+    },
+    {
+        "catalogID":"3669443cf53b39c836777fef8a387ac31c6e9090",
+        "resourceName":"European Student Card Router",
+        "resourceProvider":{
+            "name":"CNOUS",
+            "displayname":"CNOUS",
+            "url":"http://www.cnous.fr"
+        },
+        "description":"Registration platform of European Student Card ; access to technical  documentation"
+    },
+    {
+        "catalogID":"1e41be03fae005c9e5fd388d66ec53b66720617d",
+        "resourceName":"Classiques Garnier Numérique",
+        "resourceProvider":{
+            "name":"Classiques Garnier",
+            "displayname":"Classiques Garnier",
+            "url":"https://www.classiques-garnier.com"
+        },
+        "description":"Classiques Garnier Numérique offers academic libraries, public and research centers access to databases, online book collections and journals in the fields of literature, the humanities and social sciences.\n\nTeachers, academics, researchers, students, pupils and enthusiasts have tens of thousands of reference works at their disposal, on every device, in text mode, easily searchable at simple or advanced levels thanks to a full data mark-up and a powerful search engine."
+    },
+    {
+        "catalogID":"5559dba31e456858b8c667916eccdf8d8f847a8f",
+        "resourceName":"HumanID",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"TGIR Huma-Num SSO service"
+    },
+    {
+        "catalogID":"6f5f0cc43191c04077e86faff8edb1dd2e55279f",
+        "resourceName":"EChamilo - UGA",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"E-learning plateform of the Grenoble Alpes University."
+    },
+    {
+        "catalogID":"e94cb32b221c0b1834d709505bd32de8d356148b",
+        "resourceName":"M.N.H.N  eduspot",
+        "resourceProvider":{
+            "name":"Muséum National d'Histoire Naturelle",
+            "displayname":"Muséum National d'Histoire Naturelle",
+            "url":"http://www.mnhn.fr"
+        },
+        "description":"M.N.H.N  eduspot"
+    },
+    {
+        "catalogID":"180c7efa20d5f7cee080cb3e917d826d09e99ba7",
+        "resourceName":"ENS Paris-Saclay - Eduspot Portal",
+        "resourceProvider":{
+            "name":"Ecole Normale Supérieure Paris-Saclay",
+            "displayname":"Ecole Normale Supérieure Paris-Saclay",
+            "url":"https://www.ens-paris-saclay.fr"
+        },
+        "description":"Wireless access for eduspot project members."
+    },
+    {
+        "catalogID":"c172210413188b32e4b88234b1ba81c8281b733d",
+        "resourceName":" Bordeaux University- Moodle Montesquieu",
+        "resourceProvider":{
+            "name":"Université de Bordeaux",
+            "displayname":"Université de Bordeaux",
+            "url":"https://www.u-bordeaux.fr/"
+        },
+        "description":"Moodle Platform Montesquieu"
+    },
+    {
+        "catalogID":"936094b0467daf90b80c904919b738a4ca610e08",
+        "resourceName":"Compilatio - plagiarism Prevention (v4)",
+        "resourceProvider":{
+            "name":"COMPILATIO",
+            "displayname":"COMPILATIO",
+            "url":"http://www.compilatio.net"
+        },
+        "description":"Compilatio detects and measures similarities to prevent plagiarism in student work. It is an online document analysis service available to higher education institutions on subscription."
+    },
+    {
+        "catalogID":"0e09e8dbcfdaa49e8ad927651a298135ece37d20",
+        "resourceName":"Université de Nice - Fact",
+        "resourceProvider":{
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
+        },
+        "description":"Plateforme de formation à la certification des compétences numériques"
+    },
+    {
+        "catalogID":"63ada97a7b0e140ef0507796519b6c56ac117131",
+        "resourceName":"moodle 4EU+",
+        "resourceProvider":{
+            "name":"Sorbonne Université",
+            "displayname":"Sorbonne Université",
+            "url":"https://www.sorbonne-universite.fr"
+        },
+        "description":"moodle 4EU+"
+    },
+    {
+        "catalogID":"f10f9e09270c66d504fbc821e2e5bb194d16cb9e",
+        "resourceName":"Université Grenoble eformation",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"Moodle of University of Grenoble Alpes"
+    },
+    {
+        "catalogID":"913d78965e2237d4f556a9133fd0f3452e3e9690",
+        "resourceName":"CRIANN - High Performance Computing Resource Allocation",
+        "resourceProvider":{
+            "name":"CRIANN",
+            "displayname":"CRIANN",
+            "url":"http://www.crihan.fr"
+        },
+        "description":"This service allows academic users to submit their requests for hours on computing resources before evaluation and access to CRIANN supercomputers.\nIt is primarily intended for researchers, teacher-researchers, engineers or doctoral students assigned to a public research laboratory.\nSome features can potentially be used by any staff of the French ESR."
+    },
+    {
         "catalogID":"ff0848593cfdbac3329e67349045d77a2ca279a2",
         "resourceName":"Open Science INRAE Forum",
         "resourceProvider":{
@@ -29708,6 +29718,36 @@
             "url":"https://www.inra.fr"
         },
         "description":"Forum DipSO INRAE"
+    },
+    {
+        "catalogID":"cce9f436e3db2f02d08ba513795e42dbc3c29aa9",
+        "resourceName":"Observatoire de la Côte d'Azur - GitLab",
+        "resourceProvider":{
+            "name":"Observatoire de la Côte d'Azur",
+            "displayname":"Observatoire de la Côte d'Azur",
+            "url":"http://www.oca.eu"
+        },
+        "description":"GitLab platform of Observatoire de la Côte d'Azur"
+    },
+    {
+        "catalogID":"56b13e9565c3cffb24e193c444903106c68b8ec1",
+        "resourceName":"HAL-CCSD",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Hal is an Open Archive for the scientific publication of french scientist"
+    },
+    {
+        "catalogID":"9b84b3c0e7400766aa488015de2b20c7315708df",
+        "resourceName":"Bordeaux University - Moodle Sc. de l'Homme et Sc. médicales",
+        "resourceProvider":{
+            "name":"Université de Bordeaux",
+            "displayname":"Université de Bordeaux",
+            "url":"https://www.u-bordeaux.fr/"
+        },
+        "description":"Moodle platform for collèges Sciences de l'Homme et Sciences Médicales"
     },
     {
         "catalogID":"cd2d7e462ee51a0879abb52627a13682c52fb922",
@@ -29740,86 +29780,6 @@
         "description":"Guest network access - Management Interface"
     },
     {
-        "catalogID":"1e41be03fae005c9e5fd388d66ec53b66720617d",
-        "resourceName":"Classiques Garnier Numérique",
-        "resourceProvider":{
-            "name":"Classiques Garnier",
-            "displayname":"Classiques Garnier",
-            "url":"https://www.classiques-garnier.com"
-        },
-        "description":"Classiques Garnier Numérique offers academic libraries, public and research centers access to databases, online book collections and journals in the fields of literature, the humanities and social sciences.\n\nTeachers, academics, researchers, students, pupils and enthusiasts have tens of thousands of reference works at their disposal, on every device, in text mode, easily searchable at simple or advanced levels thanks to a full data mark-up and a powerful search engine."
-    },
-    {
-        "catalogID":"3816cc2796d7fa15e0bbcd9da2778b0c581aee3e",
-        "resourceName":"ENIB - Documents management and sharing",
-        "resourceProvider":{
-            "name":"Ecole Nationale d'Ingénieurs de Brest",
-            "displayname":"Ecole Nationale d'Ingénieurs de Brest",
-            "url":"http://www.enib.fr"
-        },
-        "description":"Documents management and sharing"
-    },
-    {
-        "catalogID":"4ca19fdc39dc306b98e451afeb09a8ef25f8a230",
-        "resourceName":"Bordeaux  University- Moodle Sciences et Techno",
-        "resourceProvider":{
-            "name":"Université de Bordeaux",
-            "displayname":"Université de Bordeaux",
-            "url":"https://www.u-bordeaux.fr/"
-        },
-        "description":"Moodle Platform Sciences et Techno"
-    },
-    {
-        "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
-        "resourceName":"Service indico.in2p3.fr",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Service indico.in2p3.fr"
-    },
-    {
-        "catalogID":"a1bf98ae2f3fef7d643dbbe82bf38ec07f0d15f2",
-        "resourceName":"Université de Paris - Moodle",
-        "resourceProvider":{
-            "name":"Université de Paris",
-            "displayname":"Université de Paris",
-            "url":"https://u-paris.fr/"
-        },
-        "description":"Université de Paris - Moodle"
-    },
-    {
-        "catalogID":"2bb8a868e833efd8ceb2130ebfca965cb5a8961c",
-        "resourceName":"Lumière University - Lyon 2 - Open Moodle",
-        "resourceProvider":{
-            "name":"Université Lumière Lyon 2",
-            "displayname":"Université Lumière Lyon 2",
-            "url":"http://www.univ-lyon2.fr"
-        },
-        "description":"Courses platform"
-    },
-    {
-        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
-        "resourceName":"Caseine",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
-    },
-    {
-        "catalogID":"2edc6535792abed493e4454a9726c67579834a8f",
-        "resourceName":"Université Cote d'Azur - EDM",
-        "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
-        },
-        "description":"Electronic Document Management for Université Cote d'Azur. Access restricted to members"
-    },
-    {
         "catalogID":"8dcb656333dd56e05706cee13e575934460dd92a",
         "resourceName":"IN2P3-IP2I - sympa",
         "resourceProvider":{
@@ -29830,104 +29790,14 @@
         "description":"Serveurs de listes de l'IP2I"
     },
     {
-        "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
-        "resourceName":"University of Nantes - CCIPL - Accounts Manager",
+        "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
+        "resourceName":"De Boeck Supérieur License Desk",
         "resourceProvider":{
-            "name":"Université de Nantes",
-            "displayname":"Université de Nantes",
-            "url":"http://www.univ-nantes.fr"
+            "name":"DE BOECK SUPERIEUR",
+            "displayname":"DE BOECK SUPERIEUR",
+            "url":"https://www.deboecksuperieur.com/"
         },
-        "description":"Request portal and access management to the CCIPL computing cluster. https://ccipl.univ-nantes.fr/"
-    },
-    {
-        "catalogID":"012a751d16472e0fb1d6d56c765832848069a1a4",
-        "resourceName":"Metacampus for Unite!",
-        "resourceProvider":{
-            "name":"Université Grenoble Alpes",
-            "displayname":"Université Grenoble Alpes",
-            "url":"http://www.univ-grenoble-alpes.fr"
-        },
-        "description":"metacampus unite"
-    },
-    {
-        "catalogID":"467bb3d469b715bfac7b66e3468772d3c96d0021",
-        "resourceName":"Moodle EU-CONEXUS",
-        "resourceProvider":{
-            "name":"La Rochelle Université",
-            "displayname":"La Rochelle Université",
-            "url":"http://www.univ-lr.fr"
-        },
-        "description":"Moodle teaching platform for EU-CONEXUS"
-    },
-    {
-        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
-        "resourceName":"INRAE - Nextcloud",
-        "resourceProvider":{
-            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
-            "url":"https://www.inra.fr"
-        },
-        "description":"INRAE ​​data sharing service"
-    },
-    {
-        "catalogID":"611f43c172816eb9a5832c47ec975ded73bff97a",
-        "resourceName":"Listes pour le projet européen Civis",
-        "resourceProvider":{
-            "name":"Aix-Marseille Université (AMU)",
-            "displayname":"Aix-Marseille Université (AMU)",
-            "url":"http://www.univ-amu.fr"
-        },
-        "description":"Listes pour le projet européen Civis"
-    },
-    {
-        "catalogID":"8a7358a5ecd78d8b8b807831f12f494adb1ffdd9",
-        "resourceName":"Indico@IJCLab",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"Meeting and conference management service"
-    },
-    {
-        "catalogID":"4055d3a2f52fab4322bd35699c8182737e93a039",
-        "resourceName":"Université Cote d'Azur - EDM - modules",
-        "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
-        },
-        "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
-    },
-    {
-        "catalogID":"465ca975c625817f9d122412842b5abf1827b90b",
-        "resourceName":"MEDFILM educational platform",
-        "resourceProvider":{
-            "name":"Université de Strasbourg",
-            "displayname":"Université de Strasbourg",
-            "url":"http://www.unistra.fr"
-        },
-        "description":"MEDFILM educational platform is a database on the history of health."
-    },
-    {
-        "catalogID":"9153376bc50ae4d3aeedc1185bf471453376cc40",
-        "resourceName":"neuGRID for you",
-        "resourceProvider":{
-            "name":"MAAT FRANCE GNUBILA",
-            "displayname":"MAAT FRANCE GNUBILA",
-            "url":"http://www.gnubila.fr"
-        },
-        "description":"neuGRID is a web portal aimed to (i) help neuroscientists do high-throughput imaging research, and (ii) provide clinical neurologists automated diagnostic imaging markers of neurodegenerative diseases for individual patient diagnosis. neuGRID’s user-friendly environment is customised to a range of users from students to senior neuroscientists working in the fields of Alzheimer’s disease, psychiatric diseases, and white matter diseases. neuGRID aims to become a widespread resource for brain imaging analyses."
-    },
-    {
-        "catalogID":"a43b5e96a3b5721f90373d2fddea170586d0b60e",
-        "resourceName":"Captive Portal UPJV",
-        "resourceProvider":{
-            "name":"Université de Picardie Jules Verne",
-            "displayname":"Université de Picardie Jules Verne",
-            "url":"http://www.u-picardie.fr"
-        },
-        "description":"Eduspot"
+        "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
     },
     {
         "catalogID":"33d408a82be85eaa4d8f84e060c8115e72ebd4eb",
@@ -29950,44 +29820,24 @@
         "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users"
     },
     {
-        "catalogID":"20cca6a3ac8f2d51f0b716ab80d37db3e966bb28",
-        "resourceName":"University of Perpignan - eduspot",
+        "catalogID":"465ca975c625817f9d122412842b5abf1827b90b",
+        "resourceName":"MEDFILM educational platform",
         "resourceProvider":{
-            "name":"Université de Perpignan",
-            "displayname":"Université de Perpignan",
-            "url":"http://www.univ-perp.fr"
+            "name":"Université de Strasbourg",
+            "displayname":"Université de Strasbourg",
+            "url":"http://www.unistra.fr"
         },
-        "description":"eduspot universite de Perpignan"
+        "description":"MEDFILM educational platform is a database on the history of health."
     },
     {
-        "catalogID":"fa72e7910296434ffc6932d0a8ed12badf167252",
-        "resourceName":"SDIS Bayeux - Digital Tapestry - preprod",
+        "catalogID":"a43b5e96a3b5721f90373d2fddea170586d0b60e",
+        "resourceName":"Captive Portal UPJV",
         "resourceProvider":{
-            "name":"Université de Caen Normandie",
-            "displayname":"Université de Caen Normandie",
-            "url":"http://www.unicaen.fr"
+            "name":"Université de Picardie Jules Verne",
+            "displayname":"Université de Picardie Jules Verne",
+            "url":"http://www.u-picardie.fr"
         },
-        "description":"Spatialized Documentary Information System for the Bayeux Tapestry - pre-production / demo version"
-    },
-    {
-        "catalogID":"7718557b9bf5668ac0e484fd3c9c2194fd5d0457",
-        "resourceName":"API ISTEX integration version",
-        "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
-        },
-        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
-    },
-    {
-        "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
-        "resourceName":"De Boeck Supérieur License Desk",
-        "resourceProvider":{
-            "name":"DE BOECK SUPERIEUR",
-            "displayname":"DE BOECK SUPERIEUR",
-            "url":"https://www.deboecksuperieur.com/"
-        },
-        "description":"Environment on which Noto and NotoBib customers can use educational resources of De Boeck Supérieur"
+        "description":"Eduspot"
     },
     {
         "catalogID":"4190ca149997a8804ef8821319d419692b247be8",
@@ -30020,24 +29870,64 @@
         "description":"Organization and planification service Evento"
     },
     {
-        "catalogID":"65be2829510b9ca342142b44d5be74f167e1d990",
-        "resourceName":"Ulysseus Digital Platform",
+        "catalogID":"9153376bc50ae4d3aeedc1185bf471453376cc40",
+        "resourceName":"neuGRID for you",
         "resourceProvider":{
-            "name":"Université de Nice Sophia Antipolis",
-            "displayname":"Université de Nice Sophia Antipolis",
-            "url":"http://www.unice.fr"
+            "name":"MAAT FRANCE GNUBILA",
+            "displayname":"MAAT FRANCE GNUBILA",
+            "url":"http://www.gnubila.fr"
         },
-        "description":"Set of services offered in the scope of Ulysseus European University"
+        "description":"neuGRID is a web portal aimed to (i) help neuroscientists do high-throughput imaging research, and (ii) provide clinical neurologists automated diagnostic imaging markers of neurodegenerative diseases for individual patient diagnosis. neuGRID’s user-friendly environment is customised to a range of users from students to senior neuroscientists working in the fields of Alzheimer’s disease, psychiatric diseases, and white matter diseases. neuGRID aims to become a widespread resource for brain imaging analyses."
     },
     {
-        "catalogID":"b3021b6cbff8cdfdc24a2f2e9a0abd1a329c77ad",
-        "resourceName":"IN2P3-IP2I - Support",
+        "catalogID":"467bb3d469b715bfac7b66e3468772d3c96d0021",
+        "resourceName":"Moodle EU-CONEXUS",
         "resourceProvider":{
-            "name":"C.N.R.S. - DSI",
-            "displayname":"C.N.R.S. - DSI",
-            "url":"http://www.dsi.cnrs.fr"
+            "name":"La Rochelle Université",
+            "displayname":"La Rochelle Université",
+            "url":"http://www.univ-lr.fr"
         },
-        "description":"IP2I Users support"
+        "description":"Moodle teaching platform for EU-CONEXUS"
+    },
+    {
+        "catalogID":"3816cc2796d7fa15e0bbcd9da2778b0c581aee3e",
+        "resourceName":"ENIB - Documents management and sharing",
+        "resourceProvider":{
+            "name":"Ecole Nationale d'Ingénieurs de Brest",
+            "displayname":"Ecole Nationale d'Ingénieurs de Brest",
+            "url":"http://www.enib.fr"
+        },
+        "description":"Documents management and sharing"
+    },
+    {
+        "catalogID":"4ca19fdc39dc306b98e451afeb09a8ef25f8a230",
+        "resourceName":"Bordeaux  University- Moodle Sciences et Techno",
+        "resourceProvider":{
+            "name":"Université de Bordeaux",
+            "displayname":"Université de Bordeaux",
+            "url":"https://www.u-bordeaux.fr/"
+        },
+        "description":"Moodle Platform Sciences et Techno"
+    },
+    {
+        "catalogID":"20cca6a3ac8f2d51f0b716ab80d37db3e966bb28",
+        "resourceName":"University of Perpignan - eduspot",
+        "resourceProvider":{
+            "name":"Université de Perpignan",
+            "displayname":"Université de Perpignan",
+            "url":"http://www.univ-perp.fr"
+        },
+        "description":"eduspot universite de Perpignan"
+    },
+    {
+        "catalogID":"05842cd7761f067f8266466c4c17ba0b33ad23f3",
+        "resourceName":"Caseine",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"Caseine is a learning platform in Industrial Engineering, Mathematics and Computer science. Its aim is to stimulate students' learning and autonomy while improving the quality of the time the teacher gives them. Based on Moodle, it allows to:\n1) automatically evaluate the student's computer code and mathematical models,\n2) monitor the students' progress,\n3) share contents between the teachers through a community of users."
     },
     {
         "catalogID":"5f065f4ce207f504a8641ed112c2ead6b73872a0",
@@ -30050,6 +29940,56 @@
         "description":"eduspot captive portal"
     },
     {
+        "catalogID":"b3021b6cbff8cdfdc24a2f2e9a0abd1a329c77ad",
+        "resourceName":"IN2P3-IP2I - Support",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"IP2I Users support"
+    },
+    {
+        "catalogID":"611f43c172816eb9a5832c47ec975ded73bff97a",
+        "resourceName":"Listes pour le projet européen Civis",
+        "resourceProvider":{
+            "name":"Aix-Marseille Université (AMU)",
+            "displayname":"Aix-Marseille Université (AMU)",
+            "url":"http://www.univ-amu.fr"
+        },
+        "description":"Listes pour le projet européen Civis"
+    },
+    {
+        "catalogID":"fe60e1c15507cd2618ea3d9dc8c4c006265a0b77",
+        "resourceName":"Service indico.in2p3.fr",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Service indico.in2p3.fr"
+    },
+    {
+        "catalogID":"a1bf98ae2f3fef7d643dbbe82bf38ec07f0d15f2",
+        "resourceName":"Université de Paris - Moodle",
+        "resourceProvider":{
+            "name":"Université de Paris",
+            "displayname":"Université de Paris",
+            "url":"https://u-paris.fr/"
+        },
+        "description":"Université de Paris - Moodle"
+    },
+    {
+        "catalogID":"fa72e7910296434ffc6932d0a8ed12badf167252",
+        "resourceName":"SDIS Bayeux - Digital Tapestry - preprod",
+        "resourceProvider":{
+            "name":"Université de Caen Normandie",
+            "displayname":"Université de Caen Normandie",
+            "url":"http://www.unicaen.fr"
+        },
+        "description":"Spatialized Documentary Information System for the Bayeux Tapestry - pre-production / demo version"
+    },
+    {
         "catalogID":"5e2a90b2ebfdb58e9cf9bd8e56bc1247040c2e86",
         "resourceName":"Sorbonne University SP",
         "resourceProvider":{
@@ -30058,6 +29998,26 @@
             "url":"https://www.sorbonne-universite.fr"
         },
         "description":"Service check information"
+    },
+    {
+        "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
+        "resourceName":"University of Nantes - CCIPL - Accounts Manager",
+        "resourceProvider":{
+            "name":"Université de Nantes",
+            "displayname":"Université de Nantes",
+            "url":"http://www.univ-nantes.fr"
+        },
+        "description":"Request portal and access management to the CCIPL computing cluster. https://ccipl.univ-nantes.fr/"
+    },
+    {
+        "catalogID":"2bb8a868e833efd8ceb2130ebfca965cb5a8961c",
+        "resourceName":"Lumière University - Lyon 2 - Open Moodle",
+        "resourceProvider":{
+            "name":"Université Lumière Lyon 2",
+            "displayname":"Université Lumière Lyon 2",
+            "url":"http://www.univ-lyon2.fr"
+        },
+        "description":"Courses platform"
     },
     {
         "catalogID":"8c5869fa36258d39e69cb7e2ab1f0b2436e0d7f7",
@@ -30070,6 +30030,56 @@
         "description":"Civis projet user management"
     },
     {
+        "catalogID":"1ec47cf028507e82a10287e03305a70a3175bc38",
+        "resourceName":"Moodle Platform PLUBEL University of Burgundy (FRANCE)",
+        "resourceProvider":{
+            "name":"Université de Bourgogne",
+            "displayname":"Université de Bourgogne",
+            "url":"http://www.u-bourgogne.fr"
+        },
+        "description":"Plateforme d'enseignements en Ligne de l'université de Bourgogne (France) à destination des étudiants de l'université et des universités partenaires."
+    },
+    {
+        "catalogID":"7718557b9bf5668ac0e484fd3c9c2194fd5d0457",
+        "resourceName":"API ISTEX integration version",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"The ISTEX project is a vast programme for the acquisition of scientific resources aimed at setting up a digital library which complies with the highest international standards and provides all members of higher education and research establishments with remote access to those resources.\nISTEX API aims to give access to these scientific resources."
+    },
+    {
+        "catalogID":"0d317494076bd52625d4714e0776c1a30a3d2527",
+        "resourceName":"INRAE - Nextcloud",
+        "resourceProvider":{
+            "name":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "displayname":"INRAE - Institut national de recherche pour l'agriculture, l'alimentation et l'environnement",
+            "url":"https://www.inra.fr"
+        },
+        "description":"INRAE ​​data sharing service"
+    },
+    {
+        "catalogID":"012a751d16472e0fb1d6d56c765832848069a1a4",
+        "resourceName":"Metacampus for Unite!",
+        "resourceProvider":{
+            "name":"Université Grenoble Alpes",
+            "displayname":"Université Grenoble Alpes",
+            "url":"http://www.univ-grenoble-alpes.fr"
+        },
+        "description":"metacampus unite"
+    },
+    {
+        "catalogID":"2edc6535792abed493e4454a9726c67579834a8f",
+        "resourceName":"Université Cote d'Azur - EDM",
+        "resourceProvider":{
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
+        },
+        "description":"Electronic Document Management for Université Cote d'Azur. Access restricted to members"
+    },
+    {
         "catalogID":"b4adcd9a4cc88078598283e7bb57ac04f580f170",
         "resourceName":"CAIRN",
         "resourceProvider":{
@@ -30078,6 +30088,16 @@
             "url":"http://www.cairn.info/"
         },
         "description":"Created in September 2005 by four Belgian and French publishers, today Cairn offers the most comprehensive collection of publications in the French language in the humanities and social sciences available online. In 2015, more than 400 journals and around 5,000 eBooks from major French, Belgian and Swiss publishers are available on www.cairn.info. Students, scholars and librarians all over the world are thus able to access more than 200,000 full-text articles and book chapters online.\nTo make this content more visible and accessible to non–francophone scholars, Cairn.info (with the support of the CNL, a French governmental agency dedicated to the promotion of French publications around the world) has designed a special interface, www.cairn-int.info, enabling internet users to browse and easily find content from French journals without speaking a word of French."
+    },
+    {
+        "catalogID":"8a7358a5ecd78d8b8b807831f12f494adb1ffdd9",
+        "resourceName":"Indico@IJCLab",
+        "resourceProvider":{
+            "name":"C.N.R.S. - DSI",
+            "displayname":"C.N.R.S. - DSI",
+            "url":"http://www.dsi.cnrs.fr"
+        },
+        "description":"Meeting and conference management service"
     },
     {
         "catalogID":"e0f662e083fbfc2234016543bac529e16430e3f5",
@@ -30100,6 +30120,16 @@
         "description":"Preproduction educational platform of Rouen Normandy University"
     },
     {
+        "catalogID":"4055d3a2f52fab4322bd35699c8182737e93a039",
+        "resourceName":"Université Cote d'Azur - EDM - modules",
+        "resourceProvider":{
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
+        },
+        "description":"Modules for Electronic Document Management for Université Cote d'Azur. Access restricted to members"
+    },
+    {
         "catalogID":"545787a2cb8d37a5c687d3682c8874ecb3658c43",
         "resourceName":"Ecole Nationale Superieure de l'Electronique et de ses Applications - Eduspot",
         "resourceProvider":{
@@ -30120,14 +30150,14 @@
         "description":"Spatialized Documentary Information System for the Bayeux Tapestry"
     },
     {
-        "catalogID":"b17bfcb61cc36fd58934e5bbeef314c21cf01d41",
-        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
+        "catalogID":"65be2829510b9ca342142b44d5be74f167e1d990",
+        "resourceName":"Ulysseus Digital Platform",
         "resourceProvider":{
-            "name":"Observatoire de la Côte d'Azur",
-            "displayname":"Observatoire de la Côte d'Azur",
-            "url":"http://www.oca.eu"
+            "name":"Université de Nice Sophia Antipolis",
+            "displayname":"Université de Nice Sophia Antipolis",
+            "url":"http://www.unice.fr"
         },
-        "description":"eduspot captive portal"
+        "description":"Set of services offered in the scope of Ulysseus European University"
     },
     {
         "catalogID":"30653e9f6545b73659ac0f7dce22072b21802033",
@@ -30138,6 +30168,16 @@
             "url":"http://www.unicaen.fr"
         },
         "description":"Thecaelab is a experimentation platform dedicated to scholarly edition of ancient inventories. Designed as a texts laboratory it provides to the scientific community testing solutions for XML TEI annotation, search and extraction of information or visualisation of data sets added to the platform."
+    },
+    {
+        "catalogID":"b17bfcb61cc36fd58934e5bbeef314c21cf01d41",
+        "resourceName":"Eduspot - Observatoire de la Côte d'Azur",
+        "resourceProvider":{
+            "name":"Observatoire de la Côte d'Azur",
+            "displayname":"Observatoire de la Côte d'Azur",
+            "url":"http://www.oca.eu"
+        },
+        "description":"eduspot captive portal"
     },
     {
         "catalogID":"d54711a2d2076bb74b6b50f08273deef68357513",
@@ -30178,16 +30218,6 @@
             "url":"http://www.univ-paris1.fr"
         },
         "description":"Shibboleth administration authentification"
-    },
-    {
-        "catalogID":"9463cd39f6bc618101be1ef2b54be03cba5d5f6f",
-        "resourceName":"Shared learning platform - Forthem partner university",
-        "resourceProvider":{
-            "name":"Université de Bourgogne",
-            "displayname":"Université de Bourgogne",
-            "url":"http://www.u-bourgogne.fr"
-        },
-        "description":"Shared learning platform - Forthem partner university\n\nPlatform  to students enrolled in The University of Bourgogne and / or the partner Universities of the Federation."
     },
     {
         "catalogID":"13f71c0bc0c5c463ebf4c1b0590d81a98d2b14b7",
@@ -30290,6 +30320,16 @@
         "description":"Lyon3 resource for access to PIX education resources via a moodle platform."
     },
     {
+        "catalogID":"69542c102234bb2a90c19d01fbc99cc419982576",
+        "resourceName":"University of Caen Normandy — Web-based Git repository manager with wiki and issue tracking features",
+        "resourceProvider":{
+            "name":"Université de Caen Normandie",
+            "displayname":"Université de Caen Normandie",
+            "url":"http://www.unicaen.fr"
+        },
+        "description":"The https://git.unicaen.fr server hosts software repositories and helps collaboration.\nIt also offers the possibility do manage tickets, documentation (wiki and pages) and tests (continuous integration and deployement)."
+    },
+    {
         "catalogID":"14125f65460dc330eefbf167aa9d06ddf3cebd2e",
         "resourceName":"CivisBox for Civis poject",
         "resourceProvider":{
@@ -30298,6 +30338,16 @@
             "url":"http://www.univ-amu.fr"
         },
         "description":"User sharing information for CIVIS"
+    },
+    {
+        "catalogID":"5609519484dadb3837286a11416a8833f05b87ec",
+        "resourceName":"Eduspot - Nimes University",
+        "resourceProvider":{
+            "name":"Université de Nîmes",
+            "displayname":"Université de Nîmes",
+            "url":"http://www.unimes.fr"
+        },
+        "description":"Eduspot - Nimes University"
     },
     {
         "catalogID":"8bdb175c606c0e8081bf062adfb114f070a4b340",
@@ -34538,16 +34588,6 @@
             "url":"https://www.egi.eu/"
         },
         "description":"EOSC Portal supports access to European Open Science Cloud services and resources"
-    },
-    {
-        "catalogID":"cbdfd406d89b42c1f17d2e4bc49b1e44386c4b1f",
-        "resourceName":"EGI Check-in Service",
-        "resourceProvider":{
-            "name":"EGI Foundation",
-            "displayname":"EGI Foundation",
-            "url":"https://www.egi.eu/"
-        },
-        "description":"EGI Check-in Service"
     },
     {
         "catalogID":"594357401d747e3cfc79e52853d1921798626df1",
