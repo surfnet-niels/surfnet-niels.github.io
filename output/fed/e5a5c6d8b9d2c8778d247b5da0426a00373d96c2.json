@@ -1,0 +1,199 @@
+{
+    "generated":"2022-02-23 22:23",
+    "en":[
+        {
+            "catalogID":"e5a5c6d8b9d2c8778d247b5da0426a00373d96c2",
+            "entityID":"https://idp.uprm.edu/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"University of Puerto Rico-Mayaguez",
+            "resourceProvider":{
+                "name":"University of Puerto Rico-Mayaguez",
+                "displayname":"University of Puerto Rico-Mayaguez",
+                "url":"http://www.uprm.edu/portada/index.php?lng=0"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"The Mayaguez campus of the University of Puerto Rico is an educational entity with a mix and multicultural heritage focused on students with a desire to obtain a solid academic preparation, which this campus offer with both undergraduate as well as graduate studies, to better, prepare themselves for the challenges that lay ahead of them in their professional lives. This campus is ideal for students with an enthusiasm and desire to better themselves in their knowledge and skills to become successful professionals.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Javier Hernandez",
+                    "email":"mailto:javier.hernandez18@upr.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Andres Rosado",
+                    "email":"mailto:andres.rosado@upr.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Andres Rosado",
+                    "email":"mailto:andres.rosado@upr.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Carlos Velez",
+                    "email":"mailto:c.velez@upr.edu"
+                }
+            ],
+            "info":"https://www.uprm.edu/portales/acerca-del-rum",
+            "privacy":"https://www.uprm.edu/portales/en/privacy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e5a5c6d8b9d2c8778d247b5da0426a00373d96c2",
+            "entityID":"https://idp.uprm.edu/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"University of Puerto Rico-Mayaguez",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uprm.edu/portada/index.php?lng=0"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Javier Hernandez",
+                    "email":"mailto:javier.hernandez18@upr.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Andres Rosado",
+                    "email":"mailto:andres.rosado@upr.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Andres Rosado",
+                    "email":"mailto:andres.rosado@upr.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Carlos Velez",
+                    "email":"mailto:c.velez@upr.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e5a5c6d8b9d2c8778d247b5da0426a00373d96c2",
+            "entityID":"https://idp.uprm.edu/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"University of Puerto Rico-Mayaguez",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uprm.edu/portada/index.php?lng=0"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Javier Hernandez",
+                    "email":"mailto:javier.hernandez18@upr.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Andres Rosado",
+                    "email":"mailto:andres.rosado@upr.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Andres Rosado",
+                    "email":"mailto:andres.rosado@upr.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Carlos Velez",
+                    "email":"mailto:c.velez@upr.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e5a5c6d8b9d2c8778d247b5da0426a00373d96c2",
+            "entityID":"https://idp.uprm.edu/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"University of Puerto Rico-Mayaguez",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uprm.edu/portada/index.php?lng=0"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Javier Hernandez",
+                    "email":"mailto:javier.hernandez18@upr.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Andres Rosado",
+                    "email":"mailto:andres.rosado@upr.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Andres Rosado",
+                    "email":"mailto:andres.rosado@upr.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Carlos Velez",
+                    "email":"mailto:c.velez@upr.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
