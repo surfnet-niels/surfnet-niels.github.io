@@ -1,10 +1,10 @@
 {
-    "generated":"2022-02-25 18:27",
+    "generated":"2022-02-25 22:23",
     "en":[
         {
             "catalogID":"1dd3a8ca96c674a330b98258a5b87e792ac3f3e3",
             "entityID":"https://uiccds.photoshelter.com/sso/SAML2",
-            "resourceName":"PhotoShelter - UIC Creative and Digital Services",
+            "resourceName":"PhotoShelter - UIC Visual Assets",
             "resourceProvider":{
                 "name":"PhotoShelter, Inc.",
                 "displayname":"PhotoShelter, Inc.",
@@ -19,22 +19,22 @@
                     "sn"
                 ]
             },
-            "description":"PhotoShelter UIC Creative and Digital Services SSO portal",
+            "description":"PhotoShelter UIC Visual Assets SSO portal",
             "resourceContacts":[
                 {
                     "type":"technical",
                     "name":"PhotoShelter Engineering",
-                    "email":"sso@photoshelter.com"
+                    "email":"mailto:sso@photoshelter.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Libris Client Services",
-                    "email":"librissupport@photoshelter.com"
+                    "email":"mailto:librissupport@photoshelter.com"
                 },
                 {
                     "type":"security",
                     "name":"PhotoShelter Engineering",
-                    "email":"sso@photoshelter.com"
+                    "email":"mailto:sso@photoshelter.com"
                 }
             ],
             "info":"",
@@ -42,14 +42,16 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
         {
             "catalogID":"1dd3a8ca96c674a330b98258a5b87e792ac3f3e3",
             "entityID":"https://uiccds.photoshelter.com/sso/SAML2",
-            "resourceName":"PhotoShelter - UIC Creative and Digital Services",
+            "resourceName":"PhotoShelter - UIC Visual Assets",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -69,17 +71,17 @@
                 {
                     "type":"technical",
                     "name":"PhotoShelter Engineering",
-                    "email":"sso@photoshelter.com"
+                    "email":"mailto:sso@photoshelter.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Libris Client Services",
-                    "email":"librissupport@photoshelter.com"
+                    "email":"mailto:librissupport@photoshelter.com"
                 },
                 {
                     "type":"security",
                     "name":"PhotoShelter Engineering",
-                    "email":"sso@photoshelter.com"
+                    "email":"mailto:sso@photoshelter.com"
                 }
             ],
             "info":"",
@@ -87,14 +89,16 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
         {
             "catalogID":"1dd3a8ca96c674a330b98258a5b87e792ac3f3e3",
             "entityID":"https://uiccds.photoshelter.com/sso/SAML2",
-            "resourceName":"PhotoShelter - UIC Creative and Digital Services",
+            "resourceName":"PhotoShelter - UIC Visual Assets",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -114,17 +118,17 @@
                 {
                     "type":"technical",
                     "name":"PhotoShelter Engineering",
-                    "email":"sso@photoshelter.com"
+                    "email":"mailto:sso@photoshelter.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Libris Client Services",
-                    "email":"librissupport@photoshelter.com"
+                    "email":"mailto:librissupport@photoshelter.com"
                 },
                 {
                     "type":"security",
                     "name":"PhotoShelter Engineering",
-                    "email":"sso@photoshelter.com"
+                    "email":"mailto:sso@photoshelter.com"
                 }
             ],
             "info":"",
@@ -132,14 +136,16 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
         {
             "catalogID":"1dd3a8ca96c674a330b98258a5b87e792ac3f3e3",
             "entityID":"https://uiccds.photoshelter.com/sso/SAML2",
-            "resourceName":"PhotoShelter - UIC Creative and Digital Services",
+            "resourceName":"PhotoShelter - UIC Visual Assets",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -159,17 +165,17 @@
                 {
                     "type":"technical",
                     "name":"PhotoShelter Engineering",
-                    "email":"sso@photoshelter.com"
+                    "email":"mailto:sso@photoshelter.com"
                 },
                 {
                     "type":"administrative",
                     "name":"Libris Client Services",
-                    "email":"librissupport@photoshelter.com"
+                    "email":"mailto:librissupport@photoshelter.com"
                 },
                 {
                     "type":"security",
                     "name":"PhotoShelter Engineering",
-                    "email":"sso@photoshelter.com"
+                    "email":"mailto:sso@photoshelter.com"
                 }
             ],
             "info":"",
@@ -177,7 +183,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
