@@ -1,5 +1,5 @@
 {
-    "generated":"2022-02-25 06:28",
+    "generated":"2022-02-28 12:37",
     "en":[
         {
             "catalogID":"790ea2788e913f1c3a35510820c82fd0d9b3fdff",
@@ -33,8 +33,11 @@
                 }
             ],
             "info":"",
-            "privacy":"",
-            "entityCategories":[],
+            "privacy":"https://dev.account.ilabt.imec.be/privacy-statement",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -72,7 +75,10 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -110,7 +116,10 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -148,7 +157,10 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
             "SirtfiSupport":[]
         }
     ]
