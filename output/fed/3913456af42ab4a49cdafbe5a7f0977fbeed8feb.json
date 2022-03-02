@@ -1,0 +1,183 @@
+{
+    "generated":"2022-03-02 22:36",
+    "en":[
+        {
+            "catalogID":"3913456af42ab4a49cdafbe5a7f0977fbeed8feb",
+            "entityID":"https://medapplication.ucsf.edu/shibboleth",
+            "resourceName":"AMP Med Admissions",
+            "resourceProvider":{
+                "name":"University of California, San Francisco",
+                "displayname":"University of California, San Francisco",
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Daniel Sotto",
+                    "email":"mailto:dan.sotto@ucsf.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Kevin Haney",
+                    "email":"mailto:HaneyK@medsch.ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Haney",
+                    "email":"mailto:HaneyK@medsch.ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://it.ucsf.edu/sites/it.ucsf.edu/files/ucsf_campus_security_and_privacy_attestation_statement.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"3913456af42ab4a49cdafbe5a7f0977fbeed8feb",
+            "entityID":"https://medapplication.ucsf.edu/shibboleth",
+            "resourceName":"AMP Med Admissions",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Daniel Sotto",
+                    "email":"mailto:dan.sotto@ucsf.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Kevin Haney",
+                    "email":"mailto:HaneyK@medsch.ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Haney",
+                    "email":"mailto:HaneyK@medsch.ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"3913456af42ab4a49cdafbe5a7f0977fbeed8feb",
+            "entityID":"https://medapplication.ucsf.edu/shibboleth",
+            "resourceName":"AMP Med Admissions",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Daniel Sotto",
+                    "email":"mailto:dan.sotto@ucsf.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Kevin Haney",
+                    "email":"mailto:HaneyK@medsch.ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Haney",
+                    "email":"mailto:HaneyK@medsch.ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"3913456af42ab4a49cdafbe5a7f0977fbeed8feb",
+            "entityID":"https://medapplication.ucsf.edu/shibboleth",
+            "resourceName":"AMP Med Admissions",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Daniel Sotto",
+                    "email":"mailto:dan.sotto@ucsf.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Kevin Haney",
+                    "email":"mailto:HaneyK@medsch.ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Kevin Haney",
+                    "email":"mailto:HaneyK@medsch.ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
