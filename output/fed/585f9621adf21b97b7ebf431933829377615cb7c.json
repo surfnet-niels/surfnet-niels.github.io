@@ -1,57 +1,71 @@
 {
-    "generated":"2022-03-03 16:38",
+    "generated":"2022-03-03 18:32",
     "en":[
         {
             "catalogID":"585f9621adf21b97b7ebf431933829377615cb7c",
             "entityID":"https://shibbolethsp.jstor.org/shibboleth",
-            "resourceName":"JSTOR SP",
+            "resourceName":"ITHAKA Service Provider",
             "resourceProvider":{
-                "name":"Ithaka Harbors, Inc.",
-                "displayname":"JSTOR SP",
-                "url":"http://www.ithaka.org/"
+                "name":"JSTOR",
+                "displayname":"JSTOR",
+                "url":"http://www.jstor.org"
             },
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "eduPersonEntitlement",
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID",
                     "mail"
                 ]
             },
-            "description":"JSTOR Shibboleth Service Provider",
+            "description":"Service provider for JSTOR, Artstor and JSTOR Forum.",
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"Support",
+                    "name":"ITHAKA Support",
                     "email":"mailto:support@jstor.org"
                 },
                 {
                     "type":"technical",
-                    "name":"grp_ithaka_auth",
-                    "email":"mailto:grp_ithaka_auth@ithaka.org"
+                    "name":"ITHAKA Authentication Team",
+                    "email":"mailto:GRP_ITHAKA_Auth@Ithaka.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Spencer Thomas",
+                    "email":"mailto:spencer.thomas@ithaka.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ITHAKA Authentication Team",
+                    "email":"mailto:GRP_ITHAKA_Auth@Ithaka.org"
                 }
             ],
             "info":"",
-            "privacy":"",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "privacy":"http://www.artstor.org/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
         {
             "catalogID":"585f9621adf21b97b7ebf431933829377615cb7c",
             "entityID":"https://shibbolethsp.jstor.org/shibboleth",
-            "resourceName":"JSTOR SP",
+            "resourceName":"ITHAKA Service Provider",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.ithaka.org/"
+                "url":"http://www.jstor.org"
             },
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "eduPersonEntitlement",
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID",
                     "mail"
                 ]
             },
@@ -59,36 +73,50 @@
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"Support",
+                    "name":"ITHAKA Support",
                     "email":"mailto:support@jstor.org"
                 },
                 {
                     "type":"technical",
-                    "name":"grp_ithaka_auth",
-                    "email":"mailto:grp_ithaka_auth@ithaka.org"
+                    "name":"ITHAKA Authentication Team",
+                    "email":"mailto:GRP_ITHAKA_Auth@Ithaka.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Spencer Thomas",
+                    "email":"mailto:spencer.thomas@ithaka.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ITHAKA Authentication Team",
+                    "email":"mailto:GRP_ITHAKA_Auth@Ithaka.org"
                 }
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
         {
             "catalogID":"585f9621adf21b97b7ebf431933829377615cb7c",
             "entityID":"https://shibbolethsp.jstor.org/shibboleth",
-            "resourceName":"JSTOR SP",
+            "resourceName":"ITHAKA Service Provider",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.ithaka.org/"
+                "url":"http://www.jstor.org"
             },
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "eduPersonEntitlement",
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID",
                     "mail"
                 ]
             },
@@ -96,36 +124,50 @@
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"Support",
+                    "name":"ITHAKA Support",
                     "email":"mailto:support@jstor.org"
                 },
                 {
                     "type":"technical",
-                    "name":"grp_ithaka_auth",
-                    "email":"mailto:grp_ithaka_auth@ithaka.org"
+                    "name":"ITHAKA Authentication Team",
+                    "email":"mailto:GRP_ITHAKA_Auth@Ithaka.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Spencer Thomas",
+                    "email":"mailto:spencer.thomas@ithaka.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ITHAKA Authentication Team",
+                    "email":"mailto:GRP_ITHAKA_Auth@Ithaka.org"
                 }
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
         {
             "catalogID":"585f9621adf21b97b7ebf431933829377615cb7c",
             "entityID":"https://shibbolethsp.jstor.org/shibboleth",
-            "resourceName":"JSTOR SP",
+            "resourceName":"ITHAKA Service Provider",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.ithaka.org/"
+                "url":"http://www.jstor.org"
             },
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "eduPersonEntitlement",
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID",
                     "mail"
                 ]
             },
@@ -133,19 +175,33 @@
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"Support",
+                    "name":"ITHAKA Support",
                     "email":"mailto:support@jstor.org"
                 },
                 {
                     "type":"technical",
-                    "name":"grp_ithaka_auth",
-                    "email":"mailto:grp_ithaka_auth@ithaka.org"
+                    "name":"ITHAKA Authentication Team",
+                    "email":"mailto:GRP_ITHAKA_Auth@Ithaka.org"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Spencer Thomas",
+                    "email":"mailto:spencer.thomas@ithaka.org"
+                },
+                {
+                    "type":"security",
+                    "name":"ITHAKA Authentication Team",
+                    "email":"mailto:GRP_ITHAKA_Auth@Ithaka.org"
                 }
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
