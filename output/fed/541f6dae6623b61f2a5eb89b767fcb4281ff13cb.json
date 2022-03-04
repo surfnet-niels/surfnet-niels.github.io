@@ -1,5 +1,5 @@
 {
-    "generated":"2022-03-04 08:27",
+    "generated":"2022-03-04 10:26",
     "en":[
         {
             "catalogID":"541f6dae6623b61f2a5eb89b767fcb4281ff13cb",
@@ -12,16 +12,17 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "mail",
                     "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "sn",
                     "gn",
-                    "cn",
                     "displayName"
                 ],
-                "requested":[]
+                "requested":[
+                    "eduPersonTargetedID",
+                    "cn"
+                ]
             },
             "description":"Amberscript allows you to automatically create text and subtitles from audio or video files you upload.",
             "resourceContacts":[
@@ -51,16 +52,17 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "mail",
                     "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "sn",
                     "gn",
-                    "cn",
                     "displayName"
                 ],
-                "requested":[]
+                "requested":[
+                    "eduPersonTargetedID",
+                    "cn"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -90,16 +92,17 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "mail",
                     "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "sn",
                     "gn",
-                    "cn",
                     "displayName"
                 ],
-                "requested":[]
+                "requested":[
+                    "eduPersonTargetedID",
+                    "cn"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -129,16 +132,17 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "mail",
                     "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "sn",
                     "gn",
-                    "cn",
                     "displayName"
                 ],
-                "requested":[]
+                "requested":[
+                    "eduPersonTargetedID",
+                    "cn"
+                ]
             },
             "description":"",
             "resourceContacts":[
