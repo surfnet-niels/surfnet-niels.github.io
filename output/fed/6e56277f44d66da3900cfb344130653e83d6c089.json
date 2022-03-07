@@ -1,0 +1,191 @@
+{
+    "generated":"2022-03-07 22:23",
+    "en":[
+        {
+            "catalogID":"6e56277f44d66da3900cfb344130653e83d6c089",
+            "entityID":"https://olemiss.inforeadyscale.com/saml",
+            "resourceName":"InfoReady Scale - University of Mississippi",
+            "resourceProvider":{
+                "name":"InfoReady Corp",
+                "displayname":"InfoReady Corp",
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"http://privacy-policy.inforeadycorp.com/InfoReady%20Privacy%20Notice.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"6e56277f44d66da3900cfb344130653e83d6c089",
+            "entityID":"https://olemiss.inforeadyscale.com/saml",
+            "resourceName":"InfoReady Scale - University of Mississippi",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"6e56277f44d66da3900cfb344130653e83d6c089",
+            "entityID":"https://olemiss.inforeadyscale.com/saml",
+            "resourceName":"InfoReady Scale - University of Mississippi",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"6e56277f44d66da3900cfb344130653e83d6c089",
+            "entityID":"https://olemiss.inforeadyscale.com/saml",
+            "resourceName":"InfoReady Scale - University of Mississippi",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.infoready4.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                },
+                {
+                    "type":"security",
+                    "name":"John Testa",
+                    "email":"mailto:jtesta@inforeadycorp.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

@@ -1,5 +1,5 @@
 {
-    "generated":"2022-03-07 20:24",
+    "generated":"2022-03-07 22:23",
     "en":[
         {
             "catalogID":"26dc5badae3a93e1f6e062e52c8a7e0aa994bc52",
@@ -17,19 +17,19 @@
             "description":"1721",
             "resourceContacts":[
                 {
-                    "type":"administrative",
-                    "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
-                },
-                {
                     "type":"technical",
                     "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
+                    "email":"mailto:Prodtask@imodules.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brett Lowther",
+                    "email":"mailto:Prodtask@imodules.com"
                 },
                 {
                     "type":"security",
                     "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
+                    "email":"mailto:Prodtask@imodules.com"
                 }
             ],
             "info":"",
@@ -37,7 +37,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -57,19 +59,19 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"administrative",
-                    "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
-                },
-                {
                     "type":"technical",
                     "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
+                    "email":"mailto:Prodtask@imodules.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brett Lowther",
+                    "email":"mailto:Prodtask@imodules.com"
                 },
                 {
                     "type":"security",
                     "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
+                    "email":"mailto:Prodtask@imodules.com"
                 }
             ],
             "info":"",
@@ -77,7 +79,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -97,19 +101,19 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"administrative",
-                    "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
-                },
-                {
                     "type":"technical",
                     "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
+                    "email":"mailto:Prodtask@imodules.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brett Lowther",
+                    "email":"mailto:Prodtask@imodules.com"
                 },
                 {
                     "type":"security",
                     "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
+                    "email":"mailto:Prodtask@imodules.com"
                 }
             ],
             "info":"",
@@ -117,7 +121,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -137,19 +143,19 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"administrative",
-                    "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
-                },
-                {
                     "type":"technical",
                     "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
+                    "email":"mailto:Prodtask@imodules.com"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Brett Lowther",
+                    "email":"mailto:Prodtask@imodules.com"
                 },
                 {
                     "type":"security",
                     "name":"Brett Lowther",
-                    "email":"mailto:prodqueue@imodules.com"
+                    "email":"mailto:Prodtask@imodules.com"
                 }
             ],
             "info":"",
@@ -157,7 +163,9 @@
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
