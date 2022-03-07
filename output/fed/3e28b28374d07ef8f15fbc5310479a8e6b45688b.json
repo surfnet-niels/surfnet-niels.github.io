@@ -1,5 +1,5 @@
 {
-    "generated":"2022-03-07 06:28",
+    "generated":"2022-03-07 08:27",
     "en":[
         {
             "catalogID":"3e28b28374d07ef8f15fbc5310479a8e6b45688b",
@@ -12,19 +12,20 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "email"
+                    "email",
+                    "givenName",
+                    "surname",
+                    "displayName",
+                    "schacHomeOrganization"
                 ],
                 "requested":[
                     "eduPersonAffiliation",
-                    "givenName",
                     "eduPersonScopedAffiliation",
-                    "surname",
                     "commonName",
-                    "displayName",
                     "eduPersonUniqueId",
                     "eduPersonPrincipalName",
-                    "schacHomeOrganization",
-                    "schacHomeOrganizationType"
+                    "schacHomeOrganizationType",
+                    "preferredLanguage"
                 ]
             },
             "description":"Access services provided by the Linguistic Research Infrastructure (LiRI) at University of Zurich",
@@ -61,19 +62,20 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "email"
+                    "email",
+                    "givenName",
+                    "surname",
+                    "displayName",
+                    "schacHomeOrganization"
                 ],
                 "requested":[
                     "eduPersonAffiliation",
-                    "givenName",
                     "eduPersonScopedAffiliation",
-                    "surname",
                     "commonName",
-                    "displayName",
                     "eduPersonUniqueId",
                     "eduPersonPrincipalName",
-                    "schacHomeOrganization",
-                    "schacHomeOrganizationType"
+                    "schacHomeOrganizationType",
+                    "preferredLanguage"
                 ]
             },
             "description":"",
@@ -110,19 +112,20 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "email"
+                    "email",
+                    "givenName",
+                    "surname",
+                    "displayName",
+                    "schacHomeOrganization"
                 ],
                 "requested":[
                     "eduPersonAffiliation",
-                    "givenName",
                     "eduPersonScopedAffiliation",
-                    "surname",
                     "commonName",
-                    "displayName",
                     "eduPersonUniqueId",
                     "eduPersonPrincipalName",
-                    "schacHomeOrganization",
-                    "schacHomeOrganizationType"
+                    "schacHomeOrganizationType",
+                    "preferredLanguage"
                 ]
             },
             "description":"",
@@ -159,19 +162,20 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "email"
+                    "email",
+                    "givenName",
+                    "surname",
+                    "displayName",
+                    "schacHomeOrganization"
                 ],
                 "requested":[
                     "eduPersonAffiliation",
-                    "givenName",
                     "eduPersonScopedAffiliation",
-                    "surname",
                     "commonName",
-                    "displayName",
                     "eduPersonUniqueId",
                     "eduPersonPrincipalName",
-                    "schacHomeOrganization",
-                    "schacHomeOrganizationType"
+                    "schacHomeOrganizationType",
+                    "preferredLanguage"
                 ]
             },
             "description":"",
