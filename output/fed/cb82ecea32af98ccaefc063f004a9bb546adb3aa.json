@@ -1,39 +1,53 @@
 {
-    "generated":"2022-03-11 08:27",
+    "generated":"2022-03-11 10:26",
     "en":[
         {
             "catalogID":"cb82ecea32af98ccaefc063f004a9bb546adb3aa",
             "entityID":"https://sp.snd.gu.se/module.php/saml/sp/metadata.php/default-sp",
-            "resourceName":"Swedish National Data Service",
+            "resourceName":"SND Service Provider",
             "resourceProvider":{
-                "name":"SND Gothenburg University",
-                "displayname":"Swedish National Data Service Gothenburg University",
-                "url":"https://snd.gu.se/sv"
+                "name":"Swedish National Data Service",
+                "displayname":"Swedish National Data Service",
+                "url":"https://snd.gu.se/en"
             },
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "mail",
-                    "sn",
                     "cn",
-                    "givenName"
+                    "eduPersonOrcid",
+                    "givenName",
+                    "mail",
+                    "sn"
                 ]
             },
-            "description":"SND is a national resource that facilitates access to new and existing Swedish research data within and outside of Sweden.",
+            "description":"SSO service for SND.",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"SNDAdministrative",
+                    "email":"mailto:snd@snd.gu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"SNDSupport",
+                    "email":"mailto:webmaster@snd.gu.se"
+                },
+                {
                     "type":"technical",
-                    "name":"PabloMillet",
-                    "email":"mailto:pablo.millet@gu.se"
+                    "name":"SNDAdministrator",
+                    "email":"mailto:webmaster@snd.gu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SNDSecurity",
+                    "email":"mailto:webmaster@snd.gu.se"
                 }
             ],
-            "info":"https://snd.gu.se/en/about-us",
-            "privacy":"",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
-            ],
+            "info":"https://snd.gu.se/en",
+            "privacy":"https://www.gu.se/en/about-the-website/processing-personal-data",
+            "entityCategories":[],
             "SirtfiSupport":[]
         }
     ],
@@ -45,32 +59,46 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://snd.gu.se/sv"
+                "url":"https://snd.gu.se/en"
             },
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "mail",
-                    "sn",
                     "cn",
-                    "givenName"
+                    "eduPersonOrcid",
+                    "givenName",
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"SNDAdministrative",
+                    "email":"mailto:snd@snd.gu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"SNDSupport",
+                    "email":"mailto:webmaster@snd.gu.se"
+                },
+                {
                     "type":"technical",
-                    "name":"PabloMillet",
-                    "email":"mailto:pablo.millet@gu.se"
+                    "name":"SNDAdministrator",
+                    "email":"mailto:webmaster@snd.gu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SNDSecurity",
+                    "email":"mailto:webmaster@snd.gu.se"
                 }
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
-            ],
+            "entityCategories":[],
             "SirtfiSupport":[]
         }
     ],
@@ -82,32 +110,46 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://snd.gu.se/sv"
+                "url":"https://snd.gu.se/en"
             },
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "mail",
-                    "sn",
                     "cn",
-                    "givenName"
+                    "eduPersonOrcid",
+                    "givenName",
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"SNDAdministrative",
+                    "email":"mailto:snd@snd.gu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"SNDSupport",
+                    "email":"mailto:webmaster@snd.gu.se"
+                },
+                {
                     "type":"technical",
-                    "name":"PabloMillet",
-                    "email":"mailto:pablo.millet@gu.se"
+                    "name":"SNDAdministrator",
+                    "email":"mailto:webmaster@snd.gu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SNDSecurity",
+                    "email":"mailto:webmaster@snd.gu.se"
                 }
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
-            ],
+            "entityCategories":[],
             "SirtfiSupport":[]
         }
     ],
@@ -119,32 +161,46 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://snd.gu.se/sv"
+                "url":"https://snd.gu.se/en"
             },
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "mail",
-                    "sn",
                     "cn",
-                    "givenName"
+                    "eduPersonOrcid",
+                    "givenName",
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"SNDAdministrative",
+                    "email":"mailto:snd@snd.gu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"SNDSupport",
+                    "email":"mailto:webmaster@snd.gu.se"
+                },
+                {
                     "type":"technical",
-                    "name":"PabloMillet",
-                    "email":"mailto:pablo.millet@gu.se"
+                    "name":"SNDAdministrator",
+                    "email":"mailto:webmaster@snd.gu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SNDSecurity",
+                    "email":"mailto:webmaster@snd.gu.se"
                 }
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
-            ],
+            "entityCategories":[],
             "SirtfiSupport":[]
         }
     ]
