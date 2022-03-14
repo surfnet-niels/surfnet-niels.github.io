@@ -1,0 +1,195 @@
+{
+    "generated":"2022-03-14 14:26",
+    "en":[
+        {
+            "catalogID":"e20e90cdc95122843c1b1dd568abd85a2183a530",
+            "entityID":"https://studip-sp.uni-goettingen.de/shibboleth",
+            "resourceName":"Stud.IP Goettingen University",
+            "resourceProvider":{
+                "name":"e112",
+                "displayname":"Gesellschaft für wissenschaftliche Datenverarbeitung mbH",
+                "url":"http://www.gwdg.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "sn",
+                    "givenName"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"Georg-August-Universität Göttingen Stud.IP",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ChristianFliegner",
+                    "email":"mailto:christian.fliegner@uni-goettingen.de"
+                },
+                {
+                    "type":"support",
+                    "name":"GWDG SSO Team",
+                    "email":"mailto:sso@gwdg.de"
+                },
+                {
+                    "type":"security",
+                    "name":"GWDG SSO Team",
+                    "email":"mailto:sso@gwdg.de"
+                }
+            ],
+            "info":"https://www.uni-goettingen.de/en/218306.html",
+            "privacy":"https://www.uni-goettingen.de/en/439479.html",
+            "entityCategories":[
+                "http://aai.dfn.de/category/highmeducation-member",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e20e90cdc95122843c1b1dd568abd85a2183a530",
+            "entityID":"https://studip-sp.uni-goettingen.de/shibboleth",
+            "resourceName":"Stud.IP Goettingen University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.gwdg.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "sn",
+                    "givenName"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ChristianFliegner",
+                    "email":"mailto:christian.fliegner@uni-goettingen.de"
+                },
+                {
+                    "type":"support",
+                    "name":"GWDG SSO Team",
+                    "email":"mailto:sso@gwdg.de"
+                },
+                {
+                    "type":"security",
+                    "name":"GWDG SSO Team",
+                    "email":"mailto:sso@gwdg.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://aai.dfn.de/category/highmeducation-member",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e20e90cdc95122843c1b1dd568abd85a2183a530",
+            "entityID":"https://studip-sp.uni-goettingen.de/shibboleth",
+            "resourceName":"Stud.IP Goettingen University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.gwdg.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "sn",
+                    "givenName"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ChristianFliegner",
+                    "email":"mailto:christian.fliegner@uni-goettingen.de"
+                },
+                {
+                    "type":"support",
+                    "name":"GWDG SSO Team",
+                    "email":"mailto:sso@gwdg.de"
+                },
+                {
+                    "type":"security",
+                    "name":"GWDG SSO Team",
+                    "email":"mailto:sso@gwdg.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://aai.dfn.de/category/highmeducation-member",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e20e90cdc95122843c1b1dd568abd85a2183a530",
+            "entityID":"https://studip-sp.uni-goettingen.de/shibboleth",
+            "resourceName":"Stud.IP Universität Göttingen",
+            "resourceProvider":{
+                "name":"e112",
+                "displayname":"Gesellschaft für wissenschaftliche Datenverarbeitung mbH",
+                "url":"http://www.gwdg.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "sn",
+                    "givenName"
+                ],
+                "requested":[
+                    "cn"
+                ]
+            },
+            "description":"Stud.IP der Georg-August-Universität Göttingen",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"ChristianFliegner",
+                    "email":"mailto:christian.fliegner@uni-goettingen.de"
+                },
+                {
+                    "type":"support",
+                    "name":"GWDG SSO Team",
+                    "email":"mailto:sso@gwdg.de"
+                },
+                {
+                    "type":"security",
+                    "name":"GWDG SSO Team",
+                    "email":"mailto:sso@gwdg.de"
+                }
+            ],
+            "info":"https://www.uni-goettingen.de/de/218306.html",
+            "privacy":"https://www.uni-goettingen.de/de/439479.html",
+            "entityCategories":[
+                "http://aai.dfn.de/category/highmeducation-member",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
