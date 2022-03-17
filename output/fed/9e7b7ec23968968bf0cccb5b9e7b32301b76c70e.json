@@ -1,40 +1,47 @@
 {
-    "generated":"2022-03-16 22:23",
+    "generated":"2022-03-17 01:35",
     "en":[
         {
             "catalogID":"9e7b7ec23968968bf0cccb5b9e7b32301b76c70e",
             "entityID":"https://identity.nkoda.com/oa/entity",
             "resourceName":"nkoda: the sheet music library",
             "resourceProvider":{
-                "name":"Nkoda Limited",
-                "displayname":"Nkoda Limited",
-                "url":"http://www.nkoda.com/"
+                "name":"e698",
+                "displayname":"nkoda Limited",
+                "url":"https://www.nkoda.com"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID",
-                    "eduPersonPrincipalName",
+                "required":[
                     "eduPersonEntitlement",
-                    "mail"
-                ]
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
             },
             "description":"A fully licensed sheet music service through which the catalogues of over 100 publishers can be accessed",
             "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"SundarVenkitachalam",
+                    "email":"mailto:security@nkoda.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SundarVenkitachalam",
+                    "email":"mailto:sundar@nkoda.com"
+                },
                 {
                     "type":"support",
                     "name":"SundarVenkitachalam",
                     "email":"mailto:sundar@nkoda.com"
                 },
                 {
-                    "type":"technical",
+                    "type":"administrative",
                     "name":"SundarVenkitachalam",
                     "email":"mailto:sundar@nkoda.com"
                 }
             ],
-            "info":"",
-            "privacy":"",
+            "info":"http://www.nkoda.com",
+            "privacy":"https://www.nkoda.com/legal/privacy-policy",
             "entityCategories":[],
             "SirtfiSupport":[]
         }
@@ -47,27 +54,34 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.nkoda.com/"
+                "url":"https://www.nkoda.com"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID",
-                    "eduPersonPrincipalName",
+                "required":[
                     "eduPersonEntitlement",
-                    "mail"
-                ]
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"SundarVenkitachalam",
+                    "email":"mailto:security@nkoda.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SundarVenkitachalam",
+                    "email":"mailto:sundar@nkoda.com"
+                },
                 {
                     "type":"support",
                     "name":"SundarVenkitachalam",
                     "email":"mailto:sundar@nkoda.com"
                 },
                 {
-                    "type":"technical",
+                    "type":"administrative",
                     "name":"SundarVenkitachalam",
                     "email":"mailto:sundar@nkoda.com"
                 }
@@ -86,27 +100,34 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.nkoda.com/"
+                "url":"https://www.nkoda.com"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID",
-                    "eduPersonPrincipalName",
+                "required":[
                     "eduPersonEntitlement",
-                    "mail"
-                ]
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"SundarVenkitachalam",
+                    "email":"mailto:security@nkoda.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SundarVenkitachalam",
+                    "email":"mailto:sundar@nkoda.com"
+                },
                 {
                     "type":"support",
                     "name":"SundarVenkitachalam",
                     "email":"mailto:sundar@nkoda.com"
                 },
                 {
-                    "type":"technical",
+                    "type":"administrative",
                     "name":"SundarVenkitachalam",
                     "email":"mailto:sundar@nkoda.com"
                 }
@@ -121,37 +142,44 @@
         {
             "catalogID":"9e7b7ec23968968bf0cccb5b9e7b32301b76c70e",
             "entityID":"https://identity.nkoda.com/oa/entity",
-            "resourceName":"nkoda: the sheet music library",
+            "resourceName":"nkoda: Bibliothek für Noten",
             "resourceProvider":{
-                "name":[],
-                "displayname":[],
-                "url":"http://www.nkoda.com/"
+                "name":"e698",
+                "displayname":"nkoda Limited",
+                "url":"https://www.nkoda.com"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID",
-                    "eduPersonPrincipalName",
+                "required":[
                     "eduPersonEntitlement",
-                    "mail"
-                ]
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
             },
-            "description":"",
+            "description":"30 Millionen Seiten im Abo",
             "resourceContacts":[
+                {
+                    "type":"security",
+                    "name":"SundarVenkitachalam",
+                    "email":"mailto:security@nkoda.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"SundarVenkitachalam",
+                    "email":"mailto:sundar@nkoda.com"
+                },
                 {
                     "type":"support",
                     "name":"SundarVenkitachalam",
                     "email":"mailto:sundar@nkoda.com"
                 },
                 {
-                    "type":"technical",
+                    "type":"administrative",
                     "name":"SundarVenkitachalam",
                     "email":"mailto:sundar@nkoda.com"
                 }
             ],
-            "info":"",
-            "privacy":"",
+            "info":"http://www.nkoda.com",
+            "privacy":"https://www.nkoda.com/legal/privacy-policy",
             "entityCategories":[],
             "SirtfiSupport":[]
         }
