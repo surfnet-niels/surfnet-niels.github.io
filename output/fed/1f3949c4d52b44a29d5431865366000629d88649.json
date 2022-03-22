@@ -1,5 +1,5 @@
 {
-    "generated":"2022-03-22 16:44",
+    "generated":"2022-03-22 18:27",
     "en":[
         {
             "catalogID":"1f3949c4d52b44a29d5431865366000629d88649",
@@ -8,31 +8,39 @@
             "resourceProvider":{
                 "name":"EBSCO Publishing, Inc",
                 "displayname":"EBSCO Publishing, Inc",
-                "url":"http://www.ebsco.com/home/"
+                "url":"http://ebsco.com/"
             },
             "resourceAttributes":{
                 "required":[],
                 "requested":[
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
-                    "eduPersonEntitlement"
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "surname"
                 ]
             },
-            "description":"",
+            "description":"SP description: EBSCO is the leading provider of research databases, e-journal and e-package subscription management, book collection development and acquisition management, and a major provider of library technology, e-books and clinical decision solutions for universities, colleges, hospitals, corporations, government, K12 schools and public libraries worldwide.",
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"EBSCO Customer Satisfaction",
-                    "email":"mailto:shib-tech@ebscohost.com"
+                    "name":"EBSCO Shibboleth Tech",
+                    "email":"mailto:support@ebsco.com"
                 },
                 {
                     "type":"technical",
                     "name":"EBSCO Shibboleth Tech",
-                    "email":"mailto:shib-tech@ebscohost.com"
+                    "email":"mailto:support@ebsco.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Officer",
+                    "email":"mailto:EISInfoSec@ebsco.com"
                 }
             ],
             "info":"",
-            "privacy":"",
+            "privacy":"https://www.ebsco.com/company/privacy-policy",
             "entityCategories":[],
             "SirtfiSupport":[]
         }
@@ -45,27 +53,35 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.ebsco.com/home/"
+                "url":"http://ebsco.com/"
             },
             "resourceAttributes":{
                 "required":[],
                 "requested":[
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
-                    "eduPersonEntitlement"
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "surname"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"EBSCO Customer Satisfaction",
-                    "email":"mailto:shib-tech@ebscohost.com"
+                    "name":"EBSCO Shibboleth Tech",
+                    "email":"mailto:support@ebsco.com"
                 },
                 {
                     "type":"technical",
                     "name":"EBSCO Shibboleth Tech",
-                    "email":"mailto:shib-tech@ebscohost.com"
+                    "email":"mailto:support@ebsco.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Officer",
+                    "email":"mailto:EISInfoSec@ebsco.com"
                 }
             ],
             "info":"",
@@ -82,27 +98,35 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.ebsco.com/home/"
+                "url":"http://ebsco.com/"
             },
             "resourceAttributes":{
                 "required":[],
                 "requested":[
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
-                    "eduPersonEntitlement"
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "surname"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"EBSCO Customer Satisfaction",
-                    "email":"mailto:shib-tech@ebscohost.com"
+                    "name":"EBSCO Shibboleth Tech",
+                    "email":"mailto:support@ebsco.com"
                 },
                 {
                     "type":"technical",
                     "name":"EBSCO Shibboleth Tech",
-                    "email":"mailto:shib-tech@ebscohost.com"
+                    "email":"mailto:support@ebsco.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Officer",
+                    "email":"mailto:EISInfoSec@ebsco.com"
                 }
             ],
             "info":"",
@@ -119,27 +143,35 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.ebsco.com/home/"
+                "url":"http://ebsco.com/"
             },
             "resourceAttributes":{
                 "required":[],
                 "requested":[
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
-                    "eduPersonEntitlement"
+                    "eduPersonEntitlement",
+                    "mail",
+                    "givenName",
+                    "surname"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"EBSCO Customer Satisfaction",
-                    "email":"mailto:shib-tech@ebscohost.com"
+                    "name":"EBSCO Shibboleth Tech",
+                    "email":"mailto:support@ebsco.com"
                 },
                 {
                     "type":"technical",
                     "name":"EBSCO Shibboleth Tech",
-                    "email":"mailto:shib-tech@ebscohost.com"
+                    "email":"mailto:support@ebsco.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Officer",
+                    "email":"mailto:EISInfoSec@ebsco.com"
                 }
             ],
             "info":"",
