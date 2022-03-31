@@ -1,5 +1,5 @@
 {
-    "generated":"2022-03-31 08:30",
+    "generated":"2022-03-31 10:28",
     "en":[
         {
             "catalogID":"515fe2cb27e03f940d92a86ee49b838855faec22",
@@ -12,6 +12,7 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "authMail",
                     "cn",
                     "displayName",
                     "eduPersonPrincipalName",
@@ -25,6 +26,7 @@
                     "unstructuredName"
                 ],
                 "requested":[
+                    "commonNameASCII",
                     "eduPersonEntitlement",
                     "eduroamUID",
                     "ou",
@@ -64,6 +66,7 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "authMail",
                     "cn",
                     "displayName",
                     "eduPersonPrincipalName",
@@ -77,6 +80,7 @@
                     "unstructuredName"
                 ],
                 "requested":[
+                    "commonNameASCII",
                     "eduPersonEntitlement",
                     "eduroamUID",
                     "ou",
@@ -116,6 +120,7 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "authMail",
                     "cn",
                     "displayName",
                     "eduPersonPrincipalName",
@@ -129,6 +134,7 @@
                     "unstructuredName"
                 ],
                 "requested":[
+                    "commonNameASCII",
                     "eduPersonEntitlement",
                     "eduroamUID",
                     "ou",
@@ -168,6 +174,7 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "authMail",
                     "cn",
                     "displayName",
                     "eduPersonPrincipalName",
@@ -181,6 +188,7 @@
                     "unstructuredName"
                 ],
                 "requested":[
+                    "commonNameASCII",
                     "eduPersonEntitlement",
                     "eduroamUID",
                     "ou",
