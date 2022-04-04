@@ -1,0 +1,123 @@
+{
+    "generated":"2022-04-04 12:46",
+    "en":[
+        {
+            "catalogID":"2cb297edf65ed677fa9cc7546d735c4fdbe54438",
+            "entityID":"http://ssh-ca.deic.dk",
+            "resourceName":"DeiC SSH Certificate Authority",
+            "resourceProvider":{
+                "name":"deic.dk",
+                "displayname":"Danish e-infrastructure Cooperation ",
+                "url":"http://www.deic.dk"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"DeiC SSH Certificate Authority",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mads FreekPetersen",
+                    "email":"mailto:freek@wayf.dk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2cb297edf65ed677fa9cc7546d735c4fdbe54438",
+            "entityID":"http://ssh-ca.deic.dk",
+            "resourceName":"DeiC SSH Certificate Authority",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.deic.dk"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mads FreekPetersen",
+                    "email":"mailto:freek@wayf.dk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2cb297edf65ed677fa9cc7546d735c4fdbe54438",
+            "entityID":"http://ssh-ca.deic.dk",
+            "resourceName":"DeiC SSH Certificate Authority",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.deic.dk"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mads FreekPetersen",
+                    "email":"mailto:freek@wayf.dk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2cb297edf65ed677fa9cc7546d735c4fdbe54438",
+            "entityID":"http://ssh-ca.deic.dk",
+            "resourceName":"DeiC SSH Certificate Authority",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.deic.dk"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Mads FreekPetersen",
+                    "email":"mailto:freek@wayf.dk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
