@@ -1,5 +1,5 @@
 {
-    "generated":"2022-04-06 14:27",
+    "generated":"2022-04-06 16:34",
     "en":[
         {
             "catalogID":"02b8629a90fc043d50ef7a68426ca4eaa2d3d299",
@@ -11,8 +11,17 @@
                 "url":"http://www.colorado.edu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
             },
             "description":"University of Colorado Boulder Development OpenStack Platform",
             "resourceContacts":[
@@ -71,15 +80,24 @@
         {
             "catalogID":"02b8629a90fc043d50ef7a68426ca4eaa2d3d299",
             "entityID":"https://dev-openstack.colorado.edu/shibboleth",
-            "resourceName":"https://dev-openstack.colorado.edu/shibboleth",
+            "resourceName":"University of Colorado Boulder Development OpenStack",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.colorado.edu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -138,15 +156,24 @@
         {
             "catalogID":"02b8629a90fc043d50ef7a68426ca4eaa2d3d299",
             "entityID":"https://dev-openstack.colorado.edu/shibboleth",
-            "resourceName":"https://dev-openstack.colorado.edu/shibboleth",
+            "resourceName":"University of Colorado Boulder Development OpenStack",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.colorado.edu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -205,15 +232,24 @@
         {
             "catalogID":"02b8629a90fc043d50ef7a68426ca4eaa2d3d299",
             "entityID":"https://dev-openstack.colorado.edu/shibboleth",
-            "resourceName":"https://dev-openstack.colorado.edu/shibboleth",
+            "resourceName":"University of Colorado Boulder Development OpenStack",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.colorado.edu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
             },
             "description":"",
             "resourceContacts":[

@@ -1,5 +1,5 @@
 {
-    "generated":"2022-04-06 14:27",
+    "generated":"2022-04-06 16:34",
     "en":[
         {
             "catalogID":"927db6b2b2da44a2e26add8eafb5c189f46cf02f",
@@ -12,7 +12,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -46,7 +48,7 @@
         {
             "catalogID":"927db6b2b2da44a2e26add8eafb5c189f46cf02f",
             "entityID":"https://www.ebay.com/cmps/sp-test2",
-            "resourceName":"https://www.ebay.com/cmps/sp-test2",
+            "resourceName":"eBay On Campus - test2",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -54,7 +56,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -88,7 +92,7 @@
         {
             "catalogID":"927db6b2b2da44a2e26add8eafb5c189f46cf02f",
             "entityID":"https://www.ebay.com/cmps/sp-test2",
-            "resourceName":"https://www.ebay.com/cmps/sp-test2",
+            "resourceName":"eBay On Campus - test2",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -96,7 +100,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -130,7 +136,7 @@
         {
             "catalogID":"927db6b2b2da44a2e26add8eafb5c189f46cf02f",
             "entityID":"https://www.ebay.com/cmps/sp-test2",
-            "resourceName":"https://www.ebay.com/cmps/sp-test2",
+            "resourceName":"eBay On Campus - test2",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -138,7 +144,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"",
             "resourceContacts":[

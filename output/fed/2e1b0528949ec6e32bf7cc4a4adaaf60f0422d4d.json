@@ -1,0 +1,171 @@
+{
+    "generated":"2022-04-06 16:34",
+    "en":[
+        {
+            "catalogID":"2e1b0528949ec6e32bf7cc4a4adaaf60f0422d4d",
+            "entityID":"https://mfa-auth.vnv.phenoapp.com/Saml2",
+            "resourceName":"Pheno",
+            "resourceProvider":{
+                "name":"The Ohio State University",
+                "displayname":"Ohio State University",
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Pheno is a powerful research platform for evaluating the efficacy of clinical low back and neck pain treatment modalities, or identifying patient phenotypes that respond favorably to a given treatment. It can also be used to objectively evaluate the effect of organizational countermeasures such as training programs, equipment changes, or other occupational interventions on low back and neck pain for a given population.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jon Dufour",
+                    "email":"mailto:dufour.8@osu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jon Dufour",
+                    "email":"mailto:dufour.8@osu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"The Ohio State University Security Team",
+                    "email":"mailto:security@osu.edu"
+                }
+            ],
+            "info":"https://mfa-auth.vnv.phenoapp.com/info.html",
+            "privacy":"https://mfa-auth.vnv.phenoapp.com/privacy_statement.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2e1b0528949ec6e32bf7cc4a4adaaf60f0422d4d",
+            "entityID":"https://mfa-auth.vnv.phenoapp.com/Saml2",
+            "resourceName":"https://mfa-auth.vnv.phenoapp.com/Saml2",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jon Dufour",
+                    "email":"mailto:dufour.8@osu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jon Dufour",
+                    "email":"mailto:dufour.8@osu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"The Ohio State University Security Team",
+                    "email":"mailto:security@osu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2e1b0528949ec6e32bf7cc4a4adaaf60f0422d4d",
+            "entityID":"https://mfa-auth.vnv.phenoapp.com/Saml2",
+            "resourceName":"https://mfa-auth.vnv.phenoapp.com/Saml2",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jon Dufour",
+                    "email":"mailto:dufour.8@osu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jon Dufour",
+                    "email":"mailto:dufour.8@osu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"The Ohio State University Security Team",
+                    "email":"mailto:security@osu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2e1b0528949ec6e32bf7cc4a4adaaf60f0422d4d",
+            "entityID":"https://mfa-auth.vnv.phenoapp.com/Saml2",
+            "resourceName":"https://mfa-auth.vnv.phenoapp.com/Saml2",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.osu.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Jon Dufour",
+                    "email":"mailto:dufour.8@osu.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Jon Dufour",
+                    "email":"mailto:dufour.8@osu.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"The Ohio State University Security Team",
+                    "email":"mailto:security@osu.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

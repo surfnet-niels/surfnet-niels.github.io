@@ -1,5 +1,5 @@
 {
-    "generated":"2022-04-06 14:27",
+    "generated":"2022-04-06 16:34",
     "en":[
         {
             "catalogID":"e50a290c032c6a612bd51a916a6e06bb78049d73",
@@ -11,8 +11,17 @@
                 "url":"http://www.colorado.edu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
             },
             "description":"University of Colorado Boulder Computer Science Cloud",
             "resourceContacts":[
@@ -51,15 +60,24 @@
         {
             "catalogID":"e50a290c032c6a612bd51a916a6e06bb78049d73",
             "entityID":"https://cloud.cs.colorado.edu/shibboleth",
-            "resourceName":"https://cloud.cs.colorado.edu/shibboleth",
+            "resourceName":"University of Colorado Boulder CS OpenStack",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.colorado.edu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -98,15 +116,24 @@
         {
             "catalogID":"e50a290c032c6a612bd51a916a6e06bb78049d73",
             "entityID":"https://cloud.cs.colorado.edu/shibboleth",
-            "resourceName":"https://cloud.cs.colorado.edu/shibboleth",
+            "resourceName":"University of Colorado Boulder CS OpenStack",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.colorado.edu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -145,15 +172,24 @@
         {
             "catalogID":"e50a290c032c6a612bd51a916a6e06bb78049d73",
             "entityID":"https://cloud.cs.colorado.edu/shibboleth",
-            "resourceName":"https://cloud.cs.colorado.edu/shibboleth",
+            "resourceName":"University of Colorado Boulder CS OpenStack",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.colorado.edu/"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[]
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
             },
             "description":"",
             "resourceContacts":[
