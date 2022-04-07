@@ -1,10 +1,10 @@
 {
-    "generated":"2022-04-07 16:33",
+    "generated":"2022-04-07 18:28",
     "en":[
         {
             "catalogID":"a5ab3f55e38038a9070d16d6a77e957a0e5c5e54",
             "entityID":"https://shibboleth2sp.tf.semcs.net/shibboleth",
-            "resourceName":"https://shibboleth2sp.tf.semcs.net/shibboleth",
+            "resourceName":"Semantico Limited: Taylor and Francis",
             "resourceProvider":{
                 "name":"Semantico Limited",
                 "displayname":"Semantico Limited: Taylor and Francis",
@@ -12,7 +12,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -37,7 +39,7 @@
         {
             "catalogID":"a5ab3f55e38038a9070d16d6a77e957a0e5c5e54",
             "entityID":"https://shibboleth2sp.tf.semcs.net/shibboleth",
-            "resourceName":"https://shibboleth2sp.tf.semcs.net/shibboleth",
+            "resourceName":"Semantico Limited: Taylor and Francis",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -45,7 +47,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -70,7 +74,7 @@
         {
             "catalogID":"a5ab3f55e38038a9070d16d6a77e957a0e5c5e54",
             "entityID":"https://shibboleth2sp.tf.semcs.net/shibboleth",
-            "resourceName":"https://shibboleth2sp.tf.semcs.net/shibboleth",
+            "resourceName":"Semantico Limited: Taylor and Francis",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -78,7 +82,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -103,7 +109,7 @@
         {
             "catalogID":"a5ab3f55e38038a9070d16d6a77e957a0e5c5e54",
             "entityID":"https://shibboleth2sp.tf.semcs.net/shibboleth",
-            "resourceName":"https://shibboleth2sp.tf.semcs.net/shibboleth",
+            "resourceName":"Semantico Limited: Taylor and Francis",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -111,7 +117,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonScopedAffiliation"
+                ]
             },
             "description":"",
             "resourceContacts":[
