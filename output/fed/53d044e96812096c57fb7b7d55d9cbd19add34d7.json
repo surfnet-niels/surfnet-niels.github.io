@@ -1,5 +1,5 @@
 {
-    "generated":"2022-04-14 18:29",
+    "generated":"2022-04-14 20:26",
     "en":[
         {
             "catalogID":"53d044e96812096c57fb7b7d55d9cbd19add34d7",
@@ -12,12 +12,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "displayName",
                     "mail",
-                    "commonName",
-                    "eduPersonScopedAffiliation",
                     "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "displayName",
                     "surname",
+                    "commonName",
                     "givenName",
                     "eduPersonAffiliation"
                 ],
@@ -49,12 +49,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "displayName",
                     "mail",
-                    "commonName",
-                    "eduPersonScopedAffiliation",
                     "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "displayName",
                     "surname",
+                    "commonName",
                     "givenName",
                     "eduPersonAffiliation"
                 ],
@@ -86,12 +86,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "displayName",
                     "mail",
-                    "commonName",
-                    "eduPersonScopedAffiliation",
                     "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "displayName",
                     "surname",
+                    "commonName",
                     "givenName",
                     "eduPersonAffiliation"
                 ],
@@ -123,12 +123,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "displayName",
                     "mail",
-                    "commonName",
-                    "eduPersonScopedAffiliation",
                     "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "displayName",
                     "surname",
+                    "commonName",
                     "givenName",
                     "eduPersonAffiliation"
                 ],
