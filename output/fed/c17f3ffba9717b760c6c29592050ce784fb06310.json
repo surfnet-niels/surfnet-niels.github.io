@@ -1,5 +1,5 @@
 {
-    "generated":"2022-04-18 12:42",
+    "generated":"2022-04-18 14:22",
     "en":[
         {
             "catalogID":"c17f3ffba9717b760c6c29592050ce784fb06310",
@@ -16,10 +16,11 @@
                     "surname",
                     "email",
                     "uid",
-                    "schacPersonalUniqueCode",
                     "schacHomeOrganization"
                 ],
-                "requested":[]
+                "requested":[
+                    "schacPersonalUniqueCode"
+                ]
             },
             "description":"Moodle platform for students and teachers from the Higher Education Institutions that are part of the European University Alliance FILMEU - filmeu.eu",
             "resourceContacts":[
@@ -61,10 +62,11 @@
                     "surname",
                     "email",
                     "uid",
-                    "schacPersonalUniqueCode",
                     "schacHomeOrganization"
                 ],
-                "requested":[]
+                "requested":[
+                    "schacPersonalUniqueCode"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -106,10 +108,11 @@
                     "surname",
                     "email",
                     "uid",
-                    "schacPersonalUniqueCode",
                     "schacHomeOrganization"
                 ],
-                "requested":[]
+                "requested":[
+                    "schacPersonalUniqueCode"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -151,10 +154,11 @@
                     "surname",
                     "email",
                     "uid",
-                    "schacPersonalUniqueCode",
                     "schacHomeOrganization"
                 ],
-                "requested":[]
+                "requested":[
+                    "schacPersonalUniqueCode"
+                ]
             },
             "description":"",
             "resourceContacts":[
