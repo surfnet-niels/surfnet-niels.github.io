@@ -600,6 +600,16 @@
         "description":"https://sp.passport.patsnap.com"
     },
     {
+        "catalogID":"a9460b77632e9bfeb1a4a62f00d5015ae24b7d99",
+        "resourceName":"https://sp1.incopat.com/shibboleth",
+        "resourceProvider":{
+            "name":"BEIJING INCOPAT CO., LTD.",
+            "displayname":"BEIJING INCOPAT CO., LTD.",
+            "url":"https://www.incopat.com/"
+        },
+        "description":"https://sp1.incopat.com/shibboleth"
+    },
+    {
         "catalogID":"cc35d2fea02083adfb0a84267daeab61127a821a",
         "resourceName":"https://spgateway.carsi.edu.cn/shibboleth",
         "resourceProvider":{
