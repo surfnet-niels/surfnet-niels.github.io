@@ -1,5 +1,5 @@
 {
-    "generated":"2022-04-26 16:37",
+    "generated":"2022-04-26 18:37",
     "en":[
         {
             "catalogID":"c2041e9605943d48e8de83e735a71a50c4c370ef",
@@ -12,9 +12,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail"
+                    "mail",
+                    "sn",
+                    "givenName"
                 ],
-                "requested":[]
+                "requested":[
+                    "o"
+                ]
             },
             "description":"EELISA Community Portal",
             "resourceContacts":[
@@ -52,9 +56,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail"
+                    "mail",
+                    "sn",
+                    "givenName"
                 ],
-                "requested":[]
+                "requested":[
+                    "o"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -92,9 +100,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail"
+                    "mail",
+                    "sn",
+                    "givenName"
                 ],
-                "requested":[]
+                "requested":[
+                    "o"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -132,9 +144,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail"
+                    "mail",
+                    "sn",
+                    "givenName"
                 ],
-                "requested":[]
+                "requested":[
+                    "o"
+                ]
             },
             "description":"EELISA Community Portal",
             "resourceContacts":[
