@@ -1,5 +1,5 @@
 {
-    "generated":"2022-04-26 06:30",
+    "generated":"2022-04-26 08:36",
     "en":[
         {
             "catalogID":"835a53fc89c2c46f0257bcf6e1aead6c6a20fb23",
@@ -99,6 +99,11 @@
                     "type":"support",
                     "name":"SamiSilén",
                     "email":"mailto:haka@csc.fi"
+                },
+                {
+                    "type":"security",
+                    "name":"UrpoKaila",
+                    "email":"mailto:security@csc.fi"
                 }
             ],
             "info":"",
@@ -106,7 +111,9 @@
             "entityCategories":[
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -208,6 +215,11 @@
                     "type":"support",
                     "name":"SamiSilén",
                     "email":"mailto:haka@csc.fi"
+                },
+                {
+                    "type":"security",
+                    "name":"UrpoKaila",
+                    "email":"mailto:security@csc.fi"
                 }
             ],
             "info":"",
@@ -215,7 +227,9 @@
             "entityCategories":[
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -317,6 +331,11 @@
                     "type":"support",
                     "name":"SamiSilén",
                     "email":"mailto:haka@csc.fi"
+                },
+                {
+                    "type":"security",
+                    "name":"UrpoKaila",
+                    "email":"mailto:security@csc.fi"
                 }
             ],
             "info":"",
@@ -324,7 +343,9 @@
             "entityCategories":[
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -426,6 +447,11 @@
                     "type":"support",
                     "name":"SamiSilén",
                     "email":"mailto:haka@csc.fi"
+                },
+                {
+                    "type":"security",
+                    "name":"UrpoKaila",
+                    "email":"mailto:security@csc.fi"
                 }
             ],
             "info":"",
@@ -433,7 +459,9 @@
             "entityCategories":[
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
