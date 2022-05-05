@@ -12230,6 +12230,16 @@
         "description":""
     },
     {
+        "catalogID":"aad551101d7adcf08a0d365f703767be973db0b9",
+        "resourceName":"GW Arc Auth Proxy",
+        "resourceProvider":{
+            "name":"The George Washington University",
+            "displayname":"The George Washington University",
+            "url":"http://www.gwu.edu/"
+        },
+        "description":"GW Arc Auth Proxy"
+    },
+    {
         "catalogID":"e62c5ec572198b199dc718a48e2fa81e32a15f9a",
         "resourceName":"GW Galaxy",
         "resourceProvider":{
@@ -12238,16 +12248,6 @@
             "url":"http://www.gwu.edu/"
         },
         "description":"GW Galaxy"
-    },
-    {
-        "catalogID":"7809c953d133f89ed82a588476c74949cdef9304",
-        "resourceName":"GWU Research Portal MVP - gamma",
-        "resourceProvider":{
-            "name":"The George Washington University",
-            "displayname":"The George Washington University",
-            "url":"http://www.gwu.edu/"
-        },
-        "description":"Development environment to assess necessary future steps towards the MVP"
     },
     {
         "catalogID":"9436d17bc3f837971975471885d34baaa28e5332",
