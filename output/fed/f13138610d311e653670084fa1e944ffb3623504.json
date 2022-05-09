@@ -1,5 +1,5 @@
 {
-    "generated":"2022-05-09 10:29",
+    "generated":"2022-05-09 12:52",
     "en":[
         {
             "catalogID":"f13138610d311e653670084fa1e944ffb3623504",
@@ -26,7 +26,9 @@
                     "schacHomeOrganization",
                     "eduPersonAssurance"
                 ],
-                "requested":[]
+                "requested":[
+                    "eduPersonEntitlement"
+                ]
             },
             "description":"The MyAcademicID IAM Service provides Identity and Federated access management for the services of the European Student Card Initiative and the services directly supporting the digitisation of Erasmus+. The MyAcademicID IAM Service is provided by GÉANT using the eduTEAMS service.",
             "resourceContacts":[
@@ -89,7 +91,9 @@
                     "schacHomeOrganization",
                     "eduPersonAssurance"
                 ],
-                "requested":[]
+                "requested":[
+                    "eduPersonEntitlement"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -152,7 +156,9 @@
                     "schacHomeOrganization",
                     "eduPersonAssurance"
                 ],
-                "requested":[]
+                "requested":[
+                    "eduPersonEntitlement"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -215,7 +221,9 @@
                     "schacHomeOrganization",
                     "eduPersonAssurance"
                 ],
-                "requested":[]
+                "requested":[
+                    "eduPersonEntitlement"
+                ]
             },
             "description":"",
             "resourceContacts":[
