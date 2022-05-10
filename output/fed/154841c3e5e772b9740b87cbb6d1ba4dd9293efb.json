@@ -1,0 +1,175 @@
+{
+    "generated":"2022-05-10 16:40",
+    "en":[
+        {
+            "catalogID":"154841c3e5e772b9740b87cbb6d1ba4dd9293efb",
+            "entityID":"https://mfa-check.test.uu.se/Shibboleth.sso/Metadata",
+            "resourceName":"MFA Testing Tool",
+            "resourceProvider":{
+                "name":"Uppsala University",
+                "displayname":"Uppsala University",
+                "url":"http://www.uu.se/en/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"A tool for testing multi-factor authentication (MFA).",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:drift@uadm.uu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
+                }
+            ],
+            "info":"https://weblogin.uu.se/english.html",
+            "privacy":"https://www.uu.se/en/about-uu/data-protection-policy/",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"154841c3e5e772b9740b87cbb6d1ba4dd9293efb",
+            "entityID":"https://mfa-check.test.uu.se/Shibboleth.sso/Metadata",
+            "resourceName":"https://mfa-check.test.uu.se/Shibboleth.sso/Metadata",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uu.se/en/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:drift@uadm.uu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"154841c3e5e772b9740b87cbb6d1ba4dd9293efb",
+            "entityID":"https://mfa-check.test.uu.se/Shibboleth.sso/Metadata",
+            "resourceName":"https://mfa-check.test.uu.se/Shibboleth.sso/Metadata",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uu.se/en/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:drift@uadm.uu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"154841c3e5e772b9740b87cbb6d1ba4dd9293efb",
+            "entityID":"https://mfa-check.test.uu.se/Shibboleth.sso/Metadata",
+            "resourceName":"https://mfa-check.test.uu.se/Shibboleth.sso/Metadata",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.uu.se/en/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:drift@uadm.uu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
