@@ -1,5 +1,5 @@
 {
-    "generated":"2022-05-13 18:32",
+    "generated":"2022-05-13 20:28",
     "en":[
         {
             "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
@@ -12,9 +12,9 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
+                    "organizationName",
                     "eduPersonScopedAffiliation",
-                    "organizationName"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[]
             },
@@ -44,9 +44,9 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
+                    "organizationName",
                     "eduPersonScopedAffiliation",
-                    "organizationName"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[]
             },
@@ -76,9 +76,9 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
+                    "organizationName",
                     "eduPersonScopedAffiliation",
-                    "organizationName"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[]
             },
@@ -108,9 +108,9 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
+                    "organizationName",
                     "eduPersonScopedAffiliation",
-                    "organizationName"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[]
             },
