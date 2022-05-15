@@ -1,5 +1,5 @@
 {
-    "generated":"2022-05-15 18:30",
+    "generated":"2022-05-15 20:27",
     "en":[
         {
             "catalogID":"53d044e96812096c57fb7b7d55d9cbd19add34d7",
@@ -13,12 +13,12 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonAffiliation",
-                    "eduPersonPrincipalName",
-                    "displayName",
-                    "surname",
                     "givenName",
+                    "eduPersonPrincipalName",
+                    "surname",
                     "eduPersonScopedAffiliation",
+                    "displayName",
+                    "eduPersonAffiliation",
                     "commonName"
                 ],
                 "requested":[]
@@ -50,12 +50,12 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonAffiliation",
-                    "eduPersonPrincipalName",
-                    "displayName",
-                    "surname",
                     "givenName",
+                    "eduPersonPrincipalName",
+                    "surname",
                     "eduPersonScopedAffiliation",
+                    "displayName",
+                    "eduPersonAffiliation",
                     "commonName"
                 ],
                 "requested":[]
@@ -87,12 +87,12 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonAffiliation",
-                    "eduPersonPrincipalName",
-                    "displayName",
-                    "surname",
                     "givenName",
+                    "eduPersonPrincipalName",
+                    "surname",
                     "eduPersonScopedAffiliation",
+                    "displayName",
+                    "eduPersonAffiliation",
                     "commonName"
                 ],
                 "requested":[]
@@ -124,12 +124,12 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonAffiliation",
-                    "eduPersonPrincipalName",
-                    "displayName",
-                    "surname",
                     "givenName",
+                    "eduPersonPrincipalName",
+                    "surname",
                     "eduPersonScopedAffiliation",
+                    "displayName",
+                    "eduPersonAffiliation",
                     "commonName"
                 ],
                 "requested":[]
