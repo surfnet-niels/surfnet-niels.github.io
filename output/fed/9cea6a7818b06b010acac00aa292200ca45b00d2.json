@@ -860,6 +860,16 @@
         "description":""
     },
     {
+        "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
+        "resourceName":"ACVP Student PROD",
+        "resourceProvider":{
+            "name":"jucc.edu.hk",
+            "displayname":"Joint Universities Computer Centre Ltd",
+            "url":"https://www.jucc.edu.hk"
+        },
+        "description":"ACVP Student Portal Production"
+    },
+    {
         "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
         "resourceName":"KEEP",
         "resourceProvider":{
@@ -880,16 +890,6 @@
         "description":"Active Classroom (AClass) is a website designed for knowledge transfer of education studies and idea exchanges. Our target audience include teachers from different education sectors, ranging from pre-schools, primary schools, secondary schools, to higher "
     },
     {
-        "catalogID":"67d2ec5b9dc1a89234bd449b04e48e0c1d2dcd55",
-        "resourceName":"SKLMP Facility Booking System",
-        "resourceProvider":{
-            "name":"cityu.edu.hk",
-            "displayname":"City University of Hong Kong",
-            "url":"http://www.cityu.edu.hk"
-        },
-        "description":"Welcome to the State Key Laboratory of Marine Pollution (SKLMP) for performing experimental work. SKLMP Facility Booking System allows users to book equipment and facility simultaneously, view their status instantly, and check the expense usage quickly."
-    },
-    {
         "catalogID":"53d044e96812096c57fb7b7d55d9cbd19add34d7",
         "resourceName":"HKUST Stem vocabulary",
         "resourceProvider":{
@@ -900,14 +900,14 @@
         "description":"HKUST Stem vocabulary"
     },
     {
-        "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
-        "resourceName":"ACVP Student PROD",
+        "catalogID":"67d2ec5b9dc1a89234bd449b04e48e0c1d2dcd55",
+        "resourceName":"SKLMP Facility Booking System",
         "resourceProvider":{
-            "name":"jucc.edu.hk",
-            "displayname":"Joint Universities Computer Centre Ltd",
-            "url":"https://www.jucc.edu.hk"
+            "name":"cityu.edu.hk",
+            "displayname":"City University of Hong Kong",
+            "url":"http://www.cityu.edu.hk"
         },
-        "description":"ACVP Student Portal Production"
+        "description":"Welcome to the State Key Laboratory of Marine Pollution (SKLMP) for performing experimental work. SKLMP Facility Booking System allows users to book equipment and facility simultaneously, view their status instantly, and check the expense usage quickly."
     },
     {
         "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
@@ -29488,6 +29488,16 @@
             "url":"https://www.rayyan.ai/"
         },
         "description":"Intelligent Systematic Review collaboration platform"
+    },
+    {
+        "catalogID":"ae89d9cb29a911eb27ab4a55d0ab0d77aa0da950",
+        "resourceName":"Farmers Weekly Live",
+        "resourceProvider":{
+            "name":"MA Agriculture Limited",
+            "displayname":"MA Agriculture Limited",
+            "url":"https://www.markallengroup.com"
+        },
+        "description":"Farmers Weekly is the UK’s leading agricultural media brand, delivering actionable content, innovative events and a range of services to farmers.  Our goal is to be in every farmer’s pocket, to be the starting point for all their business information needs, and to inspire profitable decision making."
     },
     {
         "catalogID":"84febee74441ddc72e6ee8730716b2b8a687cc74",
