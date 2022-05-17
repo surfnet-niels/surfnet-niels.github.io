@@ -730,16 +730,6 @@
         "description":"Oman Research and Education Network (OMREN) is a central part of a sustainable infrastructure that contributes to the emergence of an effective national innovation ecosystem. It provides the research and education community in the Sultanate of Oman with a common network and collaboration infrastructure  adapted to their needs."
     },
     {
-        "catalogID":"daf85034f87516aa92e96b285ec8dbc57feeb758",
-        "resourceName":"OMREN shibboleth",
-        "resourceProvider":{
-            "name":"OMREN shibboleth",
-            "displayname":"OMREN shibboleth",
-            "url":"https://www.omren.om"
-        },
-        "description":"OMREN shibboleth"
-    },
-    {
         "catalogID":"1aa44e8061bf340cd52429177a2eb582a760e419",
         "resourceName":"OMREN SP",
         "resourceProvider":{
@@ -778,6 +768,16 @@
             "url":"https://mirsal.omren.om/"
         },
         "description":"mirsal service"
+    },
+    {
+        "catalogID":"daf85034f87516aa92e96b285ec8dbc57feeb758",
+        "resourceName":"OMREN Dashboard",
+        "resourceProvider":{
+            "name":"OMREN Dashboard",
+            "displayname":"OMREN Dashboard",
+            "url":"https://www.omren.om/"
+        },
+        "description":"OMREN Dashboard"
     },
     {
         "catalogID":"1b23194ad7e4d8ebc3b47fc6459c7804870dc1b4",

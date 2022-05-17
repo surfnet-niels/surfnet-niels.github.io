@@ -1,14 +1,14 @@
 {
-    "generated":"2022-05-17 06:32",
+    "generated":"2022-05-17 08:32",
     "en":[
         {
             "catalogID":"daf85034f87516aa92e96b285ec8dbc57feeb758",
             "entityID":"https://shibboleth.omren.om/shibboleth",
-            "resourceName":"OMREN shibboleth",
+            "resourceName":"OMREN Dashboard",
             "resourceProvider":{
-                "name":"OMREN shibboleth",
-                "displayname":"OMREN shibboleth",
-                "url":"https://www.omren.om"
+                "name":"OMREN Dashboard",
+                "displayname":"OMREN Dashboard",
+                "url":"https://www.omren.om/"
             },
             "resourceAttributes":{
                 "required":[
@@ -16,7 +16,7 @@
                 ],
                 "requested":[]
             },
-            "description":"OMREN shibboleth",
+            "description":"OMREN Dashboard",
             "resourceContacts":[
                 {
                     "type":"support",
@@ -34,27 +34,21 @@
                     "email":"mailto:aisha@omren.om"
                 }
             ],
-            "info":"https://www.omren.om",
-            "privacy":"https://www.omren.om",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi",
-                "https://noec.release-check.edugain.org/shibboleth"
-            ]
+            "info":"https://www.omren.om/",
+            "privacy":"https://www.omren.om/",
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ],
     "fr":[
         {
             "catalogID":"daf85034f87516aa92e96b285ec8dbc57feeb758",
             "entityID":"https://shibboleth.omren.om/shibboleth",
-            "resourceName":"OMREN shibboleth",
+            "resourceName":"OMREN Dashboard",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.omren.om"
+                "url":"https://www.omren.om/"
             },
             "resourceAttributes":{
                 "required":[
@@ -82,25 +76,19 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi",
-                "https://noec.release-check.edugain.org/shibboleth"
-            ]
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ],
     "it":[
         {
             "catalogID":"daf85034f87516aa92e96b285ec8dbc57feeb758",
             "entityID":"https://shibboleth.omren.om/shibboleth",
-            "resourceName":"OMREN shibboleth",
+            "resourceName":"OMREN Dashboard",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.omren.om"
+                "url":"https://www.omren.om/"
             },
             "resourceAttributes":{
                 "required":[
@@ -128,25 +116,19 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi",
-                "https://noec.release-check.edugain.org/shibboleth"
-            ]
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ],
     "de":[
         {
             "catalogID":"daf85034f87516aa92e96b285ec8dbc57feeb758",
             "entityID":"https://shibboleth.omren.om/shibboleth",
-            "resourceName":"OMREN shibboleth",
+            "resourceName":"OMREN Dashboard",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.omren.om"
+                "url":"https://www.omren.om/"
             },
             "resourceAttributes":{
                 "required":[
@@ -174,14 +156,8 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship",
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi",
-                "https://noec.release-check.edugain.org/shibboleth"
-            ]
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ]
 }
