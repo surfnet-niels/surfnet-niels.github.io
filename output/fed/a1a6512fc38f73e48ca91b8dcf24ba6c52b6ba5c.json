@@ -1,5 +1,5 @@
 {
-    "generated":"2022-05-20 18:30",
+    "generated":"2022-05-20 20:26",
     "en":[
         {
             "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
@@ -12,19 +12,19 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "givenName",
-                    "eduPersonAffiliation",
-                    "surname",
-                    "displayName",
                     "commonName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
                     "mail",
-                    "eduPersonScopedAffiliation"
+                    "displayName",
+                    "givenName"
                 ],
                 "requested":[
+                    "schacHomeOrganization",
+                    "organizationName",
                     "eduPersonAssurance",
                     "homeOrganization",
-                    "organizationName",
-                    "schacHomeOrganization",
                     "homeOrganizationType",
                     "departmentNumber",
                     "organizationalUnit"
@@ -61,19 +61,19 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "givenName",
-                    "eduPersonAffiliation",
-                    "surname",
-                    "displayName",
                     "commonName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
                     "mail",
-                    "eduPersonScopedAffiliation"
+                    "displayName",
+                    "givenName"
                 ],
                 "requested":[
+                    "schacHomeOrganization",
+                    "organizationName",
                     "eduPersonAssurance",
                     "homeOrganization",
-                    "organizationName",
-                    "schacHomeOrganization",
                     "homeOrganizationType",
                     "departmentNumber",
                     "organizationalUnit"
@@ -110,19 +110,19 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "givenName",
-                    "eduPersonAffiliation",
-                    "surname",
-                    "displayName",
                     "commonName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
                     "mail",
-                    "eduPersonScopedAffiliation"
+                    "displayName",
+                    "givenName"
                 ],
                 "requested":[
+                    "schacHomeOrganization",
+                    "organizationName",
                     "eduPersonAssurance",
                     "homeOrganization",
-                    "organizationName",
-                    "schacHomeOrganization",
                     "homeOrganizationType",
                     "departmentNumber",
                     "organizationalUnit"
@@ -159,19 +159,19 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "givenName",
-                    "eduPersonAffiliation",
-                    "surname",
-                    "displayName",
                     "commonName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
                     "mail",
-                    "eduPersonScopedAffiliation"
+                    "displayName",
+                    "givenName"
                 ],
                 "requested":[
+                    "schacHomeOrganization",
+                    "organizationName",
                     "eduPersonAssurance",
                     "homeOrganization",
-                    "organizationName",
-                    "schacHomeOrganization",
                     "homeOrganizationType",
                     "departmentNumber",
                     "organizationalUnit"
