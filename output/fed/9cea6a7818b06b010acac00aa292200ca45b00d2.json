@@ -33910,6 +33910,16 @@
         "description":"Institute for Dutch Language (INT) projects attached to the CLARIN infrastructure."
     },
     {
+        "catalogID":"0f1fdc95982a111f8a47117ec404fa3d4d534887",
+        "resourceName":"FAU HPC-Portal",
+        "resourceProvider":{
+            "name":"e131",
+            "displayname":"Friedrich-Alexander-Universität Erlangen-Nürnberg",
+            "url":"https://www.sso.uni-erlangen.de"
+        },
+        "description":"FAU HPC-Portal"
+    },
+    {
         "catalogID":"4e1dfaa5170aeb036babd413f294832715c3be8a",
         "resourceName":"Recensio Artium - arthistoricum.net",
         "resourceProvider":{
@@ -34600,16 +34610,6 @@
         "description":"Vermittlung von Stipendien und Darlehen"
     },
     {
-        "catalogID":"3e28b28374d07ef8f15fbc5310479a8e6b45688b",
-        "resourceName":"LiRI Services",
-        "resourceProvider":{
-            "name":"uzh.ch",
-            "displayname":"University of Zurich",
-            "url":"http://www.uzh.ch/"
-        },
-        "description":"Access services provided by the Linguistic Research Infrastructure (LiRI) at University of Zurich"
-    },
-    {
         "catalogID":"adf99075fede70bd854ee184582c28a0895856d0",
         "resourceName":"DOCCOM  Deutsch Universität Bern",
         "resourceProvider":{
@@ -34648,6 +34648,16 @@
             "url":"https://www.cloudsigma.com/"
         },
         "description":"CloudSigma FRA"
+    },
+    {
+        "catalogID":"3e28b28374d07ef8f15fbc5310479a8e6b45688b",
+        "resourceName":"LiRI Services",
+        "resourceProvider":{
+            "name":"uzh.ch",
+            "displayname":"University of Zurich",
+            "url":"http://www.uzh.ch/"
+        },
+        "description":"Access services provided by the Linguistic Research Infrastructure (LiRI) at University of Zurich"
     },
     {
         "catalogID":"a8c07d1e84b72a2a3af2cb673ee1819257013273",
