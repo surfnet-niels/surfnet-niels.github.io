@@ -1,5 +1,5 @@
 {
-    "generated":"2022-05-22 18:29",
+    "generated":"2022-05-22 20:25",
     "en":[
         {
             "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
@@ -14,11 +14,11 @@
                 "required":[
                     "organizationName",
                     "mail",
-                    "givenName",
-                    "commonName",
                     "eduPersonAffiliation",
                     "surname",
-                    "eduPersonTargetedID"
+                    "commonName",
+                    "eduPersonTargetedID",
+                    "givenName"
                 ],
                 "requested":[]
             },
@@ -50,11 +50,11 @@
                 "required":[
                     "organizationName",
                     "mail",
-                    "givenName",
-                    "commonName",
                     "eduPersonAffiliation",
                     "surname",
-                    "eduPersonTargetedID"
+                    "commonName",
+                    "eduPersonTargetedID",
+                    "givenName"
                 ],
                 "requested":[]
             },
@@ -86,11 +86,11 @@
                 "required":[
                     "organizationName",
                     "mail",
-                    "givenName",
-                    "commonName",
                     "eduPersonAffiliation",
                     "surname",
-                    "eduPersonTargetedID"
+                    "commonName",
+                    "eduPersonTargetedID",
+                    "givenName"
                 ],
                 "requested":[]
             },
@@ -122,11 +122,11 @@
                 "required":[
                     "organizationName",
                     "mail",
-                    "givenName",
-                    "commonName",
                     "eduPersonAffiliation",
                     "surname",
-                    "eduPersonTargetedID"
+                    "commonName",
+                    "eduPersonTargetedID",
+                    "givenName"
                 ],
                 "requested":[]
             },
