@@ -34290,6 +34290,16 @@
         "description":"This central Single Sign-On covers almost all WWW services of the university of Münster. Required are: eduPersonPrincipalName OR a persistent SAML2-NameID OR eduPersonTargetedID"
     },
     {
+        "catalogID":"8e1f0a7803869e8f047f6767ea1628c6cc4bcc42",
+        "resourceName":"Studid",
+        "resourceProvider":{
+            "name":"e714",
+            "displayname":"Nekami",
+            "url":"https://nekami.de"
+        },
+        "description":"Service Provider for Studid."
+    },
+    {
         "catalogID":"e20e90cdc95122843c1b1dd568abd85a2183a530",
         "resourceName":"Stud.IP Goettingen University",
         "resourceProvider":{
