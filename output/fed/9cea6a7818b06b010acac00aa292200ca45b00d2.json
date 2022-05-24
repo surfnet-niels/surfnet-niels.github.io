@@ -3040,6 +3040,16 @@
         "description":"services.internet2.edu provides Internet2 services in support of our Research and Education Networking mission. Current examples include: e-mail lists, Internet2 meeting registration, and trouble ticketing for administration of Net+ services.  Planned additions include Filesender, the Internet2 Member Portal, and wikis."
     },
     {
+        "catalogID":"d50471ee370ec5668fe5ac0bc510d0451d3b1fb6",
+        "resourceName":"Georgetown University Test Directory",
+        "resourceProvider":{
+            "name":"Georgetown University",
+            "displayname":"Georgetown University",
+            "url":"http://www.georgetown.edu/"
+        },
+        "description":"The University Directory contains a unified view of faculty and staff information."
+    },
+    {
         "catalogID":"72d4851e1818cd3d8be5035ded41417e45ccacaf",
         "resourceName":"WebAssign - PlaceU",
         "resourceProvider":{
@@ -15162,6 +15172,16 @@
     {
         "catalogID":"50992cb0f9a8f4e991a961aaf5d40b765de66da5",
         "resourceName":"InfoReady Review - UT Southwestern Medical Center - (test)",
+        "resourceProvider":{
+            "name":"InfoReady Corp",
+            "displayname":"InfoReady Corp",
+            "url":"http://www.infoready4.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"108d2674f4a6f8e471120d9ddb07c2dd1a8dcae7",
+        "resourceName":"InfoReady Platform - Villanova University",
         "resourceProvider":{
             "name":"InfoReady Corp",
             "displayname":"InfoReady Corp",
