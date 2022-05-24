@@ -29460,6 +29460,26 @@
         "description":"Online access to BMJ OpenAthens (Live)"
     },
     {
+        "catalogID":"a13417cab2200959b1e2405ee9ae6abcecc4b48f",
+        "resourceName":"British Standards Institution Knowledge UAT Account",
+        "resourceProvider":{
+            "name":"British Standards Institution",
+            "displayname":"British Standards Institution",
+            "url":"https://accord.bsi-dev.net/"
+        },
+        "description":"British Standards Institution Accord UAT service test account"
+    },
+    {
+        "catalogID":"42600b1f22402494b4ccbaf06fc0fe67251d04f9",
+        "resourceName":"British Standards Institution Accord PPD Service Test Account",
+        "resourceProvider":{
+            "name":"British Standards Institution",
+            "displayname":"British Standards Institution",
+            "url":"https://www.bsigroup.com/"
+        },
+        "description":"British Standards Institution Accord PPD service test account"
+    },
+    {
         "catalogID":"63b1df71546e6cdf94feb62c87d015ec415a5014",
         "resourceName":"Qwghlm test SP",
         "resourceProvider":{
