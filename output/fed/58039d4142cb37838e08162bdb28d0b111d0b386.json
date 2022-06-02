@@ -1,0 +1,203 @@
+{
+    "generated":"2022-06-02 22:24",
+    "en":[
+        {
+            "catalogID":"58039d4142cb37838e08162bdb28d0b111d0b386",
+            "entityID":"https://wiki-stage.library.ucsf.edu/shibboleth",
+            "resourceName":"Log in to Wiki-Stage@UCSF",
+            "resourceProvider":{
+                "name":"University of California, San Francisco",
+                "displayname":"University of California, San Francisco",
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                }
+            ],
+            "info":"https://wiki-stage.library.ucsf.edu/display/Training/Terms+and+Conditions",
+            "privacy":"https://wiki-stage.library.ucsf.edu/display/Training/Terms+and+Conditions",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"58039d4142cb37838e08162bdb28d0b111d0b386",
+            "entityID":"https://wiki-stage.library.ucsf.edu/shibboleth",
+            "resourceName":"Log in to Wiki-Stage@UCSF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"58039d4142cb37838e08162bdb28d0b111d0b386",
+            "entityID":"https://wiki-stage.library.ucsf.edu/shibboleth",
+            "resourceName":"Log in to Wiki-Stage@UCSF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"58039d4142cb37838e08162bdb28d0b111d0b386",
+            "entityID":"https://wiki-stage.library.ucsf.edu/shibboleth",
+            "resourceName":"Log in to Wiki-Stage@UCSF",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucsf.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Wiki Admin",
+                    "email":"mailto:wikiadministration@ucsf.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
