@@ -34860,6 +34860,16 @@
         "description":"Qualtrics Shibboleth Authenticator for USI"
     },
     {
+        "catalogID":"8ef05d910e923cf37c437ce9cea05096896bdc6f",
+        "resourceName":"AnsibleTestLdb",
+        "resourceProvider":{
+            "name":"switch.ch",
+            "displayname":"SWITCH",
+            "url":"http://www.switch.ch/"
+        },
+        "description":"The purpose of this service ist to test the deployment of attribute viewer with ansible."
+    },
+    {
         "catalogID":"2291055505e0387b861bad99f16d208aa80dbab4",
         "resourceName":"CERN Service Provider Proxy",
         "resourceProvider":{
