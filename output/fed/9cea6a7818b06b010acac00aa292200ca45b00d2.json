@@ -3080,6 +3080,16 @@
         "description":"services.internet2.edu provides Internet2 services in support of our Research and Education Networking mission. Current examples include: e-mail lists, Internet2 meeting registration, and trouble ticketing for administration of Net+ services.  Planned additions include Filesender, the Internet2 Member Portal, and wikis."
     },
     {
+        "catalogID":"43e2b83f001744d11df1e7624a39d43eaabae59b",
+        "resourceName":"Georgetown University Directory",
+        "resourceProvider":{
+            "name":"Georgetown University",
+            "displayname":"Georgetown University",
+            "url":"http://www.georgetown.edu/"
+        },
+        "description":"The University Directory contains a unified view of faculty and staff information."
+    },
+    {
         "catalogID":"d50471ee370ec5668fe5ac0bc510d0451d3b1fb6",
         "resourceName":"Georgetown University Test Directory",
         "resourceProvider":{
@@ -16958,6 +16968,16 @@
             "url":"https://www.photoshelter.com/"
         },
         "description":"PhotoShelter University of Florida - University Relations SSO Portal"
+    },
+    {
+        "catalogID":"1e2dc72ab5488e10b286407ea9a44e5c2d8aa1d9",
+        "resourceName":"PhotoShelter - University of Florida Student Life",
+        "resourceProvider":{
+            "name":"PhotoShelter, Inc.",
+            "displayname":"PhotoShelter, Inc.",
+            "url":"https://www.photoshelter.com/"
+        },
+        "description":"PhotoShelter - University of Florida Student Life SSO Portal"
     },
     {
         "catalogID":"1dd3a8ca96c674a330b98258a5b87e792ac3f3e3",

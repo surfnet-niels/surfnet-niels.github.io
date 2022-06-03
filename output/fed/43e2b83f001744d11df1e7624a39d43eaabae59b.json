@@ -1,0 +1,215 @@
+{
+    "generated":"2022-06-03 20:24",
+    "en":[
+        {
+            "catalogID":"43e2b83f001744d11df1e7624a39d43eaabae59b",
+            "entityID":"https://contact.georgetown.edu/sp/shibboleth",
+            "resourceName":"Georgetown University Directory",
+            "resourceProvider":{
+                "name":"Georgetown University",
+                "displayname":"Georgetown University",
+                "url":"http://www.georgetown.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"The University Directory contains a unified view of faculty and staff information.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Marty Johnson",
+                    "email":"mailto:es-collaboration@georgetown.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Suresh Veliveli",
+                    "email":"mailto:es-collaboration@georgetown.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"University Information Security Officer",
+                    "email":"mailto:security@georgetown.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Service Desk",
+                    "email":"mailto:help@georgetown.edu"
+                }
+            ],
+            "info":"https://contact.georgetown.edu/about/",
+            "privacy":"https://georgetown.app.box.com/s/ljizc89qln1ayrymtbus8k3t6v486i9w",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"43e2b83f001744d11df1e7624a39d43eaabae59b",
+            "entityID":"https://contact.georgetown.edu/sp/shibboleth",
+            "resourceName":"Georgetown University Directory",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.georgetown.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Marty Johnson",
+                    "email":"mailto:es-collaboration@georgetown.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Suresh Veliveli",
+                    "email":"mailto:es-collaboration@georgetown.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"University Information Security Officer",
+                    "email":"mailto:security@georgetown.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Service Desk",
+                    "email":"mailto:help@georgetown.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"43e2b83f001744d11df1e7624a39d43eaabae59b",
+            "entityID":"https://contact.georgetown.edu/sp/shibboleth",
+            "resourceName":"Georgetown University Directory",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.georgetown.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Marty Johnson",
+                    "email":"mailto:es-collaboration@georgetown.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Suresh Veliveli",
+                    "email":"mailto:es-collaboration@georgetown.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"University Information Security Officer",
+                    "email":"mailto:security@georgetown.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Service Desk",
+                    "email":"mailto:help@georgetown.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"43e2b83f001744d11df1e7624a39d43eaabae59b",
+            "entityID":"https://contact.georgetown.edu/sp/shibboleth",
+            "resourceName":"Georgetown University Directory",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.georgetown.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Marty Johnson",
+                    "email":"mailto:es-collaboration@georgetown.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Suresh Veliveli",
+                    "email":"mailto:es-collaboration@georgetown.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"University Information Security Officer",
+                    "email":"mailto:security@georgetown.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Service Desk",
+                    "email":"mailto:help@georgetown.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
