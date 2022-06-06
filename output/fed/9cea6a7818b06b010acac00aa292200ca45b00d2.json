@@ -29120,16 +29120,6 @@
         "description":"Weston College - Heritage Online http://www.isoxford.com/heritage/opac"
     },
     {
-        "catalogID":"8ae5cf0be3cd4cfd3f30b1cb0112c2e992da1a33",
-        "resourceName":"CloudMarketplace ew1-dev  LSTM IdBroker",
-        "resourceProvider":{
-            "name":"Science Warehouse Limited",
-            "displayname":"Science Warehouse Limited",
-            "url":"https://www.oneadvanced.com/science-warehouse/"
-        },
-        "description":"CloudMarketplace DEV environment Identity Broker for LSTM (DEV Keycloak at CloudMarketplace)"
-    },
-    {
         "catalogID":"2806eb2a46d2262600c876be4ba288ee08c8e57e",
         "resourceName":"Portfolio Management Research (PMR)",
         "resourceProvider":{
@@ -29578,6 +29568,16 @@
             "url":"https://www.digitaliapublishing.com/"
         },
         "description":"Digitalia Publishing provides ebooks and digital resources to institutions worldwide"
+    },
+    {
+        "catalogID":"4a307ec23d6b3d75266e49600457b5b77cf40d6a",
+        "resourceName":"CloudMarketplace DEV LSTM IdBroker",
+        "resourceProvider":{
+            "name":"Science Warehouse Limited",
+            "displayname":"Science Warehouse Limited",
+            "url":"https://www.oneadvanced.com/science-warehouse/"
+        },
+        "description":"CloudMarketplace DEV environment Identity Broker for LSTM"
     },
     {
         "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",

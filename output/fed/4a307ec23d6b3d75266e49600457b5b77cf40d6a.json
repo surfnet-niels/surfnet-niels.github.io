@@ -1,0 +1,163 @@
+{
+    "generated":"2022-06-06 18:28",
+    "en":[
+        {
+            "catalogID":"4a307ec23d6b3d75266e49600457b5b77cf40d6a",
+            "entityID":"https://cmp-nonprod.identity.oneadvanced.io/auth/realms/cloudmarketplace-ew1-dev/broker/lstm-ew1-dev-idp",
+            "resourceName":"CloudMarketplace DEV LSTM IdBroker",
+            "resourceProvider":{
+                "name":"Science Warehouse Limited",
+                "displayname":"Science Warehouse Limited",
+                "url":"https://www.oneadvanced.com/science-warehouse/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"CloudMarketplace DEV environment Identity Broker for LSTM",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"4a307ec23d6b3d75266e49600457b5b77cf40d6a",
+            "entityID":"https://cmp-nonprod.identity.oneadvanced.io/auth/realms/cloudmarketplace-ew1-dev/broker/lstm-ew1-dev-idp",
+            "resourceName":"CloudMarketplace DEV LSTM IdBroker",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.oneadvanced.com/science-warehouse/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"4a307ec23d6b3d75266e49600457b5b77cf40d6a",
+            "entityID":"https://cmp-nonprod.identity.oneadvanced.io/auth/realms/cloudmarketplace-ew1-dev/broker/lstm-ew1-dev-idp",
+            "resourceName":"CloudMarketplace DEV LSTM IdBroker",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.oneadvanced.com/science-warehouse/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"4a307ec23d6b3d75266e49600457b5b77cf40d6a",
+            "entityID":"https://cmp-nonprod.identity.oneadvanced.io/auth/realms/cloudmarketplace-ew1-dev/broker/lstm-ew1-dev-idp",
+            "resourceName":"CloudMarketplace DEV LSTM IdBroker",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.oneadvanced.com/science-warehouse/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Science Warehouse Operations",
+                    "email":"mailto:sw.operations@oneadvanced.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
