@@ -550,6 +550,16 @@
         "description":"https://sp-bjbus.carsi.edu.cn/shibboleth"
     },
     {
+        "catalogID":"f8b7d818d673a962085ca7d6081372ce563b47f4",
+        "resourceName":"https://sp-ceidatatjkdb.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"CARSI",
+            "displayname":"CARSI",
+            "url":"https://www.carsi.edu.cn/"
+        },
+        "description":"https://sp-ceidatatjkdb.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"3c2f243c3e941ca60bc11896785b70fd25fcc77b",
         "resourceName":"https://sp-liveclass.carsi.edu.cn/shibboleth",
         "resourceProvider":{
