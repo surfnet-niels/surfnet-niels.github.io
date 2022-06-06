@@ -860,6 +860,16 @@
         "description":""
     },
     {
+        "catalogID":"53d044e96812096c57fb7b7d55d9cbd19add34d7",
+        "resourceName":"HKUST Stem vocabulary",
+        "resourceProvider":{
+            "name":"ust.hk",
+            "displayname":"The Hong Kong University of Science and Technology",
+            "url":"http://www.ust.hk"
+        },
+        "description":"HKUST Stem vocabulary"
+    },
+    {
         "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
         "resourceName":"KEEP",
         "resourceProvider":{
@@ -868,16 +878,6 @@
             "url":"http://www.cuhk.edu.hk"
         },
         "description":"Knowledge & Education Exchange Platform (KEEP) is a personalized educational portal for users to easily search, subscribe and access content from the KEEP Cloud Ecosystem. KEEP supports the development of innovative teaching and learning with cutting-edge"
-    },
-    {
-        "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
-        "resourceName":"Active Classroom",
-        "resourceProvider":{
-            "name":"eduhk.hk",
-            "displayname":"The Education University of Hong Kong",
-            "url":"http://www.eduhk.hk"
-        },
-        "description":"Active Classroom (AClass) is a website designed for knowledge transfer of education studies and idea exchanges. Our target audience include teachers from different education sectors, ranging from pre-schools, primary schools, secondary schools, to higher "
     },
     {
         "catalogID":"67d2ec5b9dc1a89234bd449b04e48e0c1d2dcd55",
@@ -890,14 +890,14 @@
         "description":"Welcome to the State Key Laboratory of Marine Pollution (SKLMP) for performing experimental work. SKLMP Facility Booking System allows users to book equipment and facility simultaneously, view their status instantly, and check the expense usage quickly."
     },
     {
-        "catalogID":"53d044e96812096c57fb7b7d55d9cbd19add34d7",
-        "resourceName":"HKUST Stem vocabulary",
+        "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
+        "resourceName":"Active Classroom",
         "resourceProvider":{
-            "name":"ust.hk",
-            "displayname":"The Hong Kong University of Science and Technology",
-            "url":"http://www.ust.hk"
+            "name":"eduhk.hk",
+            "displayname":"The Education University of Hong Kong",
+            "url":"http://www.eduhk.hk"
         },
-        "description":"HKUST Stem vocabulary"
+        "description":"Active Classroom (AClass) is a website designed for knowledge transfer of education studies and idea exchanges. Our target audience include teachers from different education sectors, ranging from pre-schools, primary schools, secondary schools, to higher "
     },
     {
         "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
