@@ -1,0 +1,167 @@
+{
+    "generated":"2022-06-07 14:23",
+    "en":[
+        {
+            "catalogID":"19f6a55112695f448c9503a6dc67914138b9a02d",
+            "entityID":"https://edugain.go-study-europe.de/shibboleth",
+            "resourceName":"IDiAL, FH Dortmund",
+            "resourceProvider":{
+                "name":"e422",
+                "displayname":"Dortmund University of Applied Sciences and Arts",
+                "url":"http://www.fh-dortmund.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"A Digital Education Ecosystem (DEE) is a digital learning and teaching infrastructure which supports all aspects of a digitally transformed educational system, e.g. a university or school The goal of the DEE described in ths specification is to support a virtual, cross-border Master School.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                }
+            ],
+            "info":"https://user.go-study-europe.de",
+            "privacy":"https://user.go-study-europe.de/privacy",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"19f6a55112695f448c9503a6dc67914138b9a02d",
+            "entityID":"https://edugain.go-study-europe.de/shibboleth",
+            "resourceName":"IDiAL, FH Dortmund",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.fh-dortmund.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"19f6a55112695f448c9503a6dc67914138b9a02d",
+            "entityID":"https://edugain.go-study-europe.de/shibboleth",
+            "resourceName":"IDiAL, FH Dortmund",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.fh-dortmund.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"19f6a55112695f448c9503a6dc67914138b9a02d",
+            "entityID":"https://edugain.go-study-europe.de/shibboleth",
+            "resourceName":"IDiAL, FH Dortmund",
+            "resourceProvider":{
+                "name":"e422",
+                "displayname":"Fachhochschule Dortmund",
+                "url":"http://www.fh-dortmund.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail",
+                    "displayName"
+                ],
+                "requested":[]
+            },
+            "description":"Ein Digital Education Ecosystem (DEE) ist eine digitale Lern- und Lehrinfrastruktur, die alle Aspekte eines digital transformierten Bildungssystems, z.B. einer Universität oder Schule, unterstützt. Das Ziel des in dieser Spezifikation beschriebenen DEE ist die Unterstützung einer virtuellen, grenzüberschreitenden Master School.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                },
+                {
+                    "type":"support",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                },
+                {
+                    "type":"security",
+                    "name":"Technical Support DEE, IDiAL",
+                    "email":"mailto:info@go-study-europe.de"
+                }
+            ],
+            "info":"https://user.go-study-europe.de",
+            "privacy":"https://user.go-study-europe.de/privacy",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
