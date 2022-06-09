@@ -29510,6 +29510,16 @@
         "description":"Semantico Limited: MedicinesComplete – the leading drug information suite"
     },
     {
+        "catalogID":"c70c5c54ea8d145c3d25b9059636fb68f9eabe5c",
+        "resourceName":"https://jims-sp.dev.ukfederation.org.uk/shibboleth",
+        "resourceProvider":{
+            "name":"Jisc",
+            "displayname":"Jisc",
+            "url":"https://jisc.ac.uk/consultancy/trust-and-identity"
+        },
+        "description":""
+    },
+    {
         "catalogID":"0c5e2eab6304a6578538d6ef990e305f2134ad4f",
         "resourceName":"De Boeck Supérieur License Desk",
         "resourceProvider":{
@@ -33938,6 +33948,16 @@
             "url":"http://clarin.eu"
         },
         "description":"This Service Provider provides access to the Meertens Institute's SKOS Repository"
+    },
+    {
+        "catalogID":"3d5f6841318836e47d9d2b489b310a8b4276a0e4",
+        "resourceName":"StuDiPlat HS Mittweida",
+        "resourceProvider":{
+            "name":"e138",
+            "displayname":"Hochschule Mittweida University of Applied Sciences",
+            "url":"http://www.hs-mittweida.de/"
+        },
+        "description":"Eureca Pro"
     },
     {
         "catalogID":"9e7b27d7022bd6cb9d3120e66fe067eba74a45dd",
