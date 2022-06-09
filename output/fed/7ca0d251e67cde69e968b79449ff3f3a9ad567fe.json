@@ -1,5 +1,5 @@
 {
-    "generated":"2022-06-09 14:22",
+    "generated":"2022-06-09 16:36",
     "en":[
         {
             "catalogID":"7ca0d251e67cde69e968b79449ff3f3a9ad567fe",
@@ -13,12 +13,12 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail"
-                ],
-                "requested":[
-                    "displayName",
+                    "mail",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "displayName"
                 ]
             },
             "description":"LMS",
@@ -51,12 +51,12 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail"
-                ],
-                "requested":[
-                    "displayName",
+                    "mail",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "displayName"
                 ]
             },
             "description":"LMS",
@@ -89,12 +89,12 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail"
-                ],
-                "requested":[
-                    "displayName",
+                    "mail",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "displayName"
                 ]
             },
             "description":"",
@@ -127,12 +127,12 @@
             "resourceAttributes":{
                 "required":[
                     "uid",
-                    "mail"
-                ],
-                "requested":[
-                    "displayName",
+                    "mail",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "displayName"
                 ]
             },
             "description":"",
