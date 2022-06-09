@@ -1,5 +1,5 @@
 {
-    "generated":"2022-06-09 10:29",
+    "generated":"2022-06-09 12:51",
     "en":[
         {
             "catalogID":"63ada97a7b0e140ef0507796519b6c56ac117131",
@@ -11,11 +11,14 @@
                 "url":"https://www.sorbonne-universite.fr"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
+                "required":[
                     "mail",
+                    "eduPersonPrincipalName",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
                 ]
             },
             "description":"moodle 4EU+",
@@ -45,11 +48,14 @@
                 "url":"https://www.sorbonne-universite.fr"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
+                "required":[
                     "mail",
+                    "eduPersonPrincipalName",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
                 ]
             },
             "description":"moodle 4EU+",
@@ -79,11 +85,14 @@
                 "url":"https://www.sorbonne-universite.fr"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
+                "required":[
                     "mail",
+                    "eduPersonPrincipalName",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
                 ]
             },
             "description":"",
@@ -113,11 +122,14 @@
                 "url":"https://www.sorbonne-universite.fr"
             },
             "resourceAttributes":{
-                "required":[],
-                "requested":[
+                "required":[
                     "mail",
+                    "eduPersonPrincipalName",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "eduPersonScopedAffiliation"
                 ]
             },
             "description":"",
