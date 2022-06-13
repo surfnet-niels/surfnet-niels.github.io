@@ -19520,16 +19520,6 @@
         "description":""
     },
     {
-        "catalogID":"26cf6c0fd4f91239e3b7b40eecdfe4d334ac7175",
-        "resourceName":"https://www.school-portal.co.uk/shibboleth-sp",
-        "resourceProvider":{
-            "name":"UniServity Limited",
-            "displayname":"UniServity: cLc Service",
-            "url":"http://www.uniservity.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"5e9f98d4c5888d3e219d335932c71a5481f60516",
         "resourceName":"https://royalsocietypublishing.org/shibboleth",
         "resourceProvider":{
@@ -19836,16 +19826,6 @@
             "name":"Semantico Limited",
             "displayname":"Semantico Limited: CABI Shibboleth 2 SP",
             "url":"http://www.semantico.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"24fad41e106e69ddb95104fb7665cdc944ebaa7c",
-        "resourceName":"https://clc2.uniservity.com/shibboleth-sp",
-        "resourceProvider":{
-            "name":"UniServity Limited",
-            "displayname":"UniServity Limited: cLc Service",
-            "url":"http://www.uniservity.com/"
         },
         "description":""
     },
@@ -20326,16 +20306,6 @@
             "name":"HighWire Press, Inc.",
             "displayname":"Stanford University: Company of Biologists Journals",
             "url":"http://www.biologists.org/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"e1fff34f8794095bb497d4047a7f22f791353045",
-        "resourceName":"https://www.sthelenslife.net/shibboleth-sp",
-        "resourceProvider":{
-            "name":"UniServity Limited",
-            "displayname":"UniServity Limited: St Helens Council",
-            "url":"http://www.uniservity.com/"
         },
         "description":""
     },
@@ -22410,6 +22380,16 @@
         "description":""
     },
     {
+        "catalogID":"a9c8d0abc6d313ed373c621bad660cb83b91f06e",
+        "resourceName":"GoodPractice Ltd",
+        "resourceProvider":{
+            "name":"Emerald Works Limited",
+            "displayname":"Emerald Works Limited",
+            "url":"http://www.goodpractice.com/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"a8eb1a7ccb8ddcd4bb29283109ac3e83371b1d5b",
         "resourceName":"MyConcern Demo Site",
         "resourceProvider":{
@@ -23718,16 +23698,6 @@
             "url":"http://www.lincoln.ox.ac.uk/"
         },
         "description":"Payments gateway for Lincoln College, Oxford"
-    },
-    {
-        "catalogID":"60fb4f64f06f136c0a22a4329533d5554aa10472",
-        "resourceName":"KOLOLA",
-        "resourceProvider":{
-            "name":"KOLOLA Ltd",
-            "displayname":"KOLOLA",
-            "url":"https://www.kolola.net/"
-        },
-        "description":"KOLOLA collaborative e-portfolio platform"
     },
     {
         "catalogID":"928a7c19f90b47ef63e52517a3ec3da15911a8f9",
