@@ -560,6 +560,16 @@
         "description":"https://sp-liveclass.carsi.edu.cn/shibboleth"
     },
     {
+        "catalogID":"f1c6807432fd0b93b198c15d80f003bfe4202881",
+        "resourceName":"https://sp-pkulaw.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"Chinalawinfo Co., Ltd.",
+            "displayname":"Chinalawinfo Co., Ltd.",
+            "url":"https://www.pkulaw.com/"
+        },
+        "description":"https://sp-pkulaw.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"af5b0b290839d43b6a58d7b05110dc6eb86a5dd2",
         "resourceName":"https://sp-txmeeting.carsi.edu.cn/shibboleth",
         "resourceProvider":{
@@ -598,16 +608,6 @@
             "url":"https://www.incopat.com/"
         },
         "description":"https://sp1.incopat.com/shibboleth"
-    },
-    {
-        "catalogID":"cc35d2fea02083adfb0a84267daeab61127a821a",
-        "resourceName":"https://spgateway.carsi.edu.cn/shibboleth",
-        "resourceProvider":{
-            "name":"CARSI",
-            "displayname":"CARSI",
-            "url":"https://www.carsi.edu.cn/"
-        },
-        "description":"https://spgateway.carsi.edu.cn/shibboleth"
     },
     {
         "catalogID":"8638d36a391b608b39c6a608e1eb1dc59c7e026b",
