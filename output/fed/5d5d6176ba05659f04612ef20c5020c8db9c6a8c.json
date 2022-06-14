@@ -1,0 +1,199 @@
+{
+    "generated":"2022-06-14 12:47",
+    "en":[
+        {
+            "catalogID":"5d5d6176ba05659f04612ef20c5020c8db9c6a8c",
+            "entityID":"https://mooc.uni-nke.hu/shibboleth",
+            "resourceName":"MOOC Portal",
+            "resourceProvider":{
+                "name":"University of Public Service",
+                "displayname":"University of Public Service",
+                "url":"http://en.uni-nke.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"Moodle (MOOC) Portal",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                }
+            ],
+            "info":"https://mooc.uni-nke.hu/",
+            "privacy":"https://www.uni-nke.hu/document/uni-nke-hu/Adatkezelési%20nyilatkozat.pdf",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"5d5d6176ba05659f04612ef20c5020c8db9c6a8c",
+            "entityID":"https://mooc.uni-nke.hu/shibboleth",
+            "resourceName":"MOOC Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://en.uni-nke.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"5d5d6176ba05659f04612ef20c5020c8db9c6a8c",
+            "entityID":"https://mooc.uni-nke.hu/shibboleth",
+            "resourceName":"MOOC Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://en.uni-nke.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"5d5d6176ba05659f04612ef20c5020c8db9c6a8c",
+            "entityID":"https://mooc.uni-nke.hu/shibboleth",
+            "resourceName":"MOOC Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://en.uni-nke.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "surname",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"NKE ServicedeskNKE Servicedesk",
+                    "email":"mailto:servicedesk@uni-nke.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
