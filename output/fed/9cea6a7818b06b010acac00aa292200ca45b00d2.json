@@ -20010,16 +20010,6 @@
         "description":""
     },
     {
-        "catalogID":"eb654c039eb69c3715b70d6ea1f9fa91661bf25a",
-        "resourceName":"https://www.digitalmeasures.com/shibboleth-sp/",
-        "resourceProvider":{
-            "name":"Digital Measures, LLC",
-            "displayname":"Digital Measures",
-            "url":"http://www.digitalmeasures.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"4cb3e5373ea9d2e0c57468d7e3d26803b5702697",
         "resourceName":"https://www-falcon.csx.cam.ac.uk/shibboleth",
         "resourceProvider":{
@@ -20738,16 +20728,6 @@
             "url":"http://www.dcc.ac.uk/"
         },
         "description":"This is a test service for the Digital Curation Centre's data management planning tool, DMPonline."
-    },
-    {
-        "catalogID":"38f86935b614424ec0f0fb4d75c3d8d74aacec57",
-        "resourceName":"Listening Books",
-        "resourceProvider":{
-            "name":"The Gallery Partnership Limited",
-            "displayname":"Listening Books",
-            "url":"http://www.listening-books.org.uk/what-we-do.aspx"
-        },
-        "description":""
     },
     {
         "catalogID":"00d49ed4b9a507a8ee52f226623d1cde6d57c376",
@@ -22300,16 +22280,6 @@
         "description":""
     },
     {
-        "catalogID":"34bb629d54f951c7dca7f01c9c678b697db6ed7a",
-        "resourceName":"Informit",
-        "resourceProvider":{
-            "name":"RMIT Training Pty Ltd",
-            "displayname":"Informit",
-            "url":"http://www.informit.com.au/"
-        },
-        "description":"Informit is the premier source of core research and resources from the Australasian region."
-    },
-    {
         "catalogID":"6ce89c785fcf2c86fad2d16e566069a0591965b7",
         "resourceName":"https://www.images.group.cam.ac.uk/shibboleth",
         "resourceProvider":{
@@ -22450,16 +22420,6 @@
         "description":"The MyConcern ThinkIT Integrated Demo Site is used for demonstrating the joined up ThinkIT solution"
     },
     {
-        "catalogID":"760e009d48592398c92d8531112cfcb837b9e39a",
-        "resourceName":"https://www.teamseer.com/ukfederation",
-        "resourceProvider":{
-            "name":"TeamSeer Limited",
-            "displayname":"TeamSeer",
-            "url":"http://www.teamseer.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"34080db02bbe7368fa1873d501ba579d6201568f",
         "resourceName":"KnowledgeBase+",
         "resourceProvider":{
@@ -22468,16 +22428,6 @@
             "url":"http://www.jisc-collections.ac.uk/"
         },
         "description":"KnowledgeBase+"
-    },
-    {
-        "catalogID":"53d40b5ffd8111ff4ab6a556c602fc839d4b4266",
-        "resourceName":"Informit",
-        "resourceProvider":{
-            "name":"RMIT Training Pty Ltd",
-            "displayname":"Informit",
-            "url":"http://www.informit.com.au/"
-        },
-        "description":"Informit is the premier source of core research and resources from the Australasian region."
     },
     {
         "catalogID":"e741d04c5117f5c67ed3e4b219dd78a320b7ed02",
@@ -24570,32 +24520,12 @@
         "description":""
     },
     {
-        "catalogID":"d17df0284417f89eb8b40b938af6426a84e1456a",
-        "resourceName":"https://bc-dev.vitalsource.com/federation/saml/authentications/metadata",
-        "resourceProvider":{
-            "name":"VitalSource Technologies Inc.",
-            "displayname":"VitalSource Technologies",
-            "url":"http://www.vitalsource.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"467673c401bb8e2858a0216501b44ec2756fd366",
         "resourceName":"https://shibboleth2sp.bpp.test.semantico.net/shibboleth",
         "resourceProvider":{
             "name":"Semantico Limited",
             "displayname":"Semantico Limited: Bloomsbury Test Shibboleth 2 SP",
             "url":"http://www.bloomsbury.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"0e583dc24f1efaeae89bc45fd85b69ce7e58a127",
-        "resourceName":"https://bc.vitalsource.com/federation/saml/authentications/metadata",
-        "resourceProvider":{
-            "name":"VitalSource Technologies Inc.",
-            "displayname":"VitalSource Technologies",
-            "url":"http://www.vitalsource.com/"
         },
         "description":""
     },
@@ -24680,16 +24610,6 @@
         "description":""
     },
     {
-        "catalogID":"a886940c6fbc29c1bc7274bdb9b490cee70a4663",
-        "resourceName":"Attributes",
-        "resourceProvider":{
-            "name":"VitalSource Technologies Inc.",
-            "displayname":"VitalSource Technologies",
-            "url":"https://www.vitalsource.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"a3de4efd3c83605ba26e5d04262affac55fe70ea",
         "resourceName":"SAMS Sigma",
         "resourceProvider":{
@@ -24746,16 +24666,6 @@
             "name":"Simitive Limited",
             "displayname":"Simitive Login",
             "url":"http://bathsso.simitive.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"0ec6e244bc6a1bf7c882d68722a8f69557a74033",
-        "resourceName":"Attributes",
-        "resourceProvider":{
-            "name":"VitalSource Technologies Inc.",
-            "displayname":"VitalSource Technologies",
-            "url":"https://www.vitalsource.com/"
         },
         "description":""
     },
@@ -26330,16 +26240,6 @@
         "description":"Govroam Configuration Assistant Tool."
     },
     {
-        "catalogID":"7d986cde804c9d1f07815495f51089cd085a738c",
-        "resourceName":"Warp IT",
-        "resourceProvider":{
-            "name":"WasteAction Resource Efficiency Ltd",
-            "displayname":"Warp IT",
-            "url":"https://www.warp-it.co.uk/"
-        },
-        "description":"Warp It helps you distribute reuse and recycle surplus redundant resources such as furniture, equipment, fixtures and fittings within your organisation and beyond."
-    },
-    {
         "catalogID":"f518a5d7d711eee624acd9f86b162851580edefd",
         "resourceName":"Instructure",
         "resourceProvider":{
@@ -26890,16 +26790,6 @@
         "description":""
     },
     {
-        "catalogID":"aede516940f601038b33f7a8c3e045d31d6ed746",
-        "resourceName":"Theatre Record",
-        "resourceProvider":{
-            "name":"Theatre Record Limited",
-            "displayname":"Theatre Record",
-            "url":"https://www.theatrerecord.com/"
-        },
-        "description":"Established in 1981, Theatre Record has probably the most influential readership - and the most in-depth critical content - of any theatre publication in the UK. It reprints in full all the national drama critics' reviews of the latest productions in and out of London, with full casts and credits as well as production photographs. It carries early information on plans for shows all over the country, months ahead. "
-    },
-    {
         "catalogID":"e5cea2075c85aaebac9e809c690e17c706090730",
         "resourceName":"Lincoln College Hosted EZproxy",
         "resourceProvider":{
@@ -27336,16 +27226,6 @@
             "name":"Idea Elan LLC",
             "displayname":"Idea Elan",
             "url":"https://www.ideaelan.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"c7c5be55fddd79421ffce40b2a5e2905f2fb451d",
-        "resourceName":"VitalSource",
-        "resourceProvider":{
-            "name":"VitalSource Technologies Inc.",
-            "displayname":"VitalSource",
-            "url":"https://get.vitalsource.com/"
         },
         "description":""
     },
@@ -28190,16 +28070,6 @@
         "description":"We are the trusted, gold standard intelligence provider to the world’s largest industries."
     },
     {
-        "catalogID":"4c17cef0d090ddbb943f248c8870e273541f0274",
-        "resourceName":"Compass",
-        "resourceProvider":{
-            "name":"Grand View Research, Inc.",
-            "displayname":"Grand View Research, Inc.",
-            "url":"https://www.grandviewresearch.com/compass"
-        },
-        "description":"Compass is a reporting & analytics platform designed to assist in analyzing data that drills down into the specifics of an industry."
-    },
-    {
         "catalogID":"f49bb8cc14d2adbde12953df09e7ace88ec4c0c2",
         "resourceName":"BMJ Ping Demo",
         "resourceProvider":{
@@ -28858,16 +28728,6 @@
             "url":"https://www.astm.org/"
         },
         "description":""
-    },
-    {
-        "catalogID":"2b0df0949876a5ea4792242003fcaf9be115bcee",
-        "resourceName":"SportBusiness University",
-        "resourceProvider":{
-            "name":"SBG Companies Limited",
-            "displayname":"SBG Companies Limited",
-            "url":"https://university.sportbusiness.com"
-        },
-        "description":"SportBusiness University is a dedicated news, insight and research service for academic and educational institutions developing the future leaders of global sport."
     },
     {
         "catalogID":"63032a68a2379a5acece2821d813e1c5f7f46da9",
