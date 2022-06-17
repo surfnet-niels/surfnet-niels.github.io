@@ -32920,6 +32920,16 @@
         "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
     },
     {
+        "catalogID":"367b1530cce28cfb20cab945d6832a8123ddfc3a",
+        "resourceName":"Naxos Music Group",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+    },
+    {
         "catalogID":"a37c1a247f8ac71f2b099865c7dc5c6ba9f89cd4",
         "resourceName":"Naxos Music Library",
         "resourceProvider":{
@@ -32958,6 +32968,26 @@
             "url":"https://www.filmwerte.de"
         },
         "description":"Authentication for the streaming platform filmfriend."
+    },
+    {
+        "catalogID":"6219f82705ff21238f27e4d7f32ed4388deca15b",
+        "resourceName":"Naxos Shibboleth - STAGING",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"Naxos Shibboleth - STAGING"
+    },
+    {
+        "catalogID":"91ea146664651d5dd7db87a62ddaeeca4315e851",
+        "resourceName":"Naxos Music Library - Test Entity at Staging",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"Developmental/Staging Integration of Naxos Music Library"
     },
     {
         "catalogID":"3e9382bd41191f8a97142f71b51a5783fb6c30b5",

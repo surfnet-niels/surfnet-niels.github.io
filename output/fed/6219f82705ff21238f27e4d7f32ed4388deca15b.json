@@ -1,0 +1,167 @@
+{
+    "generated":"2022-06-17 06:30",
+    "en":[
+        {
+            "catalogID":"6219f82705ff21238f27e4d7f32ed4388deca15b",
+            "entityID":"https://apiqa.naxosmusiclibrary.com/shibedu",
+            "resourceName":"Naxos Shibboleth - STAGING",
+            "resourceProvider":{
+                "name":"e720",
+                "displayname":"NAXOS",
+                "url":"https://www.naxos.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Naxos Shibboleth - STAGING",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                },
+                {
+                    "type":"support",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                },
+                {
+                    "type":"security",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                }
+            ],
+            "info":"https://apiqa.naxosmusiclibrary.com",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"6219f82705ff21238f27e4d7f32ed4388deca15b",
+            "entityID":"https://apiqa.naxosmusiclibrary.com/shibedu",
+            "resourceName":"Naxos Shibboleth - STAGING",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.naxos.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                },
+                {
+                    "type":"support",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                },
+                {
+                    "type":"security",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"6219f82705ff21238f27e4d7f32ed4388deca15b",
+            "entityID":"https://apiqa.naxosmusiclibrary.com/shibedu",
+            "resourceName":"Naxos Shibboleth - STAGING",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.naxos.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                },
+                {
+                    "type":"support",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                },
+                {
+                    "type":"security",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"6219f82705ff21238f27e4d7f32ed4388deca15b",
+            "entityID":"https://apiqa.naxosmusiclibrary.com/shibedu",
+            "resourceName":"Naxos Shibboleth - STAGING",
+            "resourceProvider":{
+                "name":"e720",
+                "displayname":"NAXOS",
+                "url":"https://www.naxos.com"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Naxos Shibboleth - STAGING",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                },
+                {
+                    "type":"support",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                },
+                {
+                    "type":"security",
+                    "name":"RuelDe Castro",
+                    "email":"mailto:ruel.decastro@naxos.com"
+                }
+            ],
+            "info":"https://apiqa.naxosmusiclibrary.com",
+            "privacy":"https://apiqa.naxosmusiclibrary.com",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
