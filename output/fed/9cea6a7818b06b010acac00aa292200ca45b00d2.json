@@ -29410,6 +29410,16 @@
         "description":"Give access to tools linked with MESHS supported research's project"
     },
     {
+        "catalogID":"fa808ec8f3886144a288485a77a5151307816819",
+        "resourceName":"Ulysseus European University - Identity broker",
+        "resourceProvider":{
+            "name":"Université Côte d'Azur",
+            "displayname":"Université Côte d'Azur",
+            "url":"http://www.unice.fr"
+        },
+        "description":"This service is used to delegate authentication from an IDP toward all the IDPs from Ulysseus European University partners."
+    },
+    {
         "catalogID":"5609519484dadb3837286a11416a8833f05b87ec",
         "resourceName":"Eduspot - Nimes University",
         "resourceProvider":{
