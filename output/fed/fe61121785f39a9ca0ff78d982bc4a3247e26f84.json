@@ -1,0 +1,171 @@
+{
+    "generated":"2022-06-20 20:26",
+    "en":[
+        {
+            "catalogID":"fe61121785f39a9ca0ff78d982bc4a3247e26f84",
+            "entityID":"https://chi.hosted.test.cloud.ethosce.com/sites/all/libraries/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"chi.hosted.test.cloud.ethosce.com",
+            "resourceProvider":{
+                "name":"DLC Solutions, LLC",
+                "displayname":"DLC Solutions, LLC",
+                "url":"http://www.dlc-solutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Test EthosCE instance for the University of Chicago",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.ethosce.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"fe61121785f39a9ca0ff78d982bc4a3247e26f84",
+            "entityID":"https://chi.hosted.test.cloud.ethosce.com/sites/all/libraries/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://chi.hosted.test.cloud.ethosce.com/sites/all/libraries/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dlc-solutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"fe61121785f39a9ca0ff78d982bc4a3247e26f84",
+            "entityID":"https://chi.hosted.test.cloud.ethosce.com/sites/all/libraries/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://chi.hosted.test.cloud.ethosce.com/sites/all/libraries/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dlc-solutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"fe61121785f39a9ca0ff78d982bc4a3247e26f84",
+            "entityID":"https://chi.hosted.test.cloud.ethosce.com/sites/all/libraries/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://chi.hosted.test.cloud.ethosce.com/sites/all/libraries/simplesaml/www/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.dlc-solutions.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ezra Wolfe",
+                    "email":"mailto:ezra.wolfe@gocadmium.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
