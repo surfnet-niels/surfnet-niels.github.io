@@ -29287,7 +29287,27 @@
             "displayname":"University of Liverpool - Alma",
             "url":"https://www.exlibrisgroup.com/"
         },
-        "description":"An Ex Libris SP for University of Liverpool - Alma"
+        "description":"University of Liverpool - Alma"
+    },
+    {
+        "catalogID":"9ce2723cf58ed94bfd7c68bef4ac02112f0be407",
+        "resourceName":"University of Liverpool - PrimoVE",
+        "resourceProvider":{
+            "name":"Ex Libris (UK) Limited",
+            "displayname":"University of Liverpool - PrimoVE",
+            "url":"https://www.exlibrisgroup.com/"
+        },
+        "description":"University of Liverpool - PrimoVE"
+    },
+    {
+        "catalogID":"f79c301a3623165ecdd7be68413d962982950b54",
+        "resourceName":"CloudMarketplace ITE LSTM IdBroker",
+        "resourceProvider":{
+            "name":"Science Warehouse Limited",
+            "displayname":"CloudMarketplace ITE LSTM IdBroker",
+            "url":"https://www.oneadvanced.com/science-warehouse/"
+        },
+        "description":"CloudMarketplace ITE environment Identity Broker for LSTM"
     },
     {
         "catalogID":"0c2b2d4343c82f3f0b787b446d8bfb972f700aaa",
@@ -29366,6 +29386,16 @@
             "name":[],
             "displayname":[],
             "url":"https://abc.lancaster-university.uk"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"10d6fdcd78f105cc0b8a8b0b4a2e33aae81632df",
+        "resourceName":"CloudMarketplace Staging LSTM IdBroker",
+        "resourceProvider":{
+            "name":"Science Warehouse Limited",
+            "displayname":"Science Warehouse Limited",
+            "url":"https://www.oneadvanced.com/science-warehouse/"
         },
         "description":""
     },

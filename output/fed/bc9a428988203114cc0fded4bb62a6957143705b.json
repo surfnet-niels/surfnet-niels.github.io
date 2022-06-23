@@ -1,5 +1,5 @@
 {
-    "generated":"2022-06-23 16:36",
+    "generated":"2022-06-23 18:31",
     "en":[
         {
             "catalogID":"bc9a428988203114cc0fded4bb62a6957143705b",
@@ -12,9 +12,11 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonNickname"
+                ]
             },
-            "description":"An Ex Libris SP for University of Liverpool - Alma",
+            "description":"University of Liverpool - Alma",
             "resourceContacts":[
                 {
                     "type":"support",
@@ -37,7 +39,7 @@
         {
             "catalogID":"bc9a428988203114cc0fded4bb62a6957143705b",
             "entityID":"https://liverpool.alma.exlibrisgroup.com/mng/login",
-            "resourceName":"https://liverpool.alma.exlibrisgroup.com/mng/login",
+            "resourceName":"University of Liverpool - Alma",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -45,7 +47,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonNickname"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -70,7 +74,7 @@
         {
             "catalogID":"bc9a428988203114cc0fded4bb62a6957143705b",
             "entityID":"https://liverpool.alma.exlibrisgroup.com/mng/login",
-            "resourceName":"https://liverpool.alma.exlibrisgroup.com/mng/login",
+            "resourceName":"University of Liverpool - Alma",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -78,7 +82,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonNickname"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -103,7 +109,7 @@
         {
             "catalogID":"bc9a428988203114cc0fded4bb62a6957143705b",
             "entityID":"https://liverpool.alma.exlibrisgroup.com/mng/login",
-            "resourceName":"https://liverpool.alma.exlibrisgroup.com/mng/login",
+            "resourceName":"University of Liverpool - Alma",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -111,7 +117,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonNickname"
+                ]
             },
             "description":"",
             "resourceContacts":[
