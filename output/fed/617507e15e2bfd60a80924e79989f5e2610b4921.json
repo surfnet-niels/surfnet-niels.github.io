@@ -1,5 +1,5 @@
 {
-    "generated":"2022-06-26 18:28",
+    "generated":"2022-06-26 20:23",
     "en":[
         {
             "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
@@ -14,11 +14,11 @@
                 "required":[
                     "commonName",
                     "eduPersonAffiliation",
-                    "eduPersonTargetedID",
-                    "organizationName",
                     "mail",
                     "givenName",
-                    "surname"
+                    "surname",
+                    "eduPersonTargetedID",
+                    "organizationName"
                 ],
                 "requested":[]
             },
@@ -50,11 +50,11 @@
                 "required":[
                     "commonName",
                     "eduPersonAffiliation",
-                    "eduPersonTargetedID",
-                    "organizationName",
                     "mail",
                     "givenName",
-                    "surname"
+                    "surname",
+                    "eduPersonTargetedID",
+                    "organizationName"
                 ],
                 "requested":[]
             },
@@ -86,11 +86,11 @@
                 "required":[
                     "commonName",
                     "eduPersonAffiliation",
-                    "eduPersonTargetedID",
-                    "organizationName",
                     "mail",
                     "givenName",
-                    "surname"
+                    "surname",
+                    "eduPersonTargetedID",
+                    "organizationName"
                 ],
                 "requested":[]
             },
@@ -122,11 +122,11 @@
                 "required":[
                     "commonName",
                     "eduPersonAffiliation",
-                    "eduPersonTargetedID",
-                    "organizationName",
                     "mail",
                     "givenName",
-                    "surname"
+                    "surname",
+                    "eduPersonTargetedID",
+                    "organizationName"
                 ],
                 "requested":[]
             },
