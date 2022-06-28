@@ -25110,6 +25110,16 @@
         "description":""
     },
     {
+        "catalogID":"6c20977d170ed580f9496cee4872360891640391",
+        "resourceName":"https://sciauth.scientia.com/Metadata/SamlMetadata",
+        "resourceProvider":{
+            "name":"Scientia Ltd",
+            "displayname":"Scientia",
+            "url":"http://www.scientia.com/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"7f81e083b7361f7b741214e697249014adfc4fdd",
         "resourceName":"MEO Test",
         "resourceProvider":{
@@ -27968,6 +27978,16 @@
             "url":"http://www.wolterskluwer.com/"
         },
         "description":"Wolters Kluwer OpenAthens Keystone Int"
+    },
+    {
+        "catalogID":"34ebc15588158b636c2dbe749479dba492b26e3a",
+        "resourceName":"Scientia Authentication Core",
+        "resourceProvider":{
+            "name":"Scientia Ltd",
+            "displayname":"Scientia Ltd",
+            "url":"https://www.scientia.com/"
+        },
+        "description":""
     },
     {
         "catalogID":"26c9bb544049a3c90e45efe37122a4182ebc3185",
