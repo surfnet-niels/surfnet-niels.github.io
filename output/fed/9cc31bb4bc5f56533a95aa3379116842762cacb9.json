@@ -1,0 +1,219 @@
+{
+    "generated":"2022-06-28 20:26",
+    "en":[
+        {
+            "catalogID":"9cc31bb4bc5f56533a95aa3379116842762cacb9",
+            "entityID":"https://federated-satosa-dev.apps.cluster0.ocp-dev.icpsr.umich.edu/incommon/proxy_saml2_backend.xml",
+            "resourceName":"ICPSR Dev InCommon Authentication",
+            "resourceProvider":{
+                "name":"University of Michigan",
+                "displayname":"University of Michigan",
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"ICPSR Dev Proxy for InCommon Federated Authentication",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Daniel Pritts",
+                    "email":"mailto:danno@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Eduardo Beltran",
+                    "email":"mailto:ebltran@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Eduardo Beltran",
+                    "email":"mailto:ebltran@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Joseph Saul (Security Team)",
+                    "email":"mailto:icpsr-security@umich.edu"
+                }
+            ],
+            "info":"https://www.icpsr.umich.edu/web/pages/about/",
+            "privacy":"https://www.icpsr.umich.edu/web/pages/about/privacy.html",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"9cc31bb4bc5f56533a95aa3379116842762cacb9",
+            "entityID":"https://federated-satosa-dev.apps.cluster0.ocp-dev.icpsr.umich.edu/incommon/proxy_saml2_backend.xml",
+            "resourceName":"ICPSR Dev InCommon Authentication",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Daniel Pritts",
+                    "email":"mailto:danno@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Eduardo Beltran",
+                    "email":"mailto:ebltran@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Eduardo Beltran",
+                    "email":"mailto:ebltran@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Joseph Saul (Security Team)",
+                    "email":"mailto:icpsr-security@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"9cc31bb4bc5f56533a95aa3379116842762cacb9",
+            "entityID":"https://federated-satosa-dev.apps.cluster0.ocp-dev.icpsr.umich.edu/incommon/proxy_saml2_backend.xml",
+            "resourceName":"ICPSR Dev InCommon Authentication",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Daniel Pritts",
+                    "email":"mailto:danno@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Eduardo Beltran",
+                    "email":"mailto:ebltran@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Eduardo Beltran",
+                    "email":"mailto:ebltran@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Joseph Saul (Security Team)",
+                    "email":"mailto:icpsr-security@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"9cc31bb4bc5f56533a95aa3379116842762cacb9",
+            "entityID":"https://federated-satosa-dev.apps.cluster0.ocp-dev.icpsr.umich.edu/incommon/proxy_saml2_backend.xml",
+            "resourceName":"ICPSR Dev InCommon Authentication",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.umich.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "displayName",
+                    "givenName",
+                    "o",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Daniel Pritts",
+                    "email":"mailto:danno@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Eduardo Beltran",
+                    "email":"mailto:ebltran@umich.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Eduardo Beltran",
+                    "email":"mailto:ebltran@umich.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Joseph Saul (Security Team)",
+                    "email":"mailto:icpsr-security@umich.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

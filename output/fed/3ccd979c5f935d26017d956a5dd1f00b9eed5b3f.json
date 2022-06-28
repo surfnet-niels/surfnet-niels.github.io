@@ -1,0 +1,191 @@
+{
+    "generated":"2022-06-28 20:26",
+    "en":[
+        {
+            "catalogID":"3ccd979c5f935d26017d956a5dd1f00b9eed5b3f",
+            "entityID":"https://de-cloud.3dprinteros.com",
+            "resourceName":"3DPrinterOS DeCloud",
+            "resourceProvider":{
+                "name":"3D Control Systems, Inc.",
+                "displayname":"3D Control Systems, Inc.",
+                "url":"https://www.3dprinteros.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"3DPrinterOS is an easy way to use complete software packages for 3D printers (Firmware, Software, Cloud platforms etc.). The system covers every aspect of 3D printing and advanced manufacturing workflows, solving the fragmentation of many disparate 3D printers and their associated software.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Admin 3DPrinterOS",
+                    "email":"mailto:admin+incommon@3dprinteros.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security 3DPrinterOS",
+                    "email":"mailto:admin+incommon+security@3dprinteros.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Maksym Kozlov (3DPrinterOS Team)",
+                    "email":"mailto:m.kozlov+incommon@3dprinteros.com"
+                }
+            ],
+            "info":"https://www.3dprinteros.com/",
+            "privacy":"https://www.3dprinteros.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"3ccd979c5f935d26017d956a5dd1f00b9eed5b3f",
+            "entityID":"https://de-cloud.3dprinteros.com",
+            "resourceName":"3DPrinterOS DeCloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.3dprinteros.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Admin 3DPrinterOS",
+                    "email":"mailto:admin+incommon@3dprinteros.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security 3DPrinterOS",
+                    "email":"mailto:admin+incommon+security@3dprinteros.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Maksym Kozlov (3DPrinterOS Team)",
+                    "email":"mailto:m.kozlov+incommon@3dprinteros.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"3ccd979c5f935d26017d956a5dd1f00b9eed5b3f",
+            "entityID":"https://de-cloud.3dprinteros.com",
+            "resourceName":"3DPrinterOS DeCloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.3dprinteros.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Admin 3DPrinterOS",
+                    "email":"mailto:admin+incommon@3dprinteros.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security 3DPrinterOS",
+                    "email":"mailto:admin+incommon+security@3dprinteros.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Maksym Kozlov (3DPrinterOS Team)",
+                    "email":"mailto:m.kozlov+incommon@3dprinteros.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"3ccd979c5f935d26017d956a5dd1f00b9eed5b3f",
+            "entityID":"https://de-cloud.3dprinteros.com",
+            "resourceName":"3DPrinterOS DeCloud",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.3dprinteros.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Admin 3DPrinterOS",
+                    "email":"mailto:admin+incommon@3dprinteros.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security 3DPrinterOS",
+                    "email":"mailto:admin+incommon+security@3dprinteros.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Maksym Kozlov (3DPrinterOS Team)",
+                    "email":"mailto:m.kozlov+incommon@3dprinteros.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

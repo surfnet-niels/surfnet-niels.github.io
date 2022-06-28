@@ -4180,6 +4180,16 @@
         "description":"OSiRIS project authentication portal. OSiRIS is a distributed research data storage platform."
     },
     {
+        "catalogID":"9cc31bb4bc5f56533a95aa3379116842762cacb9",
+        "resourceName":"ICPSR Dev InCommon Authentication",
+        "resourceProvider":{
+            "name":"University of Michigan",
+            "displayname":"University of Michigan",
+            "url":"http://www.umich.edu/"
+        },
+        "description":"ICPSR Dev Proxy for InCommon Federated Authentication"
+    },
+    {
         "catalogID":"d6ed59aaa865af26ee2bf0057a2696bded0e9031",
         "resourceName":"Fulcrum Scholarly Publishing Platform",
         "resourceProvider":{
@@ -14190,6 +14200,16 @@
         "description":""
     },
     {
+        "catalogID":"919e3ddd9f535ead8c6334646233d203c69554cb",
+        "resourceName":"InfoReady Review - Dartmouth College",
+        "resourceProvider":{
+            "name":"InfoReady Corp",
+            "displayname":"InfoReady Corp",
+            "url":"http://www.infoready4.com/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"b86a3afef0f2aff3f32a95da7342b51e51216af6",
         "resourceName":"InfoReady Review - UMich DITF",
         "resourceProvider":{
@@ -15870,6 +15890,16 @@
         "description":""
     },
     {
+        "catalogID":"ef25ba2e0270dd049f3a0c7d4b3bf0f248813035",
+        "resourceName":"CUMBRIA StarRezWeb Dev",
+        "resourceProvider":{
+            "name":"StarRez, Inc.",
+            "displayname":"StarRez, Inc.",
+            "url":"https://www.starrez.com/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"77939eed30f6dfaab6460c97c6396a76df076fd8",
         "resourceName":"DARWIN STEDMUNDS StarRezPortal",
         "resourceProvider":{
@@ -16488,6 +16518,16 @@
             "url":"https://www.thehistorymakers.org"
         },
         "description":"The world’s largest African American video oral history collection"
+    },
+    {
+        "catalogID":"3ccd979c5f935d26017d956a5dd1f00b9eed5b3f",
+        "resourceName":"3DPrinterOS DeCloud",
+        "resourceProvider":{
+            "name":"3D Control Systems, Inc.",
+            "displayname":"3D Control Systems, Inc.",
+            "url":"https://www.3dprinteros.com/"
+        },
+        "description":"3DPrinterOS is an easy way to use complete software packages for 3D printers (Firmware, Software, Cloud platforms etc.). The system covers every aspect of 3D printing and advanced manufacturing workflows, solving the fragmentation of many disparate 3D printers and their associated software."
     },
     {
         "catalogID":"5473625c8e719560a73a4e1bdb98fbfa757044a0",
