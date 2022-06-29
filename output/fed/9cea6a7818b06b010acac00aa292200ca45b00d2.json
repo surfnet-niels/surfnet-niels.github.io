@@ -23730,6 +23730,16 @@
         "description":"Payments gateway for Lincoln College, Oxford"
     },
     {
+        "catalogID":"928a7c19f90b47ef63e52517a3ec3da15911a8f9",
+        "resourceName":"Kanopy",
+        "resourceProvider":{
+            "name":"Kanopy, Inc.",
+            "displayname":"Kanopy",
+            "url":"https://www.kanopystreaming.com/"
+        },
+        "description":"Kanopy provides students access to one of the largest collections of films in the world."
+    },
+    {
         "catalogID":"2e9e44a40efff37e5833f213cdded7c11b6c6491",
         "resourceName":"https://shibboleth2sp-test.sams2.oup.com/shibboleth",
         "resourceProvider":{
@@ -25770,6 +25780,16 @@
         "description":""
     },
     {
+        "catalogID":"645598ca7d28f05058c6cb2fbcb71f714666a372",
+        "resourceName":"Kanopy",
+        "resourceProvider":{
+            "name":"Kanopy, Inc.",
+            "displayname":"Kanopy",
+            "url":"https://www.kanopy.com"
+        },
+        "description":"Kanopy showcases more than 30,000 titles, including award-winning documentaries and acclaimed films, rare and hard-to-find titles, and classic films."
+    },
+    {
         "catalogID":"4f70c37d80c5c3c92aaeb8a40741a37f9b8b7e49",
         "resourceName":"Anvil",
         "resourceProvider":{
@@ -26400,16 +26420,6 @@
         "description":"Online access to BMJ Products"
     },
     {
-        "catalogID":"fcfb34986e6ae6f50d57a917b5504b11cd4d8fc0",
-        "resourceName":"https://local.bmj-fed-access.bmjgroup.com/oa/entity",
-        "resourceProvider":{
-            "name":"BMJ Publishing Group Limited",
-            "displayname":"BMJ Development",
-            "url":"http://www.bmj.com"
-        },
-        "description":""
-    },
-    {
         "catalogID":"e545fe7ca58d2897a1b4f17e35ec6ff830336cb8",
         "resourceName":"Mentimeter",
         "resourceProvider":{
@@ -26838,6 +26848,16 @@
             "url":"http://www.it.ox.ac.uk"
         },
         "description":""
+    },
+    {
+        "catalogID":"aede516940f601038b33f7a8c3e045d31d6ed746",
+        "resourceName":"Theatre Record",
+        "resourceProvider":{
+            "name":"Theatre Record Limited",
+            "displayname":"Theatre Record",
+            "url":"https://www.theatrerecord.com/"
+        },
+        "description":"Established in 1981, Theatre Record has probably the most influential readership - and the most in-depth critical content - of any theatre publication in the UK. It reprints in full all the national drama critics' reviews of the latest productions in and out of London, with full casts and credits as well as production photographs. It carries early information on plans for shows all over the country, months ahead. "
     },
     {
         "catalogID":"e5cea2075c85aaebac9e809c690e17c706090730",
@@ -27920,16 +27940,6 @@
         "description":"Free digital student card - Access 1000's of student exclusive discounts with Student Beans iD"
     },
     {
-        "catalogID":"ed4c0a5b2dc5ca1d0636e25fb0bac0510625f852",
-        "resourceName":"BMJ Fed Access - Learning (OIDC Local)",
-        "resourceProvider":{
-            "name":"BMJ Publishing Group Limited",
-            "displayname":"BMJ Publishing Group Limited",
-            "url":"http://bmjgroup.com"
-        },
-        "description":"BMJ Fed Access - Learning - OIDC Local"
-    },
-    {
         "catalogID":"999c8b35b061434b6b5e6c61ed8f43155ed6bfff",
         "resourceName":"Wolters Kluwer OpenAthens Keystone Development",
         "resourceProvider":{
@@ -28108,16 +28118,6 @@
             "url":"https://globaldata.com/"
         },
         "description":"We are the trusted, gold standard intelligence provider to the world’s largest industries."
-    },
-    {
-        "catalogID":"f49bb8cc14d2adbde12953df09e7ace88ec4c0c2",
-        "resourceName":"BMJ Ping Demo",
-        "resourceProvider":{
-            "name":"BMJ Publishing Group Limited",
-            "displayname":"BMJ Publishing Group Limited",
-            "url":"http://bmjgroup.com"
-        },
-        "description":"Online access to BMJ Ping Demo via OpenAthens (dev)"
     },
     {
         "catalogID":"2c17094cc5e461b4f08ea81db267d8a8b7b27397",
@@ -29294,7 +29294,7 @@
         "resourceName":"University of Liverpool - Alma",
         "resourceProvider":{
             "name":"Ex Libris (UK) Limited",
-            "displayname":"University of Liverpool - Alma",
+            "displayname":"Ex Libris (UK) Limited",
             "url":"https://www.exlibrisgroup.com/"
         },
         "description":"University of Liverpool - Alma"
@@ -29304,7 +29304,7 @@
         "resourceName":"University of Liverpool - PrimoVE",
         "resourceProvider":{
             "name":"Ex Libris (UK) Limited",
-            "displayname":"University of Liverpool - PrimoVE",
+            "displayname":"Ex Libris (UK) Limited",
             "url":"https://www.exlibrisgroup.com/"
         },
         "description":"University of Liverpool - PrimoVE"
@@ -29314,10 +29314,20 @@
         "resourceName":"CloudMarketplace ITE LSTM IdBroker",
         "resourceProvider":{
             "name":"Science Warehouse Limited",
-            "displayname":"CloudMarketplace ITE LSTM IdBroker",
+            "displayname":"Science Warehouse Limited",
             "url":"https://www.oneadvanced.com/science-warehouse/"
         },
         "description":"CloudMarketplace ITE environment Identity Broker for LSTM"
+    },
+    {
+        "catalogID":"584cdfc43fca3802b51606a20380671915f6fa69",
+        "resourceName":"CloudMarketplace DEV LSTM IdBroker",
+        "resourceProvider":{
+            "name":"Science Warehouse Limited",
+            "displayname":"Science Warehouse Limited",
+            "url":"https://www.oneadvanced.com/science-warehouse/"
+        },
+        "description":"CloudMarketplace DEV environment Identity Broker for LSTM"
     },
     {
         "catalogID":"0c2b2d4343c82f3f0b787b446d8bfb972f700aaa",
