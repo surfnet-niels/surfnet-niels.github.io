@@ -34670,6 +34670,16 @@
         "description":"Vermittlung von Stipendien und Darlehen"
     },
     {
+        "catalogID":"3e28b28374d07ef8f15fbc5310479a8e6b45688b",
+        "resourceName":"LiRI Services",
+        "resourceProvider":{
+            "name":"uzh.ch",
+            "displayname":"University of Zurich",
+            "url":"http://www.uzh.ch/"
+        },
+        "description":"Access services provided by the Linguistic Research Infrastructure (LiRI) at University of Zurich"
+    },
+    {
         "catalogID":"adf99075fede70bd854ee184582c28a0895856d0",
         "resourceName":"DOCCOM  Deutsch Universität Bern",
         "resourceProvider":{
@@ -34708,16 +34718,6 @@
             "url":"https://www.cloudsigma.com/"
         },
         "description":"CloudSigma FRA"
-    },
-    {
-        "catalogID":"3e28b28374d07ef8f15fbc5310479a8e6b45688b",
-        "resourceName":"LiRI Services",
-        "resourceProvider":{
-            "name":"uzh.ch",
-            "displayname":"University of Zurich",
-            "url":"http://www.uzh.ch/"
-        },
-        "description":"Access services provided by the Linguistic Research Infrastructure (LiRI) at University of Zurich"
     },
     {
         "catalogID":"a8c07d1e84b72a2a3af2cb673ee1819257013273",
@@ -35098,26 +35098,6 @@
             "url":"https://fib.upc.es"
         },
         "description":"Application Process for Exchange Students at FIB (UPC)"
-    },
-    {
-        "catalogID":"31cc443155af785062a81fa0eb33dbb9b20b47d6",
-        "resourceName":"SEAL - University of Malaga",
-        "resourceProvider":{
-            "name":"University of Malaga",
-            "displayname":"SEAL - University of Málaga",
-            "url":"https://www.uma.es"
-        },
-        "description":"SEAL Dashboard"
-    },
-    {
-        "catalogID":"522d69621de9bb9967fb6e8de74189c12cc7f285",
-        "resourceName":"COVID sample self collection for research",
-        "resourceProvider":{
-            "name":"University of Malaga",
-            "displayname":"UMA",
-            "url":"https://www.uma.es"
-        },
-        "description":"COVID sample self collection for research"
     },
     {
         "catalogID":"5d162e2c4c26572c473acabff2f5973f0c39a0c8",
