@@ -29390,16 +29390,6 @@
         "description":"Digitalia Publishing provides ebooks and digital resources to institutions worldwide"
     },
     {
-        "catalogID":"4a307ec23d6b3d75266e49600457b5b77cf40d6a",
-        "resourceName":"CloudMarketplace DEV LSTM IdBroker",
-        "resourceProvider":{
-            "name":"Science Warehouse Limited",
-            "displayname":"Science Warehouse Limited",
-            "url":"https://www.oneadvanced.com/science-warehouse/"
-        },
-        "description":"CloudMarketplace DEV environment Identity Broker for LSTM"
-    },
-    {
         "catalogID":"3e38035ad130e1fdd638b335161456eb204e8a64",
         "resourceName":"Ex Libris Primo VE on behalf of the University of Bath",
         "resourceProvider":{
@@ -29413,8 +29403,8 @@
         "catalogID":"0292017efc941eab4760d8f80236639f6d52b01c",
         "resourceName":"abclancasteruniversity",
         "resourceProvider":{
-            "name":[],
-            "displayname":[],
+            "name":"Simitive Limited",
+            "displayname":"Simitive Limited",
             "url":"https://abc.lancaster-university.uk"
         },
         "description":""
@@ -29428,6 +29418,16 @@
             "url":"https://www.oneadvanced.com/science-warehouse/"
         },
         "description":""
+    },
+    {
+        "catalogID":"6325f244d00c9ae7b4fcf3135e3a51c00d7a8792",
+        "resourceName":"British Standards Institution Knowledge Production Account",
+        "resourceProvider":{
+            "name":"British Standards Institution",
+            "displayname":"British Standards Institution",
+            "url":"https://knowledge.bsigroup.com/"
+        },
+        "description":"British Standards Institution production account used for shop/knowledge"
     },
     {
         "catalogID":"ce142e875551f4415e626ff063689f9b23248552",
