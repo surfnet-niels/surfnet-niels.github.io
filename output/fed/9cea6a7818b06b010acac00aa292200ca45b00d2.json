@@ -540,6 +540,16 @@
         "description":"http://fsso.metel.cn"
     },
     {
+        "catalogID":"9afed75bd3f22bbac2139c51961682bce660527d",
+        "resourceName":"https://sp-caas4calis.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"CALIS",
+            "displayname":"CALIS",
+            "url":"http://www.calis.edu.cn"
+        },
+        "description":"https://sp-caas4calis.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"28ca03a219b66bd97c9ec02b478bfe493aa37aa6",
         "resourceName":"https://sp-ceinet.carsi.edu.cn/shibboleth",
         "resourceProvider":{
