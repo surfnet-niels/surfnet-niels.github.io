@@ -540,6 +540,16 @@
         "description":"http://fsso.metel.cn"
     },
     {
+        "catalogID":"8ac93cd5e3b249ea9f5617b5c10b24d8e20f21b3",
+        "resourceName":"https://sp-bookan.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"Wuhan Dingsen Electronic Technology Co., Ltd",
+            "displayname":"Wuhan Dingsen Electronic Technology Co., Ltd",
+            "url":"http://bookan.com.cn/"
+        },
+        "description":"https://sp-bookan.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"9afed75bd3f22bbac2139c51961682bce660527d",
         "resourceName":"https://sp-caas4calis.carsi.edu.cn/shibboleth",
         "resourceProvider":{
