@@ -18850,16 +18850,6 @@
         "description":""
     },
     {
-        "catalogID":"09b3082200d14a134f62019d47f26aa6cb7cfcc1",
-        "resourceName":"ELIXIR-SI eLearning platform",
-        "resourceProvider":{
-            "name":"Univerza v Ljubljani, Medicinska fakulteta",
-            "displayname":"Univerza v Ljubljani, Medicinska fakulteta",
-            "url":"http://www.mf.uni-lj.si/"
-        },
-        "description":"ELIXIR-SI eLearning platform"
-    },
-    {
         "catalogID":"56b3496ed6e8e5330ed88d2a7072fe69bb9b22f8",
         "resourceName":"ArnesAAI IdP eduGAIN test",
         "resourceProvider":{
@@ -18868,6 +18858,16 @@
             "url":"http://www.arnes.si"
         },
         "description":"Aplication for testing IdP eduGAIN compatibility"
+    },
+    {
+        "catalogID":"09b3082200d14a134f62019d47f26aa6cb7cfcc1",
+        "resourceName":"ELIXIR-SI eLearning platform",
+        "resourceProvider":{
+            "name":"Univerza v Ljubljani, Medicinska fakulteta",
+            "displayname":"Univerza v Ljubljani, Medicinska fakulteta",
+            "url":"http://www.mf.uni-lj.si/"
+        },
+        "description":"ELIXIR-SI eLearning platform"
     },
     {
         "catalogID":"951b775ba75070c56d9e27c012e826177762abab",
