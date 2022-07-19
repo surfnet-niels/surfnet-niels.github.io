@@ -1,0 +1,159 @@
+{
+    "generated":"2022-07-19 12:51",
+    "en":[
+        {
+            "catalogID":"90f4cf3c03832ba893b90481b8ba5b48b90170d1",
+            "entityID":"https://card.ec2u.eu/",
+            "resourceName":"EC2U Virtual Card - University of Pavia",
+            "resourceProvider":{
+                "name":"EC2U - European Campus of City-Universities",
+                "displayname":"EC2U - European Campus of City-Universities (c/o University of Pavia)",
+                "url":"https://web-en.unipv.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "surname",
+                    "commonName",
+                    "email",
+                    "schacPersonalUniqueCode",
+                    "schacHomeOrganization"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"The system publishes mobile-based EC2U virtual cards",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"EC2U Connect Centre",
+                    "email":"mailto:cc@ml.ec2u.eu"
+                }
+            ],
+            "info":"https://card.ec2u.eu/about",
+            "privacy":"https://card.ec2u.eu/privacy",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"90f4cf3c03832ba893b90481b8ba5b48b90170d1",
+            "entityID":"https://card.ec2u.eu/",
+            "resourceName":"EC2U Virtual Card - University of Pavia",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://web-en.unipv.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "surname",
+                    "commonName",
+                    "email",
+                    "schacPersonalUniqueCode",
+                    "schacHomeOrganization"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"EC2U Connect Centre",
+                    "email":"mailto:cc@ml.ec2u.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"90f4cf3c03832ba893b90481b8ba5b48b90170d1",
+            "entityID":"https://card.ec2u.eu/",
+            "resourceName":"EC2U Virtual Card - Università degli Studi di Pavia",
+            "resourceProvider":{
+                "name":"EC2U - European Campus of City-Universities",
+                "displayname":"EC2U - European Campus of City-Universities (c/o Università degli Studi di Pavia)",
+                "url":"https://web-en.unipv.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "surname",
+                    "commonName",
+                    "email",
+                    "schacPersonalUniqueCode",
+                    "schacHomeOrganization"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"Il sistema permette di accedere alle carte mobili virtuali EC2U",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"EC2U Connect Centre",
+                    "email":"mailto:cc@ml.ec2u.eu"
+                }
+            ],
+            "info":"https://card.ec2u.eu/about",
+            "privacy":"https://card.ec2u.eu/privacy",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"90f4cf3c03832ba893b90481b8ba5b48b90170d1",
+            "entityID":"https://card.ec2u.eu/",
+            "resourceName":"EC2U Virtual Card - University of Pavia",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://web-en.unipv.it"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "givenName",
+                    "surname",
+                    "commonName",
+                    "email",
+                    "schacPersonalUniqueCode",
+                    "schacHomeOrganization"
+                ],
+                "requested":[
+                    "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"EC2U Connect Centre",
+                    "email":"mailto:cc@ml.ec2u.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
