@@ -1,171 +1,195 @@
 {
-    "generated":"2022-07-22 16:39",
+    "generated":"2022-07-22 18:30",
     "en":[
         {
             "catalogID":"c7c5be55fddd79421ffce40b2a5e2905f2fb451d",
             "entityID":"https://bc.vitalsource.com/federation/saml_auth/authentications/metadata",
-            "resourceName":"VitalSource Launch",
+            "resourceName":"VitalSource",
             "resourceProvider":{
                 "name":"VitalSource Technologies LLC",
-                "displayname":"VitalSource Technologies LLC",
-                "url":"https://www.vitalsource.com/"
+                "displayname":"VitalSource",
+                "url":"https://get.vitalsource.com/"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "schacPersonalUniqueCode",
+                    "surname",
+                    "givenName",
+                    "commonName",
+                    "displayName",
+                    "email",
+                    "organizationName",
+                    "organizationType",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "uid",
+                    "preferredLanguage",
+                    "eduPersonTargetedID"
+                ]
             },
-            "description":"VitalSource Launch",
+            "description":"",
             "resourceContacts":[
                 {
-                    "type":"administrative",
-                    "name":"Laura Tate",
-                    "email":"mailto:laura.ball@vitalsource.com"
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vitalsource.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Matt Sarney",
-                    "email":"mailto:matt.sarney@vitalsource.com"
-                },
-                {
-                    "type":"security",
-                    "name":"Al Issa",
-                    "email":"mailto:al.issa@vitalsource.com"
+                    "name":"JohnLepanto",
+                    "email":"mailto:john.lepanto@vitalsource.com"
                 }
             ],
-            "info":"https://get.vitalsource.com/",
-            "privacy":"https://get.vitalsource.com/vitalsource-advantage/security-privacy",
-            "entityCategories":[
-                "http://id.incommon.org/category/registered-by-incommon"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi"
-            ]
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ],
     "fr":[
         {
             "catalogID":"c7c5be55fddd79421ffce40b2a5e2905f2fb451d",
             "entityID":"https://bc.vitalsource.com/federation/saml_auth/authentications/metadata",
-            "resourceName":"https://bc.vitalsource.com/federation/saml_auth/authentications/metadata",
+            "resourceName":"VitalSource",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.vitalsource.com/"
+                "url":"https://get.vitalsource.com/"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "schacPersonalUniqueCode",
+                    "surname",
+                    "givenName",
+                    "commonName",
+                    "displayName",
+                    "email",
+                    "organizationName",
+                    "organizationType",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "uid",
+                    "preferredLanguage",
+                    "eduPersonTargetedID"
+                ]
             },
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"administrative",
-                    "name":"Laura Tate",
-                    "email":"mailto:laura.ball@vitalsource.com"
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vitalsource.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Matt Sarney",
-                    "email":"mailto:matt.sarney@vitalsource.com"
-                },
-                {
-                    "type":"security",
-                    "name":"Al Issa",
-                    "email":"mailto:al.issa@vitalsource.com"
+                    "name":"JohnLepanto",
+                    "email":"mailto:john.lepanto@vitalsource.com"
                 }
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://id.incommon.org/category/registered-by-incommon"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi"
-            ]
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ],
     "it":[
         {
             "catalogID":"c7c5be55fddd79421ffce40b2a5e2905f2fb451d",
             "entityID":"https://bc.vitalsource.com/federation/saml_auth/authentications/metadata",
-            "resourceName":"https://bc.vitalsource.com/federation/saml_auth/authentications/metadata",
+            "resourceName":"VitalSource",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.vitalsource.com/"
+                "url":"https://get.vitalsource.com/"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "schacPersonalUniqueCode",
+                    "surname",
+                    "givenName",
+                    "commonName",
+                    "displayName",
+                    "email",
+                    "organizationName",
+                    "organizationType",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "uid",
+                    "preferredLanguage",
+                    "eduPersonTargetedID"
+                ]
             },
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"administrative",
-                    "name":"Laura Tate",
-                    "email":"mailto:laura.ball@vitalsource.com"
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vitalsource.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Matt Sarney",
-                    "email":"mailto:matt.sarney@vitalsource.com"
-                },
-                {
-                    "type":"security",
-                    "name":"Al Issa",
-                    "email":"mailto:al.issa@vitalsource.com"
+                    "name":"JohnLepanto",
+                    "email":"mailto:john.lepanto@vitalsource.com"
                 }
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://id.incommon.org/category/registered-by-incommon"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi"
-            ]
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ],
     "de":[
         {
             "catalogID":"c7c5be55fddd79421ffce40b2a5e2905f2fb451d",
             "entityID":"https://bc.vitalsource.com/federation/saml_auth/authentications/metadata",
-            "resourceName":"https://bc.vitalsource.com/federation/saml_auth/authentications/metadata",
+            "resourceName":"VitalSource",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.vitalsource.com/"
+                "url":"https://get.vitalsource.com/"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "schacPersonalUniqueCode",
+                    "surname",
+                    "givenName",
+                    "commonName",
+                    "displayName",
+                    "email",
+                    "organizationName",
+                    "organizationType",
+                    "eduPersonAffiliation",
+                    "eduPersonEntitlement",
+                    "eduPersonPrincipalName",
+                    "uid",
+                    "preferredLanguage",
+                    "eduPersonTargetedID"
+                ]
             },
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"administrative",
-                    "name":"Laura Tate",
-                    "email":"mailto:laura.ball@vitalsource.com"
+                    "type":"support",
+                    "name":"Support Team",
+                    "email":"mailto:support@vitalsource.com"
                 },
                 {
                     "type":"technical",
-                    "name":"Matt Sarney",
-                    "email":"mailto:matt.sarney@vitalsource.com"
-                },
-                {
-                    "type":"security",
-                    "name":"Al Issa",
-                    "email":"mailto:al.issa@vitalsource.com"
+                    "name":"JohnLepanto",
+                    "email":"mailto:john.lepanto@vitalsource.com"
                 }
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://id.incommon.org/category/registered-by-incommon"
-            ],
-            "SirtfiSupport":[
-                "https://refeds.org/sirtfi"
-            ]
+            "entityCategories":[],
+            "SirtfiSupport":[]
         }
     ]
 }
