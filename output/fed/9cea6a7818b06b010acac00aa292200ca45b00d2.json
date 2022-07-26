@@ -35678,5 +35678,15 @@
             "url":"http://www.eduroam.org"
         },
         "description":"eduroam supporting services include: eduroam database, CAT, monitoring, F-Ticks"
+    },
+    {
+        "catalogID":"ec0a00ea3b48b2e8e2fc01f9200d90adc1cdf36b",
+        "resourceName":"AAI@EduHr Srce eduGAIN proxy SP, edugainproxy.srce.hr",
+        "resourceProvider":{
+            "name":"University of Zagreb, University Computing Centre (SRCE)",
+            "displayname":"University of Zagreb, University Computing Centre (SRCE)",
+            "url":"https://www.srce.unizg.hr/"
+        },
+        "description":"AAI@EduHr eduGAIN proxy SP service for University Computing Centre Zagreb (Srce)"
     }
 ]
