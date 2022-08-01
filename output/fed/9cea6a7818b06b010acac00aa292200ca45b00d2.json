@@ -8944,7 +8944,7 @@
         "resourceName":"VitalSource",
         "resourceProvider":{
             "name":"VitalSource Technologies LLC",
-            "displayname":"VitalSource",
+            "displayname":"VitalSource Technologies LLC",
             "url":"https://get.vitalsource.com/"
         },
         "description":""
@@ -19130,16 +19130,6 @@
         "description":"Essential sources of the study of Scottish life in the 18th and 19th centuries"
     },
     {
-        "catalogID":"c78fa80cf50a3ee95b478c296ea177baae470a58",
-        "resourceName":"Zetoc",
-        "resourceProvider":{
-            "name":"Jisc",
-            "displayname":"Zetoc",
-            "url":"http://www.mimas.ac.uk/"
-        },
-        "description":"The monitoring and search service for global research publications"
-    },
-    {
         "catalogID":"d0d1bb39b45a44a70e26b778218b506dfa11ece4",
         "resourceName":"v-scene",
         "resourceProvider":{
@@ -24514,7 +24504,7 @@
         "resourceName":"https://bc.vitalsource.com/federation/saml/authentications/metadata",
         "resourceProvider":{
             "name":"VitalSource Technologies LLC",
-            "displayname":"VitalSource Technologies",
+            "displayname":"VitalSource Technologies LLC",
             "url":"http://www.vitalsource.com/"
         },
         "description":""
@@ -24664,7 +24654,7 @@
         "resourceName":"Attributes",
         "resourceProvider":{
             "name":"VitalSource Technologies LLC",
-            "displayname":"VitalSource Technologies",
+            "displayname":"VitalSource Technologies LLC",
             "url":"https://www.vitalsource.com/"
         },
         "description":""
@@ -27900,16 +27890,6 @@
         "description":"The Painless Security Collaborate hosting service for SAML and eduroam"
     },
     {
-        "catalogID":"e62c298c8a14342d9b8ef40a55424ea10905782a",
-        "resourceName":"Jisc Zetoc",
-        "resourceProvider":{
-            "name":"Jisc",
-            "displayname":"Jisc",
-            "url":"https://jisc.ac.uk/"
-        },
-        "description":"Jisc Zetoc - monitoring and search service for global research publications"
-    },
-    {
         "catalogID":"8dd3e226de13b2e2124e3a4cf341e17bf4564119",
         "resourceName":"Wolters Kluwer OpenAthens Keystone QA",
         "resourceProvider":{
@@ -28998,6 +28978,16 @@
             "url":"https://www.highwirepress.com/"
         },
         "description":"Semantico Limited: McGraw-Hill AccessEngineering AccessScience"
+    },
+    {
+        "catalogID":"1a1187f9fdc5e101fc99ee42bfbfedc192d9ec7c",
+        "resourceName":"Janet txt via Voodoo SMS",
+        "resourceProvider":{
+            "name":"Bulk SMS Ltd",
+            "displayname":"Bulk SMS Ltd",
+            "url":"https://www.voodoosms.com/jisc/janet-text"
+        },
+        "description":"Janet txt is a secure SMS service that allows you to create & send messages to your contacts."
     },
     {
         "catalogID":"d2952658a50980591fa0475e57c525f14d4943ba",
