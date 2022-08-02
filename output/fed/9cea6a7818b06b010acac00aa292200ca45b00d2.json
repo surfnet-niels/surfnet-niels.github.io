@@ -25091,10 +25091,10 @@
     },
     {
         "catalogID":"6c20977d170ed580f9496cee4872360891640391",
-        "resourceName":"https://sciauth.scientia.com/Metadata/SamlMetadata",
+        "resourceName":"Scientia",
         "resourceProvider":{
             "name":"Scientia Ltd",
-            "displayname":"Scientia",
+            "displayname":"Scientia Ltd",
             "url":"http://www.scientia.com/"
         },
         "description":""
@@ -29328,6 +29328,16 @@
             "url":"https://knowledge.bsigroup.com/"
         },
         "description":"British Standards Institution production account used for shop/knowledge"
+    },
+    {
+        "catalogID":"048b19dd5b4281410b365dd876b0be406d39b508",
+        "resourceName":"Aberdeen University Students' Association",
+        "resourceProvider":{
+            "name":"Membership Solutions Limited",
+            "displayname":"Membership Solutions Limited",
+            "url":"https://www.ausa.org.uk/"
+        },
+        "description":""
     },
     {
         "catalogID":"ce142e875551f4415e626ff063689f9b23248552",

@@ -1,5 +1,5 @@
 {
-    "generated":"2022-08-02 16:37",
+    "generated":"2022-08-02 18:30",
     "en":[
         {
             "catalogID":"a3de4efd3c83605ba26e5d04262affac55fe70ea",
@@ -11,7 +11,9 @@
                 "url":"http://www.semantico.com"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"SAMS Sigma provides access and identity management for the scholarly publishing community",
@@ -37,14 +39,16 @@
         {
             "catalogID":"a3de4efd3c83605ba26e5d04262affac55fe70ea",
             "entityID":"http://sp.sams-sigma.com/shibboleth",
-            "resourceName":"http://sp.sams-sigma.com/shibboleth",
+            "resourceName":"SAMS Sigma",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.semantico.com"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -70,14 +74,16 @@
         {
             "catalogID":"a3de4efd3c83605ba26e5d04262affac55fe70ea",
             "entityID":"http://sp.sams-sigma.com/shibboleth",
-            "resourceName":"http://sp.sams-sigma.com/shibboleth",
+            "resourceName":"SAMS Sigma",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.semantico.com"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -103,14 +109,16 @@
         {
             "catalogID":"a3de4efd3c83605ba26e5d04262affac55fe70ea",
             "entityID":"http://sp.sams-sigma.com/shibboleth",
-            "resourceName":"http://sp.sams-sigma.com/shibboleth",
+            "resourceName":"SAMS Sigma",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"http://www.semantico.com"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"",
