@@ -1,5 +1,5 @@
 {
-    "generated":"2022-08-02 20:27",
+    "generated":"2022-08-02 22:27",
     "en":[
         {
             "catalogID":"8789ee5ae61f7e84ced8d76188f777fd274d9705",
@@ -22,11 +22,6 @@
             "description":"CITI Program, a Division of BRANY. Our mission is to promote the public's trust in the research enterprise by providing high quality, peer reviewed, web based, research education materials to enhance the integrity and professionalism of investigators and staff conducting research.",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"Cynthia Cruciger",
-                    "email":"mailto:ccruciger@citiprogram.org"
-                },
-                {
                     "type":"support",
                     "name":"CITI SSO Support",
                     "email":"mailto:shibboleth@citiprogram.org"
@@ -40,9 +35,14 @@
                     "type":"administrative",
                     "name":"CITI SSO Administrators",
                     "email":"mailto:info@citiprogram.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"CITI SSO Support",
+                    "email":"mailto:support@citiprogram.org"
                 }
             ],
-            "info":"https://www.citiprogram.org/index.cfm?pageID=1",
+            "info":"https://about.citiprogram.org/en/mission-and-history/",
             "privacy":"https://about.citiprogram.org/en/privacy-policy/",
             "entityCategories":[
                 "http://refeds.org/category/research-and-scholarship",
@@ -75,11 +75,6 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"Cynthia Cruciger",
-                    "email":"mailto:ccruciger@citiprogram.org"
-                },
-                {
                     "type":"support",
                     "name":"CITI SSO Support",
                     "email":"mailto:shibboleth@citiprogram.org"
@@ -93,6 +88,11 @@
                     "type":"administrative",
                     "name":"CITI SSO Administrators",
                     "email":"mailto:info@citiprogram.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"CITI SSO Support",
+                    "email":"mailto:support@citiprogram.org"
                 }
             ],
             "info":"",
@@ -128,11 +128,6 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"Cynthia Cruciger",
-                    "email":"mailto:ccruciger@citiprogram.org"
-                },
-                {
                     "type":"support",
                     "name":"CITI SSO Support",
                     "email":"mailto:shibboleth@citiprogram.org"
@@ -146,6 +141,11 @@
                     "type":"administrative",
                     "name":"CITI SSO Administrators",
                     "email":"mailto:info@citiprogram.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"CITI SSO Support",
+                    "email":"mailto:support@citiprogram.org"
                 }
             ],
             "info":"",
@@ -181,11 +181,6 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"Cynthia Cruciger",
-                    "email":"mailto:ccruciger@citiprogram.org"
-                },
-                {
                     "type":"support",
                     "name":"CITI SSO Support",
                     "email":"mailto:shibboleth@citiprogram.org"
@@ -199,6 +194,11 @@
                     "type":"administrative",
                     "name":"CITI SSO Administrators",
                     "email":"mailto:info@citiprogram.org"
+                },
+                {
+                    "type":"technical",
+                    "name":"CITI SSO Support",
+                    "email":"mailto:support@citiprogram.org"
                 }
             ],
             "info":"",
