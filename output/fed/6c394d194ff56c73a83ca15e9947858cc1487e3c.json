@@ -1,0 +1,195 @@
+{
+    "generated":"2022-08-04 12:50",
+    "en":[
+        {
+            "catalogID":"6c394d194ff56c73a83ca15e9947858cc1487e3c",
+            "entityID":"https://discover-auth.sabinet.co.za/oa/entity",
+            "resourceName":"Sabinet Discover",
+            "resourceProvider":{
+                "name":"Sabinet Online Ltd",
+                "displayname":"Sabinet",
+                "url":"http://sabinet.co.za"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"Sabinet Discover is an information services tool & publication platform that provides seamless access to comprehensive African legal, news and research content",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Help Desk",
+                    "email":"mailto:discover@sabinet.co.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Developer",
+                    "email":"mailto:info@arq.works"
+                },
+                {
+                    "type":"administrative",
+                    "name":[],
+                    "email":"mailto:info@sabinet.co.za"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Response Team",
+                    "email":"mailto:development_team@sabinet.co.za"
+                }
+            ],
+            "info":"",
+            "privacy":"https://sabinet.co.za/privacy-policy/",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"6c394d194ff56c73a83ca15e9947858cc1487e3c",
+            "entityID":"https://discover-auth.sabinet.co.za/oa/entity",
+            "resourceName":"Sabinet Discover",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sabinet.co.za"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Help Desk",
+                    "email":"mailto:discover@sabinet.co.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Developer",
+                    "email":"mailto:info@arq.works"
+                },
+                {
+                    "type":"administrative",
+                    "name":[],
+                    "email":"mailto:info@sabinet.co.za"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Response Team",
+                    "email":"mailto:development_team@sabinet.co.za"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"6c394d194ff56c73a83ca15e9947858cc1487e3c",
+            "entityID":"https://discover-auth.sabinet.co.za/oa/entity",
+            "resourceName":"Sabinet Discover",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sabinet.co.za"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Help Desk",
+                    "email":"mailto:discover@sabinet.co.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Developer",
+                    "email":"mailto:info@arq.works"
+                },
+                {
+                    "type":"administrative",
+                    "name":[],
+                    "email":"mailto:info@sabinet.co.za"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Response Team",
+                    "email":"mailto:development_team@sabinet.co.za"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"6c394d194ff56c73a83ca15e9947858cc1487e3c",
+            "entityID":"https://discover-auth.sabinet.co.za/oa/entity",
+            "resourceName":"Sabinet Discover",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://sabinet.co.za"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"Help Desk",
+                    "email":"mailto:discover@sabinet.co.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"Platform Developer",
+                    "email":"mailto:info@arq.works"
+                },
+                {
+                    "type":"administrative",
+                    "name":[],
+                    "email":"mailto:info@sabinet.co.za"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Response Team",
+                    "email":"mailto:development_team@sabinet.co.za"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
