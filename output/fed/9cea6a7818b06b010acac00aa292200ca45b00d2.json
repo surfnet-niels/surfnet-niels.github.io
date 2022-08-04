@@ -19841,10 +19841,10 @@
     },
     {
         "catalogID":"614ede40b54aa607af3a9757317609a5cf6b0c8a",
-        "resourceName":"https://test.ingentaconnect.com/shibboleth",
+        "resourceName":"Publishing Technology: IngentaConnect (test)",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"Publishing Technology: IngentaConnect (test)",
+            "displayname":"Ingenta PLC",
             "url":"http://www.ingentaconnect.com/"
         },
         "description":""
@@ -19881,10 +19881,10 @@
     },
     {
         "catalogID":"e1d59ea9d3d314ba4f5dc9c068751c9f85b2b8a9",
-        "resourceName":"https://www.ingentaconnect.com/shibboleth",
+        "resourceName":"Publishing Technology: IngentaConnect",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"Publishing Technology: IngentaConnect",
+            "displayname":"Ingenta PLC",
             "url":"http://www.ingentaconnect.com/"
         },
         "description":""
@@ -21051,10 +21051,10 @@
     },
     {
         "catalogID":"4ea18f06897c4b2835b542a8cf53bbdf9f9cf8bd",
-        "resourceName":"https://digital-library.theiet.org/shibboleth",
+        "resourceName":"The Institution of Engineering and Technology",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"The Institution of Engineering and Technology",
+            "displayname":"Ingenta PLC",
             "url":"http://www.theiet.org/"
         },
         "description":""
@@ -21131,10 +21131,10 @@
     },
     {
         "catalogID":"31061d7df5ff6a13e8cdf600454a84d9c74cc907",
-        "resourceName":"https://www.jbe-platform.com/shibboleth",
+        "resourceName":"John Benjamins Publishing Company",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"John Benjamins Publishing Company",
+            "displayname":"Ingenta PLC",
             "url":"http://www.benjamins.com/"
         },
         "description":""
@@ -21411,20 +21411,20 @@
     },
     {
         "catalogID":"32ece4a4640b5467f105a431618d5c870aa42a16",
-        "resourceName":"https://beta.asm.pub2web.ingenta.com/shibboleth",
+        "resourceName":"ASM Science Beta",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"ASM Science Beta",
+            "displayname":"Ingenta PLC",
             "url":"http://www.asmscience.org/"
         },
         "description":""
     },
     {
         "catalogID":"a6d787c1446c23670f95d8bab3e997ff21a5cb5a",
-        "resourceName":"https://www.asmscience.org/shibboleth",
+        "resourceName":"ASM Science",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"ASM Science",
+            "displayname":"Ingenta PLC",
             "url":"http://www.asmscience.org/"
         },
         "description":""
@@ -21861,20 +21861,20 @@
     },
     {
         "catalogID":"8374bb3a89629158ee10d4839ad85efb55eca2f1",
-        "resourceName":"https://beta.hp.pub2web.ingenta.com/shibboleth",
+        "resourceName":"NUMÉRIQUE PREMIUM",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"NUMÉRIQUE PREMIUM",
+            "displayname":"Ingenta PLC",
             "url":"http://beta.hp.pub2web.ingenta.com/"
         },
         "description":""
     },
     {
         "catalogID":"accf74bed1f14d294557edd0cffdda7f88919912",
-        "resourceName":"https://dluat-pub2web.theiet.org/shibboleth",
+        "resourceName":"IET DIGITAL LIBRARY",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"IET DIGITAL LIBRARY",
+            "displayname":"Ingenta PLC",
             "url":"http://dluat-pub2web.theiet.org/"
         },
         "description":""
@@ -22131,10 +22131,10 @@
     },
     {
         "catalogID":"6eabc06c03f276f0cb0ab27c0b06e1590da7ece1",
-        "resourceName":"https://www.oecd-ilibrary.org/shibboleth",
+        "resourceName":"OECD iLibrary [LIVE]",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"OECD iLibrary [LIVE]",
+            "displayname":"Ingenta PLC",
             "url":"https://www.oecd-ilibrary.org/"
         },
         "description":""
@@ -22341,10 +22341,10 @@
     },
     {
         "catalogID":"746671612872a88598f99a1568a9501cf6ffa72f",
-        "resourceName":"https://www.numeriquepremium.com/shibboleth",
+        "resourceName":"NUMéRIQUE PREMIUM",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"NUMéRIQUE PREMIUM",
+            "displayname":"Ingenta PLC",
             "url":"https://www.numeriquepremium.com/shibboleth/"
         },
         "description":""
@@ -24121,10 +24121,10 @@
     },
     {
         "catalogID":"599798cbeffbfa3251f7c6266ed83176b9a4bf49",
-        "resourceName":"https://www.microbiologyresearch.org/shibboleth",
+        "resourceName":"Microbiology Society - Research Online",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"Microbiology Society - Research Online",
+            "displayname":"Ingenta PLC",
             "url":"http://www.microbiologysociety.org/about-us/index.cfm"
         },
         "description":""
@@ -26344,7 +26344,7 @@
         "resourceName":"John Benjamins e-Platform QA",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"John Benjamins e-Platform QA",
+            "displayname":"Ingenta PLC",
             "url":"http://www.ingenta.com"
         },
         "description":"This is the QA site of the John Benjamins e-Platform."
@@ -26544,7 +26544,7 @@
         "resourceName":"ASM Science QA Site",
         "resourceProvider":{
             "name":"Ingenta PLC",
-            "displayname":"ASM Science QA Site",
+            "displayname":"Ingenta PLC",
             "url":"http://www.ingenta.com/"
         },
         "description":"This is the QA site for ASM Science"
