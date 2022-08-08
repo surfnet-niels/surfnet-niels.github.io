@@ -1,5 +1,35 @@
 [
     {
+        "catalogID":"4b9f89adf3550155c79c2eb1556151292533e0c2",
+        "resourceName":"NECTEC SP",
+        "resourceProvider":{
+            "name":"National Electronics and Computer Technology Center",
+            "displayname":"National Electronics and Computer Technology Center",
+            "url":"https://www.nectec.or.th"
+        },
+        "description":"NECTEC service provider"
+    },
+    {
+        "catalogID":"e8c8db7ea947f5b27e4a483d4ae159d394237c7b",
+        "resourceName":"ThaiREN SP at sp.thairen.net.th",
+        "resourceProvider":{
+            "name":"ThaiREN SP at sp.thairen.net.th",
+            "displayname":"Service Provider for research and development institutes in Thailand",
+            "url":"http://www.thairen.net.th/intro_th.php"
+        },
+        "description":"Service Provider for research and development institutes in Thailand"
+    },
+    {
+        "catalogID":"978e9969ad00b6fbc407ce4c2d80cc65634143cb",
+        "resourceName":"ThaiREN FDS at fr.thairen.net.th",
+        "resourceProvider":{
+            "name":"ThaiREN FDS at fr.thairen.net.th",
+            "displayname":"Embedded Discovery Service for research and development institutes in Thailand",
+            "url":"http://www.thairen.net.th/intro_th.php"
+        },
+        "description":"Embedded Discovery Service for research and development institutes in Thailand"
+    },
+    {
         "catalogID":"711d946fb11517eda15d67faf5bbf4daf9e20d88",
         "resourceName":"eduiD.ng Resource Registry",
         "resourceProvider":{
