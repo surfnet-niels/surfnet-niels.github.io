@@ -3270,16 +3270,6 @@
         "description":""
     },
     {
-        "catalogID":"082cd8c1bc46fb13ca6b5294400cbf2e9e6d373b",
-        "resourceName":"Stanford eProtocol Relying Dashboard DEV",
-        "resourceProvider":{
-            "name":"Stanford University",
-            "displayname":"Stanford University",
-            "url":"http://www.stanford.edu/"
-        },
-        "description":"The Stanford - Research Compliance Office (RCO) is responsible for oversight and management of Stanford’s Administrative (Compliance) Panels and ensures compliance with applicable policies, accreditation standards and external regulations."
-    },
-    {
         "catalogID":"065f43fa23f7b6f97a6427f839b294ec6853ead2",
         "resourceName":"Stanford eProtocol Relying Dashboard",
         "resourceProvider":{
@@ -14370,16 +14360,6 @@
         "description":""
     },
     {
-        "catalogID":"63b895aa2b71c86eee6350eff3e470f9a5eca0f1",
-        "resourceName":"InfoReady Review - University of Michigan ICPSR",
-        "resourceProvider":{
-            "name":"InfoReady Corp",
-            "displayname":"InfoReady Corp",
-            "url":"http://www.infoready4.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"34543da790ed62b38b4e0ff7b7d919dd6c531677",
         "resourceName":"InfoReady Review - IU Test Environment",
         "resourceProvider":{
@@ -14852,6 +14832,16 @@
     {
         "catalogID":"0e3684e42eb21502bd6fab85090cd9cb226d0862",
         "resourceName":"InfoReady Review - South Dakota State University",
+        "resourceProvider":{
+            "name":"InfoReady Corp",
+            "displayname":"InfoReady Corp",
+            "url":"http://www.infoready4.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"d8c27577a860c87b9f129fa43e71fdaf1621e18f",
+        "resourceName":"InfoReady Review - University of Michigan ICPSR/SOMAR",
         "resourceProvider":{
             "name":"InfoReady Corp",
             "displayname":"InfoReady Corp",
