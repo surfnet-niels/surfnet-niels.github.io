@@ -35460,107 +35460,17 @@
         "description":"With more than 7 million active users, itslearning is one of the fastest growing international technology companies. Our learning platform is used by millions of educators, students, and administrative staff worldwide. We are dedicated to education and are passionate about the success of each student."
     },
     {
-        "catalogID":"052f62d6afa66d7e8e479290654ad0decc0a492f",
-        "resourceName":"EDUgroepen",
+        "catalogID":"4924d43ae7706806b57277a71275e26ba220f924",
+        "resourceName":"RCauth Pilot Online CA",
         "resourceProvider":{
-            "name":"2AT BV",
-            "displayname":"2AT BV",
-            "url":"http://www.2at.nl/"
+            "name":"Nikhef",
+            "displayname":"Nikhef",
+            "url":"https://www.nikhef.nl/"
         },
-        "description":"Collaboration platform for working in groups in the educational sector."
+        "description":"RCauth Pilot Online CA for providing end-user proxy certificates to Science Gateways and other portals"
     },
     {
-        "catalogID":"73263900190b59159bc916a2b6f3495a4b767eee",
-        "resourceName":"EOSC Association AAI ",
-        "resourceProvider":{
-            "name":"EOSC Association",
-            "displayname":"EOSC Association",
-            "url":"https://eosc.eu"
-        },
-        "description":"EOSC Association AAI"
-    },
-    {
-        "catalogID":"ff0bdec163a3d8c43282887d23869c1ffa13e22a",
-        "resourceName":"GoodHabitz",
-        "resourceProvider":{
-            "name":"GoodHabitz",
-            "displayname":"GoodHabitz",
-            "url":"https://my.goodhabitz.com"
-        },
-        "description":"GoodHabitz is a provider of online training courses"
-    },
-    {
-        "catalogID":"0eb23dff8983ba802183b3caec6dcc6db87bc4d2",
-        "resourceName":"IRMA attributes",
-        "resourceProvider":{
-            "name":"Privacy by Design Foundation",
-            "displayname":"Privacy by Design Foundation",
-            "url":"https://staging.privacybydesign.foundation"
-        },
-        "description":"Issue IRMA attributes based on your federated identity"
-    },
-    {
-        "catalogID":"68a2aa38f16872acea483dc11c2c3651ce348b0d",
-        "resourceName":"Brill",
-        "resourceProvider":{
-            "name":"Brill",
-            "displayname":"Brill Scholarly Editions",
-            "url":"https://brill.com"
-        },
-        "description":"Academic Publisher"
-    },
-    {
-        "catalogID":"1ce9fca4efdcccc965e27fa265dcc3f54a6387fb",
-        "resourceName":"MyAcademicID IAM Service",
-        "resourceProvider":{
-            "name":"GEANT",
-            "displayname":"GEANT",
-            "url":"https://www.geant.org"
-        },
-        "description":"The MyAcademicID IAM Service provides Identity and Federated access management for the services of the European Student Card Initiative and the services directly supporting the digitisation of Erasmus+. The MyAcademicID IAM Service is provided by GÉANT using the eduTEAMS service."
-    },
-    {
-        "catalogID":"3587ad9244ed61e69bda93a476f9e97a0a957928",
-        "resourceName":"GÉANT Service Provider Proxy",
-        "resourceProvider":{
-            "name":"GÉANT",
-            "displayname":"GÉANT",
-            "url":"http://www.geant.org/"
-        },
-        "description":"A service provider proxy for all GÉANT federated services"
-    },
-    {
-        "catalogID":"829c9c834c03dd0ce597b39f2fd318edeec08c0f",
-        "resourceName":"eduroam Visitor Access (eVA) | SURFnet",
-        "resourceProvider":{
-            "name":"SURFnet",
-            "displayname":"SURFnet",
-            "url":"https://www.surf.nl"
-        },
-        "description":"eduroam Visitor Access (eVA) | SURFnet"
-    },
-    {
-        "catalogID":"7f44750b7222cb2a9b3aab2dc3c6a55a61afc42a",
-        "resourceName":"eduTEAMS Service (Acceptance environment)",
-        "resourceProvider":{
-            "name":"eduTEAMS Service (Acceptance environment)",
-            "displayname":"eduTEAMS Service (Acceptance environment)",
-            "url":"https://eduteams.org"
-        },
-        "description":"eduTEAMS Service (Acceptance environment)"
-    },
-    {
-        "catalogID":"85b57bded6c2c47151fb2e827150b648b9ff28a5",
-        "resourceName":"SURF Research Access Management",
-        "resourceProvider":{
-            "name":"SURF",
-            "displayname":"SURF",
-            "url":"https://www.surf.nl/"
-        },
-        "description":"SURF Research Access Management"
-    },
-    {
-        "catalogID":"a5c33a44022a84c4fd8861065cfdc0d6c816c512",
+        "catalogID":"74cf263a2b4be44ada8e80b53b803aea7a38a459",
         "resourceName":"ORCID",
         "resourceProvider":{
             "name":"ORCID, Inc",
@@ -35590,34 +35500,24 @@
         "description":"Buddycheck is a simple learning tool. It makes peer assessment in your courses straightforward and efficient."
     },
     {
-        "catalogID":"c6d029b1e31b0ba9d688bc98037612444efc23df",
-        "resourceName":"MyAccessID IAM Service",
-        "resourceProvider":{
-            "name":"GEANT",
-            "displayname":"GEANT",
-            "url":"https://www.geant.org"
-        },
-        "description":"MyAccessID IAM Service"
-    },
-    {
-        "catalogID":"43155ee1b00514458ebdfdbd9166baa09d4c8e10",
-        "resourceName":"SURFconext Demo SP",
-        "resourceProvider":{
-            "name":"SURF bv",
-            "displayname":"SURF bv",
-            "url":"https://www.surf.nl"
-        },
-        "description":"A Service Provider used for testing by and with SURFconext"
-    },
-    {
-        "catalogID":"3375eef8fe41b2066b60d8d74632fdec27f900b7",
+        "catalogID":"68a2aa38f16872acea483dc11c2c3651ce348b0d",
         "resourceName":"Brill",
         "resourceProvider":{
             "name":"Brill",
-            "displayname":"Brill",
+            "displayname":"Brill Scholarly Editions",
             "url":"https://brill.com"
         },
-        "description":"Brill Academic Publishers"
+        "description":"Academic Publisher"
+    },
+    {
+        "catalogID":"85b57bded6c2c47151fb2e827150b648b9ff28a5",
+        "resourceName":"SURF Research Access Management",
+        "resourceProvider":{
+            "name":"SURF",
+            "displayname":"SURF",
+            "url":"https://www.surf.nl/"
+        },
+        "description":"SURF Research Access Management"
     },
     {
         "catalogID":"e8f62afdeb76720480a6391f69f4d74aeff1c39f",
@@ -35630,6 +35530,26 @@
         "description":"eduTEAMS Service"
     },
     {
+        "catalogID":"43155ee1b00514458ebdfdbd9166baa09d4c8e10",
+        "resourceName":"SURFconext Demo SP",
+        "resourceProvider":{
+            "name":"SURF bv",
+            "displayname":"SURF bv",
+            "url":"https://www.surf.nl"
+        },
+        "description":"A Service Provider used for testing by and with SURFconext"
+    },
+    {
+        "catalogID":"1ce9fca4efdcccc965e27fa265dcc3f54a6387fb",
+        "resourceName":"MyAcademicID IAM Service",
+        "resourceProvider":{
+            "name":"GEANT",
+            "displayname":"GEANT",
+            "url":"https://www.geant.org"
+        },
+        "description":"The MyAcademicID IAM Service provides Identity and Federated access management for the services of the European Student Card Initiative and the services directly supporting the digitisation of Erasmus+. The MyAcademicID IAM Service is provided by GÉANT using the eduTEAMS service."
+    },
+    {
         "catalogID":"846d84831f605962e88ce12122115b5147386865",
         "resourceName":"OCRE SP Proxy",
         "resourceProvider":{
@@ -35640,64 +35560,14 @@
         "description":"OCRE Service Provider Proxy"
     },
     {
-        "catalogID":"f13138610d311e653670084fa1e944ffb3623504",
-        "resourceName":"MyAcademicID IAM Service",
+        "catalogID":"e56e00c7994020db745e813797b50e0f7d6b7770",
+        "resourceName":"IRMA attributes",
         "resourceProvider":{
-            "name":"GEANT",
-            "displayname":"GEANT",
-            "url":"https://www.geant.org"
+            "name":"Privacy by Design Foundation",
+            "displayname":"Privacy by Design Foundation",
+            "url":"https://privacybydesign.foundation"
         },
-        "description":"The MyAcademicID IAM Service provides Identity and Federated access management for the services of the European Student Card Initiative and the services directly supporting the digitisation of Erasmus+. The MyAcademicID IAM Service is provided by GÉANT using the eduTEAMS service."
-    },
-    {
-        "catalogID":"4924d43ae7706806b57277a71275e26ba220f924",
-        "resourceName":"RCauth Pilot Online CA",
-        "resourceProvider":{
-            "name":"Nikhef",
-            "displayname":"Nikhef",
-            "url":"https://www.nikhef.nl/"
-        },
-        "description":"RCauth Pilot Online CA for providing end-user proxy certificates to Science Gateways and other portals"
-    },
-    {
-        "catalogID":"74cf263a2b4be44ada8e80b53b803aea7a38a459",
-        "resourceName":"ORCID",
-        "resourceProvider":{
-            "name":"ORCID, Inc",
-            "displayname":"ORCID",
-            "url":"http://orcid.org/"
-        },
-        "description":"ORCID provides an identifier for individuals to use with their name as they engage in research, scholarship, and innovation activities. We provide open tools that enable transparent and trustworthy connections between researchers, their contributions, and affiliations. We provide this service to help people find information and to simplify reporting and analysis."
-    },
-    {
-        "catalogID":"2e7c9029fe7df0cf55757dedea17cf700824bd97",
-        "resourceName":"Ans",
-        "resourceProvider":{
-            "name":"Ans Delft",
-            "displayname":"Ans Delft",
-            "url":"https://ans.app"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"17f66609abc4d7fb1e0dcc9567ec23fe9d81603e",
-        "resourceName":"Nikhef Service Proxy",
-        "resourceProvider":{
-            "name":"Nikhef - Dutch National Institute for Subatomic Physics",
-            "displayname":"Nikhef",
-            "url":"http://www.nikhef.nl/"
-        },
-        "description":"Service Proxy of Nikhef, the Dutch National Institute for Subatomic Physics"
-    },
-    {
-        "catalogID":"bd672087833b095fcb2e5bb1226a9865359110e1",
-        "resourceName":"ORCID Sandbox (test) SP",
-        "resourceProvider":{
-            "name":"ORCID, Inc",
-            "displayname":"ORCID",
-            "url":"http://orcid.org/"
-        },
-        "description":"ORCID provides an identifier for individuals to use with their name as they engage in research, scholarship, and innovation activities. We provide open tools that enable transparent and trustworthy connections between researchers, their contributions, and affiliations. We provide this service to help people find information and to simplify reporting and analysis."
+        "description":"Issue IRMA attributes based on your federated identity"
     },
     {
         "catalogID":"b662d0d67fb51ea5612950191283a22992d0e9f2",
@@ -35710,6 +35580,36 @@
         "description":"MyAccessID IAM Service"
     },
     {
+        "catalogID":"bd672087833b095fcb2e5bb1226a9865359110e1",
+        "resourceName":"ORCID Sandbox (test) SP",
+        "resourceProvider":{
+            "name":"ORCID, Inc",
+            "displayname":"ORCID",
+            "url":"http://orcid.org/"
+        },
+        "description":"ORCID provides an identifier for individuals to use with their name as they engage in research, scholarship, and innovation activities. We provide open tools that enable transparent and trustworthy connections between researchers, their contributions, and affiliations. We provide this service to help people find information and to simplify reporting and analysis."
+    },
+    {
+        "catalogID":"3375eef8fe41b2066b60d8d74632fdec27f900b7",
+        "resourceName":"Brill",
+        "resourceProvider":{
+            "name":"Brill",
+            "displayname":"Brill",
+            "url":"https://brill.com"
+        },
+        "description":"Brill Academic Publishers"
+    },
+    {
+        "catalogID":"a5c33a44022a84c4fd8861065cfdc0d6c816c512",
+        "resourceName":"ORCID",
+        "resourceProvider":{
+            "name":"ORCID, Inc",
+            "displayname":"ORCID",
+            "url":"http://orcid.org/"
+        },
+        "description":"ORCID provides an identifier for individuals to use with their name as they engage in research, scholarship, and innovation activities. We provide open tools that enable transparent and trustworthy connections between researchers, their contributions, and affiliations. We provide this service to help people find information and to simplify reporting and analysis."
+    },
+    {
         "catalogID":"400e6644ec6cafe1262eec8863948a624ea6ac8e",
         "resourceName":"Impacter",
         "resourceProvider":{
@@ -35718,6 +35618,46 @@
             "url":"https://impacter.eu"
         },
         "description":"\n                            Impacter provides direct feedback on research grant proposals to help researchers write winning proposals.\n                        "
+    },
+    {
+        "catalogID":"829c9c834c03dd0ce597b39f2fd318edeec08c0f",
+        "resourceName":"eduroam Visitor Access (eVA) | SURFnet",
+        "resourceProvider":{
+            "name":"SURFnet",
+            "displayname":"SURFnet",
+            "url":"https://www.surf.nl"
+        },
+        "description":"eduroam Visitor Access (eVA) | SURFnet"
+    },
+    {
+        "catalogID":"17f66609abc4d7fb1e0dcc9567ec23fe9d81603e",
+        "resourceName":"Nikhef Service Proxy",
+        "resourceProvider":{
+            "name":"Nikhef - Dutch National Institute for Subatomic Physics",
+            "displayname":"Nikhef",
+            "url":"http://www.nikhef.nl/"
+        },
+        "description":"Service Proxy of Nikhef, the Dutch National Institute for Subatomic Physics"
+    },
+    {
+        "catalogID":"c6d029b1e31b0ba9d688bc98037612444efc23df",
+        "resourceName":"MyAccessID IAM Service",
+        "resourceProvider":{
+            "name":"GEANT",
+            "displayname":"GEANT",
+            "url":"https://www.geant.org"
+        },
+        "description":"MyAccessID IAM Service"
+    },
+    {
+        "catalogID":"7f44750b7222cb2a9b3aab2dc3c6a55a61afc42a",
+        "resourceName":"eduTEAMS Service (Acceptance environment)",
+        "resourceProvider":{
+            "name":"eduTEAMS Service (Acceptance environment)",
+            "displayname":"eduTEAMS Service (Acceptance environment)",
+            "url":"https://eduteams.org"
+        },
+        "description":"eduTEAMS Service (Acceptance environment)"
     },
     {
         "catalogID":"dee7efa9d1e8d91c9d197e5747b9889807e0dec5",
@@ -35730,14 +35670,74 @@
         "description":""
     },
     {
-        "catalogID":"e56e00c7994020db745e813797b50e0f7d6b7770",
+        "catalogID":"0eb23dff8983ba802183b3caec6dcc6db87bc4d2",
         "resourceName":"IRMA attributes",
         "resourceProvider":{
             "name":"Privacy by Design Foundation",
             "displayname":"Privacy by Design Foundation",
-            "url":"https://privacybydesign.foundation"
+            "url":"https://staging.privacybydesign.foundation"
         },
         "description":"Issue IRMA attributes based on your federated identity"
+    },
+    {
+        "catalogID":"2e7c9029fe7df0cf55757dedea17cf700824bd97",
+        "resourceName":"Ans",
+        "resourceProvider":{
+            "name":"Ans Delft",
+            "displayname":"Ans Delft",
+            "url":"https://ans.app"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"f13138610d311e653670084fa1e944ffb3623504",
+        "resourceName":"MyAcademicID IAM Service",
+        "resourceProvider":{
+            "name":"GEANT",
+            "displayname":"GEANT",
+            "url":"https://www.geant.org"
+        },
+        "description":"The MyAcademicID IAM Service provides Identity and Federated access management for the services of the European Student Card Initiative and the services directly supporting the digitisation of Erasmus+. The MyAcademicID IAM Service is provided by GÉANT using the eduTEAMS service."
+    },
+    {
+        "catalogID":"3587ad9244ed61e69bda93a476f9e97a0a957928",
+        "resourceName":"GÉANT Service Provider Proxy",
+        "resourceProvider":{
+            "name":"GÉANT",
+            "displayname":"GÉANT",
+            "url":"http://www.geant.org/"
+        },
+        "description":"A service provider proxy for all GÉANT federated services"
+    },
+    {
+        "catalogID":"052f62d6afa66d7e8e479290654ad0decc0a492f",
+        "resourceName":"EDUgroepen",
+        "resourceProvider":{
+            "name":"2AT BV",
+            "displayname":"2AT BV",
+            "url":"http://www.2at.nl/"
+        },
+        "description":"Collaboration platform for working in groups in the educational sector."
+    },
+    {
+        "catalogID":"73263900190b59159bc916a2b6f3495a4b767eee",
+        "resourceName":"EOSC Association AAI ",
+        "resourceProvider":{
+            "name":"EOSC Association",
+            "displayname":"EOSC Association",
+            "url":"https://eosc.eu"
+        },
+        "description":"EOSC Association AAI"
+    },
+    {
+        "catalogID":"ff0bdec163a3d8c43282887d23869c1ffa13e22a",
+        "resourceName":"GoodHabitz",
+        "resourceProvider":{
+            "name":"GoodHabitz",
+            "displayname":"GoodHabitz",
+            "url":"https://my.goodhabitz.com"
+        },
+        "description":"GoodHabitz is a provider of online training courses"
     },
     {
         "catalogID":"78fc347f6a30f8d07c630e208801dc4a7fc5ba8e",
