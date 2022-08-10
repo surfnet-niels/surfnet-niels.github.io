@@ -29400,6 +29400,16 @@
         "description":"British Standards Institution production account used for shop/knowledge"
     },
     {
+        "catalogID":"085d928c87963f14756ebbe25d60074a321cee24",
+        "resourceName":"CloudMarketplace PROD LSTM IdBroker",
+        "resourceProvider":{
+            "name":"Science Warehouse Limited",
+            "displayname":"Science Warehouse Limited",
+            "url":"https://www.oneadvanced.com/science-warehouse/"
+        },
+        "description":"CloudMarketplace PROD environment Identity Broker for LSTM"
+    },
+    {
         "catalogID":"86dbbdef440dde396b67d9098e3a52868df521b9",
         "resourceName":"Square Kilometre Array Identity and Access Manager (IAM)",
         "resourceProvider":{
