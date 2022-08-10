@@ -1,5 +1,5 @@
 {
-    "generated":"2022-08-10 14:24",
+    "generated":"2022-08-10 16:37",
     "en":[
         {
             "catalogID":"049524affcfc98d2e6fe89504f38cec6337aa42b",
@@ -12,7 +12,12 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -32,7 +37,7 @@
                     "email":"mailto:Identity-Services@it.ufl.edu"
                 }
             ],
-            "info":"",
+            "info":"https://www.rc.ufl.edu/get-started/hipergator/",
             "privacy":"https://privacy.ufl.edu",
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
@@ -46,7 +51,7 @@
         {
             "catalogID":"049524affcfc98d2e6fe89504f38cec6337aa42b",
             "entityID":"https://hpgvpn-test.it.ufl.edu/shibboleth",
-            "resourceName":"https://hpgvpn-test.it.ufl.edu/shibboleth",
+            "resourceName":"HiPerGator VPN Test",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -54,7 +59,12 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -88,7 +98,7 @@
         {
             "catalogID":"049524affcfc98d2e6fe89504f38cec6337aa42b",
             "entityID":"https://hpgvpn-test.it.ufl.edu/shibboleth",
-            "resourceName":"https://hpgvpn-test.it.ufl.edu/shibboleth",
+            "resourceName":"HiPerGator VPN Test",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -96,7 +106,12 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -130,7 +145,7 @@
         {
             "catalogID":"049524affcfc98d2e6fe89504f38cec6337aa42b",
             "entityID":"https://hpgvpn-test.it.ufl.edu/shibboleth",
-            "resourceName":"https://hpgvpn-test.it.ufl.edu/shibboleth",
+            "resourceName":"HiPerGator VPN Test",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -138,7 +153,12 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "givenName",
+                    "sn"
+                ]
             },
             "description":"",
             "resourceContacts":[
