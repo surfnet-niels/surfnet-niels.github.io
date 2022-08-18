@@ -1,5 +1,5 @@
 {
-    "generated":"2022-08-18 18:30",
+    "generated":"2022-08-18 20:28",
     "en":[
         {
             "catalogID":"59b678425f8c8d52d57b4812550ad6bd89c7bcbf",
@@ -13,6 +13,7 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "displayName",
                     "eduPersonPrincipalName",
                     "mail"
                 ]
@@ -33,11 +34,6 @@
                     "type":"administrative",
                     "name":"Development Operations Team",
                     "email":"mailto:devsecops+incommonadmin@interfolio.com"
-                },
-                {
-                    "type":"technical",
-                    "name":"Development Operations Team",
-                    "email":"mailto:devsecops+incommontechnical@interfolio.com"
                 }
             ],
             "info":"https://www.interfolio.com",
@@ -63,6 +59,7 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "displayName",
                     "eduPersonPrincipalName",
                     "mail"
                 ]
@@ -83,11 +80,6 @@
                     "type":"administrative",
                     "name":"Development Operations Team",
                     "email":"mailto:devsecops+incommonadmin@interfolio.com"
-                },
-                {
-                    "type":"technical",
-                    "name":"Development Operations Team",
-                    "email":"mailto:devsecops+incommontechnical@interfolio.com"
                 }
             ],
             "info":"",
@@ -113,6 +105,7 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "displayName",
                     "eduPersonPrincipalName",
                     "mail"
                 ]
@@ -133,11 +126,6 @@
                     "type":"administrative",
                     "name":"Development Operations Team",
                     "email":"mailto:devsecops+incommonadmin@interfolio.com"
-                },
-                {
-                    "type":"technical",
-                    "name":"Development Operations Team",
-                    "email":"mailto:devsecops+incommontechnical@interfolio.com"
                 }
             ],
             "info":"",
@@ -163,6 +151,7 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "displayName",
                     "eduPersonPrincipalName",
                     "mail"
                 ]
@@ -183,11 +172,6 @@
                     "type":"administrative",
                     "name":"Development Operations Team",
                     "email":"mailto:devsecops+incommonadmin@interfolio.com"
-                },
-                {
-                    "type":"technical",
-                    "name":"Development Operations Team",
-                    "email":"mailto:devsecops+incommontechnical@interfolio.com"
                 }
             ],
             "info":"",
