@@ -1,5 +1,5 @@
 {
-    "generated":"2022-08-19 18:33",
+    "generated":"2022-08-19 20:25",
     "en":[
         {
             "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
@@ -12,13 +12,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
+                    "organizationName",
+                    "mail",
+                    "eduPersonAffiliation",
                     "eduPersonTargetedID",
                     "givenName",
                     "surname",
-                    "eduPersonAffiliation",
-                    "organizationName",
-                    "mail"
+                    "commonName"
                 ],
                 "requested":[]
             },
@@ -48,13 +48,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
+                    "organizationName",
+                    "mail",
+                    "eduPersonAffiliation",
                     "eduPersonTargetedID",
                     "givenName",
                     "surname",
-                    "eduPersonAffiliation",
-                    "organizationName",
-                    "mail"
+                    "commonName"
                 ],
                 "requested":[]
             },
@@ -84,13 +84,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
+                    "organizationName",
+                    "mail",
+                    "eduPersonAffiliation",
                     "eduPersonTargetedID",
                     "givenName",
                     "surname",
-                    "eduPersonAffiliation",
-                    "organizationName",
-                    "mail"
+                    "commonName"
                 ],
                 "requested":[]
             },
@@ -120,13 +120,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
+                    "organizationName",
+                    "mail",
+                    "eduPersonAffiliation",
                     "eduPersonTargetedID",
                     "givenName",
                     "surname",
-                    "eduPersonAffiliation",
-                    "organizationName",
-                    "mail"
+                    "commonName"
                 ],
                 "requested":[]
             },
