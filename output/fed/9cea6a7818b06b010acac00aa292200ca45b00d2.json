@@ -30790,6 +30790,16 @@
         "description":"An attribute validation service for CAF"
     },
     {
+        "catalogID":"f6c08d180989757f70bdc1d0ab0d4ec081a5c827",
+        "resourceName":"Cybera Auth Gateway",
+        "resourceProvider":{
+            "name":"Cybera Inc.",
+            "displayname":"Cybera Inc.",
+            "url":"https://cybera.ca"
+        },
+        "description":"Cybera Auth Gateway for Cybera-hosted services"
+    },
+    {
         "catalogID":"0d5e7b34fbe67d379a5b505aac9690b801494be7",
         "resourceName":"https://idp.helha.be/idp/shibboleth",
         "resourceProvider":{
