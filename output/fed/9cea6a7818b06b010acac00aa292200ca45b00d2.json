@@ -1770,16 +1770,6 @@
         "description":"The MWA Telescope Collaboration Proxy service provider is a SAML proxy enabling federation between eduGAIN identity servers and service providers that support collaboration services for the Murchison Widefield Array Telescope project."
     },
     {
-        "catalogID":"4e020d59fb8773c2c661e9fba756430032a0b349",
-        "resourceName":"Federation Management Board",
-        "resourceProvider":{
-            "name":"RENAM",
-            "displayname":"RENAM",
-            "url":"http://renam.md"
-        },
-        "description":"Federation Management Board - used to manage federation entitites and generate metadata"
-    },
-    {
         "catalogID":"a55ca2c1ab3f499b648973a2a44e876b43aafef8",
         "resourceName":"RENAM Filesender",
         "resourceProvider":{
@@ -1788,16 +1778,6 @@
             "url":"http://renam.md"
         },
         "description":"RENAM Filesender"
-    },
-    {
-        "catalogID":"6bb5cd6c0a31ab15c8e5504ad16fb6f0196561fd",
-        "resourceName":"Campus-IdP-test-SP",
-        "resourceProvider":{
-            "name":"GEANT",
-            "displayname":"GEANT",
-            "url":"https://www.geant.org"
-        },
-        "description":"Campus-IdP delivers developments aimed at federations and campus identity providers, based on the existing federated identity and eduGAIN models and technologies"
     },
     {
         "catalogID":"605b4526d2aa2fb42779aa709fb813496f57c7c0",
