@@ -1,5 +1,5 @@
 {
-    "generated":"2022-09-01 06:39",
+    "generated":"2022-09-01 08:34",
     "en":[
         {
             "catalogID":"7bff4d607b9ddbceb4339420c9a329e00119de90",
@@ -30,10 +30,15 @@
                     "type":"administrative",
                     "name":"Administrative",
                     "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SUNET CERT",
+                    "email":"mailto:cert@cert.sunet.se"
                 }
             ],
             "info":"https://sunet.se",
-            "privacy":"https://wiki.sunet.se/display/info/Sunet+Identity+Provider+Service+Definition+and+Privacy+Policy",
+            "privacy":"https://wiki.sunet.se/display/info/SUNET+DRIVE+Privacy+Policy",
             "entityCategories":[
                 "http://refeds.org/category/research-and-scholarship"
             ],
@@ -70,6 +75,11 @@
                     "type":"administrative",
                     "name":"Administrative",
                     "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SUNET CERT",
+                    "email":"mailto:cert@cert.sunet.se"
                 }
             ],
             "info":"",
@@ -110,6 +120,11 @@
                     "type":"administrative",
                     "name":"Administrative",
                     "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SUNET CERT",
+                    "email":"mailto:cert@cert.sunet.se"
                 }
             ],
             "info":"",
@@ -150,6 +165,11 @@
                     "type":"administrative",
                     "name":"Administrative",
                     "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SUNET CERT",
+                    "email":"mailto:cert@cert.sunet.se"
                 }
             ],
             "info":"",
