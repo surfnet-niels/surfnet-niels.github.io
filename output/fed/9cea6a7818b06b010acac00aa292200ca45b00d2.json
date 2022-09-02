@@ -1790,6 +1790,36 @@
         "description":"FILESENDER.ASNET.AM is a secure way to share large files with anyone! Logon to upload your files or invite people to send you a file."
     },
     {
+        "catalogID":"7f1be6511e8f8dd053cb98037646ab78bf926007",
+        "resourceName":"Restena FileSender Service",
+        "resourceProvider":{
+            "name":"Restena Foundation",
+            "displayname":"Restena Foundation",
+            "url":"http://www.restena.lu/restena/fr/FR-Presentation.html"
+        },
+        "description":"Restena FileSender is a secure way to share large files with anyone! Logon to upload your files or to invite people to send you a file."
+    },
+    {
+        "catalogID":"e283c77e0239f5852910f70958ab7d387f1717e0",
+        "resourceName":"RESTENA FileSender Service (TEST)",
+        "resourceProvider":{
+            "name":"RESTENA Foundation asbl",
+            "displayname":"RESTENA Foundation",
+            "url":"http://www.restena.lu/restena/fr/FR-Presentation.html"
+        },
+        "description":"(TEST) RESTENA FileSender is a secure way to share large files with anyone! Logon to upload your files or to invite people to send you a file."
+    },
+    {
+        "catalogID":"1c98337207c0df5e099ab182c7a5e5ab173985c4",
+        "resourceName":"OLEFA Test Server",
+        "resourceProvider":{
+            "name":"EducDesign S.A.",
+            "displayname":"EducDesign S.A.",
+            "url":"https://www.educdesign.lu"
+        },
+        "description":"OLEFA EduID SSO/SLO Test Server"
+    },
+    {
         "catalogID":"52efa4afe762218cbf2f0324ab19efdf3d59a5b6",
         "resourceName":"WebTUT Service",
         "resourceProvider":{
@@ -34650,16 +34680,6 @@
         "description":"Die Mediathek HGK (FHNW) des Campus der Künste stellt wissenschaftliche Informationsmedien und Literatur der Bereiche Kunst, Design und Medien zur Verfügung."
     },
     {
-        "catalogID":"0cb7899dc617e6043e7ce27537d4f3c1f0094ee3",
-        "resourceName":"LiRI Services (test)",
-        "resourceProvider":{
-            "name":"uzh.ch",
-            "displayname":"University of Zurich",
-            "url":"http://www.uzh.ch/"
-        },
-        "description":"Access services provided by the Linguistic Research Infrastructure (LiRI) at University of Zurich"
-    },
-    {
         "catalogID":"2b2180237f83fb76ee74047ebf104e70b814d61c",
         "resourceName":"Citavi Account",
         "resourceProvider":{
@@ -34678,16 +34698,6 @@
             "url":"http://www.uzh.ch/"
         },
         "description":"Vermittlung von Stipendien und Darlehen"
-    },
-    {
-        "catalogID":"3e28b28374d07ef8f15fbc5310479a8e6b45688b",
-        "resourceName":"LiRI Services",
-        "resourceProvider":{
-            "name":"uzh.ch",
-            "displayname":"University of Zurich",
-            "url":"http://www.uzh.ch/"
-        },
-        "description":"Access services provided by the Linguistic Research Infrastructure (LiRI) at University of Zurich"
     },
     {
         "catalogID":"adf99075fede70bd854ee184582c28a0895856d0",
@@ -34730,6 +34740,16 @@
         "description":"CloudSigma FRA"
     },
     {
+        "catalogID":"3e28b28374d07ef8f15fbc5310479a8e6b45688b",
+        "resourceName":"LiRI Services",
+        "resourceProvider":{
+            "name":"uzh.ch",
+            "displayname":"University of Zurich",
+            "url":"http://www.uzh.ch/"
+        },
+        "description":"Access services provided by the Linguistic Research Infrastructure (LiRI) at University of Zurich"
+    },
+    {
         "catalogID":"3091d3861ac2a8c0ca55ae708242753a3b204355",
         "resourceName":"Mobility-Online (Staging)",
         "resourceProvider":{
@@ -34758,6 +34778,16 @@
             "url":"http://www.switch.ch/"
         },
         "description":"This service is used to test the interfederation readiness of SWITCHaai Identity Providers."
+    },
+    {
+        "catalogID":"0cb7899dc617e6043e7ce27537d4f3c1f0094ee3",
+        "resourceName":"LiRI Services (test)",
+        "resourceProvider":{
+            "name":"uzh.ch",
+            "displayname":"University of Zurich",
+            "url":"http://www.uzh.ch/"
+        },
+        "description":"Access services provided by the Linguistic Research Infrastructure (LiRI) at University of Zurich"
     },
     {
         "catalogID":"d1f127190352dd8283a3956b5d55dc9ffc5ab670",
