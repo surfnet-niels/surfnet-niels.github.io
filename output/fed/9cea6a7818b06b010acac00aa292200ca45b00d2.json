@@ -630,6 +630,16 @@
         "description":"https://sp-pkulaw.carsi.edu.cn/shibboleth"
     },
     {
+        "catalogID":"f5424a4cfb0d40ff02bba03e2fca73fa07f29436",
+        "resourceName":"https://sp-pkuliveclass.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"Peking University",
+            "displayname":"Peking University",
+            "url":"https://www.pku.edu.cn/"
+        },
+        "description":"https://sp-pkuliveclass.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"394724298b0335c70d1049f262a49e31746af6ad",
         "resourceName":"https://sp-shuxiang2022.carsi.edu.cn/shibboleth",
         "resourceProvider":{
