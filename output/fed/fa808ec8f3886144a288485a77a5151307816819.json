@@ -1,5 +1,5 @@
 {
-    "generated":"2022-09-13 10:31",
+    "generated":"2022-09-13 12:57",
     "en":[
         {
             "catalogID":"fa808ec8f3886144a288485a77a5151307816819",
@@ -14,13 +14,13 @@
                 "required":[
                     "mail",
                     "schacPersonalUniqueCode",
-                    "eduPersonPrincipalName"
-                ],
-                "requested":[
+                    "eduPersonPrincipalName",
                     "o",
-                    "cn",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "cn"
                 ]
             },
             "description":"This service is used to delegate authentication from an IDP toward all the IDPs from Ulysseus European University partners.",
@@ -64,13 +64,13 @@
                 "required":[
                     "mail",
                     "schacPersonalUniqueCode",
-                    "eduPersonPrincipalName"
-                ],
-                "requested":[
+                    "eduPersonPrincipalName",
                     "o",
-                    "cn",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "cn"
                 ]
             },
             "description":"Ce service est utilisé pour déléguer l'authentification depuis un IDP vers l'ensemble des IDPs des partenaires de l'Université Européenne Ulysseus.",
@@ -114,13 +114,13 @@
                 "required":[
                     "mail",
                     "schacPersonalUniqueCode",
-                    "eduPersonPrincipalName"
-                ],
-                "requested":[
+                    "eduPersonPrincipalName",
                     "o",
-                    "cn",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "cn"
                 ]
             },
             "description":"",
@@ -164,13 +164,13 @@
                 "required":[
                     "mail",
                     "schacPersonalUniqueCode",
-                    "eduPersonPrincipalName"
-                ],
-                "requested":[
+                    "eduPersonPrincipalName",
                     "o",
-                    "cn",
                     "sn",
                     "givenName"
+                ],
+                "requested":[
+                    "cn"
                 ]
             },
             "description":"",
