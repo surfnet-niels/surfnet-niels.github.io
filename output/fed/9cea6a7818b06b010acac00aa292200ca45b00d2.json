@@ -12690,6 +12690,26 @@
         "description":""
     },
     {
+        "catalogID":"c6524734ddb488333138e0208c1bbf634b7f6dc3",
+        "resourceName":"MIT Authentication 2 Proxy",
+        "resourceProvider":{
+            "name":"Cirrus Identity, Inc.",
+            "displayname":"Cirrus Identity, Inc.",
+            "url":"http://cirrusidentity.com/"
+        },
+        "description":"MIT Authentication 2 Proxy"
+    },
+    {
+        "catalogID":"4090e51505f727b3ed615958746bfed269628cc2",
+        "resourceName":"MIT Test Authentication 2 Proxy",
+        "resourceProvider":{
+            "name":"Cirrus Identity, Inc.",
+            "displayname":"Cirrus Identity, Inc.",
+            "url":"http://cirrusidentity.com/"
+        },
+        "description":"MIT Test Authentication 2 Proxy"
+    },
+    {
         "catalogID":"f3006783a210018192e70ef1367fb024800918fa",
         "resourceName":"DCRI Authentication Proxy",
         "resourceProvider":{
@@ -14412,6 +14432,16 @@
     {
         "catalogID":"fbc1d203b9aa056b660c3d87b2a8452001240e52",
         "resourceName":"InfoReady Review - Illinois State University",
+        "resourceProvider":{
+            "name":"InfoReady Corp",
+            "displayname":"InfoReady Corp",
+            "url":"http://www.infoready4.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"24425c2a55b534197e8197d2bc9a3a2fbadad595",
+        "resourceName":"InfoReady Scale - Illinois State Univerity",
         "resourceProvider":{
             "name":"InfoReady Corp",
             "displayname":"InfoReady Corp",
