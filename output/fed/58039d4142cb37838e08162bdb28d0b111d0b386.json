@@ -1,5 +1,5 @@
 {
-    "generated":"2022-09-21 20:29",
+    "generated":"2022-09-21 22:31",
     "en":[
         {
             "catalogID":"58039d4142cb37838e08162bdb28d0b111d0b386",
@@ -12,10 +12,7 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[
-                    "givenName",
-                    "sn"
-                ]
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -59,7 +56,7 @@
         {
             "catalogID":"58039d4142cb37838e08162bdb28d0b111d0b386",
             "entityID":"https://wiki-stage.library.ucsf.edu/shibboleth",
-            "resourceName":"Log in to Wiki-Stage@UCSF",
+            "resourceName":"https://wiki-stage.library.ucsf.edu/shibboleth",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -67,10 +64,7 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[
-                    "givenName",
-                    "sn"
-                ]
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -114,7 +108,7 @@
         {
             "catalogID":"58039d4142cb37838e08162bdb28d0b111d0b386",
             "entityID":"https://wiki-stage.library.ucsf.edu/shibboleth",
-            "resourceName":"Log in to Wiki-Stage@UCSF",
+            "resourceName":"https://wiki-stage.library.ucsf.edu/shibboleth",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -122,10 +116,7 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[
-                    "givenName",
-                    "sn"
-                ]
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -169,7 +160,7 @@
         {
             "catalogID":"58039d4142cb37838e08162bdb28d0b111d0b386",
             "entityID":"https://wiki-stage.library.ucsf.edu/shibboleth",
-            "resourceName":"Log in to Wiki-Stage@UCSF",
+            "resourceName":"https://wiki-stage.library.ucsf.edu/shibboleth",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -177,10 +168,7 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[
-                    "givenName",
-                    "sn"
-                ]
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
