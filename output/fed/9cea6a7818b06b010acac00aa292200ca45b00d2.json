@@ -960,14 +960,14 @@
         "description":""
     },
     {
-        "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
-        "resourceName":"ACVP Student PROD",
+        "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
+        "resourceName":"ACVP Admin PROD",
         "resourceProvider":{
             "name":"jucc.edu.hk",
             "displayname":"Joint Universities Computer Centre Ltd",
             "url":"https://www.jucc.edu.hk"
         },
-        "description":"ACVP Student Portal Production"
+        "description":"JUCC ACVP Admin Portal Production"
     },
     {
         "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
@@ -990,16 +990,6 @@
         "description":"Active Classroom (AClass) is a website designed for knowledge transfer of education studies and idea exchanges. Our target audience include teachers from different education sectors, ranging from pre-schools, primary schools, secondary schools, to higher "
     },
     {
-        "catalogID":"53d044e96812096c57fb7b7d55d9cbd19add34d7",
-        "resourceName":"HKUST Stem vocabulary",
-        "resourceProvider":{
-            "name":"ust.hk",
-            "displayname":"The Hong Kong University of Science and Technology",
-            "url":"http://www.ust.hk"
-        },
-        "description":"HKUST Stem vocabulary"
-    },
-    {
         "catalogID":"67d2ec5b9dc1a89234bd449b04e48e0c1d2dcd55",
         "resourceName":"SKLMP Facility Booking System",
         "resourceProvider":{
@@ -1010,14 +1000,24 @@
         "description":"Welcome to the State Key Laboratory of Marine Pollution (SKLMP) for performing experimental work. SKLMP Facility Booking System allows users to book equipment and facility simultaneously, view their status instantly, and check the expense usage quickly."
     },
     {
-        "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
-        "resourceName":"ACVP Admin PROD",
+        "catalogID":"53d044e96812096c57fb7b7d55d9cbd19add34d7",
+        "resourceName":"HKUST Stem vocabulary",
+        "resourceProvider":{
+            "name":"ust.hk",
+            "displayname":"The Hong Kong University of Science and Technology",
+            "url":"http://www.ust.hk"
+        },
+        "description":"HKUST Stem vocabulary"
+    },
+    {
+        "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
+        "resourceName":"ACVP Student PROD",
         "resourceProvider":{
             "name":"jucc.edu.hk",
             "displayname":"Joint Universities Computer Centre Ltd",
             "url":"https://www.jucc.edu.hk"
         },
-        "description":"JUCC ACVP Admin Portal Production"
+        "description":"ACVP Student Portal Production"
     },
     {
         "catalogID":"b6d0463b7abb6133be665554714fda26bad2d197",
@@ -34248,6 +34248,16 @@
             "url":"https://www.statista.com"
         },
         "description":"Access to paid statistics from statistic portal Statista for universities that have a campus license"
+    },
+    {
+        "catalogID":"a1c84ac79e1f03f65a9e52378eff6164e5ecc8f1",
+        "resourceName":"TUM Whole Slide Viewer",
+        "resourceProvider":{
+            "name":"e8",
+            "displayname":"Technical University of Munich (TUM)",
+            "url":"https://www.tum.de/en"
+        },
+        "description":"TUM Whole Slide Viewer to view and annotate digital pathology whole slide images"
     },
     {
         "catalogID":"8f8d28ec276597736d044c4c0d59dbe0b353db6e",
