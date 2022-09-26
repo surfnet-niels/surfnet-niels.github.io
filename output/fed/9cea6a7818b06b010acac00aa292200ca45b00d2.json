@@ -960,16 +960,6 @@
         "description":""
     },
     {
-        "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
-        "resourceName":"ACVP Admin PROD",
-        "resourceProvider":{
-            "name":"jucc.edu.hk",
-            "displayname":"Joint Universities Computer Centre Ltd",
-            "url":"https://www.jucc.edu.hk"
-        },
-        "description":"JUCC ACVP Admin Portal Production"
-    },
-    {
         "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
         "resourceName":"KEEP",
         "resourceProvider":{
@@ -1018,6 +1008,16 @@
             "url":"https://www.jucc.edu.hk"
         },
         "description":"ACVP Student Portal Production"
+    },
+    {
+        "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
+        "resourceName":"ACVP Admin PROD",
+        "resourceProvider":{
+            "name":"jucc.edu.hk",
+            "displayname":"Joint Universities Computer Centre Ltd",
+            "url":"https://www.jucc.edu.hk"
+        },
+        "description":"JUCC ACVP Admin Portal Production"
     },
     {
         "catalogID":"b6d0463b7abb6133be665554714fda26bad2d197",
