@@ -31070,6 +31070,16 @@
         "description":"Eduuni is an environment for e-work and collaboration services."
     },
     {
+        "catalogID":"835a53fc89c2c46f0257bcf6e1aead6c6a20fb23",
+        "resourceName":"Haka Attribute Test Service",
+        "resourceProvider":{
+            "name":"CSC - IT Center for Science Ltd.",
+            "displayname":"CSC - IT Center for Science Ltd.",
+            "url":"http://www.csc.fi"
+        },
+        "description":"Attributes released by IdP-server can be tested against this SP."
+    },
+    {
         "catalogID":"b6eacf3e5bfc552f20d3bfdbc52471e8d8c60dab",
         "resourceName":"Funet FileSender",
         "resourceProvider":{
@@ -31158,16 +31168,6 @@
             "url":"http://www.aalto.fi"
         },
         "description":"Aalto University open learning material environment"
-    },
-    {
-        "catalogID":"835a53fc89c2c46f0257bcf6e1aead6c6a20fb23",
-        "resourceName":"Haka Attribute Test Service",
-        "resourceProvider":{
-            "name":"CSC - IT Center for Science Ltd.",
-            "displayname":"CSC - IT Center for Science Ltd.",
-            "url":"http://www.csc.fi"
-        },
-        "description":"Attributes released by IdP-server can be tested against this SP."
     },
     {
         "catalogID":"ea3c82416199d7561a63b53e22523ea65a74d448",
@@ -34100,16 +34100,6 @@
         "description":"Registration for TID Wiki"
     },
     {
-        "catalogID":"fa1a028580cd67dc058fcd3b16e12326066eaeb1",
-        "resourceName":"Registration Galaxy Cluster Uni Leipzig",
-        "resourceProvider":{
-            "name":"e256",
-            "displayname":"University of Leipzig",
-            "url":"https://www.uni-leipzig.de"
-        },
-        "description":"Registration for using the Galaxy Cluster of Leipzig University"
-    },
-    {
         "catalogID":"5c8c372f5fe79f1da9028cb657292fa4ce2584d7",
         "resourceName":"CLARINO Bergen Repository",
         "resourceProvider":{
@@ -34238,6 +34228,16 @@
             "url":"http://www.genios.de"
         },
         "description":"GENIOS ist die größte Online-Wirtschaftsdatenbank in Deutschland und ein Tochterunternehmen der Frankfurter Allgemeinen Zeitung und der Verlagsgruppe Handelsblatt. Über www.genios.de hat der Nutzer direkten Zugriff auf rund 1.000 Datenbanken von mehr als 250 namhaften Verlagen und Informationsanbietern. GENIOS bietet hochwertige Qualitätsinformationen aus Wirtschaft, Management, Unternehmen, Politik und Wissenschaft."
+    },
+    {
+        "catalogID":"31ff0b9f926e580f1bc2bb6eff23edaf4ad0e0f2",
+        "resourceName":"Fraunhofer IRB",
+        "resourceProvider":{
+            "name":"e707",
+            "displayname":"Fraunhofer-Informationszentrum Raum und Bau IRB",
+            "url":"https://irb.fraunhofer.de"
+        },
+        "description":"Fraunhofer Instituts für Raum und Bau Applications"
     },
     {
         "catalogID":"3f7bcaa1ea7a2d4e41d72aab3d734cbf9473bc67",
