@@ -1,5 +1,5 @@
 {
-    "generated":"2022-09-28 12:56",
+    "generated":"2022-09-28 14:39",
     "en":[
         {
             "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
@@ -14,11 +14,16 @@
                 "required":[
                     "uid",
                     "mail",
+                    "schacExpiryDate",
                     "eduPersonTargetedID",
                     "eduPersonUniqueId",
                     "eduPersonPrincipalName",
                     "eduOrgLegalName",
                     "supannEtablissement",
+                    "supannRessourceEtatDate",
+                    "supannEmpDateFin",
+                    "supannEtuDateFin",
+                    "supannExtDateFin",
                     "displayName",
                     "telephoneNumber",
                     "sn",
@@ -45,7 +50,8 @@
                 "https://federation.renater.fr/category/metier",
                 "https://federation.renater.fr/scope/community",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "https://myacademicid.org/entity-categories/esi"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
@@ -66,11 +72,16 @@
                 "required":[
                     "uid",
                     "mail",
+                    "schacExpiryDate",
                     "eduPersonTargetedID",
                     "eduPersonUniqueId",
                     "eduPersonPrincipalName",
                     "eduOrgLegalName",
                     "supannEtablissement",
+                    "supannRessourceEtatDate",
+                    "supannEmpDateFin",
+                    "supannEtuDateFin",
+                    "supannExtDateFin",
                     "displayName",
                     "telephoneNumber",
                     "sn",
@@ -97,7 +108,8 @@
                 "https://federation.renater.fr/category/metier",
                 "https://federation.renater.fr/scope/community",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "https://myacademicid.org/entity-categories/esi"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
@@ -118,11 +130,16 @@
                 "required":[
                     "uid",
                     "mail",
+                    "schacExpiryDate",
                     "eduPersonTargetedID",
                     "eduPersonUniqueId",
                     "eduPersonPrincipalName",
                     "eduOrgLegalName",
                     "supannEtablissement",
+                    "supannRessourceEtatDate",
+                    "supannEmpDateFin",
+                    "supannEtuDateFin",
+                    "supannExtDateFin",
                     "displayName",
                     "telephoneNumber",
                     "sn",
@@ -149,7 +166,8 @@
                 "https://federation.renater.fr/category/metier",
                 "https://federation.renater.fr/scope/community",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "https://myacademicid.org/entity-categories/esi"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
@@ -170,11 +188,16 @@
                 "required":[
                     "uid",
                     "mail",
+                    "schacExpiryDate",
                     "eduPersonTargetedID",
                     "eduPersonUniqueId",
                     "eduPersonPrincipalName",
                     "eduOrgLegalName",
                     "supannEtablissement",
+                    "supannRessourceEtatDate",
+                    "supannEmpDateFin",
+                    "supannEtuDateFin",
+                    "supannExtDateFin",
                     "displayName",
                     "telephoneNumber",
                     "sn",
@@ -201,7 +224,8 @@
                 "https://federation.renater.fr/category/metier",
                 "https://federation.renater.fr/scope/community",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "https://myacademicid.org/entity-categories/esi"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
