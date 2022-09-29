@@ -630,6 +630,16 @@
         "description":"https://sp-hbn3bme.carsi.edu.cn/shibboleth"
     },
     {
+        "catalogID":"0990cbd9a10d440bb6b12940e5b0b26149965bea",
+        "resourceName":"https://sp-hbn3db.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"HBN",
+            "displayname":"HBN",
+            "url":"http://www.harborn.cn"
+        },
+        "description":"https://sp-hbn3db.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"d4004ef5e88df97c9264cf81e3c01c09d5ab3f9e",
         "resourceName":"https://sp-hbn3yrb.carsi.edu.cn/shibboleth",
         "resourceProvider":{
