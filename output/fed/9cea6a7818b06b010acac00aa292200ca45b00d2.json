@@ -23380,16 +23380,6 @@
         "description":""
     },
     {
-        "catalogID":"25982b260012e0df6cf96f43cbceb5045fa04934",
-        "resourceName":"https://endicott.law.ox.ac.uk/shibboleth-sp",
-        "resourceProvider":{
-            "name":"University of Oxford",
-            "displayname":"University of Oxford Faculty of Law",
-            "url":"http://www.law.ox.ac.uk/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"7167a66cd19364789c5abb359fde1b55e70bd2e6",
         "resourceName":"London School of Hygiene and Tropical Medicine - Primo",
         "resourceProvider":{
@@ -29498,6 +29488,16 @@
             "url":"https://www.stats.ox.ac.uk/"
         },
         "description":""
+    },
+    {
+        "catalogID":"b89d4d45670e6609b78fa6f02a0e2d3a73377058",
+        "resourceName":"Jisc Login",
+        "resourceProvider":{
+            "name":"Jisc",
+            "displayname":"Jisc",
+            "url":"https://www.jisc.ac.uk/"
+        },
+        "description":"Jisc Login"
     },
     {
         "catalogID":"ce142e875551f4415e626ff063689f9b23248552",
