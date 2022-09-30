@@ -530,6 +530,16 @@
         "description":"RASH main SP"
     },
     {
+        "catalogID":"55763c5984e3c8994dc2ed38154fafae4a1450ce",
+        "resourceName":"https://carsi.sh.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"Information Center of SMEC",
+            "displayname":"Information Center of SMEC",
+            "url":"http://edu.sh.gov.cn/"
+        },
+        "description":"https://carsi.sh.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"96fb3603d220261410cd2bc7b035bc1671e76fe3",
         "resourceName":"https://ds.carsi.edu.cn/shibboleth-sp/carsifed",
         "resourceProvider":{
