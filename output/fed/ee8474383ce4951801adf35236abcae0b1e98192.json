@@ -1,0 +1,175 @@
+{
+    "generated":"2022-09-30 14:39",
+    "en":[
+        {
+            "catalogID":"ee8474383ce4951801adf35236abcae0b1e98192",
+            "entityID":"https://aai-sp.lgcdn.de/metadata",
+            "resourceName":"lugges",
+            "resourceProvider":{
+                "name":"e806",
+                "displayname":"lugges",
+                "url":"https://lugges.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "sn",
+                    "mail",
+                    "givenName",
+                    "eduPersonAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"The lugges authentication service for quick and complete validation of student or employee status at higher education institutions.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                },
+                {
+                    "type":"security",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ee8474383ce4951801adf35236abcae0b1e98192",
+            "entityID":"https://aai-sp.lgcdn.de/metadata",
+            "resourceName":"lugges",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://lugges.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "sn",
+                    "mail",
+                    "givenName",
+                    "eduPersonAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                },
+                {
+                    "type":"security",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ee8474383ce4951801adf35236abcae0b1e98192",
+            "entityID":"https://aai-sp.lgcdn.de/metadata",
+            "resourceName":"lugges",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://lugges.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "sn",
+                    "mail",
+                    "givenName",
+                    "eduPersonAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                },
+                {
+                    "type":"security",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ee8474383ce4951801adf35236abcae0b1e98192",
+            "entityID":"https://aai-sp.lgcdn.de/metadata",
+            "resourceName":"lugges",
+            "resourceProvider":{
+                "name":"e806",
+                "displayname":"lugges",
+                "url":"https://lugges.de"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "sn",
+                    "mail",
+                    "givenName",
+                    "eduPersonAffiliation"
+                ],
+                "requested":[]
+            },
+            "description":"Der Authentifizierungsdienst der lugges zur schnellen und vollständigen Validierung des Studenten oder Mitarbeiter-Status an Hochschulen.",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                },
+                {
+                    "type":"support",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                },
+                {
+                    "type":"security",
+                    "name":"Lukas AdrianKron",
+                    "email":"mailto:aai-prod@lugges.eu"
+                }
+            ],
+            "info":"",
+            "privacy":"https://lugges.de/datenschutz",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
