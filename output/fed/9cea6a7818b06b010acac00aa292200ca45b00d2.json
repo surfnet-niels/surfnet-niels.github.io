@@ -530,6 +530,16 @@
         "description":"RASH main SP"
     },
     {
+        "catalogID":"55763c5984e3c8994dc2ed38154fafae4a1450ce",
+        "resourceName":"https://carsi.sh.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"Information Center of SMEC",
+            "displayname":"Information Center of SMEC",
+            "url":"http://edu.sh.gov.cn/"
+        },
+        "description":"https://carsi.sh.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"96fb3603d220261410cd2bc7b035bc1671e76fe3",
         "resourceName":"https://ds.carsi.edu.cn/shibboleth-sp/carsifed",
         "resourceProvider":{
@@ -608,6 +618,46 @@
             "url":"http://www.epsnet.com.cn/"
         },
         "description":"https://sp-epsplatform.carsi.edu.cn/shibboleth"
+    },
+    {
+        "catalogID":"953c49d14da662ca2780a9b6abac28c4e96b7788",
+        "resourceName":"https://sp-hbn3ag.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"HBN",
+            "displayname":"HBN",
+            "url":"http://www.harborn.cn"
+        },
+        "description":"https://sp-hbn3ag.carsi.edu.cn/shibboleth"
+    },
+    {
+        "catalogID":"bbda86f5da716cb7d7b5fecd62dbe0bf0213c16d",
+        "resourceName":"https://sp-hbn3bme.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"HBN",
+            "displayname":"HBN",
+            "url":"http://www.harborn.cn"
+        },
+        "description":"https://sp-hbn3bme.carsi.edu.cn/shibboleth"
+    },
+    {
+        "catalogID":"0990cbd9a10d440bb6b12940e5b0b26149965bea",
+        "resourceName":"https://sp-hbn3db.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"HBN",
+            "displayname":"HBN",
+            "url":"http://www.harborn.cn"
+        },
+        "description":"https://sp-hbn3db.carsi.edu.cn/shibboleth"
+    },
+    {
+        "catalogID":"d4004ef5e88df97c9264cf81e3c01c09d5ab3f9e",
+        "resourceName":"https://sp-hbn3yrb.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"HBN",
+            "displayname":"HBN",
+            "url":"http://www.harborn.cn"
+        },
+        "description":"https://sp-hbn3yrb.carsi.edu.cn/shibboleth"
     },
     {
         "catalogID":"50444f5fd84c055e991a0c13863401045cdb8703",
