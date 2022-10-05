@@ -1,5 +1,5 @@
 {
-    "generated":"2022-10-05 10:34",
+    "generated":"2022-10-05 13:03",
     "en":[
         {
             "catalogID":"9fc853df6f4fdb60e8a576f7c8d5137cf971ac78",
@@ -15,6 +15,15 @@
                 "requested":[
                     null,
                     null,
+                    "eduPersonPrincipalName",
+                    "eduPersonPrimaryAffiliation",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    null,
+                    null,
                     null,
                     null
                 ]
@@ -22,12 +31,12 @@
             "description":"DragonSec SI Internal ID Connector",
             "resourceContacts":[
                 {
-                    "type":"support",
+                    "type":"technical",
                     "name":"DragonSecTech",
                     "email":"mailto:tech@dragonsec.si"
                 },
                 {
-                    "type":"technical",
+                    "type":"support",
                     "name":"DragonSecTech",
                     "email":"mailto:tech@dragonsec.si"
                 },
@@ -58,6 +67,15 @@
                 "requested":[
                     null,
                     null,
+                    "eduPersonPrincipalName",
+                    "eduPersonPrimaryAffiliation",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    null,
+                    null,
                     null,
                     null
                 ]
@@ -65,12 +83,12 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
+                    "type":"technical",
                     "name":"DragonSecTech",
                     "email":"mailto:tech@dragonsec.si"
                 },
                 {
-                    "type":"technical",
+                    "type":"support",
                     "name":"DragonSecTech",
                     "email":"mailto:tech@dragonsec.si"
                 },
@@ -101,6 +119,15 @@
                 "requested":[
                     null,
                     null,
+                    "eduPersonPrincipalName",
+                    "eduPersonPrimaryAffiliation",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    null,
+                    null,
                     null,
                     null
                 ]
@@ -108,12 +135,12 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
+                    "type":"technical",
                     "name":"DragonSecTech",
                     "email":"mailto:tech@dragonsec.si"
                 },
                 {
-                    "type":"technical",
+                    "type":"support",
                     "name":"DragonSecTech",
                     "email":"mailto:tech@dragonsec.si"
                 },
@@ -144,6 +171,15 @@
                 "requested":[
                     null,
                     null,
+                    "eduPersonPrincipalName",
+                    "eduPersonPrimaryAffiliation",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    null,
+                    null,
                     null,
                     null
                 ]
@@ -151,12 +187,12 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
+                    "type":"technical",
                     "name":"DragonSecTech",
                     "email":"mailto:tech@dragonsec.si"
                 },
                 {
-                    "type":"technical",
+                    "type":"support",
                     "name":"DragonSecTech",
                     "email":"mailto:tech@dragonsec.si"
                 },
