@@ -29521,30 +29521,30 @@
     },
     {
         "catalogID":"ffc258d855d23ca98a5418b50578731b615490d2",
-        "resourceName":"https://internal.stats.ox.ac.uk/shibboleth",
+        "resourceName":"University of Oxford Department of Statistics Internal Documentation",
         "resourceProvider":{
             "name":"University of Oxford",
-            "displayname":"University of Oxford Department of Statistics Internal Documentation",
+            "displayname":"University of Oxford",
             "url":"https://www.stats.ox.ac.uk/"
         },
         "description":""
     },
     {
         "catalogID":"cc382453fade4d59e833f9d88a7adf3bed7c862f",
-        "resourceName":"https://www.stats.ox.ac.uk/shibboleth",
+        "resourceName":"University of Oxford's Department of Statistics Production Web Service",
         "resourceProvider":{
             "name":"University of Oxford",
-            "displayname":"University of Oxford's Department of Statistics Production Web Service",
+            "displayname":"University of Oxford",
             "url":"https://www.stats.ox.ac.uk/"
         },
         "description":""
     },
     {
         "catalogID":"a628414fc7ab73463d39aeb46aae7ab75153906c",
-        "resourceName":"https://www-staging.stats.ox.ac.uk/shibboleth",
+        "resourceName":"University of Oxford's Department of Statistics Website (Staging)",
         "resourceProvider":{
             "name":"University of Oxford",
-            "displayname":"University of Oxford's Department of Statistics Website (Staging)",
+            "displayname":"University of Oxford",
             "url":"https://www.stats.ox.ac.uk/"
         },
         "description":""
@@ -29558,6 +29558,16 @@
             "url":"https://www.jisc.ac.uk/"
         },
         "description":"Jisc Login"
+    },
+    {
+        "catalogID":"ec2873505b0ee01e3e0cef5cbaf3a99f1eeff2ec",
+        "resourceName":"https://access.subculturearchives.com/plugins/simplesaml/lib/www/module.php/saml/sp/metadata.php/resourcespace-sp",
+        "resourceProvider":{
+            "name":"Youth Club Ltd",
+            "displayname":"Youth Club Ltd",
+            "url":"https://youthclub.resourcespace.com/"
+        },
+        "description":""
     },
     {
         "catalogID":"ce142e875551f4415e626ff063689f9b23248552",
