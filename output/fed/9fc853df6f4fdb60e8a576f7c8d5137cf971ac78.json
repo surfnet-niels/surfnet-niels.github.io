@@ -1,5 +1,5 @@
 {
-    "generated":"2022-10-05 17:00",
+    "generated":"2022-10-05 18:45",
     "en":[
         {
             "catalogID":"9fc853df6f4fdb60e8a576f7c8d5137cf971ac78",
@@ -13,12 +13,12 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "givenName",
                     "eduPersonPrincipalName",
-                    "rfc822Mailbox",
+                    "givenName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "surname"
+                    "rfc822Mailbox",
+                    "surname",
+                    "eduPersonAffiliation"
                 ]
             },
             "description":"DragonSec SI Internal ID Connector",
@@ -58,12 +58,12 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "givenName",
                     "eduPersonPrincipalName",
-                    "rfc822Mailbox",
+                    "givenName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "surname"
+                    "rfc822Mailbox",
+                    "surname",
+                    "eduPersonAffiliation"
                 ]
             },
             "description":"",
@@ -103,12 +103,12 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "givenName",
                     "eduPersonPrincipalName",
-                    "rfc822Mailbox",
+                    "givenName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "surname"
+                    "rfc822Mailbox",
+                    "surname",
+                    "eduPersonAffiliation"
                 ]
             },
             "description":"",
@@ -148,12 +148,12 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "givenName",
                     "eduPersonPrincipalName",
-                    "rfc822Mailbox",
+                    "givenName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "surname"
+                    "rfc822Mailbox",
+                    "surname",
+                    "eduPersonAffiliation"
                 ]
             },
             "description":"",
