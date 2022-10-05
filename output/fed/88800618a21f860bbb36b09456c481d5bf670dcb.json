@@ -1,0 +1,163 @@
+{
+    "generated":"2022-10-05 14:46",
+    "en":[
+        {
+            "catalogID":"88800618a21f860bbb36b09456c481d5bf670dcb",
+            "entityID":"https://proxy.eduid.africa/sp/saml2",
+            "resourceName":"eduID.africa Proxy SP",
+            "resourceProvider":{
+                "name":"eduID.africa",
+                "displayname":"eduID.africa",
+                "url":"https://www.eduid.africa"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"eduID.africa Proxy SP",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduID Technical",
+                    "email":"mailto:eduid-operations@ren.africa"
+                },
+                {
+                    "type":"support",
+                    "name":"eduID Support",
+                    "email":"mailto:eduid-operations@ren.africa"
+                }
+            ],
+            "info":"https://www.eduid.africa/",
+            "privacy":"https://www.eduid.africa/",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"88800618a21f860bbb36b09456c481d5bf670dcb",
+            "entityID":"https://proxy.eduid.africa/sp/saml2",
+            "resourceName":"eduID.africa Proxy SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.eduid.africa"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduID Technical",
+                    "email":"mailto:eduid-operations@ren.africa"
+                },
+                {
+                    "type":"support",
+                    "name":"eduID Support",
+                    "email":"mailto:eduid-operations@ren.africa"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"88800618a21f860bbb36b09456c481d5bf670dcb",
+            "entityID":"https://proxy.eduid.africa/sp/saml2",
+            "resourceName":"eduID.africa Proxy SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.eduid.africa"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduID Technical",
+                    "email":"mailto:eduid-operations@ren.africa"
+                },
+                {
+                    "type":"support",
+                    "name":"eduID Support",
+                    "email":"mailto:eduid-operations@ren.africa"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"88800618a21f860bbb36b09456c481d5bf670dcb",
+            "entityID":"https://proxy.eduid.africa/sp/saml2",
+            "resourceName":"eduID.africa Proxy SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.eduid.africa"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"eduID Technical",
+                    "email":"mailto:eduid-operations@ren.africa"
+                },
+                {
+                    "type":"support",
+                    "name":"eduID Support",
+                    "email":"mailto:eduid-operations@ren.africa"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

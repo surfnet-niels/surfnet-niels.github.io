@@ -1,0 +1,175 @@
+{
+    "generated":"2022-10-05 14:46",
+    "en":[
+        {
+            "catalogID":"e0fe4dccca07140f7790eaff952396a31c3353cb",
+            "entityID":"https://events.ubuntunet.net/saml",
+            "resourceName":"UbuntuNet Alliance Events Service",
+            "resourceProvider":{
+                "name":"UbuntuNet Alliance",
+                "displayname":"UbuntuNet Alliance for Research and Education Networking",
+                "url":"https://ubuntunet.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"UbuntuNet Alliance Events Service based on Indico",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Services Portfolio",
+                    "email":"mailto:devops@ubuntunet.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Services Support",
+                    "email":"mailto:support@ubuntunet.net"
+                }
+            ],
+            "info":"https://events.ubuntunet.net/",
+            "privacy":"https://ubuntunet.net/privacy-notice/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"e0fe4dccca07140f7790eaff952396a31c3353cb",
+            "entityID":"https://events.ubuntunet.net/saml",
+            "resourceName":"UbuntuNet Alliance Events Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://ubuntunet.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Services Portfolio",
+                    "email":"mailto:devops@ubuntunet.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Services Support",
+                    "email":"mailto:support@ubuntunet.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"e0fe4dccca07140f7790eaff952396a31c3353cb",
+            "entityID":"https://events.ubuntunet.net/saml",
+            "resourceName":"UbuntuNet Alliance Events Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://ubuntunet.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Services Portfolio",
+                    "email":"mailto:devops@ubuntunet.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Services Support",
+                    "email":"mailto:support@ubuntunet.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"e0fe4dccca07140f7790eaff952396a31c3353cb",
+            "entityID":"https://events.ubuntunet.net/saml",
+            "resourceName":"UbuntuNet Alliance Events Service",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://ubuntunet.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Services Portfolio",
+                    "email":"mailto:devops@ubuntunet.net"
+                },
+                {
+                    "type":"support",
+                    "name":"Services Support",
+                    "email":"mailto:support@ubuntunet.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

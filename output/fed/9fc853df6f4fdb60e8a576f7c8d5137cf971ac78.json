@@ -1,5 +1,5 @@
 {
-    "generated":"2022-10-05 13:03",
+    "generated":"2022-10-05 14:46",
     "en":[
         {
             "catalogID":"9fc853df6f4fdb60e8a576f7c8d5137cf971ac78",
@@ -13,19 +13,12 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    null,
-                    null,
-                    "eduPersonPrincipalName",
-                    "eduPersonPrimaryAffiliation",
-                    "eduPersonPrincipalName",
-                    "displayName",
                     "givenName",
-                    "sn",
-                    "mail",
-                    null,
-                    null,
-                    null,
-                    null
+                    "eduPersonPrincipalName",
+                    "rfc822Mailbox",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "surname"
                 ]
             },
             "description":"DragonSec SI Internal ID Connector",
@@ -65,19 +58,12 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    null,
-                    null,
-                    "eduPersonPrincipalName",
-                    "eduPersonPrimaryAffiliation",
-                    "eduPersonPrincipalName",
-                    "displayName",
                     "givenName",
-                    "sn",
-                    "mail",
-                    null,
-                    null,
-                    null,
-                    null
+                    "eduPersonPrincipalName",
+                    "rfc822Mailbox",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "surname"
                 ]
             },
             "description":"",
@@ -117,19 +103,12 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    null,
-                    null,
-                    "eduPersonPrincipalName",
-                    "eduPersonPrimaryAffiliation",
-                    "eduPersonPrincipalName",
-                    "displayName",
                     "givenName",
-                    "sn",
-                    "mail",
-                    null,
-                    null,
-                    null,
-                    null
+                    "eduPersonPrincipalName",
+                    "rfc822Mailbox",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "surname"
                 ]
             },
             "description":"",
@@ -169,19 +148,12 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    null,
-                    null,
-                    "eduPersonPrincipalName",
-                    "eduPersonPrimaryAffiliation",
-                    "eduPersonPrincipalName",
-                    "displayName",
                     "givenName",
-                    "sn",
-                    "mail",
-                    null,
-                    null,
-                    null,
-                    null
+                    "eduPersonPrincipalName",
+                    "rfc822Mailbox",
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "surname"
                 ]
             },
             "description":"",

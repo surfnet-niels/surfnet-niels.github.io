@@ -1,5 +1,65 @@
 [
     {
+        "catalogID":"427ccb354919cd588545e098353c2a3c37d12068",
+        "resourceName":"https://usp.ubuntunet.net/simplesaml",
+        "resourceProvider":{
+            "name":"UbuntuNet Alliance",
+            "displayname":"UbuntuNet Alliance",
+            "url":"https://ubuntunet.net/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"88800618a21f860bbb36b09456c481d5bf670dcb",
+        "resourceName":"eduID.africa Proxy SP",
+        "resourceProvider":{
+            "name":"eduID.africa",
+            "displayname":"eduID.africa",
+            "url":"https://www.eduid.africa"
+        },
+        "description":"eduID.africa Proxy SP"
+    },
+    {
+        "catalogID":"e0fe4dccca07140f7790eaff952396a31c3353cb",
+        "resourceName":"UbuntuNet Alliance Events Service",
+        "resourceProvider":{
+            "name":"UbuntuNet Alliance",
+            "displayname":"UbuntuNet Alliance for Research and Education Networking",
+            "url":"https://ubuntunet.net/"
+        },
+        "description":"UbuntuNet Alliance Events Service based on Indico"
+    },
+    {
+        "catalogID":"66b3fd58d30b2f4ac3020cc73e61ac284718192f",
+        "resourceName":"Sectigo Certificate Manager",
+        "resourceProvider":{
+            "name":"Sectigo",
+            "displayname":"Sectigo",
+            "url":"https://sectigo.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"91810931e601e60682330e6da7bada779ea95d78",
+        "resourceName":"UbuntuNet Alliance Filesender Service",
+        "resourceProvider":{
+            "name":"UbuntuNet Alliance",
+            "displayname":"UbuntuNet Alliance",
+            "url":"https://ubuntunet.net"
+        },
+        "description":"UA Filesender Service for the R&E Community"
+    },
+    {
+        "catalogID":"eb416425e609bb347ccd480758b9fc0dd75666ef",
+        "resourceName":"UA Drive",
+        "resourceProvider":{
+            "name":"UbuntuNet Alliance",
+            "displayname":"UbuntuNet Alliance for Research and Education Networking",
+            "url":"https://ubuntunet.net/"
+        },
+        "description":"UA NextCloud Storage Service"
+    },
+    {
         "catalogID":"4b9f89adf3550155c79c2eb1556151292533e0c2",
         "resourceName":"NECTEC SP",
         "resourceProvider":{
@@ -13828,16 +13888,6 @@
             "url":"https://saemobilus.sae.org/"
         },
         "description":"Subscription-based access to aerospace and automotive technical information from SAE International"
-    },
-    {
-        "catalogID":"66b3fd58d30b2f4ac3020cc73e61ac284718192f",
-        "resourceName":"Sectigo Certificate Manager",
-        "resourceProvider":{
-            "name":"Sectigo",
-            "displayname":"Sectigo",
-            "url":"https://sectigo.com/"
-        },
-        "description":""
     },
     {
         "catalogID":"0fab4985a944f98b9d04bdf89915ccfe441d0620",
