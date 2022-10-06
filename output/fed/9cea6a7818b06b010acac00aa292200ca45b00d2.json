@@ -31600,26 +31600,6 @@
         "description":"This service is used for login to services at Jönköping University."
     },
     {
-        "catalogID":"8854e4c7125335a1a6b3ff9354f4f1b2ba8707af",
-        "resourceName":"NORDUnet Webinar Service",
-        "resourceProvider":{
-            "name":"NORDUnet",
-            "displayname":"NORDUnet A/S",
-            "url":"http://www.nordu.net"
-        },
-        "description":"NORDUnet Webinar Service"
-    },
-    {
-        "catalogID":"6785da0c9a3b9f4f7c94c47e73e9f42ab93417d6",
-        "resourceName":"The KeyBucket",
-        "resourceProvider":{
-            "name":"NORDUNet",
-            "displayname":"NORDUnet A/S",
-            "url":"http://www.nordu.net"
-        },
-        "description":"The KeyBucket"
-    },
-    {
         "catalogID":"c3ba81cede254454b64ee9743df19201fe34adc9",
         "resourceName":"NORDUnet Box Service Access",
         "resourceProvider":{
@@ -31868,16 +31848,6 @@
             "url":"https://www.nordu.net"
         },
         "description":"Indico NORDUnet is a meeting, workshop and conference collaboration service."
-    },
-    {
-        "catalogID":"ad3d719db2973334a46293a96dbbe168086ca8f0",
-        "resourceName":"NORDUnet Media eLearning",
-        "resourceProvider":{
-            "name":"NORDUnet A/S",
-            "displayname":"NORDUnet",
-            "url":"https://www.nordu.net/"
-        },
-        "description":""
     },
     {
         "catalogID":"910d4d731a5d0a63dc95caccc8a61d688512be24",
@@ -33198,6 +33168,16 @@
             "url":"https://web-en.unipv.it"
         },
         "description":"The system publishes mobile-based EC2U virtual cards"
+    },
+    {
+        "catalogID":"a5484770f81da9b804773ede3bb24abd79aa7fc3",
+        "resourceName":"Moodle2",
+        "resourceProvider":{
+            "name":"University of Trieste",
+            "displayname":"Moodle2 provided by the University of Trieste",
+            "url":"https://www.units.it/en"
+        },
+        "description":"Moodle is an e-learning system for the learning activities offered by the University f Trieste also with the collaboration with other universities or institutions such as the inter-university courses, long-life learning for staff and the TFAs (Tirocinio Formativo Attivo) for the secondary school."
     },
     {
         "catalogID":"e23d378b5ab81d14fde52d07facd81aa5f7e4e2d",
