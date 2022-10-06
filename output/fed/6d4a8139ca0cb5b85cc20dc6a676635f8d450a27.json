@@ -1,0 +1,155 @@
+{
+    "generated":"2022-10-06 08:37",
+    "en":[
+        {
+            "catalogID":"6d4a8139ca0cb5b85cc20dc6a676635f8d450a27",
+            "entityID":"https://filesender.kenet.or.ke/saml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"KENET File Sender",
+            "resourceProvider":{
+                "name":"Kenya Education Network Trust (KENET)",
+                "displayname":"KENET File Sender",
+                "url":"https://www.kenet.or.ke/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"KENET File Sender",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"KENET Help Desk",
+                    "email":"mailto:support@kenet.or.ke"
+                },
+                {
+                    "type":"security",
+                    "name":"KENET CERT",
+                    "email":"mailto:csirt@kenet.or.ke"
+                },
+                {
+                    "type":"technical",
+                    "name":"EmanuelWanyonyi",
+                    "email":"mailto:ewanyonyi@kenet.or.ke"
+                }
+            ],
+            "info":"https://rafiki.federation.ke",
+            "privacy":"https://rafiki.federation.ke/",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"6d4a8139ca0cb5b85cc20dc6a676635f8d450a27",
+            "entityID":"https://filesender.kenet.or.ke/saml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://filesender.kenet.or.ke/saml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kenet.or.ke/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"KENET Help Desk",
+                    "email":"mailto:support@kenet.or.ke"
+                },
+                {
+                    "type":"security",
+                    "name":"KENET CERT",
+                    "email":"mailto:csirt@kenet.or.ke"
+                },
+                {
+                    "type":"technical",
+                    "name":"EmanuelWanyonyi",
+                    "email":"mailto:ewanyonyi@kenet.or.ke"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"6d4a8139ca0cb5b85cc20dc6a676635f8d450a27",
+            "entityID":"https://filesender.kenet.or.ke/saml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://filesender.kenet.or.ke/saml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kenet.or.ke/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"KENET Help Desk",
+                    "email":"mailto:support@kenet.or.ke"
+                },
+                {
+                    "type":"security",
+                    "name":"KENET CERT",
+                    "email":"mailto:csirt@kenet.or.ke"
+                },
+                {
+                    "type":"technical",
+                    "name":"EmanuelWanyonyi",
+                    "email":"mailto:ewanyonyi@kenet.or.ke"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"6d4a8139ca0cb5b85cc20dc6a676635f8d450a27",
+            "entityID":"https://filesender.kenet.or.ke/saml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceName":"https://filesender.kenet.or.ke/saml/module.php/saml/sp/metadata.php/default-sp",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kenet.or.ke/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"KENET Help Desk",
+                    "email":"mailto:support@kenet.or.ke"
+                },
+                {
+                    "type":"security",
+                    "name":"KENET CERT",
+                    "email":"mailto:csirt@kenet.or.ke"
+                },
+                {
+                    "type":"technical",
+                    "name":"EmanuelWanyonyi",
+                    "email":"mailto:ewanyonyi@kenet.or.ke"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

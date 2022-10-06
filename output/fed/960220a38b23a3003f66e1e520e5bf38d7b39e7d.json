@@ -1,0 +1,155 @@
+{
+    "generated":"2022-10-06 08:37",
+    "en":[
+        {
+            "catalogID":"960220a38b23a3003f66e1e520e5bf38d7b39e7d",
+            "entityID":"https://eduvpn.kenet.or.ke/php-saml-sp/metadata",
+            "resourceName":"KENET eduVPN",
+            "resourceProvider":{
+                "name":"Kenya Education Network Trust (KENET)",
+                "displayname":"KENET eduVPN",
+                "url":"https://www.kenet.or.ke/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"KENET eduVPN",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"KENET Help Desk",
+                    "email":"mailto:support@kenet.or.ke"
+                },
+                {
+                    "type":"security",
+                    "name":"KENET CERT",
+                    "email":"mailto:csirt@kenet.or.ke"
+                },
+                {
+                    "type":"technical",
+                    "name":"JohnSaruni",
+                    "email":"mailto:support@kenet.or.ke"
+                }
+            ],
+            "info":"https://rafiki.federation.ke",
+            "privacy":"https://rafiki.federation.ke/",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"960220a38b23a3003f66e1e520e5bf38d7b39e7d",
+            "entityID":"https://eduvpn.kenet.or.ke/php-saml-sp/metadata",
+            "resourceName":"https://eduvpn.kenet.or.ke/php-saml-sp/metadata",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kenet.or.ke/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"KENET Help Desk",
+                    "email":"mailto:support@kenet.or.ke"
+                },
+                {
+                    "type":"security",
+                    "name":"KENET CERT",
+                    "email":"mailto:csirt@kenet.or.ke"
+                },
+                {
+                    "type":"technical",
+                    "name":"JohnSaruni",
+                    "email":"mailto:support@kenet.or.ke"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"960220a38b23a3003f66e1e520e5bf38d7b39e7d",
+            "entityID":"https://eduvpn.kenet.or.ke/php-saml-sp/metadata",
+            "resourceName":"https://eduvpn.kenet.or.ke/php-saml-sp/metadata",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kenet.or.ke/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"KENET Help Desk",
+                    "email":"mailto:support@kenet.or.ke"
+                },
+                {
+                    "type":"security",
+                    "name":"KENET CERT",
+                    "email":"mailto:csirt@kenet.or.ke"
+                },
+                {
+                    "type":"technical",
+                    "name":"JohnSaruni",
+                    "email":"mailto:support@kenet.or.ke"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"960220a38b23a3003f66e1e520e5bf38d7b39e7d",
+            "entityID":"https://eduvpn.kenet.or.ke/php-saml-sp/metadata",
+            "resourceName":"https://eduvpn.kenet.or.ke/php-saml-sp/metadata",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.kenet.or.ke/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"KENET Help Desk",
+                    "email":"mailto:support@kenet.or.ke"
+                },
+                {
+                    "type":"security",
+                    "name":"KENET CERT",
+                    "email":"mailto:csirt@kenet.or.ke"
+                },
+                {
+                    "type":"technical",
+                    "name":"JohnSaruni",
+                    "email":"mailto:support@kenet.or.ke"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}

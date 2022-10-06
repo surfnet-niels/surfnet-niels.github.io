@@ -1,5 +1,25 @@
 [
     {
+        "catalogID":"6d4a8139ca0cb5b85cc20dc6a676635f8d450a27",
+        "resourceName":"KENET File Sender",
+        "resourceProvider":{
+            "name":"Kenya Education Network Trust (KENET)",
+            "displayname":"KENET File Sender",
+            "url":"https://www.kenet.or.ke/"
+        },
+        "description":"KENET File Sender"
+    },
+    {
+        "catalogID":"960220a38b23a3003f66e1e520e5bf38d7b39e7d",
+        "resourceName":"KENET eduVPN",
+        "resourceProvider":{
+            "name":"Kenya Education Network Trust (KENET)",
+            "displayname":"KENET eduVPN",
+            "url":"https://www.kenet.or.ke/"
+        },
+        "description":"KENET eduVPN"
+    },
+    {
         "catalogID":"427ccb354919cd588545e098353c2a3c37d12068",
         "resourceName":"https://usp.ubuntunet.net/simplesaml",
         "resourceProvider":{
