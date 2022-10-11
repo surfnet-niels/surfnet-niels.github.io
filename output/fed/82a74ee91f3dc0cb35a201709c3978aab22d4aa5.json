@@ -1,5 +1,5 @@
 {
-    "generated":"2022-10-11 05:34",
+    "generated":"2022-10-11 06:54",
     "en":[
         {
             "catalogID":"82a74ee91f3dc0cb35a201709c3978aab22d4aa5",
@@ -13,13 +13,13 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAffiliation",
-                    "email",
-                    "schacHomeOrganization",
-                    "schacHomeOrganizationType"
+                    "email"
                 ],
                 "requested":[
                     "givenName",
-                    "surname"
+                    "surname",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
                 ]
             },
             "description":"In order for you to have access to the desired NZZ products, we need your AAI access data.",
@@ -56,13 +56,13 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAffiliation",
-                    "email",
-                    "schacHomeOrganization",
-                    "schacHomeOrganizationType"
+                    "email"
                 ],
                 "requested":[
                     "givenName",
-                    "surname"
+                    "surname",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
                 ]
             },
             "description":"Afin de vous donner accès aux produits NZZ souhaités, nous avons besoin de vos données d'accès AAI.",
@@ -99,13 +99,13 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAffiliation",
-                    "email",
-                    "schacHomeOrganization",
-                    "schacHomeOrganizationType"
+                    "email"
                 ],
                 "requested":[
                     "givenName",
-                    "surname"
+                    "surname",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
                 ]
             },
             "description":"Per darti accesso ai prodotti NZZ desiderati, abbiamo bisogno dei tuoi dati di accesso AAI.",
@@ -142,13 +142,13 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAffiliation",
-                    "email",
-                    "schacHomeOrganization",
-                    "schacHomeOrganizationType"
+                    "email"
                 ],
                 "requested":[
                     "givenName",
-                    "surname"
+                    "surname",
+                    "schacHomeOrganization",
+                    "schacHomeOrganizationType"
                 ]
             },
             "description":"Damit Sie Zugriff auf die gewünschten NZZ-Produkte erhalten, benötigen wir Ihre AAI-Zugangsdaten.",
