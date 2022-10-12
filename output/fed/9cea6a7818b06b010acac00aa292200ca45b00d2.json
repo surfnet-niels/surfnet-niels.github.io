@@ -13080,16 +13080,6 @@
         "description":"Lafayette College  - Kaltura's MediaSpace Instane"
     },
     {
-        "catalogID":"7c2b97ea685b2b569707571e5ec93fe7b2a88c28",
-        "resourceName":"Northeastern ResMail Student Portal",
-        "resourceProvider":{
-            "name":"SCLogic",
-            "displayname":"SCLogic",
-            "url":"http://www.sclogic.com/"
-        },
-        "description":"Northeastern Resident Mail Services Student Portal"
-    },
-    {
         "catalogID":"e55b3099387e3a378fdc7defc20e03eac0700677",
         "resourceName":"CurricUNET META",
         "resourceProvider":{
@@ -18142,6 +18132,16 @@
     {
         "catalogID":"3e3a31547ce68c7bf2a5d1591c486fed45a4c18c",
         "resourceName":"Silverchair Development: AAI",
+        "resourceProvider":{
+            "name":"Silverchair Information Systems",
+            "displayname":"Silverchair Information Systems",
+            "url":"https://www.silverchair.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"816c29f61d627ce1455688bcedf6dc1c99658c83",
+        "resourceName":"Silverchair Production: AAI",
         "resourceProvider":{
             "name":"Silverchair Information Systems",
             "displayname":"Silverchair Information Systems",
