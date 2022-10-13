@@ -1,5 +1,5 @@
 {
-    "generated":"2022-10-13 08:38",
+    "generated":"2022-10-13 10:33",
     "en":[
         {
             "catalogID":"4a0d72340715f1aa16fea49d436654246407019b",
@@ -11,7 +11,14 @@
                 "url":"https://www.sunet.se"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "displayName",
+                    "eduPersonAssurance",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
                 "requested":[]
             },
             "description":"eduSign signing service",
@@ -25,14 +32,24 @@
                     "type":"technical",
                     "name":"SUNETNOC",
                     "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"SUNETNOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SUNET CERT",
+                    "email":"mailto:cert@cert.sunet.se"
                 }
             ],
             "info":"https://www.sunet.se/services/sakerhet/edusign/",
-            "privacy":"",
+            "privacy":"https://wiki.sunet.se/display/info/eduSign+Privacy+Policy?showLanguage=en_GB",
             "entityCategories":[
-                "http://www.swamid.se/category/nren-service",
-                "http://www.swamid.se/category/research-and-education",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/category/code-of-conduct/v2"
             ],
             "SirtfiSupport":[]
         }
@@ -41,14 +58,21 @@
         {
             "catalogID":"4a0d72340715f1aa16fea49d436654246407019b",
             "entityID":"https://signservice.edusign.sunet.se/sigservice",
-            "resourceName":"https://signservice.edusign.sunet.se/sigservice",
+            "resourceName":"SUNET eduSIGN Service",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.sunet.se"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "displayName",
+                    "eduPersonAssurance",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -62,14 +86,24 @@
                     "type":"technical",
                     "name":"SUNETNOC",
                     "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"SUNETNOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SUNET CERT",
+                    "email":"mailto:cert@cert.sunet.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/nren-service",
-                "http://www.swamid.se/category/research-and-education",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/category/code-of-conduct/v2"
             ],
             "SirtfiSupport":[]
         }
@@ -78,14 +112,21 @@
         {
             "catalogID":"4a0d72340715f1aa16fea49d436654246407019b",
             "entityID":"https://signservice.edusign.sunet.se/sigservice",
-            "resourceName":"https://signservice.edusign.sunet.se/sigservice",
+            "resourceName":"SUNET eduSIGN Service",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.sunet.se"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "displayName",
+                    "eduPersonAssurance",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -99,14 +140,24 @@
                     "type":"technical",
                     "name":"SUNETNOC",
                     "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"SUNETNOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SUNET CERT",
+                    "email":"mailto:cert@cert.sunet.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/nren-service",
-                "http://www.swamid.se/category/research-and-education",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/category/code-of-conduct/v2"
             ],
             "SirtfiSupport":[]
         }
@@ -115,14 +166,21 @@
         {
             "catalogID":"4a0d72340715f1aa16fea49d436654246407019b",
             "entityID":"https://signservice.edusign.sunet.se/sigservice",
-            "resourceName":"https://signservice.edusign.sunet.se/sigservice",
+            "resourceName":"SUNET eduSIGN Service",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.sunet.se"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "displayName",
+                    "eduPersonAssurance",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -136,14 +194,24 @@
                     "type":"technical",
                     "name":"SUNETNOC",
                     "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"SUNETNOC",
+                    "email":"mailto:noc@sunet.se"
+                },
+                {
+                    "type":"security",
+                    "name":"SUNET CERT",
+                    "email":"mailto:cert@cert.sunet.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/nren-service",
-                "http://www.swamid.se/category/research-and-education",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/category/code-of-conduct/v2"
             ],
             "SirtfiSupport":[]
         }
