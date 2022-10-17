@@ -1120,16 +1120,6 @@
         "description":""
     },
     {
-        "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
-        "resourceName":"KEEP",
-        "resourceProvider":{
-            "name":"cuhk.edu.hk",
-            "displayname":"The Chinese University of Hong Kong",
-            "url":"http://www.cuhk.edu.hk"
-        },
-        "description":"Knowledge & Education Exchange Platform (KEEP) is a personalized educational portal for users to easily search, subscribe and access content from the KEEP Cloud Ecosystem. KEEP supports the development of innovative teaching and learning with cutting-edge"
-    },
-    {
         "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
         "resourceName":"Active Classroom",
         "resourceProvider":{
@@ -1160,6 +1150,16 @@
         "description":"HKUST Stem vocabulary"
     },
     {
+        "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
+        "resourceName":"ACVP Admin PROD",
+        "resourceProvider":{
+            "name":"jucc.edu.hk",
+            "displayname":"Joint Universities Computer Centre Ltd",
+            "url":"https://www.jucc.edu.hk"
+        },
+        "description":"JUCC ACVP Admin Portal Production"
+    },
+    {
         "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
         "resourceName":"ACVP Student PROD",
         "resourceProvider":{
@@ -1170,14 +1170,24 @@
         "description":"ACVP Student Portal Production"
     },
     {
-        "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
-        "resourceName":"ACVP Admin PROD",
+        "catalogID":"471bf4608b72830960b82ef88282af373bf9b304",
+        "resourceName":"JUCC HPC-as-a-Service Web Portal",
         "resourceProvider":{
             "name":"jucc.edu.hk",
             "displayname":"Joint Universities Computer Centre Ltd",
             "url":"https://www.jucc.edu.hk"
         },
-        "description":"JUCC ACVP Admin Portal Production"
+        "description":"JUCC-wide HPC-as-a-Service Platform"
+    },
+    {
+        "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
+        "resourceName":"KEEP",
+        "resourceProvider":{
+            "name":"cuhk.edu.hk",
+            "displayname":"The Chinese University of Hong Kong",
+            "url":"http://www.cuhk.edu.hk"
+        },
+        "description":"Knowledge & Education Exchange Platform (KEEP) is a personalized educational portal for users to easily search, subscribe and access content from the KEEP Cloud Ecosystem. KEEP supports the development of innovative teaching and learning with cutting-edge"
     },
     {
         "catalogID":"b6d0463b7abb6133be665554714fda26bad2d197",
@@ -17398,6 +17408,16 @@
             "url":"https://www.photoshelter.com/"
         },
         "description":"PhotoShelter Brandeis University SSO Portal"
+    },
+    {
+        "catalogID":"1a376dd56cb37be18f0985940d9f51cbb49b3244",
+        "resourceName":"PhotoShelter - Colorado State Forest Service",
+        "resourceProvider":{
+            "name":"PhotoShelter, Inc.",
+            "displayname":"PhotoShelter, Inc.",
+            "url":"https://www.photoshelter.com/"
+        },
+        "description":"PhotoShelter Colorado State Forest Service SSO Portal"
     },
     {
         "catalogID":"eff66b4af81ad354af26fba6f9c1ae807faf6c66",
