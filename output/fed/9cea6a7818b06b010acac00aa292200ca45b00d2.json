@@ -30190,8 +30190,18 @@
         "description":"Service indico.in2p3.fr"
     },
     {
-        "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
+        "catalogID":"07d761a2f81e9d6645a46327927c6b7feeade6da",
         "resourceName":"GLICID - Accounts Manager",
+        "resourceProvider":{
+            "name":"Université de Nantes",
+            "displayname":"Université de Nantes",
+            "url":"http://www.univ-nantes.fr"
+        },
+        "description":"Request portal and access management to the GLiCID computing cluster. https://clam.glicid.fr/"
+    },
+    {
+        "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
+        "resourceName":"CCIPL - Accounts Manager",
         "resourceProvider":{
             "name":"Université de Nantes",
             "displayname":"Université de Nantes",
@@ -31450,6 +31460,16 @@
         "description":"Tampere Universities Moodle learning management system"
     },
     {
+        "catalogID":"b7dd9ac51a630460b8aa576e83dc7637a22ea671",
+        "resourceName":"CSC Customer Authentication",
+        "resourceProvider":{
+            "name":"CSC - IT Center for Science Ltd.",
+            "displayname":"CSC - IT Center for Science Ltd.",
+            "url":"http://www.csc.fi"
+        },
+        "description":"Joint user authentication service for CSC services"
+    },
+    {
         "catalogID":"a324dfd118cd2d1241accb884548db1eca8b6207",
         "resourceName":"Atlases - Pathology Images",
         "resourceProvider":{
@@ -32088,16 +32108,6 @@
             "url":"https://eciu.eu"
         },
         "description":"ECIU University"
-    },
-    {
-        "catalogID":"1766aac5b4351e3b8c9a9f5f42cbbc056f4d50b1",
-        "resourceName":" Scholarship",
-        "resourceProvider":{
-            "name":"Uppsala University",
-            "displayname":"Uppsala University",
-            "url":"  http://www.uu.se/"
-        },
-        "description":"Development Scholarship management system at Uppsala university"
     },
     {
         "catalogID":"c65171710903a01c945005deb31b69024fc6ab62",
