@@ -1,10 +1,10 @@
 {
-    "generated":"2022-10-18 07:03",
+    "generated":"2022-10-18 08:44",
     "en":[
         {
             "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
             "entityID":"https://keycloak.os-bird.univ-nantes.fr/samlbridge/module.php/saml/sp/metadata.php/renater-federation",
-            "resourceName":"University of Nantes - CCIPL - Accounts Manager",
+            "resourceName":"GLICID - Accounts Manager",
             "resourceProvider":{
                 "name":"Université de Nantes",
                 "displayname":"Université de Nantes",
@@ -31,17 +31,17 @@
                 ],
                 "requested":[]
             },
-            "description":"Request portal and access management to the CCIPL computing cluster. https://ccipl.univ-nantes.fr/",
+            "description":"Request portal and access management to the GLiCID computing cluster. https://clam.glicid.fr/",
             "resourceContacts":[
                 {
                     "type":"technical",
                     "name":[],
-                    "email":"mailto:ccipladmin@univ-nantes.fr"
+                    "email":"mailto:tech@glicid.fr"
                 },
                 {
                     "type":"security",
-                    "name":"Admins CCIPL",
-                    "email":"mailto:ccipladmin@univ-nantes.fr"
+                    "name":"Admins GLICID",
+                    "email":"mailto:tech@glicid.fr"
                 }
             ],
             "info":"",
@@ -62,7 +62,7 @@
         {
             "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
             "entityID":"https://keycloak.os-bird.univ-nantes.fr/samlbridge/module.php/saml/sp/metadata.php/renater-federation",
-            "resourceName":"Université de Nantes - CCIPL - Portail de gestion des comptes",
+            "resourceName":"GLICID - Portail de gestion des comptes",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -89,20 +89,20 @@
                 ],
                 "requested":[]
             },
-            "description":"Portail de demande et gestion d'accès au cluster de calcul du CCIPL. https://ccipl.univ-nantes.fr/",
+            "description":"Portail de demande et gestion d'accès au cluster de calcul de GLiCID. https://clam.glicid.fr/",
             "resourceContacts":[
                 {
                     "type":"technical",
                     "name":[],
-                    "email":"mailto:ccipladmin@univ-nantes.fr"
+                    "email":"mailto:tech@glicid.fr"
                 },
                 {
                     "type":"security",
-                    "name":"Admins CCIPL",
-                    "email":"mailto:ccipladmin@univ-nantes.fr"
+                    "name":"Admins GLICID",
+                    "email":"mailto:tech@glicid.fr"
                 }
             ],
-            "info":"https://clam.os-bird.univ-nantes.fr/",
+            "info":"https://clam.glicid.fr/",
             "privacy":"",
             "entityCategories":[
                 "https://federation.renater.fr/category/metier",
@@ -120,7 +120,7 @@
         {
             "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
             "entityID":"https://keycloak.os-bird.univ-nantes.fr/samlbridge/module.php/saml/sp/metadata.php/renater-federation",
-            "resourceName":"University of Nantes - CCIPL - Accounts Manager",
+            "resourceName":"GLICID - Accounts Manager",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -152,12 +152,12 @@
                 {
                     "type":"technical",
                     "name":[],
-                    "email":"mailto:ccipladmin@univ-nantes.fr"
+                    "email":"mailto:tech@glicid.fr"
                 },
                 {
                     "type":"security",
-                    "name":"Admins CCIPL",
-                    "email":"mailto:ccipladmin@univ-nantes.fr"
+                    "name":"Admins GLICID",
+                    "email":"mailto:tech@glicid.fr"
                 }
             ],
             "info":"",
@@ -178,7 +178,7 @@
         {
             "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
             "entityID":"https://keycloak.os-bird.univ-nantes.fr/samlbridge/module.php/saml/sp/metadata.php/renater-federation",
-            "resourceName":"University of Nantes - CCIPL - Accounts Manager",
+            "resourceName":"GLICID - Accounts Manager",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -210,12 +210,12 @@
                 {
                     "type":"technical",
                     "name":[],
-                    "email":"mailto:ccipladmin@univ-nantes.fr"
+                    "email":"mailto:tech@glicid.fr"
                 },
                 {
                     "type":"security",
-                    "name":"Admins CCIPL",
-                    "email":"mailto:ccipladmin@univ-nantes.fr"
+                    "name":"Admins GLICID",
+                    "email":"mailto:tech@glicid.fr"
                 }
             ],
             "info":"",

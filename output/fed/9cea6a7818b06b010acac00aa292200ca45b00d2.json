@@ -30191,13 +30191,13 @@
     },
     {
         "catalogID":"a9c51ce768a7d665ee0b7030bdaccfc5904886f0",
-        "resourceName":"University of Nantes - CCIPL - Accounts Manager",
+        "resourceName":"GLICID - Accounts Manager",
         "resourceProvider":{
             "name":"Université de Nantes",
             "displayname":"Université de Nantes",
             "url":"http://www.univ-nantes.fr"
         },
-        "description":"Request portal and access management to the CCIPL computing cluster. https://ccipl.univ-nantes.fr/"
+        "description":"Request portal and access management to the GLiCID computing cluster. https://clam.glicid.fr/"
     },
     {
         "catalogID":"8dcb656333dd56e05706cee13e575934460dd92a",
@@ -32088,6 +32088,16 @@
             "url":"https://eciu.eu"
         },
         "description":"ECIU University"
+    },
+    {
+        "catalogID":"1766aac5b4351e3b8c9a9f5f42cbbc056f4d50b1",
+        "resourceName":" Scholarship",
+        "resourceProvider":{
+            "name":"Uppsala University",
+            "displayname":"Uppsala University",
+            "url":"  http://www.uu.se/"
+        },
+        "description":"Development Scholarship management system at Uppsala university"
     },
     {
         "catalogID":"c65171710903a01c945005deb31b69024fc6ab62",

@@ -1,0 +1,207 @@
+{
+    "generated":"2022-10-18 08:44",
+    "en":[
+        {
+            "catalogID":"1766aac5b4351e3b8c9a9f5f42cbbc056f4d50b1",
+            "entityID":"https://stipendier-utv.test.uu.se/Shibboleth.sso/Metadata",
+            "resourceName":" Scholarship",
+            "resourceProvider":{
+                "name":"Uppsala University",
+                "displayname":"Uppsala University",
+                "url":"  http://www.uu.se/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "norEduPersonNIN",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"Development Scholarship management system at Uppsala university",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":" Stipendiekansliet",
+                    "email":"mailto:stipendiekansliet@uadm.uu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:drift@uadm.uu.se"
+                },
+                {
+                    "type":"support",
+                    "name":" Stipendiekansliet",
+                    "email":"mailto:stipendiekansliet@uadm.uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
+                }
+            ],
+            "info":"https://stipendier-utv.test.uu.se/stipendium/stipac/login?lang=en",
+            "privacy":" https://uu.se/en/findscholarships/processing-of-personal-data",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"1766aac5b4351e3b8c9a9f5f42cbbc056f4d50b1",
+            "entityID":"https://stipendier-utv.test.uu.se/Shibboleth.sso/Metadata",
+            "resourceName":"Scholarship",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"  http://www.uu.se/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "norEduPersonNIN",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":" Stipendiekansliet",
+                    "email":"mailto:stipendiekansliet@uadm.uu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:drift@uadm.uu.se"
+                },
+                {
+                    "type":"support",
+                    "name":" Stipendiekansliet",
+                    "email":"mailto:stipendiekansliet@uadm.uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"1766aac5b4351e3b8c9a9f5f42cbbc056f4d50b1",
+            "entityID":"https://stipendier-utv.test.uu.se/Shibboleth.sso/Metadata",
+            "resourceName":"Scholarship",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"  http://www.uu.se/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "norEduPersonNIN",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":" Stipendiekansliet",
+                    "email":"mailto:stipendiekansliet@uadm.uu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:drift@uadm.uu.se"
+                },
+                {
+                    "type":"support",
+                    "name":" Stipendiekansliet",
+                    "email":"mailto:stipendiekansliet@uadm.uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"1766aac5b4351e3b8c9a9f5f42cbbc056f4d50b1",
+            "entityID":"https://stipendier-utv.test.uu.se/Shibboleth.sso/Metadata",
+            "resourceName":"Scholarship",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"  http://www.uu.se/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "norEduPersonNIN",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":" Stipendiekansliet",
+                    "email":"mailto:stipendiekansliet@uadm.uu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:drift@uadm.uu.se"
+                },
+                {
+                    "type":"support",
+                    "name":" Stipendiekansliet",
+                    "email":"mailto:stipendiekansliet@uadm.uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
