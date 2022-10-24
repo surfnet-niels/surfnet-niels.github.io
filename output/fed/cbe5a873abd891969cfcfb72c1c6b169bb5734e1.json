@@ -1,0 +1,203 @@
+{
+    "generated":"2022-10-24 22:31",
+    "en":[
+        {
+            "catalogID":"cbe5a873abd891969cfcfb72c1c6b169bb5734e1",
+            "entityID":"https://iaas5prod-bay.fischeridentity.com/sp",
+            "resourceName":"Baylor University IaM Fischer",
+            "resourceProvider":{
+                "name":"Fischer International Identity",
+                "displayname":"Fischer International Identity",
+                "url":"http://fischerinternational.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Dan Dagnall",
+                    "email":"mailto:Dan.D@fischeridentity.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ajith Dominic",
+                    "email":"mailto:Ajith.D@fischeridentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Richard Henninger",
+                    "email":"mailto:richard.h@fischeridentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Richard Henninger",
+                    "email":"mailto:richard.h@fischeridentity.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://www.fischerinternational.com/assets/pdf/Fischer_Privacy_Statement.pdf",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"cbe5a873abd891969cfcfb72c1c6b169bb5734e1",
+            "entityID":"https://iaas5prod-bay.fischeridentity.com/sp",
+            "resourceName":"Baylor University IaM Fischer",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://fischerinternational.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Dan Dagnall",
+                    "email":"mailto:Dan.D@fischeridentity.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ajith Dominic",
+                    "email":"mailto:Ajith.D@fischeridentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Richard Henninger",
+                    "email":"mailto:richard.h@fischeridentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Richard Henninger",
+                    "email":"mailto:richard.h@fischeridentity.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"cbe5a873abd891969cfcfb72c1c6b169bb5734e1",
+            "entityID":"https://iaas5prod-bay.fischeridentity.com/sp",
+            "resourceName":"Baylor University IaM Fischer",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://fischerinternational.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Dan Dagnall",
+                    "email":"mailto:Dan.D@fischeridentity.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ajith Dominic",
+                    "email":"mailto:Ajith.D@fischeridentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Richard Henninger",
+                    "email":"mailto:richard.h@fischeridentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Richard Henninger",
+                    "email":"mailto:richard.h@fischeridentity.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"cbe5a873abd891969cfcfb72c1c6b169bb5734e1",
+            "entityID":"https://iaas5prod-bay.fischeridentity.com/sp",
+            "resourceName":"Baylor University IaM Fischer",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://fischerinternational.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "cn",
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Dan Dagnall",
+                    "email":"mailto:Dan.D@fischeridentity.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Ajith Dominic",
+                    "email":"mailto:Ajith.D@fischeridentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Richard Henninger",
+                    "email":"mailto:richard.h@fischeridentity.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Richard Henninger",
+                    "email":"mailto:richard.h@fischeridentity.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
