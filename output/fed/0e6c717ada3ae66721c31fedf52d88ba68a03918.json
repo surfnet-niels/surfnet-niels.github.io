@@ -1,5 +1,5 @@
 {
-    "generated":"2022-10-24 10:38",
+    "generated":"2022-10-24 13:03",
     "en":[
         {
             "catalogID":"0e6c717ada3ae66721c31fedf52d88ba68a03918",
@@ -26,7 +26,7 @@
                 {
                     "type":"administrative",
                     "name":"Servicedesk",
-                    "email":"mailto:servicedesk@uu.se"
+                    "email":"mailto:itsupport@uu.se"
                 },
                 {
                     "type":"technical",
@@ -36,14 +36,17 @@
                 {
                     "type":"support",
                     "name":"Servicedesk",
-                    "email":"mailto:servicedesk@uu.se"
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
                 }
             ],
             "info":"https://mp.uu.se/en/web/support/om-mp",
-            "privacy":"",
+            "privacy":"https://mp.uu.se/en/web/support/behandlingpersonuppgifter",
             "entityCategories":[
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/hei-service",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
@@ -75,7 +78,7 @@
                 {
                     "type":"administrative",
                     "name":"Servicedesk",
-                    "email":"mailto:servicedesk@uu.se"
+                    "email":"mailto:itsupport@uu.se"
                 },
                 {
                     "type":"technical",
@@ -85,14 +88,17 @@
                 {
                     "type":"support",
                     "name":"Servicedesk",
-                    "email":"mailto:servicedesk@uu.se"
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/hei-service",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
@@ -124,7 +130,7 @@
                 {
                     "type":"administrative",
                     "name":"Servicedesk",
-                    "email":"mailto:servicedesk@uu.se"
+                    "email":"mailto:itsupport@uu.se"
                 },
                 {
                     "type":"technical",
@@ -134,14 +140,17 @@
                 {
                     "type":"support",
                     "name":"Servicedesk",
-                    "email":"mailto:servicedesk@uu.se"
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/hei-service",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
@@ -173,7 +182,7 @@
                 {
                     "type":"administrative",
                     "name":"Servicedesk",
-                    "email":"mailto:servicedesk@uu.se"
+                    "email":"mailto:itsupport@uu.se"
                 },
                 {
                     "type":"technical",
@@ -183,14 +192,17 @@
                 {
                     "type":"support",
                     "name":"Servicedesk",
-                    "email":"mailto:servicedesk@uu.se"
+                    "email":"mailto:itsupport@uu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Uppsala University Computer Security Incident Response Team",
+                    "email":"mailto:security@uu.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/hei-service",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
