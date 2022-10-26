@@ -31090,14 +31090,14 @@
         "description":"Riipen brings industry and academia together, with real company projects. Projects are embedded directly into curriculum, or completed as remote internships."
     },
     {
-        "catalogID":"0d5e7b34fbe67d379a5b505aac9690b801494be7",
-        "resourceName":"https://idp.helha.be/idp/shibboleth",
+        "catalogID":"e6d08d85ee97595c5da179ac0cffcffc7ff708c4",
+        "resourceName":"TerraScope SP",
         "resourceProvider":{
-            "name":"HELHa",
-            "displayname":"Haute Ecole Louvain en Hainaut (HELHa)",
-            "url":"https://www.helha.be/"
+            "name":"VITO NV",
+            "displayname":"VITO NV",
+            "url":"https://www.vito.be"
         },
-        "description":""
+        "description":"TerraScope Service Provider Dev"
     },
     {
         "catalogID":"5b9d319ba7f9ef07453f9ed8e3f9ac5df84b5947",
@@ -31110,14 +31110,14 @@
         "description":"The International Corpus of Learner English is a corpus of writing by higher intermediate to advanced learners of English as a foreign language. The corpus collection was initiated by the Centre for English Corpus Linguistics at t\nhe University of Louvain and is the result of close collaboration with a large number of partner universities around the world."
     },
     {
-        "catalogID":"e6d08d85ee97595c5da179ac0cffcffc7ff708c4",
-        "resourceName":"TerraScope SP",
+        "catalogID":"c5036b6385115a9550b2ee38befd476a7dcca5ef",
+        "resourceName":"imec iLab.t",
         "resourceProvider":{
-            "name":"VITO NV",
-            "displayname":"VITO NV",
-            "url":"https://www.vito.be"
+            "name":"imec iLab.t",
+            "displayname":"imec iLab.t",
+            "url":"https://ilabt.imec.be"
         },
-        "description":"TerraScope Service Provider Dev"
+        "description":"imec iLab.t provides the infrastructure for the imec IDLab research group."
     },
     {
         "catalogID":"0a852ad885e2c9aa5cc6202d56ffbbcc6e54c2a3",
@@ -31130,32 +31130,12 @@
         "description":"TerraScope Service Provider"
     },
     {
-        "catalogID":"c5036b6385115a9550b2ee38befd476a7dcca5ef",
-        "resourceName":"imec iLab.t",
+        "catalogID":"fdb14e60cd120f40bb0d651c2fb9e70122c840cb",
+        "resourceName":"https://idp.condorcet.be/idp/shibboleth",
         "resourceProvider":{
-            "name":"imec iLab.t",
-            "displayname":"imec iLab.t",
-            "url":"https://ilabt.imec.be"
-        },
-        "description":"imec iLab.t provides the infrastructure for the imec IDLab research group."
-    },
-    {
-        "catalogID":"edae66ce0448b3419c993781fbbcb2f844759850",
-        "resourceName":"https://idp.he2b.be/idp/shibboleth",
-        "resourceProvider":{
-            "name":"HE2B",
-            "displayname":"Haute École Bruxelles-Brabant (HE2B)",
-            "url":"http://he2b.be"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"84272ba59e2abc14cde92e224eace91113d14dfd",
-        "resourceName":"https://idp.hainaut-promsoc.be/idp/shibboleth",
-        "resourceProvider":{
-            "name":"Enseignement de Promotion Sociale de la Province de Hainaut",
-            "displayname":"Hainaut-PromSoc",
-            "url":"http://www.hainaut-promsoc.be"
+            "name":"Haute Ecole Condorcet - Higher Education of Province de Hainaut",
+            "displayname":"Haute Ecole Condorcet (HEPH-Condorcet)",
+            "url":"https://www.condorcet.be"
         },
         "description":""
     },
@@ -31170,24 +31150,34 @@
         "description":""
     },
     {
-        "catalogID":"fdb14e60cd120f40bb0d651c2fb9e70122c840cb",
-        "resourceName":"https://idp.condorcet.be/idp/shibboleth",
+        "catalogID":"84272ba59e2abc14cde92e224eace91113d14dfd",
+        "resourceName":"https://idp.hainaut-promsoc.be/idp/shibboleth",
         "resourceProvider":{
-            "name":"Haute Ecole Condorcet - Higher Education of Province de Hainaut",
-            "displayname":"Haute Ecole Condorcet (HEPH-Condorcet)",
-            "url":"https://www.condorcet.be"
+            "name":"Enseignement de Promotion Sociale de la Province de Hainaut",
+            "displayname":"Hainaut-PromSoc",
+            "url":"http://www.hainaut-promsoc.be"
         },
         "description":""
     },
     {
-        "catalogID":"790ea2788e913f1c3a35510820c82fd0d9b3fdff",
-        "resourceName":"imec iLab.t",
+        "catalogID":"0d5e7b34fbe67d379a5b505aac9690b801494be7",
+        "resourceName":"https://idp.helha.be/idp/shibboleth",
         "resourceProvider":{
-            "name":"imec iLab.t",
-            "displayname":"imec iLab.t",
-            "url":"https://ilabt.imec.be"
+            "name":"HELHa",
+            "displayname":"Haute Ecole Louvain en Hainaut (HELHa)",
+            "url":"https://www.helha.be/"
         },
-        "description":"imec iLab.t provides the infrastructure for the imec IDLab research group."
+        "description":""
+    },
+    {
+        "catalogID":"edae66ce0448b3419c993781fbbcb2f844759850",
+        "resourceName":"https://idp.he2b.be/idp/shibboleth",
+        "resourceProvider":{
+            "name":"HE2B",
+            "displayname":"Haute École Bruxelles-Brabant (HE2B)",
+            "url":"http://he2b.be"
+        },
+        "description":""
     },
     {
         "catalogID":"d269810ffaa97069a19b6842b2fb717c6537f2d3",
@@ -31200,14 +31190,14 @@
         "description":""
     },
     {
-        "catalogID":"7a9a01da3598bb89c4ef185a485ae7e44558e0ff",
-        "resourceName":"https://edugain.vinci.be/adfs/services/trust",
+        "catalogID":"790ea2788e913f1c3a35510820c82fd0d9b3fdff",
+        "resourceName":"imec iLab.t",
         "resourceProvider":{
-            "name":"Haute Ecole Leonard de Vinci",
-            "displayname":"Haute Ecole Leonard de Vinci",
-            "url":"https://www.vinci.be/"
+            "name":"imec iLab.t",
+            "displayname":"imec iLab.t",
+            "url":"https://ilabt.imec.be"
         },
-        "description":""
+        "description":"imec iLab.t provides the infrastructure for the imec IDLab research group."
     },
     {
         "catalogID":"903d7a2b38dce507e54c91ac09f43aade0018b53",
@@ -31236,6 +31226,16 @@
             "name":"ETNIC",
             "displayname":"Etnic-Acceptance",
             "url":"https://www.etnic.be"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"7a9a01da3598bb89c4ef185a485ae7e44558e0ff",
+        "resourceName":"https://edugain.vinci.be/adfs/services/trust",
+        "resourceProvider":{
+            "name":"Haute Ecole Leonard de Vinci",
+            "displayname":"Haute Ecole Leonard de Vinci",
+            "url":"https://www.vinci.be/"
         },
         "description":""
     },
