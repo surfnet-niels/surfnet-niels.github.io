@@ -1,5 +1,5 @@
 {
-    "generated":"2022-10-28 10:30",
+    "generated":"2022-10-28 12:58",
     "en":[
         {
             "catalogID":"1d89e65d6318141a837bfa81ec4f7b4a2ee2af82",
@@ -12,13 +12,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
-                    "sn"
-                ],
-                "requested":[
                     "mail",
+                    "eduPersonTargetedID",
+                    "sn",
                     "givenName"
-                ]
+                ],
+                "requested":[]
             },
             "description":"Free and open service to help researchers deposit their articles in open repositories with respect to self-archiving policies of the publisher and in align with guidelines of employers or funders.\n\nThe service is supported by CCSD (HAL), CERN (Zenodo) and the universities of Braunschweig, Darmstadt and Stuttgart.",
             "resourceContacts":[
@@ -50,13 +49,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
-                    "sn"
-                ],
-                "requested":[
                     "mail",
+                    "eduPersonTargetedID",
+                    "sn",
                     "givenName"
-                ]
+                ],
+                "requested":[]
             },
             "description":"Service gratuit (et plateforme libre) aidant les chercheurs à déposer leurs article dans des archives ouvertes dans le respect de la politique d'auto-archivage de la maison d'édition concernée et en application des directives des employeurs ou financeurs.\n\nLe service s'appuie sur des partenaires avec les CCSD (HAL), CERN (Zenodo) et les universités des Braunschweig, Darmstadt et Stuttgart.",
             "resourceContacts":[
@@ -88,13 +86,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
-                    "sn"
-                ],
-                "requested":[
                     "mail",
+                    "eduPersonTargetedID",
+                    "sn",
                     "givenName"
-                ]
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -126,13 +123,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
-                    "sn"
-                ],
-                "requested":[
                     "mail",
+                    "eduPersonTargetedID",
+                    "sn",
                     "givenName"
-                ]
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
