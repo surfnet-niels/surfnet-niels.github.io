@@ -1,5 +1,5 @@
 {
-    "generated":"2022-10-30 18:33",
+    "generated":"2022-10-30 20:27",
     "en":[
         {
             "catalogID":"dc77295bf2c5d14c7253c55a7f4d2f9bb181744d",
@@ -8,14 +8,12 @@
             "resourceProvider":{
                 "name":"URAN Association",
                 "displayname":"URAN Association",
-                "url":"http://www.uran.ua"
+                "url":"https://panorama.uran.ua/en/about-us/uran-association/"
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
-                    "email",
-                    "eduPersonPrincipalName",
-                    "persistentId"
+                    "transientId",
+                    "email"
                 ],
                 "requested":[]
             },
@@ -27,7 +25,7 @@
                     "email":"mailto:dopomoga@uran.ua"
                 }
             ],
-            "info":"https://filesender.uran.ua/filesender/?s=about",
+            "info":"",
             "privacy":"",
             "entityCategories":[],
             "SirtfiSupport":[]
@@ -41,14 +39,12 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.uran.ua"
+                "url":"https://panorama.uran.ua/en/about-us/uran-association/"
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
-                    "email",
-                    "eduPersonPrincipalName",
-                    "persistentId"
+                    "transientId",
+                    "email"
                 ],
                 "requested":[]
             },
@@ -74,14 +70,12 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.uran.ua"
+                "url":"https://panorama.uran.ua/en/about-us/uran-association/"
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
-                    "email",
-                    "eduPersonPrincipalName",
-                    "persistentId"
+                    "transientId",
+                    "email"
                 ],
                 "requested":[]
             },
@@ -107,14 +101,12 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.uran.ua"
+                "url":"https://panorama.uran.ua/en/about-us/uran-association/"
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
-                    "email",
-                    "eduPersonPrincipalName",
-                    "persistentId"
+                    "transientId",
+                    "email"
                 ],
                 "requested":[]
             },
