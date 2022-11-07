@@ -1,18 +1,20 @@
 {
-    "generated":"2022-11-07 16:36",
+    "generated":"2022-11-07 18:30",
     "en":[
         {
             "catalogID":"64232f1210db1a11e6cc8cb5fb62123277a643e2",
             "entityID":"https://memso.tannerritchie.com/shibboleth-sp",
-            "resourceName":"TannerRitchie Publishing",
+            "resourceName":"TannerRitchie Publishing: Medieval and Early Modern Sources Online",
             "resourceProvider":{
-                "name":"TannerRitchie Publishing",
-                "displayname":"TannerRitchie Publishing: Medieval and Early Modern Sources Online",
-                "url":"http://www.tannerritchie.com/"
+                "name":"TannerRitchie Publishing: Medieval and Early Modern Sources Online",
+                "displayname":"TannerRitchie Publishing",
+                "url":"https://tannerritchie.com"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"Medieval and Early Modern Sources Online (MEMSO) is an essential resource for the study of Britain and its place in the world during the medieval and early modern period (c. 1100-1800)",
             "resourceContacts":[
@@ -27,7 +29,7 @@
                     "email":"mailto:roland@tannerritchie.com"
                 }
             ],
-            "info":"",
+            "info":"https://tannerritchie.com",
             "privacy":"",
             "entityCategories":[],
             "SirtfiSupport":[]
@@ -37,15 +39,17 @@
         {
             "catalogID":"64232f1210db1a11e6cc8cb5fb62123277a643e2",
             "entityID":"https://memso.tannerritchie.com/shibboleth-sp",
-            "resourceName":"https://memso.tannerritchie.com/shibboleth-sp",
+            "resourceName":"TannerRitchie Publishing: Medieval and Early Modern Sources Online",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.tannerritchie.com/"
+                "url":"https://tannerritchie.com"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -70,15 +74,17 @@
         {
             "catalogID":"64232f1210db1a11e6cc8cb5fb62123277a643e2",
             "entityID":"https://memso.tannerritchie.com/shibboleth-sp",
-            "resourceName":"https://memso.tannerritchie.com/shibboleth-sp",
+            "resourceName":"TannerRitchie Publishing: Medieval and Early Modern Sources Online",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.tannerritchie.com/"
+                "url":"https://tannerritchie.com"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -103,15 +109,17 @@
         {
             "catalogID":"64232f1210db1a11e6cc8cb5fb62123277a643e2",
             "entityID":"https://memso.tannerritchie.com/shibboleth-sp",
-            "resourceName":"https://memso.tannerritchie.com/shibboleth-sp",
+            "resourceName":"TannerRitchie Publishing: Medieval and Early Modern Sources Online",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.tannerritchie.com/"
+                "url":"https://tannerritchie.com"
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    "eduPersonPrincipalName"
+                ]
             },
             "description":"",
             "resourceContacts":[
