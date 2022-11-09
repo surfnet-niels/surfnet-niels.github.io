@@ -4040,6 +4040,16 @@
         "description":"NU Slate"
     },
     {
+        "catalogID":"9b19e07348fdf84864c896e92896f8e1a7658247",
+        "resourceName":"University of Wisconsin-Madison",
+        "resourceProvider":{
+            "name":"University of Wisconsin-Madison",
+            "displayname":"University of Wisconsin-Madison",
+            "url":"http://www.wisc.edu/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"70726ffea93c4ec436c1872cc5eed3550fc3a271",
         "resourceName":"NIH Dev SP",
         "resourceProvider":{
@@ -17050,16 +17060,6 @@
         "description":""
     },
     {
-        "catalogID":"c8fd21c617f759ccddc45938ab1cb9637478b41c",
-        "resourceName":"Collaboratory",
-        "resourceProvider":{
-            "name":"HandsOn Connect Cloud Solutions",
-            "displayname":"HandsOn Connect Cloud Solutions",
-            "url":"https://www.handsonconnect.org/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"c646d2c20efe458b43e5f0f3cd2b78980168eec8",
         "resourceName":"The HistoryMakers",
         "resourceProvider":{
@@ -18542,6 +18542,26 @@
     {
         "catalogID":"661a3c8d4cb2dbc4304fcf21cb7e57fdc4010b34",
         "resourceName":"Silverchair Staging: MIT Press",
+        "resourceProvider":{
+            "name":"Silverchair Information Systems",
+            "displayname":"Silverchair Information Systems",
+            "url":"https://www.silverchair.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"abf1974c6fffb829a02f6077408fb6ea464e9237",
+        "resourceName":"Silverchair Development: Modern Language Association",
+        "resourceProvider":{
+            "name":"Silverchair Information Systems",
+            "displayname":"Silverchair Information Systems",
+            "url":"https://www.silverchair.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"5cc8bb8c4617ec9191f0e6014564155c2042240e",
+        "resourceName":"Silverchair Staging: Modern Language Association",
         "resourceProvider":{
             "name":"Silverchair Information Systems",
             "displayname":"Silverchair Information Systems",
