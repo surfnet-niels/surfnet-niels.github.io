@@ -1,5 +1,5 @@
 {
-    "generated":"2022-11-09 10:28",
+    "generated":"2022-11-09 12:56",
     "en":[
         {
             "catalogID":"12e4fa9ad378e632657f8a2f773c39354340bcff",
@@ -22,6 +22,11 @@
             "description":"CLARIN:EL is the National Infrastructure for Language Resources and Technologies in Greece",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"MariaGavriilidou",
+                    "email":"mailto:maria@athenarc.gr"
+                },
+                {
                     "type":"support",
                     "name":"DimitrisGalanis",
                     "email":"mailto:galanisd@athenarc.gr"
@@ -30,19 +35,14 @@
                     "type":"technical",
                     "name":"DimitrisGalanis",
                     "email":"mailto:galanisd@athenarc.gr"
-                },
-                {
-                    "type":"administrative",
-                    "name":"MariaGavriilidou",
-                    "email":"mailto:maria@athenarc.gr"
                 }
             ],
             "info":"https://www.clarin.gr/en",
             "privacy":"https://www.clarin.gr/el/content/privacy-policy",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -69,6 +69,11 @@
             "description":"",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"MariaGavriilidou",
+                    "email":"mailto:maria@athenarc.gr"
+                },
+                {
                     "type":"support",
                     "name":"DimitrisGalanis",
                     "email":"mailto:galanisd@athenarc.gr"
@@ -77,19 +82,14 @@
                     "type":"technical",
                     "name":"DimitrisGalanis",
                     "email":"mailto:galanisd@athenarc.gr"
-                },
-                {
-                    "type":"administrative",
-                    "name":"MariaGavriilidou",
-                    "email":"mailto:maria@athenarc.gr"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -116,6 +116,11 @@
             "description":"",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"MariaGavriilidou",
+                    "email":"mailto:maria@athenarc.gr"
+                },
+                {
                     "type":"support",
                     "name":"DimitrisGalanis",
                     "email":"mailto:galanisd@athenarc.gr"
@@ -124,19 +129,14 @@
                     "type":"technical",
                     "name":"DimitrisGalanis",
                     "email":"mailto:galanisd@athenarc.gr"
-                },
-                {
-                    "type":"administrative",
-                    "name":"MariaGavriilidou",
-                    "email":"mailto:maria@athenarc.gr"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -163,6 +163,11 @@
             "description":"CLARIN:EL is the National Infrastructure for Language Resources and Technologies in Greece",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"MariaGavriilidou",
+                    "email":"mailto:maria@athenarc.gr"
+                },
+                {
                     "type":"support",
                     "name":"DimitrisGalanis",
                     "email":"mailto:galanisd@athenarc.gr"
@@ -171,19 +176,14 @@
                     "type":"technical",
                     "name":"DimitrisGalanis",
                     "email":"mailto:galanisd@athenarc.gr"
-                },
-                {
-                    "type":"administrative",
-                    "name":"MariaGavriilidou",
-                    "email":"mailto:maria@athenarc.gr"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }

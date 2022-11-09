@@ -1,5 +1,5 @@
 {
-    "generated":"2022-11-09 10:28",
+    "generated":"2022-11-09 12:56",
     "en":[
         {
             "catalogID":"e23d378b5ab81d14fde52d07facd81aa5f7e4e2d",
@@ -24,11 +24,6 @@
             "description":"The Hamburg Centre for Language Corpora (HZSK) provides access to the HZSK Repository",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"JulianeSchopf",
-                    "email":"mailto:juliane.schopf@uni-hamburg.de"
-                },
-                {
                     "type":"administrative",
                     "name":"JulianeSchopf",
                     "email":"mailto:juliane.schopf@uni-hamburg.de"
@@ -37,14 +32,19 @@
                     "type":"support",
                     "name":"HZSKSupport",
                     "email":"mailto:corpora@uni-hamburg.de"
+                },
+                {
+                    "type":"technical",
+                    "name":"JulianeSchopf",
+                    "email":"mailto:juliane.schopf@uni-hamburg.de"
                 }
             ],
             "info":"https://corpora.uni-hamburg.de",
             "privacy":"https://corpora.uni-hamburg.de/hzsk/en/privacy-policy",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -73,11 +73,6 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"JulianeSchopf",
-                    "email":"mailto:juliane.schopf@uni-hamburg.de"
-                },
-                {
                     "type":"administrative",
                     "name":"JulianeSchopf",
                     "email":"mailto:juliane.schopf@uni-hamburg.de"
@@ -86,14 +81,19 @@
                     "type":"support",
                     "name":"HZSKSupport",
                     "email":"mailto:corpora@uni-hamburg.de"
+                },
+                {
+                    "type":"technical",
+                    "name":"JulianeSchopf",
+                    "email":"mailto:juliane.schopf@uni-hamburg.de"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -122,11 +122,6 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"JulianeSchopf",
-                    "email":"mailto:juliane.schopf@uni-hamburg.de"
-                },
-                {
                     "type":"administrative",
                     "name":"JulianeSchopf",
                     "email":"mailto:juliane.schopf@uni-hamburg.de"
@@ -135,14 +130,19 @@
                     "type":"support",
                     "name":"HZSKSupport",
                     "email":"mailto:corpora@uni-hamburg.de"
+                },
+                {
+                    "type":"technical",
+                    "name":"JulianeSchopf",
+                    "email":"mailto:juliane.schopf@uni-hamburg.de"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -171,11 +171,6 @@
             "description":"Das Hamburger Zentrum für Sprachkorpora bietet einen Zugang zum HZSK Repository",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"JulianeSchopf",
-                    "email":"mailto:juliane.schopf@uni-hamburg.de"
-                },
-                {
                     "type":"administrative",
                     "name":"JulianeSchopf",
                     "email":"mailto:juliane.schopf@uni-hamburg.de"
@@ -184,14 +179,19 @@
                     "type":"support",
                     "name":"HZSKSupport",
                     "email":"mailto:corpora@uni-hamburg.de"
+                },
+                {
+                    "type":"technical",
+                    "name":"JulianeSchopf",
+                    "email":"mailto:juliane.schopf@uni-hamburg.de"
                 }
             ],
             "info":"https://corpora.uni-hamburg.de",
             "privacy":"https://corpora.uni-hamburg.de/hzsk/de/datenschutz",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }

@@ -30030,14 +30030,14 @@
         "description":"Moodle of University of Grenoble Alpes"
     },
     {
-        "catalogID":"63ada97a7b0e140ef0507796519b6c56ac117131",
+        "catalogID":"49c0588f8c8d2c00b17e6d00d35dc894de825aa4",
         "resourceName":"The 4EU+ Virtual Campus e-Learning Platform (VCeLP)",
         "resourceProvider":{
             "name":"Sorbonne Université",
             "displayname":"Sorbonne Université",
             "url":"http://www.sorbonne-universite.fr/"
         },
-        "description":"The 4EU+ VCeLP is an LMS with the principal goal of centralizing the pedagogical material offering of the Alliance via a homogenized user experience."
+        "description":"The 4EU+ VCeLP is an LMS with the principal goal of centralizing the pedagogical material offering of the Alliance via a homogenized user experience.\n"
     },
     {
         "catalogID":"b3b7816da589a30d26a36aa18d0f07fbff6995fd",
@@ -33340,84 +33340,174 @@
         "description":"Moodle is an e-learning system for the learning activities offered by the University f Trieste also with the collaboration with other universities or institutions such as the inter-university courses, long-life learning for staff and the TFAs (Tirocinio Formativo Attivo) for the secondary school."
     },
     {
-        "catalogID":"e23d378b5ab81d14fde52d07facd81aa5f7e4e2d",
-        "resourceName":"HZSK, University of Hamburg",
+        "catalogID":"91c619cfb099e062d642ff209d9fbda42f615d42",
+        "resourceName":"The BLOOM Hub for digitalisation in higher education",
         "resourceProvider":{
-            "name":"e459",
-            "displayname":"CLARIN ERIC",
-            "url":"http://clarin.eu"
+            "name":"e5",
+            "displayname":"Freie Universität Berlin",
+            "url":"https://identity.fu-berlin.de/idp-fub/"
         },
-        "description":"The Hamburg Centre for Language Corpora (HZSK) provides access to the HZSK Repository"
+        "description":"The BLOOM Hub is a shared European digital infrastructure about educational innovation, joint education, community building and mobility programmes."
     },
     {
-        "catalogID":"2d4990d19e4519095ee99737af161554557b69df",
-        "resourceName":"CLARIN-PL Repository",
+        "catalogID":"c459a7c7bbdba19838f62cdee8a0b3bdbf1b56f7",
+        "resourceName":"EasyDB (Digitale Diathek) an der FU Berlin",
         "resourceProvider":{
-            "name":"e459",
-            "displayname":"CLARIN ERIC",
-            "url":"http://clarin.eu"
+            "name":"e5",
+            "displayname":"Freie Universität Berlin",
+            "url":"https://identity.fu-berlin.de/idp-fub/"
         },
-        "description":"CLARIN-PL Digital Repository - Polish Section of CLARIN ERIC"
+        "description":"EasyDB ist die gemeinsame Bilddatenbank der archäologischen und die kunsthistorischen Fächer des Fachbereich Geschichts- und Kulturwissenschaften der Freien Universität Berlin. Sie bietet Zugriff auf derzeit 250.000 Bilder für Forschung und Lehre."
     },
     {
-        "catalogID":"ee8474383ce4951801adf35236abcae0b1e98192",
-        "resourceName":"lugges",
+        "catalogID":"8de0d0c3e8d2c712ac9b4085c18aeccf3519c3fc",
+        "resourceName":"Kunst und Funktion",
         "resourceProvider":{
-            "name":"e806",
-            "displayname":"lugges",
-            "url":"https://lugges.de"
+            "name":"e5",
+            "displayname":"Freie Universität Berlin",
+            "url":"https://identity.fu-berlin.de/idp-fub/"
         },
-        "description":"The lugges authentication service for quick and complete validation of student or employee status at higher education institutions."
+        "description":"Die Geschichte der Kunst im Wandel ihrer Funktionen\", kurz \"Kunst und Funktion\" genannt, ist ein Internet-Lernprogramm, das einen Überblick über die Kunstgeschichte in 30 Kapiteln unter der besonderen Fragestellung der Funktion von Kunst bietet."
     },
     {
-        "catalogID":"c86e96dd868d6f8e0a9f47622ee15956ccdeb3ff",
-        "resourceName":"DARIAH AAI",
+        "catalogID":"4efbb499be760374e01b8879eb507a9bbc636a6d",
+        "resourceName":"tetfolio",
         "resourceProvider":{
-            "name":"e112",
-            "displayname":"Gesellschaft für wissenschaftliche Datenverarbeitung mbH",
-            "url":"http://www.gwdg.de"
+            "name":"e5",
+            "displayname":"Freie Universität Berlin",
+            "url":"https://identity.fu-berlin.de/idp-fub/"
         },
-        "description":"DARIAH AAI Services Proxy"
+        "description":"The tetfolio is a platform for teachers and students using interactive multimedia web content."
     },
     {
-        "catalogID":"869bd6988769d06011e292eef49158853ecbfebe",
-        "resourceName":"Career Center of Aalto University",
+        "catalogID":"a1c84ac79e1f03f65a9e52378eff6164e5ecc8f1",
+        "resourceName":"TUM Whole Slide Viewer",
         "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
+            "name":"e8",
+            "displayname":"Technical University of Munich (TUM)",
+            "url":"https://www.tum.de/en"
         },
-        "description":"The Career Center by JobTeaser is the official online career platform of the Aalto University, where students can find information about companies as well as internships and job ads."
+        "description":"TUM Whole Slide Viewer to view and annotate digital pathology whole slide images"
     },
     {
-        "catalogID":"461f33392c907068d5a70fe3307d34c3200e877d",
-        "resourceName":"Career Center of Åbo Akademi University",
+        "catalogID":"5388fb800935c2b214290538c38bb779d8d04771",
+        "resourceName":"SOS for Building Data",
         "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
+            "name":"e8",
+            "displayname":"Technical University of Munich (TUM)",
+            "url":"https://www.tum.de/en"
         },
-        "description":"The Career Center by JobTeaser is the official online career platform of Åbo Akademi University, where students can find information about companies as well as internships and job ads."
+        "description":"Sensor Observation Service for Environmental Data (Demo) in Project Smart Sustainable Districts"
     },
     {
-        "catalogID":"af80a5dba6c58ebb32350ce01f39c551cab82702",
-        "resourceName":"ACDH-ÖAW Services for Digital Humanities",
+        "catalogID":"0138cf224c9faabd3fef14e12b8fe1ca74f28af4",
+        "resourceName":"SOS for Building Energy Data",
         "resourceProvider":{
-            "name":"e459",
-            "displayname":"CLARIN ERIC",
-            "url":"http://clarin.eu"
+            "name":"e8",
+            "displayname":"Technical University of Munich (TUM)",
+            "url":"https://www.tum.de/en"
         },
-        "description":"Various services provided by the Austrian Centre for Digital Humanities of the Austrian Academy of Sciences (ACDH-ÖAW) (primarily in the context of the CLARIN initiative)."
+        "description":"Sensor Observation Service for Building Energy Data (Demo) in Projekt Smart Sustainable Districts"
     },
     {
-        "catalogID":"6fb20975caedccd376d1f83c17e9dba0c5c90ade",
-        "resourceName":"Annis",
+        "catalogID":"457e2097f235aaa86fbaad3d9b2a54f26d1cb98e",
+        "resourceName":"HPC Wiki",
         "resourceProvider":{
-            "name":"e84",
-            "displayname":"University of Hamburg",
-            "url":"https://www.uni-hamburg.de/en.html"
+            "name":"e9",
+            "displayname":"Rheinisch-Westfälische Technische Hochschule Aachen",
+            "url":"http://www.rwth-aachen.de"
         },
-        "description":"ANNIS is a browser-based search and visualization architecture for complex multi-layer linguistic corpora with diverse types of annotation. The ANNIS server is provided by the Centre for Sustainable Research Data Management and open to host corpora from members of the Universität Hamburg."
+        "description":"The HPC Wiki is a side-independent HPC Documentation"
+    },
+    {
+        "catalogID":"b8608cf83a116c1592b0cb2309db57f10e3c15f0",
+        "resourceName":"RWTHjupyter",
+        "resourceProvider":{
+            "name":"e9",
+            "displayname":"Rheinisch-Westfälische Technische Hochschule Aachen",
+            "url":"http://www.rwth-aachen.de"
+        },
+        "description":"RWTHjupyter computational environment"
+    },
+    {
+        "catalogID":"54804690dfa4f3e16d6bf12a9c89d3581f13e55b",
+        "resourceName":"Gitlab Server AWI",
+        "resourceProvider":{
+            "name":"e13",
+            "displayname":"Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI)",
+            "url":"https://www.awi.de/en/"
+        },
+        "description":"Gitlab Server"
+    },
+    {
+        "catalogID":"8f8d28ec276597736d044c4c0d59dbe0b353db6e",
+        "resourceName":"SMILE - Smartphones in der Lehre",
+        "resourceProvider":{
+            "name":"e14",
+            "displayname":"Albert-Ludwigs-Universität Freiburg",
+            "url":"http://www.uni-freiburg.de/"
+        },
+        "description":"SMILE serves as a lecture-supporting system which students and lecturers can use with their usual login data given by their home institution. The system offers - among other functions - live feedback for the lecturer and quizzes for checking the learning process of the students."
+    },
+    {
+        "catalogID":"f8c01b4dfa51a0bd3ebe3d12f52a4861d55f6a8a",
+        "resourceName":"DFN Trust & Identity Services Documentation",
+        "resourceProvider":{
+            "name":"e15",
+            "displayname":"German National Research and Education Network, DFN",
+            "url":"http://www.dfn.de/en/"
+        },
+        "description":"DFN Trust & Identity Services Documentation and Wiki"
+    },
+    {
+        "catalogID":"2e17275ff5de44514541d725870650e1dbf70510",
+        "resourceName":"Registration for TID Wiki",
+        "resourceProvider":{
+            "name":"e15",
+            "displayname":"German National Research and Education Network, DFN",
+            "url":"http://www.dfn.de/en/"
+        },
+        "description":"Registration for TID Wiki"
+    },
+    {
+        "catalogID":"716fd9f5e3adcaad37d5ab2144490de45d5b03ce",
+        "resourceName":"DID-ACT Moodle",
+        "resourceProvider":{
+            "name":"e26",
+            "displayname":"CASUS - Instruct gGmbH",
+            "url":"http://www.instruct.eu/en"
+        },
+        "description":"DID-ACT Moodle"
+    },
+    {
+        "catalogID":"ab0068707297eb42569648b02325c14f05ae4393",
+        "resourceName":"CASUS - case based learning",
+        "resourceProvider":{
+            "name":"e26",
+            "displayname":"CASUS - Instruct gGmbH",
+            "url":"http://www.instruct.eu/en"
+        },
+        "description":"Case based learningsystem primarily for medical education, consists of a player for students + authoring and administration environment."
+    },
+    {
+        "catalogID":"40d6df1d67bd935eb6431d29b242d978da7d4624",
+        "resourceName":"LMU Moodle",
+        "resourceProvider":{
+            "name":"e29",
+            "displayname":"LMU Munich",
+            "url":"http://www.en.lmu.de"
+        },
+        "description":"Ludwig-Maximilians-Universität München - Moodle"
+    },
+    {
+        "catalogID":"4c149678685792b1f5767b0a99e453ce0eb276ed",
+        "resourceName":"UnterrichtOnline - Unterrichtsaufzeichnungen für Forschung und Lehre",
+        "resourceProvider":{
+            "name":"e29",
+            "displayname":"LMU Munich",
+            "url":"http://www.en.lmu.de"
+        },
+        "description":"Die LMU UnterrichtsMitschau zeichnet seit 1968 Unterricht auf und entwickelt nun zusammen mit verschiedenen Kooperationspartnern ein Portal für zugriffsgeschützten videographierten Unterricht. Dieser wird bei Nachweis eines entsprechenden fachlichen Interesses Einrichtungen aus der Lehreraus-, -fort- und -weiterbildung für unterschiedliche Settings in Forschung und Lehre zur Verfügung gestellt. Dabei werden, neben forschungsbasierten Einsatzmöglichkeiten durch die Integration von Annotations-, Diskussions- und Interaktionsmöglichkeiten, auch komplexe Lehr-Lernszenarien ermöglicht."
     },
     {
         "catalogID":"ad04c93474f0487e7a445cd05dbd9eb38951749b",
@@ -33430,134 +33520,574 @@
         "description":"Annotation Service -  UB Heidelberg"
     },
     {
-        "catalogID":"b630444cd8e2c8b92b317e70bb55ef29ba144eda",
-        "resourceName":"Naxos Music Group",
+        "catalogID":"d7f14b50319e7832d39042e4b4de9ab40a07a0de",
+        "resourceName":"Bibliographies - University library of Heidelberg",
         "resourceProvider":{
-            "name":"e720",
-            "displayname":"NAXOS",
-            "url":"https://www.naxos.com"
+            "name":"e42",
+            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
+            "url":"http://www.uni-heidelberg.de"
         },
-        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+        "description":"Bibliographies"
     },
     {
-        "catalogID":"ab5098e075b8e3e40b24a5a913f50ba65eb27122",
-        "resourceName":"Naxos Music Library",
+        "catalogID":"82a09a21b521a8bb811e3a415568dd31011d0d07",
+        "resourceName":"Bibliographies Crossasia",
         "resourceProvider":{
-            "name":"e720",
-            "displayname":"NAXOS",
-            "url":"https://www.naxos.com"
+            "name":"e42",
+            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
+            "url":"http://www.uni-heidelberg.de"
         },
-        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+        "description":"Bibliographies Crossasia"
     },
     {
-        "catalogID":"367b1530cce28cfb20cab945d6832a8123ddfc3a",
-        "resourceName":"Naxos Music Group",
+        "catalogID":"a6565121d4654bc9e57ec793a513c772fc979dab",
+        "resourceName":"Heidelberg historic literature – digitized",
         "resourceProvider":{
-            "name":"e720",
-            "displayname":"NAXOS",
-            "url":"https://www.naxos.com"
+            "name":"e42",
+            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
+            "url":"http://www.uni-heidelberg.de"
         },
-        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+        "description":"Heidelberg historic literature – digitized"
     },
     {
-        "catalogID":"761963b054ba3dd4582242dcdb896fc7220f2d56",
-        "resourceName":"Naxos Music Library",
+        "catalogID":"2f22415e921117a8afde6782e4cf121ce438be68",
+        "resourceName":"GitLab - UB Heidelberg",
         "resourceProvider":{
-            "name":"e720",
-            "displayname":"NAXOS",
-            "url":"https://www.naxos.com"
+            "name":"e42",
+            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
+            "url":"http://www.uni-heidelberg.de"
         },
-        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+        "description":"GitLab - Entwicklungsumgebung der UB Heidelberg (eingeschränkter Nutzerkreis)"
     },
     {
-        "catalogID":"a37c1a247f8ac71f2b099865c7dc5c6ba9f89cd4",
-        "resourceName":"Naxos Music Library",
+        "catalogID":"e6f0360f5b556f6ab5bf39345569162a2ba3ca9e",
+        "resourceName":"myArthistoricum.net",
         "resourceProvider":{
-            "name":"e720",
-            "displayname":"NAXOS",
-            "url":"https://www.naxos.com"
+            "name":"e42",
+            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
+            "url":"http://www.uni-heidelberg.de"
         },
-        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+        "description":"Profildienst für arthistoricum.net"
     },
     {
-        "catalogID":"de33258265b49d1a3ce319efa66887dc9c47905c",
-        "resourceName":"Naxos Music Library - Jazz",
+        "catalogID":"ad2d319497944100b5d8fd24abbb1c61c323c916",
+        "resourceName":"myPropylaeum.de",
         "resourceProvider":{
-            "name":"e720",
-            "displayname":"NAXOS",
-            "url":"https://www.naxos.com"
+            "name":"e42",
+            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
+            "url":"http://www.uni-heidelberg.de"
         },
-        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+        "description":"Profildienst für propylaeum.de"
     },
     {
-        "catalogID":"b6f3c222582150a10713137ad4983ce7ffbfd566",
-        "resourceName":"Naxos Music Library - World",
+        "catalogID":"4e1dfaa5170aeb036babd413f294832715c3be8a",
+        "resourceName":"Recensio Artium - arthistoricum.net",
         "resourceProvider":{
-            "name":"e720",
-            "displayname":"NAXOS",
-            "url":"https://www.naxos.com"
+            "name":"e42",
+            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
+            "url":"http://www.uni-heidelberg.de"
         },
-        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+        "description":"recensio.artium is the central index for reviews of art historical literature. The online catalogue enables a quick search of reviews of monographs, journals and articles in the field of art studies as well as reviewed works. Not only the metadata, but also the full text of the open access reviews can be searched. Exhibition reviews are also listed in recensio.artium"
     },
     {
-        "catalogID":"1ab52346dfb73bc32a726dfe0299452526cacf1a",
-        "resourceName":"filmfriend",
+        "catalogID":"b4040ef04849aea58de6f907a4d68546571a02ef",
+        "resourceName":"DaRUS",
         "resourceProvider":{
-            "name":"e597",
-            "displayname":"filmwerte GmbH",
-            "url":"https://www.filmwerte.de"
+            "name":"e43",
+            "displayname":"University of Stuttgart",
+            "url":"http://www.uni-stuttgart.de/home/index.en.html"
         },
-        "description":"Authentication for the streaming platform filmfriend."
+        "description":"Data Repository University of Stuttgart"
     },
     {
-        "catalogID":"2530e3354d47fde3e6565722e3690a3231178a93",
-        "resourceName":"filmfriend",
+        "catalogID":"fc8f041dacd4c0bd7e4169f683db1ef2e271ea81",
+        "resourceName":"Universität Bremen - Zentrum für Multimedia in der Lehre",
         "resourceProvider":{
-            "name":"e597",
-            "displayname":"filmwerte GmbH",
-            "url":"https://www.filmwerte.de"
+            "name":"e67",
+            "displayname":"University of Bremen",
+            "url":"http://www.uni-bremen.de/en/"
         },
-        "description":"Authentication for the streaming platform filmfriend."
+        "description":"Stud.IP elearning Universität Bremen"
     },
     {
-        "catalogID":"2b36f0a99852f449fc69d99386ba3719220b39d3",
-        "resourceName":"filmfriend",
+        "catalogID":"6fb20975caedccd376d1f83c17e9dba0c5c90ade",
+        "resourceName":"Annis",
         "resourceProvider":{
-            "name":"e597",
-            "displayname":"filmwerte GmbH",
-            "url":"https://www.filmwerte.de"
+            "name":"e84",
+            "displayname":"University of Hamburg",
+            "url":"https://www.uni-hamburg.de/en.html"
         },
-        "description":"Authentication for the streaming platform filmfriend."
+        "description":"ANNIS is a browser-based search and visualization architecture for complex multi-layer linguistic corpora with diverse types of annotation. The ANNIS server is provided by the Centre for Sustainable Research Data Management and open to host corpora from members of the Universität Hamburg."
     },
     {
-        "catalogID":"6219f82705ff21238f27e4d7f32ed4388deca15b",
-        "resourceName":"Naxos Shibboleth - STAGING",
+        "catalogID":"56a9fee789efa0c762051a14a352fe2153fbed04",
+        "resourceName":"Conference management",
         "resourceProvider":{
-            "name":"e720",
-            "displayname":"NAXOS",
-            "url":"https://www.naxos.com"
+            "name":"e84",
+            "displayname":"University of Hamburg",
+            "url":"https://www.uni-hamburg.de/en.html"
         },
-        "description":"Naxos Shibboleth - STAGING"
+        "description":"The conference management software of Universitaet Hamburg"
     },
     {
-        "catalogID":"91ea146664651d5dd7db87a62ddaeeca4315e851",
-        "resourceName":"Naxos Music Library - Test Entity at Staging",
+        "catalogID":"7254b862d988aff72f42756e08eb9ee362da7131",
+        "resourceName":"Staatsbibliothek zu Berlin Service Provider",
         "resourceProvider":{
-            "name":"e720",
-            "displayname":"NAXOS",
-            "url":"https://www.naxos.com"
+            "name":"e107",
+            "displayname":"State Library Berlin",
+            "url":"http://staatsbibliothek-berlin.de"
         },
-        "description":"Developmental/Staging Integration of Naxos Music Library"
+        "description":"Von der Staatsbibliothek zu Berlin gehostete Datenbanken für den Zugriff externer Partner und Nutzer."
     },
     {
-        "catalogID":"3e9382bd41191f8a97142f71b51a5783fb6c30b5",
-        "resourceName":"Appassimo",
+        "catalogID":"0a88420bb04d3cf5a0fb0bf933b3802b746dc577",
+        "resourceName":"asknet AG Serviceprovider (Global)",
         "resourceProvider":{
-            "name":"e727",
-            "displayname":"IWPD Management GmbH",
-            "url":"https://iwpdmanagement.ch"
+            "name":"e111",
+            "displayname":"asknet Solutions AG",
+            "url":"https://www.asknet.com"
         },
-        "description":"Remote, online teaching solution for music institutions and individuals. Designed with love for music and arts and with care for the quality!"
+        "description":"Service Provider der asknet AG in Karlsruhe zur Verifizierung von Studenten."
+    },
+    {
+        "catalogID":"c86e96dd868d6f8e0a9f47622ee15956ccdeb3ff",
+        "resourceName":"DARIAH AAI",
+        "resourceProvider":{
+            "name":"e112",
+            "displayname":"Gesellschaft für wissenschaftliche Datenverarbeitung mbH",
+            "url":"http://www.gwdg.de"
+        },
+        "description":"DARIAH AAI Services Proxy"
+    },
+    {
+        "catalogID":"e20e90cdc95122843c1b1dd568abd85a2183a530",
+        "resourceName":"Stud.IP Goettingen University",
+        "resourceProvider":{
+            "name":"e112",
+            "displayname":"Gesellschaft für wissenschaftliche Datenverarbeitung mbH",
+            "url":"http://www.gwdg.de"
+        },
+        "description":"Georg-August-Universität Göttingen Stud.IP"
+    },
+    {
+        "catalogID":"c4bd55b6f66365e7166a5524219d4c89ff3029ea",
+        "resourceName":"Moodle learning platform at Munich University of Applied Sciences",
+        "resourceProvider":{
+            "name":"e119",
+            "displayname":"Hochschule München",
+            "url":"http://www.hm.edu"
+        },
+        "description":"Moodle learning platform at Munich University of Applied Sciences"
+    },
+    {
+        "catalogID":"c2041e9605943d48e8de83e735a71a50c4c370ef",
+        "resourceName":"EELISA Community Portal",
+        "resourceProvider":{
+            "name":"e131",
+            "displayname":"Friedrich-Alexander-Universität Erlangen-Nürnberg",
+            "url":"https://www.sso.uni-erlangen.de"
+        },
+        "description":"EELISA Community Portal allows access to academic communities and participation in related activities"
+    },
+    {
+        "catalogID":"93ebb05f5905d43169dbab426143b3f7937fee6a",
+        "resourceName":"RRZE gitos Server",
+        "resourceProvider":{
+            "name":"e131",
+            "displayname":"Friedrich-Alexander-Universität Erlangen-Nürnberg",
+            "url":"https://www.sso.uni-erlangen.de"
+        },
+        "description":"RRZE hosted GitLab Server"
+    },
+    {
+        "catalogID":"0f1fdc95982a111f8a47117ec404fa3d4d534887",
+        "resourceName":"NHR@FAU HPC-Portal",
+        "resourceProvider":{
+            "name":"e131",
+            "displayname":"Friedrich-Alexander-Universität Erlangen-Nürnberg",
+            "url":"https://www.sso.uni-erlangen.de"
+        },
+        "description":"FAU HPC-Portal"
+    },
+    {
+        "catalogID":"3d5f6841318836e47d9d2b489b310a8b4276a0e4",
+        "resourceName":"StuDiPlat HS Mittweida",
+        "resourceProvider":{
+            "name":"e138",
+            "displayname":"Hochschule Mittweida University of Applied Sciences",
+            "url":"http://www.hs-mittweida.de/"
+        },
+        "description":"Eureca Pro"
+    },
+    {
+        "catalogID":"42445809908b364b832e5848e2535fb0347e0977",
+        "resourceName":"EPICUR Virtual Campus Learning Platform",
+        "resourceProvider":{
+            "name":"e148",
+            "displayname":"Karlsruhe Institute of Technology (KIT)",
+            "url":"http://www.scc.kit.edu/"
+        },
+        "description":"Die EPICUR Virtual Campus Learning Platform ist die zentrale Lernplattform der EPICUR-Allianz (European Partnership for an Innovative Campus Unifying Regions). Sie wird vom Karlsruher Institut für Technologie gehostet und steht für allen EPICUR-Universitäten zur Verfügung."
+    },
+    {
+        "catalogID":"acad1132982e70455f4d4768b719e870b2703e81",
+        "resourceName":"Virtual Campus University of Bamberg",
+        "resourceProvider":{
+            "name":"e158",
+            "displayname":"University of Bamberg",
+            "url":"https://www.uni-bamberg.de/en/"
+        },
+        "description":"University of Bamberg central eLearning-system based on moodle"
+    },
+    {
+        "catalogID":"b36d241ff2222f3f30a09df1e3e3a1e241b973c6",
+        "resourceName":"Virtual committees University of Bamberg",
+        "resourceProvider":{
+            "name":"e158",
+            "displayname":"University of Bamberg",
+            "url":"https://www.uni-bamberg.de/en/"
+        },
+        "description":"Virtual committees University of Bamberg"
+    },
+    {
+        "catalogID":"b099fb180fc1cfb2dc9398ebc39e8d5ceff3f0af",
+        "resourceName":"De Gruyter Saur",
+        "resourceProvider":{
+            "name":"e190",
+            "displayname":"Walter de Gruyter Verlag",
+            "url":"http://www.degruyter.com"
+        },
+        "description":"Access to the database \"World Biographical Information System (WBIS) Online\", the world's largest biographical database. WBIS Online contains short biographical entries on over  5.49 million persons from all times, languages and cultural areas. On 5.1 million persons the database offers digitized biographical articles  from nearly 10,000 biographical reference works."
+    },
+    {
+        "catalogID":"dd1d07b1ec64fbd0e9f14625e41e777b6d97ef11",
+        "resourceName":"De Gruyter",
+        "resourceProvider":{
+            "name":"e190",
+            "displayname":"Walter de Gruyter Verlag",
+            "url":"http://www.degruyter.com"
+        },
+        "description":"The new De Gruyter platform contains all electronic publications published by De Gruyter. The platform offers access to  journals, around eBooks and a variety of online reference works and bibliographies."
+    },
+    {
+        "catalogID":"8164b474a6484012af5b06f57f9860ed6501a808",
+        "resourceName":"F.A.Z.-Bibliotheksportal",
+        "resourceProvider":{
+            "name":"e199",
+            "displayname":"GBI-Genios Deutsche Wirtschaftsdatenbank",
+            "url":"http://www.genios.de"
+        },
+        "description":"Die Frankfurter Allgemeine Zeitung ist die deutsche Referenzzeitung, ein für jede Bibliothek unverzichtbares Nachschlagewerk und Chronik der Zeitgeschichte. Sie ist eine der wenigen deutschsprachigen Qualitätszeitungen, die vom ersten Erscheinungstag (1. November 1949) an digital verfügbar sind."
+    },
+    {
+        "catalogID":"369021b97d988a78e2ba0e8a434b1c427a3394bf",
+        "resourceName":"GBI-Genios Deutsche Wirtschaftsdatenbanken GmbH",
+        "resourceProvider":{
+            "name":"e199",
+            "displayname":"GBI-Genios Deutsche Wirtschaftsdatenbank",
+            "url":"http://www.genios.de"
+        },
+        "description":"GENIOS ist die größte Online-Wirtschaftsdatenbank in Deutschland und ein Tochterunternehmen der Frankfurter Allgemeinen Zeitung und der Verlagsgruppe Handelsblatt. Über www.genios.de hat der Nutzer direkten Zugriff auf rund 1.000 Datenbanken von mehr als 250 namhaften Verlagen und Informationsanbietern. GENIOS bietet hochwertige Qualitätsinformationen aus Wirtschaft, Management, Unternehmen, Politik und Wissenschaft."
+    },
+    {
+        "catalogID":"3d1ecacb2c185bc44e49178b381130e6bb0d052d",
+        "resourceName":"BBAW - CLARIN services",
+        "resourceProvider":{
+            "name":"e209",
+            "displayname":"Berlin-Brandenburgische Akademie der Wissenschaften",
+            "url":"http://www.bbaw.de"
+        },
+        "description":"Various services provided by the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)"
+    },
+    {
+        "catalogID":"9fc25606b1476443ce8dfea8303c7e089fe913c2",
+        "resourceName":"MyMi.mobile by Ulm University",
+        "resourceProvider":{
+            "name":"e216",
+            "displayname":"Universität Ulm",
+            "url":"http://www.uni-ulm.de"
+        },
+        "description":"Virtual microscope developed by the Institute of Molecular and Cellular Anatomy of Ulm University with virtual histology courses from Ulm University and University of Freiburg"
+    },
+    {
+        "catalogID":"cc59ff2f2c4547926df9aea678095806337bada3",
+        "resourceName":"CLARIN services",
+        "resourceProvider":{
+            "name":"e217",
+            "displayname":"Leibniz-Institut für Deutsche Sprache (IDS)",
+            "url":"http://www.ids-mannheim.de"
+        },
+        "description":"Various services provided by the Leibniz-Institut für Deutsche Sprache (IDS) in the context of the CLARIN initiative."
+    },
+    {
+        "catalogID":"54173b91f4fb27ce140c8632500e60cb326e187f",
+        "resourceName":"Research Data Respository",
+        "resourceProvider":{
+            "name":"e217",
+            "displayname":"Leibniz-Institut für Deutsche Sprache (IDS)",
+            "url":"http://www.ids-mannheim.de"
+        },
+        "description":"Repository of language resources provided by the Leibniz-Institute for the German Language (IDS)."
+    },
+    {
+        "catalogID":"33f20b51ddd88038d03d3fb34c9585bc2e551482",
+        "resourceName":"Authorization for services of the corpus linguistics and morphology working group.",
+        "resourceProvider":{
+            "name":"e233",
+            "displayname":"Humboldt-University Berlin",
+            "url":"http://www.hu-berlin.de/"
+        },
+        "description":"This service allows the access to resources like corpora based on the association with a research institition."
+    },
+    {
+        "catalogID":"0aed3376d3be479db97f5041b90146047b50888d",
+        "resourceName":"EUDAT B2ACCESS",
+        "resourceProvider":{
+            "name":"e234",
+            "displayname":"Forschungszentrum Jülich GmbH",
+            "url":"http://www.fz-juelich.de"
+        },
+        "description":"AAI for EUDAT B2-Services"
+    },
+    {
+        "catalogID":"b6c1c0b1fb59df543f6b4571b3ec521325a97c36",
+        "resourceName":"EUDAT B2ACCESS integration instance",
+        "resourceProvider":{
+            "name":"e234",
+            "displayname":"Forschungszentrum Jülich GmbH",
+            "url":"http://www.fz-juelich.de"
+        },
+        "description":"Instance for integration of new servcies into EUDAT AAI"
+    },
+    {
+        "catalogID":"01927b020a5302c5d73757bd6344af88e74082e5",
+        "resourceName":"JuGit - Public Gitlab Instance of Forschungszentrum Jülich GmbH",
+        "resourceProvider":{
+            "name":"e234",
+            "displayname":"Forschungszentrum Jülich GmbH",
+            "url":"http://www.fz-juelich.de"
+        },
+        "description":"JuGit - Public Gitlab Instance of Forschungszentrum Jülich GmbH"
+    },
+    {
+        "catalogID":"69379d9fd90a6b0cb565fff0287f31ae5938d8ed",
+        "resourceName":"Helmholtz dev AAI",
+        "resourceProvider":{
+            "name":"e234",
+            "displayname":"Forschungszentrum Jülich GmbH",
+            "url":"http://www.fz-juelich.de"
+        },
+        "description":"Instance for integration of new Helmholtz cloud services into Helmholtz AAI"
+    },
+    {
+        "catalogID":"5f78add808bc142fc36da719983818c6e1ccfd4c",
+        "resourceName":"Helmholtz AAI",
+        "resourceProvider":{
+            "name":"e234",
+            "displayname":"Forschungszentrum Jülich GmbH",
+            "url":"http://www.fz-juelich.de"
+        },
+        "description":"Helmholtz cloud services AAI"
+    },
+    {
+        "catalogID":"83288e7131abe60a28c4f659b41cc88ba559541c",
+        "resourceName":"Statista",
+        "resourceProvider":{
+            "name":"e243",
+            "displayname":"Statista GmbH",
+            "url":"https://www.statista.com"
+        },
+        "description":"Access to paid statistics from statistic portal Statista for universities that have a campus license"
+    },
+    {
+        "catalogID":"09e731ba4facf49fa591a235bb84cc06101ca603",
+        "resourceName":"Universität Münster",
+        "resourceProvider":{
+            "name":"e247",
+            "displayname":"Westfälische Wilhelms-Universität Münster",
+            "url":"https://www.uni-muenster.de/en/"
+        },
+        "description":"This central Single Sign-On covers almost all WWW services of the university of Münster. Required are: eduPersonPrincipalName OR a persistent SAML2-NameID OR eduPersonTargetedID"
+    },
+    {
+        "catalogID":"67108a2852500b7b06daf7d3f7ead38c31b6797a",
+        "resourceName":"Universität Münster (Staging)",
+        "resourceProvider":{
+            "name":"e247",
+            "displayname":"Westfälische Wilhelms-Universität Münster",
+            "url":"https://www.uni-muenster.de/en/"
+        },
+        "description":"This central Single Sign-On covers almost all services of the university of Münster (Alternative entry point, same services) and is used to test deviating Shibboleth configurations in practical operation. Currently required: subject-id"
+    },
+    {
+        "catalogID":"9c6c50d337f979d691c1415cea63b55e95f3eb6f",
+        "resourceName":"Video portals ViU and ProVision, Meta-Videoportal",
+        "resourceProvider":{
+            "name":"e247",
+            "displayname":"Westfälische Wilhelms-Universität Münster",
+            "url":"https://www.uni-muenster.de/en/"
+        },
+        "description":"The video portals “ViU: Early Science - Videobasierte Unterrichtsanalyse“ and “ProVision” contain lesson records from different grades and subjects as well as additional materials and notes on the use of these videos in courses. (Please see our privacy statement.) The Meta-Videoportal combines several video portals. – Required data are (ONE OF eppn subject-id pairwise-id persistent-id targeted-id) AND (mail) AND (displayName or (sn AND givenName))."
+    },
+    {
+        "catalogID":"09b325c198a71431e3b96979e91bf365eeff0c7b",
+        "resourceName":"LMS of UdS",
+        "resourceProvider":{
+            "name":"e254",
+            "displayname":"Saarland University",
+            "url":"http://www.uni-saarland.de/nc/en/"
+        },
+        "description":"Learning Management System of Saarland University"
+    },
+    {
+        "catalogID":"d1b92168cfc9fc290ae0bf89e2d252cf28a771fe",
+        "resourceName":"Testsystem LMS of UdS",
+        "resourceProvider":{
+            "name":"e254",
+            "displayname":"Saarland University",
+            "url":"http://www.uni-saarland.de/nc/en/"
+        },
+        "description":"Testsystem Learning Management System of Saarland University"
+    },
+    {
+        "catalogID":"27316b04d04dd555d61fb4e54752c9834236073f",
+        "resourceName":"Moodle der Uni Leipzig",
+        "resourceProvider":{
+            "name":"e256",
+            "displayname":"University of Leipzig",
+            "url":"https://www.uni-leipzig.de"
+        },
+        "description":"E-Learning-Server \"Moodle\" der Universitaet Leipzig"
+    },
+    {
+        "catalogID":"6d75c669b4b5dcdae796ab557238241e21c134ff",
+        "resourceName":"German Cancer Research Center: Medical Informatics in Translational Oncology",
+        "resourceProvider":{
+            "name":"e286",
+            "displayname":"Deutsches Krebsforschungszentrum - Stiftung des öffentlichen Rechts",
+            "url":"http://www.dkfz.de"
+        },
+        "description":"Web services provided by the dept. of Medical Informatics in Translational Oncology, German Cancer Research Center (DKFZ), Heidelberg"
+    },
+    {
+        "catalogID":"d571f626895cb305a9d2902aa3fb92f46d337774",
+        "resourceName":"REDCap",
+        "resourceProvider":{
+            "name":"e300",
+            "displayname":"Technische Universität Dresden",
+            "url":"http://www.tu-dresden.de"
+        },
+        "description":"Data management using REDCap"
+    },
+    {
+        "catalogID":"238b2beedc0ee5af71f0ae450eac442a9bfb1364",
+        "resourceName":"Eventmanagement – Paderborn University",
+        "resourceProvider":{
+            "name":"e308",
+            "displayname":"Paderborn University",
+            "url":"http://www.uni-paderborn.de/en/"
+        },
+        "description":"Paderborn University Indico-Service for meetings and conferences."
+    },
+    {
+        "catalogID":"7494faebe1725c9e50e43b13b6e4799d2d850b90",
+        "resourceName":"Indico Paderborn University",
+        "resourceProvider":{
+            "name":"e308",
+            "displayname":"Paderborn University",
+            "url":"http://www.uni-paderborn.de/en/"
+        },
+        "description":"Indico is the central event management platform of Paderborn University. It is based on the the eponymous open-source software. Indico helps members of Paderborn University planning and holding events and conferences of varying size and complexity. External persons may register as attendees."
+    },
+    {
+        "catalogID":"0c22c59fd00373b9969535aeccf7fbe0cf7c3074",
+        "resourceName":"EDUC Course Catalogue",
+        "resourceProvider":{
+            "name":"e343",
+            "displayname":"University of Potsdam",
+            "url":"http://www.uni-potsdam.de/en/index.html"
+        },
+        "description":"Catalogue of international courses available for students of EDUC member universities"
+    },
+    {
+        "catalogID":"e18225de0cf96eb3b870b543c1100a75e8ff7087",
+        "resourceName":"EDUC Learning",
+        "resourceProvider":{
+            "name":"e343",
+            "displayname":"University of Potsdam",
+            "url":"http://www.uni-potsdam.de/en/index.html"
+        },
+        "description":"EDUC Alliance Moodle"
+    },
+    {
+        "catalogID":"76c2a68d6940199a7427f367a792749099507c9d",
+        "resourceName":"MOBILITY-ONLINE Austria",
+        "resourceProvider":{
+            "name":"e370",
+            "displayname":"SOP Hilmbauer & Mauberger GmbH & Co KG",
+            "url":"http://www.sop-at.com/en/"
+        },
+        "description":"http://www.sop-at.com/en/"
+    },
+    {
+        "catalogID":"edaf5f20ea2539f2ba984033c71ef07bf3d00412",
+        "resourceName":"Moodle of University Augsburg",
+        "resourceProvider":{
+            "name":"e378",
+            "displayname":"University of Augsburg",
+            "url":"http://www.uni-augsburg.de/en/"
+        },
+        "description":"Moodle of University Augsburg"
+    },
+    {
+        "catalogID":"c6ddd27ae6d928df51db3e9d05f3060bb8915b72",
+        "resourceName":"DrVis Software",
+        "resourceProvider":{
+            "name":"e383",
+            "displayname":"DrVis Software",
+            "url":"http://www.drvis.de"
+        },
+        "description":"Inexpensive Microsoft Office and free Windows for students"
+    },
+    {
+        "catalogID":"19f6a55112695f448c9503a6dc67914138b9a02d",
+        "resourceName":"IDiAL, FH Dortmund",
+        "resourceProvider":{
+            "name":"e422",
+            "displayname":"Dortmund University of Applied Sciences and Arts",
+            "url":"http://www.fh-dortmund.de"
+        },
+        "description":"A Digital Education Ecosystem (DEE) is a digital learning and teaching infrastructure which supports all aspects of a digitally transformed educational system, e.g. a university or school The goal of the DEE described in ths specification is to support a virtual, cross-border Master School."
+    },
+    {
+        "catalogID":"c04fa102dd5106cc9d604d2ee23a525b0c419cdd",
+        "resourceName":"University of Applied Arts Vienna MoveON",
+        "resourceProvider":{
+            "name":"e433",
+            "displayname":"QS unisolution",
+            "url":"http://www.qs-unisolution.com"
+        },
+        "description":"Service provider for University of Applied Arts Vienna"
+    },
+    {
+        "catalogID":"c71fa2f80000741df50d1441da60de8bf9cd2db8",
+        "resourceName":"sirop.org platform",
+        "resourceProvider":{
+            "name":"e454",
+            "displayname":"sirop.org platform",
+            "url":"https://sirop.org"
+        },
+        "description":"Thousands of students and researchers use SiROP to post and search open positions such as internships, Master, Bachelor or PhD projects and PostDoc positions. We connect students, researchers and institutions."
+    },
+    {
+        "catalogID":"af80a5dba6c58ebb32350ce01f39c551cab82702",
+        "resourceName":"ACDH-ÖAW Services for Digital Humanities",
+        "resourceProvider":{
+            "name":"e459",
+            "displayname":"CLARIN ERIC",
+            "url":"http://clarin.eu"
+        },
+        "description":"Various services provided by the Austrian Centre for Digital Humanities of the Austrian Academy of Sciences (ACDH-ÖAW) (primarily in the context of the CLARIN initiative)."
     },
     {
         "catalogID":"1253c14f26d2af4063a30539672951d501a35c1f",
@@ -33580,76 +34110,6 @@
         "description":"Research data archive at the Max Planck Institute for Psycholinguistics"
     },
     {
-        "catalogID":"c04fa102dd5106cc9d604d2ee23a525b0c419cdd",
-        "resourceName":"University of Applied Arts Vienna MoveON",
-        "resourceProvider":{
-            "name":"e433",
-            "displayname":"QS unisolution",
-            "url":"http://www.qs-unisolution.com"
-        },
-        "description":"Service provider for University of Applied Arts Vienna"
-    },
-    {
-        "catalogID":"fd1e178e450106ec1567a8f94b5f154d034ec209",
-        "resourceName":"anny",
-        "resourceProvider":{
-            "name":"e729",
-            "displayname":"anny",
-            "url":"https://anny.co"
-        },
-        "description":"A complete solution for any kind of online booking and the management behind it."
-    },
-    {
-        "catalogID":"f567032ad727b5e2ac4f23229740fef36645f41a",
-        "resourceName":"reelport GmbH",
-        "resourceProvider":{
-            "name":"e719",
-            "displayname":"reelport GmbH",
-            "url":"https://www.ava-library.com/"
-        },
-        "description":"Login for AVA"
-    },
-    {
-        "catalogID":"1c8a393e12964db46dfdcf80a6d719ecc79279a4",
-        "resourceName":"Brockhaus.at",
-        "resourceProvider":{
-            "name":"e492",
-            "displayname":"NE GmbH | BROCKHAUS",
-            "url":"http://www.brockhaus.de"
-        },
-        "description":"With the most comprehensive digital lexical stock in the German-speaking world, schools and libraries are opening up an indispensable, reliable, edited and up-to-date source of knowledge online."
-    },
-    {
-        "catalogID":"4d390a96ad7e971b70fc2efcb2137f24d9b58336",
-        "resourceName":"BROCKHAUS",
-        "resourceProvider":{
-            "name":"e492",
-            "displayname":"NE GmbH | BROCKHAUS",
-            "url":"http://www.brockhaus.de"
-        },
-        "description":"With the most comprehensive digital lexical stock in the German-speaking world, schools and libraries are opening up an indispensable, reliable, edited and up-to-date source of knowledge online."
-    },
-    {
-        "catalogID":"762bc0260b8a545c53774efbdae3f58f5ff94f5c",
-        "resourceName":"ORTOLANG",
-        "resourceProvider":{
-            "name":"e459",
-            "displayname":"CLARIN ERIC",
-            "url":"http://clarin.eu"
-        },
-        "description":"Platform of linguistic tools and resources for an optimized treatment of the French language"
-    },
-    {
-        "catalogID":"a183b5b7064cd747475363ccb58ebf9fedd27075",
-        "resourceName":"Open Telekom Cloud",
-        "resourceProvider":{
-            "name":"e519",
-            "displayname":"T-Systems International GmbH",
-            "url":"https://www.t-systems.com"
-        },
-        "description":"Open Telekom Cloud"
-    },
-    {
         "catalogID":"616832f0a9c6c0650abd9d7419263b3efec91dda",
         "resourceName":"CLARIAH NL IdP",
         "resourceProvider":{
@@ -33660,64 +34120,14 @@
         "description":"CLARIAH proxy Identity Provider"
     },
     {
-        "catalogID":"b6c1c0b1fb59df543f6b4571b3ec521325a97c36",
-        "resourceName":"EUDAT B2ACCESS integration instance",
+        "catalogID":"762bc0260b8a545c53774efbdae3f58f5ff94f5c",
+        "resourceName":"ORTOLANG",
         "resourceProvider":{
-            "name":"e234",
-            "displayname":"Forschungszentrum Jülich GmbH",
-            "url":"http://www.fz-juelich.de"
+            "name":"e459",
+            "displayname":"CLARIN ERIC",
+            "url":"http://clarin.eu"
         },
-        "description":"Instance for integration of new servcies into EUDAT AAI"
-    },
-    {
-        "catalogID":"0aed3376d3be479db97f5041b90146047b50888d",
-        "resourceName":"EUDAT B2ACCESS",
-        "resourceProvider":{
-            "name":"e234",
-            "displayname":"Forschungszentrum Jülich GmbH",
-            "url":"http://www.fz-juelich.de"
-        },
-        "description":"AAI for EUDAT B2-Services"
-    },
-    {
-        "catalogID":"d7f14b50319e7832d39042e4b4de9ab40a07a0de",
-        "resourceName":"Bibliographies - University library of Heidelberg",
-        "resourceProvider":{
-            "name":"e42",
-            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
-            "url":"http://www.uni-heidelberg.de"
-        },
-        "description":"Bibliographies"
-    },
-    {
-        "catalogID":"5a4a869b15cfc4ac8498eeaa90da74e8eabe70cc",
-        "resourceName":"Biblioscout",
-        "resourceProvider":{
-            "name":"e780",
-            "displayname":"Mediengruppe Deutscher Apotheker Verlag, Wissenschaftliche Verlagsgesellschaft",
-            "url":"https://www.deutscher-apotheker-verlag.de/verlag/wvg"
-        },
-        "description":"Hier finden Sie den Online-Zugang zu Fachbüchern, Lehrbüchern, Kommentaren und Zeitschriften aus den Geisteswissenschaften, Naturwissenschaften und Sozialwissenschaften. Teilnehmende Verlage sind derzeit Deutscher Apotheker Verlag, Franz Steiner Verlag, S. Hirzel Verlag und Wissenschaftliche Verlagsgesellschaft Stuttgart."
-    },
-    {
-        "catalogID":"c6ddd27ae6d928df51db3e9d05f3060bb8915b72",
-        "resourceName":"DrVis Software",
-        "resourceProvider":{
-            "name":"e383",
-            "displayname":"DrVis Software",
-            "url":"http://www.drvis.de"
-        },
-        "description":"Inexpensive Microsoft Office and free Windows for students"
-    },
-    {
-        "catalogID":"91c619cfb099e062d642ff209d9fbda42f615d42",
-        "resourceName":"The BLOOM Hub for digitalisation in higher education",
-        "resourceProvider":{
-            "name":"e5",
-            "displayname":"Freie Universität Berlin",
-            "url":"https://identity.fu-berlin.de/idp-fub/"
-        },
-        "description":"The BLOOM Hub is a shared European digital infrastructure about educational innovation, joint education, community building and mobility programmes."
+        "description":"Platform of linguistic tools and resources for an optimized treatment of the French language"
     },
     {
         "catalogID":"e73581dabbb136967b5a4b0c3a507491f7804e04",
@@ -33740,16 +34150,6 @@
         "description":"Eurac Research CLARIN Centre: Digital repository for language data"
     },
     {
-        "catalogID":"cc59ff2f2c4547926df9aea678095806337bada3",
-        "resourceName":"CLARIN services",
-        "resourceProvider":{
-            "name":"e217",
-            "displayname":"Leibniz-Institut für Deutsche Sprache (IDS)",
-            "url":"http://www.ids-mannheim.de"
-        },
-        "description":"Various services provided by the Leibniz-Institut für Deutsche Sprache (IDS) in the context of the CLARIN initiative."
-    },
-    {
         "catalogID":"d3b2770a14e3daf105c85ea80834cba8df39e78f",
         "resourceName":"ACDH-ÖAW Services for Digital Humanities",
         "resourceProvider":{
@@ -33768,56 +34168,6 @@
             "url":"http://clarin.eu"
         },
         "description":"Bavarian Archive for Speech Signals Service Provider (access to resources restricted to academia)."
-    },
-    {
-        "catalogID":"c2041e9605943d48e8de83e735a71a50c4c370ef",
-        "resourceName":"EELISA Community Portal",
-        "resourceProvider":{
-            "name":"e131",
-            "displayname":"Friedrich-Alexander-Universität Erlangen-Nürnberg",
-            "url":"https://www.sso.uni-erlangen.de"
-        },
-        "description":"EELISA Community Portal allows access to academic communities and participation in related activities"
-    },
-    {
-        "catalogID":"0c22c59fd00373b9969535aeccf7fbe0cf7c3074",
-        "resourceName":"EDUC Course Catalogue",
-        "resourceProvider":{
-            "name":"e343",
-            "displayname":"University of Potsdam",
-            "url":"http://www.uni-potsdam.de/en/index.html"
-        },
-        "description":"Catalogue of international courses available for students of EDUC member universities"
-    },
-    {
-        "catalogID":"82a09a21b521a8bb811e3a415568dd31011d0d07",
-        "resourceName":"Bibliographies Crossasia",
-        "resourceProvider":{
-            "name":"e42",
-            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
-            "url":"http://www.uni-heidelberg.de"
-        },
-        "description":"Bibliographies Crossasia"
-    },
-    {
-        "catalogID":"b4040ef04849aea58de6f907a4d68546571a02ef",
-        "resourceName":"DaRUS",
-        "resourceProvider":{
-            "name":"e43",
-            "displayname":"University of Stuttgart",
-            "url":"http://www.uni-stuttgart.de/home/index.en.html"
-        },
-        "description":"Data Repository University of Stuttgart"
-    },
-    {
-        "catalogID":"b099fb180fc1cfb2dc9398ebc39e8d5ceff3f0af",
-        "resourceName":"De Gruyter Saur",
-        "resourceProvider":{
-            "name":"e190",
-            "displayname":"Walter de Gruyter Verlag",
-            "url":"http://www.degruyter.com"
-        },
-        "description":"Access to the database \"World Biographical Information System (WBIS) Online\", the world's largest biographical database. WBIS Online contains short biographical entries on over  5.49 million persons from all times, languages and cultural areas. On 5.1 million persons the database offers digitized biographical articles  from nearly 10,000 biographical reference works."
     },
     {
         "catalogID":"a1693f87bd44db02b83efcddd96a5539b48e2e84",
@@ -33850,46 +34200,6 @@
         "description":"Registry of DH-related courses (study programs) across Europe jointly maintained by the research infrastructures CLARIN-ERIC and DARIAH-EU"
     },
     {
-        "catalogID":"716fd9f5e3adcaad37d5ab2144490de45d5b03ce",
-        "resourceName":"DID-ACT Moodle",
-        "resourceProvider":{
-            "name":"e26",
-            "displayname":"CASUS - Instruct gGmbH",
-            "url":"http://www.instruct.eu/en"
-        },
-        "description":"DID-ACT Moodle"
-    },
-    {
-        "catalogID":"a6565121d4654bc9e57ec793a513c772fc979dab",
-        "resourceName":"Heidelberg historic literature – digitized",
-        "resourceProvider":{
-            "name":"e42",
-            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
-            "url":"http://www.uni-heidelberg.de"
-        },
-        "description":"Heidelberg historic literature – digitized"
-    },
-    {
-        "catalogID":"f8c01b4dfa51a0bd3ebe3d12f52a4861d55f6a8a",
-        "resourceName":"DFN Trust & Identity Services Documentation",
-        "resourceProvider":{
-            "name":"e15",
-            "displayname":"German National Research and Education Network, DFN",
-            "url":"http://www.dfn.de/en/"
-        },
-        "description":"DFN Trust & Identity Services Documentation and Wiki"
-    },
-    {
-        "catalogID":"f796c0095cef3e0a2723e3500197363be950c996",
-        "resourceName":"dorsch.hogrefe.com",
-        "resourceProvider":{
-            "name":"e559",
-            "displayname":"Hogrefe Publishing GmbH",
-            "url":"https://eu.hogrefe.com"
-        },
-        "description":"SingleSignOn dorsch.hogrefe.com"
-    },
-    {
         "catalogID":"5d15d5a81bc952da1d34986ebc7713c0d5c9ea60",
         "resourceName":"Digital Repository for the CLARIN Research Infrastructure provided by ILC-CNR",
         "resourceProvider":{
@@ -33898,266 +34208,6 @@
             "url":"http://clarin.eu"
         },
         "description":"ILC-CNR for CLARIN-IT Consortium: Digital repository and services on language research infrastructure"
-    },
-    {
-        "catalogID":"c459a7c7bbdba19838f62cdee8a0b3bdbf1b56f7",
-        "resourceName":"EasyDB (Digitale Diathek) an der FU Berlin",
-        "resourceProvider":{
-            "name":"e5",
-            "displayname":"Freie Universität Berlin",
-            "url":"https://identity.fu-berlin.de/idp-fub/"
-        },
-        "description":"EasyDB ist die gemeinsame Bilddatenbank der archäologischen und die kunsthistorischen Fächer des Fachbereich Geschichts- und Kulturwissenschaften der Freien Universität Berlin. Sie bietet Zugriff auf derzeit 250.000 Bilder für Forschung und Lehre."
-    },
-    {
-        "catalogID":"19f6a55112695f448c9503a6dc67914138b9a02d",
-        "resourceName":"IDiAL, FH Dortmund",
-        "resourceProvider":{
-            "name":"e422",
-            "displayname":"Dortmund University of Applied Sciences and Arts",
-            "url":"http://www.fh-dortmund.de"
-        },
-        "description":"A Digital Education Ecosystem (DEE) is a digital learning and teaching infrastructure which supports all aspects of a digitally transformed educational system, e.g. a university or school The goal of the DEE described in ths specification is to support a virtual, cross-border Master School."
-    },
-    {
-        "catalogID":"551b04b96ff7cb6e9cc03e1de46210707d5557c6",
-        "resourceName":"elibrary.bwv-verlag.de",
-        "resourceProvider":{
-            "name":"e695",
-            "displayname":"Mediengruppe Deutscher Apotheker Verlag, Berliner Wissenschaftsverlag",
-            "url":"https://www.deutscher-apotheker-verlag.de/verlag"
-        },
-        "description":"SingleSignOn elibrary.bwv-verlag.de"
-    },
-    {
-        "catalogID":"3f0b7a1106db3015d918598d741788e201a2873a",
-        "resourceName":"elibrary.hirzel.de",
-        "resourceProvider":{
-            "name":"e693",
-            "displayname":"Mediengruppe Deutscher Apotheker Verlag, S. Hirzel Verlag",
-            "url":"https://www.deutscher-apotheker-verlag.de/verlag"
-        },
-        "description":"SinglesignOn elibrary.hirzel.de"
-    },
-    {
-        "catalogID":"25ecbbab034145ad004cbb2dd03f2bc083319b69",
-        "resourceName":"elibrary.hogrefe.de",
-        "resourceProvider":{
-            "name":"e559",
-            "displayname":"Hogrefe Publishing GmbH",
-            "url":"https://eu.hogrefe.com"
-        },
-        "description":"Use Hogrefe Portal via Shibboleth SingleSignOn"
-    },
-    {
-        "catalogID":"b6324d575af7e973b118373c916c2f05c8f5b8f8",
-        "resourceName":"elibrary.narr.digital",
-        "resourceProvider":{
-            "name":"e623",
-            "displayname":"Narr Francke Attempto Verlag GmbH + Co. KG",
-            "url":"http://www.narr.de"
-        },
-        "description":"SingleSignOn elibrary.narr.digital"
-    },
-    {
-        "catalogID":"f4b6ebf826a6f7d9280ddfd2644532c9bfc9f582",
-        "resourceName":"SingleSign-On eLibrary Pearson Germany",
-        "resourceProvider":{
-            "name":"e733",
-            "displayname":"Pearson Deutschland GmbH",
-            "url":"https://www.pearson.com"
-        },
-        "description":"SSO ServiceProvider of eLibrary Pearson Germany"
-    },
-    {
-        "catalogID":"e7d6c21d811470b2a439950163a76a4f8ce12f6e",
-        "resourceName":"elibrary.steiner-verlag.de",
-        "resourceProvider":{
-            "name":"e694",
-            "displayname":"Mediengruppe Deutscher Apotheker Verlag, Franz Steiner Verlag",
-            "url":"https://www.deutscher-apotheker-verlag.de/verlag"
-        },
-        "description":"SingleSignOn elibrary.steiner-verlag.de"
-    },
-    {
-        "catalogID":"9c389ad0f262a5e46d8a5783627729b042d1b2fc",
-        "resourceName":"VDI Verlag-eLibrary",
-        "resourceProvider":{
-            "name":"e774",
-            "displayname":"VDI Verlag GmbH",
-            "url":"https://www.vdi-verlag.de"
-        },
-        "description":"The VDI Verlag-eLibrary opens up knowledge for engineers to high-quality technical content of VDI Verlag and VDI Fachmedien. Among these are eleven renowned special interest magazines covering topics like civil engineering, construction/production, logistics, energy and environment, the weekly newspaper VDI nachrichten and more than 300 ebooks of the series VDI-Berichte und Fortschritt-Berichte VDI. The VDI-Berichte provide up-to-date engineering know-how and the newest research results. Current dissertations about technical progress are published in 23 series as Fortschritt-Berichte VDI."
-    },
-    {
-        "catalogID":"4c8cacc027eaa5d680e113aba96e8672fad9027c",
-        "resourceName":"elibrary.verlagoesterreich.at",
-        "resourceProvider":{
-            "name":"e692",
-            "displayname":"Mediengruppe Deutscher Apotheker Verlag, Verlag Österreich",
-            "url":"https://www.deutscher-apotheker-verlag.de/verlag"
-        },
-        "description":"SinglesignOn elibrary.verlagoesterreich.at"
-    },
-    {
-        "catalogID":"42445809908b364b832e5848e2535fb0347e0977",
-        "resourceName":"EPICUR Virtual Campus Learning Platform",
-        "resourceProvider":{
-            "name":"e148",
-            "displayname":"Karlsruhe Institute of Technology (KIT)",
-            "url":"http://www.scc.kit.edu/"
-        },
-        "description":"Die EPICUR Virtual Campus Learning Platform ist die zentrale Lernplattform der EPICUR-Allianz (European Partnership for an Innovative Campus Unifying Regions). Sie wird vom Karlsruher Institut für Technologie gehostet und steht für allen EPICUR-Universitäten zur Verfügung."
-    },
-    {
-        "catalogID":"7254b862d988aff72f42756e08eb9ee362da7131",
-        "resourceName":"Staatsbibliothek zu Berlin Service Provider",
-        "resourceProvider":{
-            "name":"e107",
-            "displayname":"State Library Berlin",
-            "url":"http://staatsbibliothek-berlin.de"
-        },
-        "description":"Von der Staatsbibliothek zu Berlin gehostete Datenbanken für den Zugriff externer Partner und Nutzer."
-    },
-    {
-        "catalogID":"325e84087b5b3af6c4e22549a29335a4370ed288",
-        "resourceName":"evasys+ DE",
-        "resourceProvider":{
-            "name":"e540",
-            "displayname":"evasys GmbH",
-            "url":"https://evasys.de/en/"
-        },
-        "description":"evasys+ Service Provider (DE)"
-    },
-    {
-        "catalogID":"238b2beedc0ee5af71f0ae450eac442a9bfb1364",
-        "resourceName":"Eventmanagement – Paderborn University",
-        "resourceProvider":{
-            "name":"e308",
-            "displayname":"Paderborn University",
-            "url":"http://www.uni-paderborn.de/en/"
-        },
-        "description":"Paderborn University Indico-Service for meetings and conferences."
-    },
-    {
-        "catalogID":"b0caf99c6cb33ec21d1b9bba428616c8657fdd59",
-        "resourceName":"Career Center of FH Burgenland",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"The Career Center by JobTeaser is the official online career platform of FH Burgenland, where students can find information about companies as well as internships and job ads."
-    },
-    {
-        "catalogID":"7c6b17022fbb3f02798d822f4c5e599e3befa88c",
-        "resourceName":"Career Center of FH Joanneum",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"Das Career Center by JobTeaser ist die offizielle Online-Karriereplattform der FH Joanneum, auf der Studierende Informationen über Unternehmen, sowie Stellenanzeigen für Praktika und Festanstellungen finden können."
-    },
-    {
-        "catalogID":"01927b020a5302c5d73757bd6344af88e74082e5",
-        "resourceName":"JuGit - Public Gitlab Instance of Forschungszentrum Jülich GmbH",
-        "resourceProvider":{
-            "name":"e234",
-            "displayname":"Forschungszentrum Jülich GmbH",
-            "url":"http://www.fz-juelich.de"
-        },
-        "description":"JuGit - Public Gitlab Instance of Forschungszentrum Jülich GmbH"
-    },
-    {
-        "catalogID":"54804690dfa4f3e16d6bf12a9c89d3581f13e55b",
-        "resourceName":"Gitlab Server AWI",
-        "resourceProvider":{
-            "name":"e13",
-            "displayname":"Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI)",
-            "url":"https://www.awi.de/en/"
-        },
-        "description":"Gitlab Server"
-    },
-    {
-        "catalogID":"2f22415e921117a8afde6782e4cf121ce438be68",
-        "resourceName":"GitLab - UB Heidelberg",
-        "resourceProvider":{
-            "name":"e42",
-            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
-            "url":"http://www.uni-heidelberg.de"
-        },
-        "description":"GitLab - Entwicklungsumgebung der UB Heidelberg (eingeschränkter Nutzerkreis)"
-    },
-    {
-        "catalogID":"93ebb05f5905d43169dbab426143b3f7937fee6a",
-        "resourceName":"RRZE gitos Server",
-        "resourceProvider":{
-            "name":"e131",
-            "displayname":"Friedrich-Alexander-Universität Erlangen-Nürnberg",
-            "url":"https://www.sso.uni-erlangen.de"
-        },
-        "description":"RRZE hosted GitLab Server"
-    },
-    {
-        "catalogID":"2316a1deff5cfe01db1f02ef1279efcfaa347c90",
-        "resourceName":"Career Center of Hanken School of Economics",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"The Career Center by JobTeaser is the official online career platform of Hanken School of Economics, where students can find information about companies as well as internships and job ads."
-    },
-    {
-        "catalogID":"42a91e094211bfc0b52596c63d13ad8264c2262c",
-        "resourceName":"Career Center of the University of Helsinki",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"The Career Center by JobTeaser is the official online career platform of the University of Helsinki, where students can find information about companies as well as internships and job ads."
-    },
-    {
-        "catalogID":"457e2097f235aaa86fbaad3d9b2a54f26d1cb98e",
-        "resourceName":"HPC Wiki",
-        "resourceProvider":{
-            "name":"e9",
-            "displayname":"Rheinisch-Westfälische Technische Hochschule Aachen",
-            "url":"http://www.rwth-aachen.de"
-        },
-        "description":"The HPC Wiki is a side-independent HPC Documentation"
-    },
-    {
-        "catalogID":"7dad1774b2df880d7d5ae7328eb092fa5f4087d2",
-        "resourceName":"Archiver T-Systems GWDG Onedata",
-        "resourceProvider":{
-            "name":"e519",
-            "displayname":"T-Systems International GmbH",
-            "url":"https://www.t-systems.com"
-        },
-        "description":"Archiver provided by T-Systems GWDG and Onedata for Archiver PCP user group"
-    },
-    {
-        "catalogID":"15257ad0d8f9ecf643a8e6931882470cbf9c15f7",
-        "resourceName":"OTC API Metadata",
-        "resourceProvider":{
-            "name":"e519",
-            "displayname":"T-Systems International GmbH",
-            "url":"https://www.t-systems.com"
-        },
-        "description":"OTC API Metadata"
-    },
-    {
-        "catalogID":"7494faebe1725c9e50e43b13b6e4799d2d850b90",
-        "resourceName":"Indico Paderborn University",
-        "resourceProvider":{
-            "name":"e308",
-            "displayname":"Paderborn University",
-            "url":"http://www.uni-paderborn.de/en/"
-        },
-        "description":"Indico is the central event management platform of Paderborn University. It is based on the the eponymous open-source software. Indico helps members of Paderborn University planning and holding events and conferences of varying size and complexity. External persons may register as attendees."
     },
     {
         "catalogID":"78e4557169289f8f65e453bfcf5c5ebd18a665be",
@@ -34180,36 +34230,6 @@
         "description":"CLARIN:EL is the National Infrastructure for Language Resources and Technologies in Greece"
     },
     {
-        "catalogID":"c628d4a9996f9614c6d287da2a775fb47bcfd7d1",
-        "resourceName":"Career Center of Johannes Kepler Universität Linz",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"The Career Center by JobTeaser is the official online career platform of Johannes Kepler Universität Linz, where students can find information about companies as well as internships and job ads."
-    },
-    {
-        "catalogID":"b8608cf83a116c1592b0cb2309db57f10e3c15f0",
-        "resourceName":"RWTHjupyter",
-        "resourceProvider":{
-            "name":"e9",
-            "displayname":"Rheinisch-Westfälische Technische Hochschule Aachen",
-            "url":"http://www.rwth-aachen.de"
-        },
-        "description":"RWTHjupyter computational environment"
-    },
-    {
-        "catalogID":"e002622920a4a55c11ee1ff511c5f5ff5bc21df3",
-        "resourceName":"Career Center of University of Jyväskylä",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"The Career Center by JobTeaser is the official online career platform of University of Jyväskylä, where students can find information about companies as well as internships and job ads."
-    },
-    {
         "catalogID":"1128e7c1f19cc3fc2391d9790babd1a903da8c10",
         "resourceName":"KA³ Cologne",
         "resourceProvider":{
@@ -34218,166 +34238,6 @@
             "url":"http://clarin.eu"
         },
         "description":"Cologne Center Archiving and Analysis of AV-Data"
-    },
-    {
-        "catalogID":"33f20b51ddd88038d03d3fb34c9585bc2e551482",
-        "resourceName":"Authorization for services of the corpus linguistics and morphology working group.",
-        "resourceProvider":{
-            "name":"e233",
-            "displayname":"Humboldt-University Berlin",
-            "url":"http://www.hu-berlin.de/"
-        },
-        "description":"This service allows the access to resources like corpora based on the association with a research institition."
-    },
-    {
-        "catalogID":"e18225de0cf96eb3b870b543c1100a75e8ff7087",
-        "resourceName":"EDUC Learning",
-        "resourceProvider":{
-            "name":"e343",
-            "displayname":"University of Potsdam",
-            "url":"http://www.uni-potsdam.de/en/index.html"
-        },
-        "description":"EDUC Alliance Moodle"
-    },
-    {
-        "catalogID":"d1b92168cfc9fc290ae0bf89e2d252cf28a771fe",
-        "resourceName":"Testsystem LMS of UdS",
-        "resourceProvider":{
-            "name":"e254",
-            "displayname":"Saarland University",
-            "url":"http://www.uni-saarland.de/nc/en/"
-        },
-        "description":"Testsystem Learning Management System of Saarland University"
-    },
-    {
-        "catalogID":"09b325c198a71431e3b96979e91bf365eeff0c7b",
-        "resourceName":"LMS of UdS",
-        "resourceProvider":{
-            "name":"e254",
-            "displayname":"Saarland University",
-            "url":"http://www.uni-saarland.de/nc/en/"
-        },
-        "description":"Learning Management System of Saarland University"
-    },
-    {
-        "catalogID":"69379d9fd90a6b0cb565fff0287f31ae5938d8ed",
-        "resourceName":"Helmholtz dev AAI",
-        "resourceProvider":{
-            "name":"e234",
-            "displayname":"Forschungszentrum Jülich GmbH",
-            "url":"http://www.fz-juelich.de"
-        },
-        "description":"Instance for integration of new Helmholtz cloud services into Helmholtz AAI"
-    },
-    {
-        "catalogID":"790f1aff80e789d5aefd747c53040d01c5705a68",
-        "resourceName":"CareLit Complete",
-        "resourceProvider":{
-            "name":"e711",
-            "displayname":"hpsmedia GmbH",
-            "url":"https://www.hpsmedia-verlag.de"
-        },
-        "description":"CareLit Complete : Journal database of 350 german Health-care Journals"
-    },
-    {
-        "catalogID":"5f78add808bc142fc36da719983818c6e1ccfd4c",
-        "resourceName":"Helmholtz AAI",
-        "resourceProvider":{
-            "name":"e234",
-            "displayname":"Forschungszentrum Jülich GmbH",
-            "url":"http://www.fz-juelich.de"
-        },
-        "description":"Helmholtz cloud services AAI"
-    },
-    {
-        "catalogID":"6d75c669b4b5dcdae796ab557238241e21c134ff",
-        "resourceName":"German Cancer Research Center: Medical Informatics in Translational Oncology",
-        "resourceProvider":{
-            "name":"e286",
-            "displayname":"Deutsches Krebsforschungszentrum - Stiftung des öffentlichen Rechts",
-            "url":"http://www.dkfz.de"
-        },
-        "description":"Web services provided by the dept. of Medical Informatics in Translational Oncology, German Cancer Research Center (DKFZ), Heidelberg"
-    },
-    {
-        "catalogID":"629c017be2356336a7cd6232d19ce2e749e2e749",
-        "resourceName":"LOOOP Project",
-        "resourceProvider":{
-            "name":"e609",
-            "displayname":"Charité – Universitätsmedizin Berlin",
-            "url":"https://www.charite.de/en/"
-        },
-        "description":"LOOOP Project of Charité Universitätsmedizin Berlin"
-    },
-    {
-        "catalogID":"c4bd55b6f66365e7166a5524219d4c89ff3029ea",
-        "resourceName":"Moodle learning platform at Munich University of Applied Sciences",
-        "resourceProvider":{
-            "name":"e119",
-            "displayname":"Hochschule München",
-            "url":"http://www.hm.edu"
-        },
-        "description":"Moodle learning platform at Munich University of Applied Sciences"
-    },
-    {
-        "catalogID":"40d6df1d67bd935eb6431d29b242d978da7d4624",
-        "resourceName":"LMU Moodle",
-        "resourceProvider":{
-            "name":"e29",
-            "displayname":"LMU Munich",
-            "url":"http://www.en.lmu.de"
-        },
-        "description":"Ludwig-Maximilians-Universität München - Moodle"
-    },
-    {
-        "catalogID":"edaf5f20ea2539f2ba984033c71ef07bf3d00412",
-        "resourceName":"Moodle of University Augsburg",
-        "resourceProvider":{
-            "name":"e378",
-            "displayname":"University of Augsburg",
-            "url":"http://www.uni-augsburg.de/en/"
-        },
-        "description":"Moodle of University Augsburg"
-    },
-    {
-        "catalogID":"27316b04d04dd555d61fb4e54752c9834236073f",
-        "resourceName":"Moodle der Uni Leipzig",
-        "resourceProvider":{
-            "name":"e256",
-            "displayname":"University of Leipzig",
-            "url":"https://www.uni-leipzig.de"
-        },
-        "description":"E-Learning-Server \"Moodle\" der Universitaet Leipzig"
-    },
-    {
-        "catalogID":"e6f0360f5b556f6ab5bf39345569162a2ba3ca9e",
-        "resourceName":"myArthistoricum.net",
-        "resourceProvider":{
-            "name":"e42",
-            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
-            "url":"http://www.uni-heidelberg.de"
-        },
-        "description":"Profildienst für arthistoricum.net"
-    },
-    {
-        "catalogID":"ad2d319497944100b5d8fd24abbb1c61c323c916",
-        "resourceName":"myPropylaeum.de",
-        "resourceProvider":{
-            "name":"e42",
-            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
-            "url":"http://www.uni-heidelberg.de"
-        },
-        "description":"Profildienst für propylaeum.de"
-    },
-    {
-        "catalogID":"9fc25606b1476443ce8dfea8303c7e089fe913c2",
-        "resourceName":"MyMi.mobile by Ulm University",
-        "resourceProvider":{
-            "name":"e216",
-            "displayname":"Universität Ulm",
-            "url":"http://www.uni-ulm.de"
-        },
-        "description":"Virtual microscope developed by the Institute of Molecular and Cellular Anatomy of Ulm University with virtual histology courses from Ulm University and University of Freiburg"
     },
     {
         "catalogID":"f8e1e427cb18d23d8ca924d2c01604c05969033f",
@@ -34390,26 +34250,6 @@
         "description":"This Service Provider provides access to the Meertens Institute's SKOS Repository"
     },
     {
-        "catalogID":"3d5f6841318836e47d9d2b489b310a8b4276a0e4",
-        "resourceName":"StuDiPlat HS Mittweida",
-        "resourceProvider":{
-            "name":"e138",
-            "displayname":"Hochschule Mittweida University of Applied Sciences",
-            "url":"http://www.hs-mittweida.de/"
-        },
-        "description":"Eureca Pro"
-    },
-    {
-        "catalogID":"9e7b27d7022bd6cb9d3120e66fe067eba74a45dd",
-        "resourceName":"Career Center of Polytechnique",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"The Career Center by JobTeaser is the official online career platform of [school name], where students can find information about companies as well as internships and job ads."
-    },
-    {
         "catalogID":"909b6a5fd362fb5727cfcef90d0c47554275f73e",
         "resourceName":"INT portal - CLARIN services",
         "resourceProvider":{
@@ -34420,24 +34260,14 @@
         "description":"Institute for Dutch Language (INT) projects attached to the CLARIN infrastructure."
     },
     {
-        "catalogID":"0f1fdc95982a111f8a47117ec404fa3d4d534887",
-        "resourceName":"NHR@FAU HPC-Portal",
+        "catalogID":"e23d378b5ab81d14fde52d07facd81aa5f7e4e2d",
+        "resourceName":"HZSK, University of Hamburg",
         "resourceProvider":{
-            "name":"e131",
-            "displayname":"Friedrich-Alexander-Universität Erlangen-Nürnberg",
-            "url":"https://www.sso.uni-erlangen.de"
+            "name":"e459",
+            "displayname":"CLARIN ERIC",
+            "url":"http://clarin.eu"
         },
-        "description":"FAU HPC-Portal"
-    },
-    {
-        "catalogID":"4e1dfaa5170aeb036babd413f294832715c3be8a",
-        "resourceName":"Recensio Artium - arthistoricum.net",
-        "resourceProvider":{
-            "name":"e42",
-            "displayname":"Universität Heidelberg (Ruprecht-Karls-Universität)",
-            "url":"http://www.uni-heidelberg.de"
-        },
-        "description":"recensio.artium is the central index for reviews of art historical literature. The online catalogue enables a quick search of reviews of monographs, journals and articles in the field of art studies as well as reviewed works. Not only the metadata, but also the full text of the open access reviews can be searched. Exhibition reviews are also listed in recensio.artium"
+        "description":"The Hamburg Centre for Language Corpora (HZSK) provides access to the HZSK Repository"
     },
     {
         "catalogID":"1d2aa72caf5cae02a76afb74e25fa1566984a333",
@@ -34450,16 +34280,6 @@
         "description":"Project management system Redmine offered as service to the DH community"
     },
     {
-        "catalogID":"2e17275ff5de44514541d725870650e1dbf70510",
-        "resourceName":"Registration for TID Wiki",
-        "resourceProvider":{
-            "name":"e15",
-            "displayname":"German National Research and Education Network, DFN",
-            "url":"http://www.dfn.de/en/"
-        },
-        "description":"Registration for TID Wiki"
-    },
-    {
         "catalogID":"5c8c372f5fe79f1da9028cb657292fa4ce2584d7",
         "resourceName":"CLARINO Bergen Repository",
         "resourceProvider":{
@@ -34468,16 +34288,6 @@
             "url":"http://clarin.eu"
         },
         "description":"The CLARINO Bergen Repository for language resources at the University of Bergen"
-    },
-    {
-        "catalogID":"54173b91f4fb27ce140c8632500e60cb326e187f",
-        "resourceName":"Research Data Respository",
-        "resourceProvider":{
-            "name":"e217",
-            "displayname":"Leibniz-Institut für Deutsche Sprache (IDS)",
-            "url":"http://www.ids-mannheim.de"
-        },
-        "description":"Repository of language resources provided by the Leibniz-Institute for the German Language (IDS)."
     },
     {
         "catalogID":"d93a6ec9584e8e7f9bae4a265f28c0a23096589e",
@@ -34510,26 +34320,6 @@
         "description":"Digital repository and services of the CLARIN Latvia."
     },
     {
-        "catalogID":"ca88821c757a829ce804b507c4d19d064c040409",
-        "resourceName":"RILM Music Encyclopedias",
-        "resourceProvider":{
-            "name":"e570",
-            "displayname":"Répertoire International de Littérature Musicale (RILM)",
-            "url":"http://www.rilm.org"
-        },
-        "description":"RILM Music Encyclopedias is an ever-expanding full-text compilation of reference works that facilitates unprecedented combined searches. It provides comprehensive encyclopedic coverage of the most important fields and subject areas of historical musicology, ethnomusicology, and theory, with topics ranging from popular music and rock, opera, instruments, and blues and gospel to recorded music and women composers. Its content spans multiple countries and languages—currently English, German, French, Italian, Czech, Dutch, Greek, Portuguese, Slovak, and Spanish. New encyclopedias are being added annually and the Komponisten der Gegenwart receives periodic updates. In 2020, the collection includes 57 titles published from 1775 to the present and comprising over 330,000 entries."
-    },
-    {
-        "catalogID":"8de0d0c3e8d2c712ac9b4085c18aeccf3519c3fc",
-        "resourceName":"Kunst und Funktion",
-        "resourceProvider":{
-            "name":"e5",
-            "displayname":"Freie Universität Berlin",
-            "url":"https://identity.fu-berlin.de/idp-fub/"
-        },
-        "description":"Die Geschichte der Kunst im Wandel ihrer Funktionen\", kurz \"Kunst und Funktion\" genannt, ist ein Internet-Lernprogramm, das einen Überblick über die Kunstgeschichte in 30 Kapiteln unter der besonderen Fragestellung der Funktion von Kunst bietet."
-    },
-    {
         "catalogID":"1fd436e45b6bd5120c5380471e1f5943eb177612",
         "resourceName":"Huygens ING (CLARIN services)",
         "resourceProvider":{
@@ -34538,116 +34328,6 @@
             "url":"http://clarin.eu"
         },
         "description":"Various services provided by Huygens ING in the context of the CLARIN initiative."
-    },
-    {
-        "catalogID":"d571f626895cb305a9d2902aa3fb92f46d337774",
-        "resourceName":"REDCap",
-        "resourceProvider":{
-            "name":"e300",
-            "displayname":"Technische Universität Dresden",
-            "url":"http://www.tu-dresden.de"
-        },
-        "description":"Data management using REDCap"
-    },
-    {
-        "catalogID":"c1df46bd85c4e622a52621870122ebb71b2d94be",
-        "resourceName":"AllThatStats",
-        "resourceProvider":{
-            "name":"e532",
-            "displayname":"DSI Data Service and Information GmbH",
-            "url":"http://www.dsidata.com"
-        },
-        "description":"Access world-wide economic statistics from leading sources."
-    },
-    {
-        "catalogID":"8164b474a6484012af5b06f57f9860ed6501a808",
-        "resourceName":"F.A.Z.-Bibliotheksportal",
-        "resourceProvider":{
-            "name":"e199",
-            "displayname":"GBI-Genios Deutsche Wirtschaftsdatenbank",
-            "url":"http://www.genios.de"
-        },
-        "description":"Die Frankfurter Allgemeine Zeitung ist die deutsche Referenzzeitung, ein für jede Bibliothek unverzichtbares Nachschlagewerk und Chronik der Zeitgeschichte. Sie ist eine der wenigen deutschsprachigen Qualitätszeitungen, die vom ersten Erscheinungstag (1. November 1949) an digital verfügbar sind."
-    },
-    {
-        "catalogID":"3d1ecacb2c185bc44e49178b381130e6bb0d052d",
-        "resourceName":"BBAW - CLARIN services",
-        "resourceProvider":{
-            "name":"e209",
-            "displayname":"Berlin-Brandenburgische Akademie der Wissenschaften",
-            "url":"http://www.bbaw.de"
-        },
-        "description":"Various services provided by the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)"
-    },
-    {
-        "catalogID":"369021b97d988a78e2ba0e8a434b1c427a3394bf",
-        "resourceName":"GBI-Genios Deutsche Wirtschaftsdatenbanken GmbH",
-        "resourceProvider":{
-            "name":"e199",
-            "displayname":"GBI-Genios Deutsche Wirtschaftsdatenbank",
-            "url":"http://www.genios.de"
-        },
-        "description":"GENIOS ist die größte Online-Wirtschaftsdatenbank in Deutschland und ein Tochterunternehmen der Frankfurter Allgemeinen Zeitung und der Verlagsgruppe Handelsblatt. Über www.genios.de hat der Nutzer direkten Zugriff auf rund 1.000 Datenbanken von mehr als 250 namhaften Verlagen und Informationsanbietern. GENIOS bietet hochwertige Qualitätsinformationen aus Wirtschaft, Management, Unternehmen, Politik und Wissenschaft."
-    },
-    {
-        "catalogID":"31ff0b9f926e580f1bc2bb6eff23edaf4ad0e0f2",
-        "resourceName":"Fraunhofer IRB",
-        "resourceProvider":{
-            "name":"e707",
-            "displayname":"Fraunhofer-Informationszentrum Raum und Bau IRB",
-            "url":"https://irb.fraunhofer.de"
-        },
-        "description":"Fraunhofer Instituts für Raum und Bau Applications"
-    },
-    {
-        "catalogID":"3f7bcaa1ea7a2d4e41d72aab3d734cbf9473bc67",
-        "resourceName":"Mohr-Siebeck eLibrary",
-        "resourceProvider":{
-            "name":"e568",
-            "displayname":"Mohr-Siebeck eLibrary",
-            "url":"https://www.mohrsiebeck.com/"
-        },
-        "description":"Shibboleth/Saml Service Provider of Mohr-Siebeck eLibrary"
-    },
-    {
-        "catalogID":"83288e7131abe60a28c4f659b41cc88ba559541c",
-        "resourceName":"Statista",
-        "resourceProvider":{
-            "name":"e243",
-            "displayname":"Statista GmbH",
-            "url":"https://www.statista.com"
-        },
-        "description":"Access to paid statistics from statistic portal Statista for universities that have a campus license"
-    },
-    {
-        "catalogID":"a1c84ac79e1f03f65a9e52378eff6164e5ecc8f1",
-        "resourceName":"TUM Whole Slide Viewer",
-        "resourceProvider":{
-            "name":"e8",
-            "displayname":"Technical University of Munich (TUM)",
-            "url":"https://www.tum.de/en"
-        },
-        "description":"TUM Whole Slide Viewer to view and annotate digital pathology whole slide images"
-    },
-    {
-        "catalogID":"8f8d28ec276597736d044c4c0d59dbe0b353db6e",
-        "resourceName":"SMILE - Smartphones in der Lehre",
-        "resourceProvider":{
-            "name":"e14",
-            "displayname":"Albert-Ludwigs-Universität Freiburg",
-            "url":"http://www.uni-freiburg.de/"
-        },
-        "description":"SMILE serves as a lecture-supporting system which students and lecturers can use with their usual login data given by their home institution. The system offers - among other functions - live feedback for the lecturer and quizzes for checking the learning process of the students."
-    },
-    {
-        "catalogID":"0a88420bb04d3cf5a0fb0bf933b3802b746dc577",
-        "resourceName":"asknet AG Serviceprovider (Global)",
-        "resourceProvider":{
-            "name":"e111",
-            "displayname":"asknet Solutions AG",
-            "url":"https://www.asknet.com"
-        },
-        "description":"Service Provider der asknet AG in Karlsruhe zur Verifizierung von Studenten."
     },
     {
         "catalogID":"09fece915e8ea3acfa0a116413c603dbb3cecba1",
@@ -34668,16 +34348,6 @@
             "url":"http://clarin.eu"
         },
         "description":"Repository for sharing and depositing language tools and resources."
-    },
-    {
-        "catalogID":"fc8f041dacd4c0bd7e4169f683db1ef2e271ea81",
-        "resourceName":"Universität Bremen - Zentrum für Multimedia in der Lehre",
-        "resourceProvider":{
-            "name":"e67",
-            "displayname":"University of Bremen",
-            "url":"http://www.uni-bremen.de/en/"
-        },
-        "description":"Stud.IP elearning Universität Bremen"
     },
     {
         "catalogID":"2aca74b00ea24359b9af0f1ac7131885bac5312a",
@@ -34730,76 +34400,6 @@
         "description":"For the Virtual Collection Registry."
     },
     {
-        "catalogID":"5388fb800935c2b214290538c38bb779d8d04771",
-        "resourceName":"SOS for Building Data",
-        "resourceProvider":{
-            "name":"e8",
-            "displayname":"Technical University of Munich (TUM)",
-            "url":"https://www.tum.de/en"
-        },
-        "description":"Sensor Observation Service for Environmental Data (Demo) in Project Smart Sustainable Districts"
-    },
-    {
-        "catalogID":"0138cf224c9faabd3fef14e12b8fe1ca74f28af4",
-        "resourceName":"SOS for Building Energy Data",
-        "resourceProvider":{
-            "name":"e8",
-            "displayname":"Technical University of Munich (TUM)",
-            "url":"https://www.tum.de/en"
-        },
-        "description":"Sensor Observation Service for Building Energy Data (Demo) in Projekt Smart Sustainable Districts"
-    },
-    {
-        "catalogID":"ab0068707297eb42569648b02325c14f05ae4393",
-        "resourceName":"CASUS - case based learning",
-        "resourceProvider":{
-            "name":"e26",
-            "displayname":"CASUS - Instruct gGmbH",
-            "url":"http://www.instruct.eu/en"
-        },
-        "description":"Case based learningsystem primarily for medical education, consists of a player for students + authoring and administration environment."
-    },
-    {
-        "catalogID":"c71fa2f80000741df50d1441da60de8bf9cd2db8",
-        "resourceName":"sirop.org platform",
-        "resourceProvider":{
-            "name":"e454",
-            "displayname":"sirop.org platform",
-            "url":"https://sirop.org"
-        },
-        "description":"Thousands of students and researchers use SiROP to post and search open positions such as internships, Master, Bachelor or PhD projects and PostDoc positions. We connect students, researchers and institutions."
-    },
-    {
-        "catalogID":"09e731ba4facf49fa591a235bb84cc06101ca603",
-        "resourceName":"Universität Münster",
-        "resourceProvider":{
-            "name":"e247",
-            "displayname":"Westfälische Wilhelms-Universität Münster",
-            "url":"https://www.uni-muenster.de/en/"
-        },
-        "description":"This central Single Sign-On covers almost all WWW services of the university of Münster. Required are: eduPersonPrincipalName OR a persistent SAML2-NameID OR eduPersonTargetedID"
-    },
-    {
-        "catalogID":"8e1f0a7803869e8f047f6767ea1628c6cc4bcc42",
-        "resourceName":"Studid",
-        "resourceProvider":{
-            "name":"e714",
-            "displayname":"Nekami",
-            "url":"https://nekami.de"
-        },
-        "description":"Service Provider for Studid."
-    },
-    {
-        "catalogID":"e20e90cdc95122843c1b1dd568abd85a2183a530",
-        "resourceName":"Stud.IP Goettingen University",
-        "resourceProvider":{
-            "name":"e112",
-            "displayname":"Gesellschaft für wissenschaftliche Datenverarbeitung mbH",
-            "url":"http://www.gwdg.de"
-        },
-        "description":"Georg-August-Universität Göttingen Stud.IP"
-    },
-    {
         "catalogID":"b140b08106f7fa2dc3c0e9a2f6c95da869b35eb7",
         "resourceName":"TalkBank",
         "resourceProvider":{
@@ -34808,26 +34408,6 @@
             "url":"http://clarin.eu"
         },
         "description":"Transcript corpora of conversational interactions involving older children and adults."
-    },
-    {
-        "catalogID":"c66f988c89df3f7345dac81aec44c99b23a9e30e",
-        "resourceName":"Career Center of Tampere University of Applied Sciences",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"The Career Center by JobTeaser is the official online career platform of Tampere University of Applied Sciences, where students can find information about companies as well as internships and job ads."
-    },
-    {
-        "catalogID":"c464df607904d21634e9d0deccbb1d229ccfebdb",
-        "resourceName":"Career Center of Tampere University",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"The Career Center by JobTeaser is the official online career platform of Tampere University, where students can find information about companies as well as internships and job ads."
     },
     {
         "catalogID":"965ffafded14b43c0ad2297300ab013a8bffbfde",
@@ -34850,46 +34430,6 @@
         "description":"Glossa is a tool for researchers who want to search linguistically annotated corpora"
     },
     {
-        "catalogID":"67108a2852500b7b06daf7d3f7ead38c31b6797a",
-        "resourceName":"Universität Münster (Staging)",
-        "resourceProvider":{
-            "name":"e247",
-            "displayname":"Westfälische Wilhelms-Universität Münster",
-            "url":"https://www.uni-muenster.de/en/"
-        },
-        "description":"This central Single Sign-On covers almost all services of the university of Münster (Alternative entry point, same services) and is used to test deviating Shibboleth configurations in practical operation. Currently required: subject-id"
-    },
-    {
-        "catalogID":"4efbb499be760374e01b8879eb507a9bbc636a6d",
-        "resourceName":"tetfolio",
-        "resourceProvider":{
-            "name":"e5",
-            "displayname":"Freie Universität Berlin",
-            "url":"https://identity.fu-berlin.de/idp-fub/"
-        },
-        "description":"The tetfolio is a platform for teachers and students using interactive multimedia web content."
-    },
-    {
-        "catalogID":"2a30ac227e71ccbb5a9a084ddc13e45e81d40be9",
-        "resourceName":"Career Center of Tampere University",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"The Career Center by JobTeaser is the official online career platform of the Tampere University, where students can find information about companies as well as internships and job ads."
-    },
-    {
-        "catalogID":"7b7438965778be7e39d0e7b2d588fbd090d6be7d",
-        "resourceName":"Career Center of the University of Eastern Finland",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"The Career Center by JobTeaser is the official online career platform of the University of Eastern Finland, where students can find information about companies as well as internships and job ads."
-    },
-    {
         "catalogID":"be56c65092b9402eaa74ff0a320f3352d3f22cf8",
         "resourceName":"LINDAT/CLARIN services",
         "resourceProvider":{
@@ -34898,56 +34438,6 @@
             "url":"http://clarin.eu"
         },
         "description":"LINDAT/CLARIN digital repository and services focused on language research infrastructure"
-    },
-    {
-        "catalogID":"4c149678685792b1f5767b0a99e453ce0eb276ed",
-        "resourceName":"UnterrichtOnline - Unterrichtsaufzeichnungen für Forschung und Lehre",
-        "resourceProvider":{
-            "name":"e29",
-            "displayname":"LMU Munich",
-            "url":"http://www.en.lmu.de"
-        },
-        "description":"Die LMU UnterrichtsMitschau zeichnet seit 1968 Unterricht auf und entwickelt nun zusammen mit verschiedenen Kooperationspartnern ein Portal für zugriffsgeschützten videographierten Unterricht. Dieser wird bei Nachweis eines entsprechenden fachlichen Interesses Einrichtungen aus der Lehreraus-, -fort- und -weiterbildung für unterschiedliche Settings in Forschung und Lehre zur Verfügung gestellt. Dabei werden, neben forschungsbasierten Einsatzmöglichkeiten durch die Integration von Annotations-, Diskussions- und Interaktionsmöglichkeiten, auch komplexe Lehr-Lernszenarien ermöglicht."
-    },
-    {
-        "catalogID":"7dcdc09c5a4070e3f0f8f51014df41945b731467",
-        "resourceName":"Career Center of the University of Turku",
-        "resourceProvider":{
-            "name":"e634",
-            "displayname":"JobTeaser SA",
-            "url":"https://www.jobteaser.com/en"
-        },
-        "description":"The Career Center by JobTeaser is the official online career platform of the University of Turku, where students can find information about companies as well as internships and job ads."
-    },
-    {
-        "catalogID":"acad1132982e70455f4d4768b719e870b2703e81",
-        "resourceName":"Virtual Campus University of Bamberg",
-        "resourceProvider":{
-            "name":"e158",
-            "displayname":"University of Bamberg",
-            "url":"https://www.uni-bamberg.de/en/"
-        },
-        "description":"University of Bamberg central eLearning-system based on moodle"
-    },
-    {
-        "catalogID":"b36d241ff2222f3f30a09df1e3e3a1e241b973c6",
-        "resourceName":"Virtual committees University of Bamberg",
-        "resourceProvider":{
-            "name":"e158",
-            "displayname":"University of Bamberg",
-            "url":"https://www.uni-bamberg.de/en/"
-        },
-        "description":"Virtual committees University of Bamberg"
-    },
-    {
-        "catalogID":"9c6c50d337f979d691c1415cea63b55e95f3eb6f",
-        "resourceName":"Video portals ViU and ProVision, Meta-Videoportal",
-        "resourceProvider":{
-            "name":"e247",
-            "displayname":"Westfälische Wilhelms-Universität Münster",
-            "url":"https://www.uni-muenster.de/en/"
-        },
-        "description":"The video portals “ViU: Early Science - Videobasierte Unterrichtsanalyse“ and “ProVision” contain lesson records from different grades and subjects as well as additional materials and notes on the use of these videos in courses. (Please see our privacy statement.) The Meta-Videoportal combines several video portals. – Required data are (ONE OF eppn subject-id pairwise-id persistent-id targeted-id) AND (mail) AND (displayName or (sn AND givenName))."
     },
     {
         "catalogID":"2841a200038cc11cb9c9867f25289e1a56706d48",
@@ -34970,56 +34460,6 @@
         "description":"WebLicht is a service orchestration and execution environment for automatic linguistic annotation."
     },
     {
-        "catalogID":"1c838ed9b00e5623007feb1aeeefb11909f4740b",
-        "resourceName":"Authentication as a Service",
-        "resourceProvider":{
-            "name":"e572",
-            "displayname":"Secure Dimensions GmbH",
-            "url":"http://www.secure-dimensions.de"
-        },
-        "description":"Federated authentication for registered applications and services."
-    },
-    {
-        "catalogID":"a8885233b96b47866f849231ca284afcd50cb108",
-        "resourceName":"C.H.Beck eLibrary",
-        "resourceProvider":{
-            "name":"e507",
-            "displayname":"VERLAG C.H.BECK oHG",
-            "url":"http://www.beck.de"
-        },
-        "description":"C.H.Beck eLibrary provides access to issues of the following journals: Gnomon, Journal of Modern European History (JMEH) and Journal of Business History."
-    },
-    {
-        "catalogID":"dc5a08bb9485b21f4094c898a15786bfea7c1793",
-        "resourceName":"Central and Eastern European Online Library",
-        "resourceProvider":{
-            "name":"e697",
-            "displayname":"Central and Eastern European Online Library",
-            "url":"https://www.ceeol.com"
-        },
-        "description":"Repository of Central-, East- and South-East scholarly literature (2.300 Journals, 4.700 eBooks, various documents of Gray Literature)"
-    },
-    {
-        "catalogID":"56a9fee789efa0c762051a14a352fe2153fbed04",
-        "resourceName":"Conference management",
-        "resourceProvider":{
-            "name":"e84",
-            "displayname":"University of Hamburg",
-            "url":"https://www.uni-hamburg.de/en.html"
-        },
-        "description":"The conference management software of Universitaet Hamburg"
-    },
-    {
-        "catalogID":"dd1d07b1ec64fbd0e9f14625e41e777b6d97ef11",
-        "resourceName":"De Gruyter",
-        "resourceProvider":{
-            "name":"e190",
-            "displayname":"Walter de Gruyter Verlag",
-            "url":"http://www.degruyter.com"
-        },
-        "description":"The new De Gruyter platform contains all electronic publications published by De Gruyter. The platform offers access to  journals, around eBooks and a variety of online reference works and bibliographies."
-    },
-    {
         "catalogID":"b789a3a174a0187c848e235a7ead39f90a4608c0",
         "resourceName":"Meertens Institute",
         "resourceProvider":{
@@ -35028,16 +34468,6 @@
             "url":"http://clarin.eu"
         },
         "description":"This Service Provider regulates access to the Meertens Institute Archive and selected services"
-    },
-    {
-        "catalogID":"cbb25b2387a6a37912f88e965d6806b30a8f889f",
-        "resourceName":"MGG Online",
-        "resourceProvider":{
-            "name":"e570",
-            "displayname":"Répertoire International de Littérature Musicale (RILM)",
-            "url":"http://www.rilm.org"
-        },
-        "description":"Die Musik in Geschichte und Gegenwart (MGG) is a general encyclopedia of music. MGG Online contains the second print edition of MGG, published from 1994 to 2008, as well as current, continuous online updates and additions."
     },
     {
         "catalogID":"ba04544ae2bfab35b5a9acf0f21ff8089b1a98a8",
@@ -35050,6 +34480,16 @@
         "description":"This Service Provider regulates access to the Nederlab research environment"
     },
     {
+        "catalogID":"2d4990d19e4519095ee99737af161554557b69df",
+        "resourceName":"CLARIN-PL Repository",
+        "resourceProvider":{
+            "name":"e459",
+            "displayname":"CLARIN ERIC",
+            "url":"http://clarin.eu"
+        },
+        "description":"CLARIN-PL Digital Repository - Polish Section of CLARIN ERIC"
+    },
+    {
         "catalogID":"2e8b2a46af532a4667158e51989fee5f6bcac224",
         "resourceName":"Nomos eLibrary",
         "resourceProvider":{
@@ -35058,6 +34498,36 @@
             "url":"https://www.nomos.de"
         },
         "description":"The Nomos eLibrary is the publisher's way of providing easy access to published material from the fields of Law, Politics, Economics, Media & Communication Studies, History, Sociology, Education Research, Cultural Science, EU Studies, Health Science and Philosophy."
+    },
+    {
+        "catalogID":"8d29f6e81141c36ac71827d8b33154ba6561af14",
+        "resourceName":"Tectum eLibrary",
+        "resourceProvider":{
+            "name":"e482",
+            "displayname":"Nomos Verlagsgesellschaft mbH & Co. KG",
+            "url":"https://www.nomos.de"
+        },
+        "description":"The Tectum eLibrary is the publisher's way of providing easy access to published material from the fields of Law, Politics, Economics, Media and Communication Studies, History, Sociology, Education Research, Cultural Science, EU Studies, Health Science, Philosophy and Religion."
+    },
+    {
+        "catalogID":"1c8a393e12964db46dfdcf80a6d719ecc79279a4",
+        "resourceName":"Brockhaus.at",
+        "resourceProvider":{
+            "name":"e492",
+            "displayname":"NE GmbH | BROCKHAUS",
+            "url":"http://www.brockhaus.de"
+        },
+        "description":"With the most comprehensive digital lexical stock in the German-speaking world, schools and libraries are opening up an indispensable, reliable, edited and up-to-date source of knowledge online."
+    },
+    {
+        "catalogID":"4d390a96ad7e971b70fc2efcb2137f24d9b58336",
+        "resourceName":"BROCKHAUS",
+        "resourceProvider":{
+            "name":"e492",
+            "displayname":"NE GmbH | BROCKHAUS",
+            "url":"http://www.brockhaus.de"
+        },
+        "description":"With the most comprehensive digital lexical stock in the German-speaking world, schools and libraries are opening up an indispensable, reliable, edited and up-to-date source of knowledge online."
     },
     {
         "catalogID":"5276c510278ed8d5daa07f2ad2be150a40ff1f69",
@@ -35070,24 +34540,554 @@
         "description":"PlagScan compares your document with billions of others and highlights relevant correlations between them. It enables our users to identify fraudsters by checking documents with our online plagiarism detection platform in real time."
     },
     {
-        "catalogID":"76c2a68d6940199a7427f367a792749099507c9d",
-        "resourceName":"MOBILITY-ONLINE Austria",
+        "catalogID":"a8885233b96b47866f849231ca284afcd50cb108",
+        "resourceName":"C.H.Beck eLibrary",
         "resourceProvider":{
-            "name":"e370",
-            "displayname":"SOP Hilmbauer & Mauberger GmbH & Co KG",
-            "url":"http://www.sop-at.com/en/"
+            "name":"e507",
+            "displayname":"VERLAG C.H.BECK oHG",
+            "url":"http://www.beck.de"
         },
-        "description":"http://www.sop-at.com/en/"
+        "description":"C.H.Beck eLibrary provides access to issues of the following journals: Gnomon, Journal of Modern European History (JMEH) and Journal of Business History."
     },
     {
-        "catalogID":"8d29f6e81141c36ac71827d8b33154ba6561af14",
-        "resourceName":"Tectum eLibrary",
+        "catalogID":"a183b5b7064cd747475363ccb58ebf9fedd27075",
+        "resourceName":"Open Telekom Cloud",
         "resourceProvider":{
-            "name":"e482",
-            "displayname":"Nomos Verlagsgesellschaft mbH & Co. KG",
-            "url":"https://www.nomos.de"
+            "name":"e519",
+            "displayname":"T-Systems International GmbH",
+            "url":"https://www.t-systems.com"
         },
-        "description":"The Tectum eLibrary is the publisher's way of providing easy access to published material from the fields of Law, Politics, Economics, Media and Communication Studies, History, Sociology, Education Research, Cultural Science, EU Studies, Health Science, Philosophy and Religion."
+        "description":"Open Telekom Cloud"
+    },
+    {
+        "catalogID":"7dad1774b2df880d7d5ae7328eb092fa5f4087d2",
+        "resourceName":"Archiver T-Systems GWDG Onedata",
+        "resourceProvider":{
+            "name":"e519",
+            "displayname":"T-Systems International GmbH",
+            "url":"https://www.t-systems.com"
+        },
+        "description":"Archiver provided by T-Systems GWDG and Onedata for Archiver PCP user group"
+    },
+    {
+        "catalogID":"15257ad0d8f9ecf643a8e6931882470cbf9c15f7",
+        "resourceName":"OTC API Metadata",
+        "resourceProvider":{
+            "name":"e519",
+            "displayname":"T-Systems International GmbH",
+            "url":"https://www.t-systems.com"
+        },
+        "description":"OTC API Metadata"
+    },
+    {
+        "catalogID":"c1df46bd85c4e622a52621870122ebb71b2d94be",
+        "resourceName":"AllThatStats",
+        "resourceProvider":{
+            "name":"e532",
+            "displayname":"DSI Data Service and Information GmbH",
+            "url":"http://www.dsidata.com"
+        },
+        "description":"Access world-wide economic statistics from leading sources."
+    },
+    {
+        "catalogID":"325e84087b5b3af6c4e22549a29335a4370ed288",
+        "resourceName":"evasys+ DE",
+        "resourceProvider":{
+            "name":"e540",
+            "displayname":"evasys GmbH",
+            "url":"https://evasys.de/en/"
+        },
+        "description":"evasys+ Service Provider (DE)"
+    },
+    {
+        "catalogID":"f796c0095cef3e0a2723e3500197363be950c996",
+        "resourceName":"dorsch.hogrefe.com",
+        "resourceProvider":{
+            "name":"e559",
+            "displayname":"Hogrefe Publishing GmbH",
+            "url":"https://eu.hogrefe.com"
+        },
+        "description":"SingleSignOn dorsch.hogrefe.com"
+    },
+    {
+        "catalogID":"25ecbbab034145ad004cbb2dd03f2bc083319b69",
+        "resourceName":"elibrary.hogrefe.de",
+        "resourceProvider":{
+            "name":"e559",
+            "displayname":"Hogrefe Publishing GmbH",
+            "url":"https://eu.hogrefe.com"
+        },
+        "description":"Use Hogrefe Portal via Shibboleth SingleSignOn"
+    },
+    {
+        "catalogID":"3f7bcaa1ea7a2d4e41d72aab3d734cbf9473bc67",
+        "resourceName":"Mohr-Siebeck eLibrary",
+        "resourceProvider":{
+            "name":"e568",
+            "displayname":"Mohr-Siebeck eLibrary",
+            "url":"https://www.mohrsiebeck.com/"
+        },
+        "description":"Shibboleth/Saml Service Provider of Mohr-Siebeck eLibrary"
+    },
+    {
+        "catalogID":"ca88821c757a829ce804b507c4d19d064c040409",
+        "resourceName":"RILM Music Encyclopedias",
+        "resourceProvider":{
+            "name":"e570",
+            "displayname":"Répertoire International de Littérature Musicale (RILM)",
+            "url":"http://www.rilm.org"
+        },
+        "description":"RILM Music Encyclopedias is an ever-expanding full-text compilation of reference works that facilitates unprecedented combined searches. It provides comprehensive encyclopedic coverage of the most important fields and subject areas of historical musicology, ethnomusicology, and theory, with topics ranging from popular music and rock, opera, instruments, and blues and gospel to recorded music and women composers. Its content spans multiple countries and languages—currently English, German, French, Italian, Czech, Dutch, Greek, Portuguese, Slovak, and Spanish. New encyclopedias are being added annually and the Komponisten der Gegenwart receives periodic updates. In 2020, the collection includes 57 titles published from 1775 to the present and comprising over 330,000 entries."
+    },
+    {
+        "catalogID":"cbb25b2387a6a37912f88e965d6806b30a8f889f",
+        "resourceName":"MGG Online",
+        "resourceProvider":{
+            "name":"e570",
+            "displayname":"Répertoire International de Littérature Musicale (RILM)",
+            "url":"http://www.rilm.org"
+        },
+        "description":"Die Musik in Geschichte und Gegenwart (MGG) is a general encyclopedia of music. MGG Online contains the second print edition of MGG, published from 1994 to 2008, as well as current, continuous online updates and additions."
+    },
+    {
+        "catalogID":"1c838ed9b00e5623007feb1aeeefb11909f4740b",
+        "resourceName":"Authentication as a Service",
+        "resourceProvider":{
+            "name":"e572",
+            "displayname":"Secure Dimensions GmbH",
+            "url":"http://www.secure-dimensions.de"
+        },
+        "description":"Federated authentication for registered applications and services."
+    },
+    {
+        "catalogID":"1ab52346dfb73bc32a726dfe0299452526cacf1a",
+        "resourceName":"filmfriend",
+        "resourceProvider":{
+            "name":"e597",
+            "displayname":"filmwerte GmbH",
+            "url":"https://www.filmwerte.de"
+        },
+        "description":"Authentication for the streaming platform filmfriend."
+    },
+    {
+        "catalogID":"2530e3354d47fde3e6565722e3690a3231178a93",
+        "resourceName":"filmfriend",
+        "resourceProvider":{
+            "name":"e597",
+            "displayname":"filmwerte GmbH",
+            "url":"https://www.filmwerte.de"
+        },
+        "description":"Authentication for the streaming platform filmfriend."
+    },
+    {
+        "catalogID":"2b36f0a99852f449fc69d99386ba3719220b39d3",
+        "resourceName":"filmfriend",
+        "resourceProvider":{
+            "name":"e597",
+            "displayname":"filmwerte GmbH",
+            "url":"https://www.filmwerte.de"
+        },
+        "description":"Authentication for the streaming platform filmfriend."
+    },
+    {
+        "catalogID":"629c017be2356336a7cd6232d19ce2e749e2e749",
+        "resourceName":"LOOOP Project",
+        "resourceProvider":{
+            "name":"e609",
+            "displayname":"Charité – Universitätsmedizin Berlin",
+            "url":"https://www.charite.de/en/"
+        },
+        "description":"LOOOP Project of Charité Universitätsmedizin Berlin"
+    },
+    {
+        "catalogID":"b6324d575af7e973b118373c916c2f05c8f5b8f8",
+        "resourceName":"elibrary.narr.digital",
+        "resourceProvider":{
+            "name":"e623",
+            "displayname":"Narr Francke Attempto Verlag GmbH + Co. KG",
+            "url":"http://www.narr.de"
+        },
+        "description":"SingleSignOn elibrary.narr.digital"
+    },
+    {
+        "catalogID":"869bd6988769d06011e292eef49158853ecbfebe",
+        "resourceName":"Career Center of Aalto University",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of the Aalto University, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"461f33392c907068d5a70fe3307d34c3200e877d",
+        "resourceName":"Career Center of Åbo Akademi University",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of Åbo Akademi University, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"b0caf99c6cb33ec21d1b9bba428616c8657fdd59",
+        "resourceName":"Career Center of FH Burgenland",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of FH Burgenland, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"7c6b17022fbb3f02798d822f4c5e599e3befa88c",
+        "resourceName":"Career Center of FH Joanneum",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"Das Career Center by JobTeaser ist die offizielle Online-Karriereplattform der FH Joanneum, auf der Studierende Informationen über Unternehmen, sowie Stellenanzeigen für Praktika und Festanstellungen finden können."
+    },
+    {
+        "catalogID":"2316a1deff5cfe01db1f02ef1279efcfaa347c90",
+        "resourceName":"Career Center of Hanken School of Economics",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of Hanken School of Economics, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"42a91e094211bfc0b52596c63d13ad8264c2262c",
+        "resourceName":"Career Center of the University of Helsinki",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of the University of Helsinki, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"c628d4a9996f9614c6d287da2a775fb47bcfd7d1",
+        "resourceName":"Career Center of Johannes Kepler Universität Linz",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of Johannes Kepler Universität Linz, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"e002622920a4a55c11ee1ff511c5f5ff5bc21df3",
+        "resourceName":"Career Center of University of Jyväskylä",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of University of Jyväskylä, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"9e7b27d7022bd6cb9d3120e66fe067eba74a45dd",
+        "resourceName":"Career Center of Polytechnique",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of [school name], where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"c66f988c89df3f7345dac81aec44c99b23a9e30e",
+        "resourceName":"Career Center of Tampere University of Applied Sciences",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of Tampere University of Applied Sciences, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"c464df607904d21634e9d0deccbb1d229ccfebdb",
+        "resourceName":"Career Center of Tampere University",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of Tampere University, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"2a30ac227e71ccbb5a9a084ddc13e45e81d40be9",
+        "resourceName":"Career Center of Tampere University",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of the Tampere University, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"7b7438965778be7e39d0e7b2d588fbd090d6be7d",
+        "resourceName":"Career Center of the University of Eastern Finland",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of the University of Eastern Finland, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"7dcdc09c5a4070e3f0f8f51014df41945b731467",
+        "resourceName":"Career Center of the University of Turku",
+        "resourceProvider":{
+            "name":"e634",
+            "displayname":"JobTeaser SA",
+            "url":"https://www.jobteaser.com/en"
+        },
+        "description":"The Career Center by JobTeaser is the official online career platform of the University of Turku, where students can find information about companies as well as internships and job ads."
+    },
+    {
+        "catalogID":"4c8cacc027eaa5d680e113aba96e8672fad9027c",
+        "resourceName":"elibrary.verlagoesterreich.at",
+        "resourceProvider":{
+            "name":"e692",
+            "displayname":"Mediengruppe Deutscher Apotheker Verlag, Verlag Österreich",
+            "url":"https://www.deutscher-apotheker-verlag.de/verlag"
+        },
+        "description":"SinglesignOn elibrary.verlagoesterreich.at"
+    },
+    {
+        "catalogID":"3f0b7a1106db3015d918598d741788e201a2873a",
+        "resourceName":"elibrary.hirzel.de",
+        "resourceProvider":{
+            "name":"e693",
+            "displayname":"Mediengruppe Deutscher Apotheker Verlag, S. Hirzel Verlag",
+            "url":"https://www.deutscher-apotheker-verlag.de/verlag"
+        },
+        "description":"SinglesignOn elibrary.hirzel.de"
+    },
+    {
+        "catalogID":"e7d6c21d811470b2a439950163a76a4f8ce12f6e",
+        "resourceName":"elibrary.steiner-verlag.de",
+        "resourceProvider":{
+            "name":"e694",
+            "displayname":"Mediengruppe Deutscher Apotheker Verlag, Franz Steiner Verlag",
+            "url":"https://www.deutscher-apotheker-verlag.de/verlag"
+        },
+        "description":"SingleSignOn elibrary.steiner-verlag.de"
+    },
+    {
+        "catalogID":"551b04b96ff7cb6e9cc03e1de46210707d5557c6",
+        "resourceName":"elibrary.bwv-verlag.de",
+        "resourceProvider":{
+            "name":"e695",
+            "displayname":"Mediengruppe Deutscher Apotheker Verlag, Berliner Wissenschaftsverlag",
+            "url":"https://www.deutscher-apotheker-verlag.de/verlag"
+        },
+        "description":"SingleSignOn elibrary.bwv-verlag.de"
+    },
+    {
+        "catalogID":"dc5a08bb9485b21f4094c898a15786bfea7c1793",
+        "resourceName":"Central and Eastern European Online Library",
+        "resourceProvider":{
+            "name":"e697",
+            "displayname":"Central and Eastern European Online Library",
+            "url":"https://www.ceeol.com"
+        },
+        "description":"Repository of Central-, East- and South-East scholarly literature (2.300 Journals, 4.700 eBooks, various documents of Gray Literature)"
+    },
+    {
+        "catalogID":"31ff0b9f926e580f1bc2bb6eff23edaf4ad0e0f2",
+        "resourceName":"Fraunhofer IRB",
+        "resourceProvider":{
+            "name":"e707",
+            "displayname":"Fraunhofer-Informationszentrum Raum und Bau IRB",
+            "url":"https://irb.fraunhofer.de"
+        },
+        "description":"Fraunhofer Instituts für Raum und Bau Applications"
+    },
+    {
+        "catalogID":"790f1aff80e789d5aefd747c53040d01c5705a68",
+        "resourceName":"CareLit Complete",
+        "resourceProvider":{
+            "name":"e711",
+            "displayname":"hpsmedia GmbH",
+            "url":"https://www.hpsmedia-verlag.de"
+        },
+        "description":"CareLit Complete : Journal database of 350 german Health-care Journals"
+    },
+    {
+        "catalogID":"8e1f0a7803869e8f047f6767ea1628c6cc4bcc42",
+        "resourceName":"Studid",
+        "resourceProvider":{
+            "name":"e714",
+            "displayname":"Nekami",
+            "url":"https://nekami.de"
+        },
+        "description":"Service Provider for Studid."
+    },
+    {
+        "catalogID":"f567032ad727b5e2ac4f23229740fef36645f41a",
+        "resourceName":"reelport GmbH",
+        "resourceProvider":{
+            "name":"e719",
+            "displayname":"reelport GmbH",
+            "url":"https://www.ava-library.com/"
+        },
+        "description":"Login for AVA"
+    },
+    {
+        "catalogID":"b630444cd8e2c8b92b317e70bb55ef29ba144eda",
+        "resourceName":"Naxos Music Group",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+    },
+    {
+        "catalogID":"ab5098e075b8e3e40b24a5a913f50ba65eb27122",
+        "resourceName":"Naxos Music Library",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+    },
+    {
+        "catalogID":"367b1530cce28cfb20cab945d6832a8123ddfc3a",
+        "resourceName":"Naxos Music Group",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+    },
+    {
+        "catalogID":"de33258265b49d1a3ce319efa66887dc9c47905c",
+        "resourceName":"Naxos Music Library - Jazz",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+    },
+    {
+        "catalogID":"761963b054ba3dd4582242dcdb896fc7220f2d56",
+        "resourceName":"Naxos Music Library",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+    },
+    {
+        "catalogID":"a37c1a247f8ac71f2b099865c7dc5c6ba9f89cd4",
+        "resourceName":"Naxos Music Library",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+    },
+    {
+        "catalogID":"b6f3c222582150a10713137ad4983ce7ffbfd566",
+        "resourceName":"Naxos Music Library - World",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"The most comprehensive classical music streaming platform. An invaluable resource for universities, public libraries, schools, music professionals and collectors."
+    },
+    {
+        "catalogID":"6219f82705ff21238f27e4d7f32ed4388deca15b",
+        "resourceName":"Naxos Shibboleth - STAGING",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"Naxos Shibboleth - STAGING"
+    },
+    {
+        "catalogID":"91ea146664651d5dd7db87a62ddaeeca4315e851",
+        "resourceName":"Naxos Music Library - Test Entity at Staging",
+        "resourceProvider":{
+            "name":"e720",
+            "displayname":"NAXOS",
+            "url":"https://www.naxos.com"
+        },
+        "description":"Developmental/Staging Integration of Naxos Music Library"
+    },
+    {
+        "catalogID":"3e9382bd41191f8a97142f71b51a5783fb6c30b5",
+        "resourceName":"Appassimo",
+        "resourceProvider":{
+            "name":"e727",
+            "displayname":"IWPD Management GmbH",
+            "url":"https://iwpdmanagement.ch"
+        },
+        "description":"Remote, online teaching solution for music institutions and individuals. Designed with love for music and arts and with care for the quality!"
+    },
+    {
+        "catalogID":"fd1e178e450106ec1567a8f94b5f154d034ec209",
+        "resourceName":"anny",
+        "resourceProvider":{
+            "name":"e729",
+            "displayname":"anny",
+            "url":"https://anny.co"
+        },
+        "description":"A complete solution for any kind of online booking and the management behind it."
+    },
+    {
+        "catalogID":"f4b6ebf826a6f7d9280ddfd2644532c9bfc9f582",
+        "resourceName":"SingleSign-On eLibrary Pearson Germany",
+        "resourceProvider":{
+            "name":"e733",
+            "displayname":"Pearson Deutschland GmbH",
+            "url":"https://www.pearson.com"
+        },
+        "description":"SSO ServiceProvider of eLibrary Pearson Germany"
+    },
+    {
+        "catalogID":"9c389ad0f262a5e46d8a5783627729b042d1b2fc",
+        "resourceName":"VDI Verlag-eLibrary",
+        "resourceProvider":{
+            "name":"e774",
+            "displayname":"VDI Verlag GmbH",
+            "url":"https://www.vdi-verlag.de"
+        },
+        "description":"The VDI Verlag-eLibrary opens up knowledge for engineers to high-quality technical content of VDI Verlag and VDI Fachmedien. Among these are eleven renowned special interest magazines covering topics like civil engineering, construction/production, logistics, energy and environment, the weekly newspaper VDI nachrichten and more than 300 ebooks of the series VDI-Berichte und Fortschritt-Berichte VDI. The VDI-Berichte provide up-to-date engineering know-how and the newest research results. Current dissertations about technical progress are published in 23 series as Fortschritt-Berichte VDI."
+    },
+    {
+        "catalogID":"5a4a869b15cfc4ac8498eeaa90da74e8eabe70cc",
+        "resourceName":"Biblioscout",
+        "resourceProvider":{
+            "name":"e780",
+            "displayname":"Mediengruppe Deutscher Apotheker Verlag, Wissenschaftliche Verlagsgesellschaft",
+            "url":"https://www.deutscher-apotheker-verlag.de/verlag/wvg"
+        },
+        "description":"Hier finden Sie den Online-Zugang zu Fachbüchern, Lehrbüchern, Kommentaren und Zeitschriften aus den Geisteswissenschaften, Naturwissenschaften und Sozialwissenschaften. Teilnehmende Verlage sind derzeit Deutscher Apotheker Verlag, Franz Steiner Verlag, S. Hirzel Verlag und Wissenschaftliche Verlagsgesellschaft Stuttgart."
+    },
+    {
+        "catalogID":"ee8474383ce4951801adf35236abcae0b1e98192",
+        "resourceName":"lugges",
+        "resourceProvider":{
+            "name":"e806",
+            "displayname":"lugges",
+            "url":"https://lugges.de"
+        },
+        "description":"The lugges authentication service for quick and complete validation of student or employee status at higher education institutions."
     },
     {
         "catalogID":"8b51c2e14ebfb2cbda3cd7157975c14cf62bf108",

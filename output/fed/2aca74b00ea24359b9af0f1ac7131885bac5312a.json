@@ -1,5 +1,5 @@
 {
-    "generated":"2022-11-09 10:28",
+    "generated":"2022-11-09 12:56",
     "en":[
         {
             "catalogID":"2aca74b00ea24359b9af0f1ac7131885bac5312a",
@@ -21,12 +21,12 @@
             "description":"Service Provider for Data and Services hosted at the Max Planck Institute for Psycholinguistics",
             "resourceContacts":[
                 {
-                    "type":"support",
+                    "type":"administrative",
                     "name":"Tobiasvan Valkenhoef",
                     "email":"mailto:shibboleth@mpi.nl"
                 },
                 {
-                    "type":"administrative",
+                    "type":"support",
                     "name":"Tobiasvan Valkenhoef",
                     "email":"mailto:shibboleth@mpi.nl"
                 },
@@ -39,9 +39,9 @@
             "info":"http://www.mpi.nl",
             "privacy":"https://sp.mpi.nl/privacy/privacy_statement.html",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -67,12 +67,12 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
+                    "type":"administrative",
                     "name":"Tobiasvan Valkenhoef",
                     "email":"mailto:shibboleth@mpi.nl"
                 },
                 {
-                    "type":"administrative",
+                    "type":"support",
                     "name":"Tobiasvan Valkenhoef",
                     "email":"mailto:shibboleth@mpi.nl"
                 },
@@ -85,9 +85,9 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -113,12 +113,12 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
+                    "type":"administrative",
                     "name":"Tobiasvan Valkenhoef",
                     "email":"mailto:shibboleth@mpi.nl"
                 },
                 {
-                    "type":"administrative",
+                    "type":"support",
                     "name":"Tobiasvan Valkenhoef",
                     "email":"mailto:shibboleth@mpi.nl"
                 },
@@ -131,9 +131,9 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -159,12 +159,12 @@
             "description":"Service Provider für Daten und Dienstleistungen am Max-Planck-Institut für Psycholinguistik",
             "resourceContacts":[
                 {
-                    "type":"support",
+                    "type":"administrative",
                     "name":"Tobiasvan Valkenhoef",
                     "email":"mailto:shibboleth@mpi.nl"
                 },
                 {
-                    "type":"administrative",
+                    "type":"support",
                     "name":"Tobiasvan Valkenhoef",
                     "email":"mailto:shibboleth@mpi.nl"
                 },
@@ -177,9 +177,9 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }

@@ -1,5 +1,5 @@
 {
-    "generated":"2022-11-09 10:28",
+    "generated":"2022-11-09 12:56",
     "en":[
         {
             "catalogID":"67108a2852500b7b06daf7d3f7ead38c31b6797a",
@@ -22,9 +22,9 @@
             "description":"This central Single Sign-On covers almost all services of the university of Münster (Alternative entry point, same services) and is used to test deviating Shibboleth configurations in practical operation. Currently required: subject-id",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"RainerPerske",
-                    "email":"mailto:wwwadmin@uni-muenster.de"
+                    "type":"security",
+                    "name":"CERT/IRTTeam",
+                    "email":"mailto:abuse@uni-muenster.de"
                 },
                 {
                     "type":"support",
@@ -32,14 +32,16 @@
                     "email":"mailto:wwwadmin@uni-muenster.de"
                 },
                 {
-                    "type":"security",
-                    "name":"CERT/IRTTeam",
-                    "email":"mailto:abuse@uni-muenster.de"
+                    "type":"technical",
+                    "name":"RainerPerske",
+                    "email":"mailto:wwwadmin@uni-muenster.de"
                 }
             ],
             "info":"https://www.uni-muenster.de/WWW/en/sssoinfo.html",
             "privacy":"https://www.uni-muenster.de/WWW/en/datenschutz.html",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://aai.dfn.de/category/metavideoportal-member"
+            ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
             ]
@@ -67,9 +69,9 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"RainerPerske",
-                    "email":"mailto:wwwadmin@uni-muenster.de"
+                    "type":"security",
+                    "name":"CERT/IRTTeam",
+                    "email":"mailto:abuse@uni-muenster.de"
                 },
                 {
                     "type":"support",
@@ -77,14 +79,16 @@
                     "email":"mailto:wwwadmin@uni-muenster.de"
                 },
                 {
-                    "type":"security",
-                    "name":"CERT/IRTTeam",
-                    "email":"mailto:abuse@uni-muenster.de"
+                    "type":"technical",
+                    "name":"RainerPerske",
+                    "email":"mailto:wwwadmin@uni-muenster.de"
                 }
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://aai.dfn.de/category/metavideoportal-member"
+            ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
             ]
@@ -112,9 +116,9 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"RainerPerske",
-                    "email":"mailto:wwwadmin@uni-muenster.de"
+                    "type":"security",
+                    "name":"CERT/IRTTeam",
+                    "email":"mailto:abuse@uni-muenster.de"
                 },
                 {
                     "type":"support",
@@ -122,14 +126,16 @@
                     "email":"mailto:wwwadmin@uni-muenster.de"
                 },
                 {
-                    "type":"security",
-                    "name":"CERT/IRTTeam",
-                    "email":"mailto:abuse@uni-muenster.de"
+                    "type":"technical",
+                    "name":"RainerPerske",
+                    "email":"mailto:wwwadmin@uni-muenster.de"
                 }
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://aai.dfn.de/category/metavideoportal-member"
+            ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
             ]
@@ -157,9 +163,9 @@
             "description":"Dieses zentrale Single Sign-On umfasst fast alle Dienste der Universität Münster (Alternativzugang, gleiche Dienste) und dient zur Erprobung abweichender Shibboleth-Konfigurationen im Praxisbetrieb. Aktuell verlangt: subject-id",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"RainerPerske",
-                    "email":"mailto:wwwadmin@uni-muenster.de"
+                    "type":"security",
+                    "name":"CERT/IRTTeam",
+                    "email":"mailto:abuse@uni-muenster.de"
                 },
                 {
                     "type":"support",
@@ -167,14 +173,16 @@
                     "email":"mailto:wwwadmin@uni-muenster.de"
                 },
                 {
-                    "type":"security",
-                    "name":"CERT/IRTTeam",
-                    "email":"mailto:abuse@uni-muenster.de"
+                    "type":"technical",
+                    "name":"RainerPerske",
+                    "email":"mailto:wwwadmin@uni-muenster.de"
                 }
             ],
             "info":"https://www.uni-muenster.de/WWW/sssoinfo.html",
             "privacy":"https://www.uni-muenster.de/WWW/datenschutz.html",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://aai.dfn.de/category/metavideoportal-member"
+            ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
             ]

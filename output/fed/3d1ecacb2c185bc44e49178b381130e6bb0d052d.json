@@ -1,5 +1,5 @@
 {
-    "generated":"2022-11-09 10:28",
+    "generated":"2022-11-09 12:56",
     "en":[
         {
             "catalogID":"3d1ecacb2c185bc44e49178b381130e6bb0d052d",
@@ -20,14 +20,14 @@
             "description":"Various services provided by the Berlin-Brandenburg Academy of Sciences and Humanities (BBAW)",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"KaiZimmer",
-                    "email":"mailto:zimmer@bbaw.de"
-                },
-                {
                     "type":"administrative",
                     "name":"Dr. JörgBrauns",
                     "email":"mailto:direktor@bbaw.de"
+                },
+                {
+                    "type":"security",
+                    "name":"KaiZimmer",
+                    "email":"mailto:security@bbaw.de"
                 },
                 {
                     "type":"support",
@@ -35,17 +35,17 @@
                     "email":"mailto:zimmer@bbaw.de"
                 },
                 {
-                    "type":"security",
+                    "type":"technical",
                     "name":"KaiZimmer",
-                    "email":"mailto:security@bbaw.de"
+                    "email":"mailto:zimmer@bbaw.de"
                 }
             ],
             "info":"http://www.bbaw.de",
             "privacy":"https://shibboleth.bbaw.de/index.html",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -70,14 +70,14 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"KaiZimmer",
-                    "email":"mailto:zimmer@bbaw.de"
-                },
-                {
                     "type":"administrative",
                     "name":"Dr. JörgBrauns",
                     "email":"mailto:direktor@bbaw.de"
+                },
+                {
+                    "type":"security",
+                    "name":"KaiZimmer",
+                    "email":"mailto:security@bbaw.de"
                 },
                 {
                     "type":"support",
@@ -85,17 +85,17 @@
                     "email":"mailto:zimmer@bbaw.de"
                 },
                 {
-                    "type":"security",
+                    "type":"technical",
                     "name":"KaiZimmer",
-                    "email":"mailto:security@bbaw.de"
+                    "email":"mailto:zimmer@bbaw.de"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -120,14 +120,14 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"KaiZimmer",
-                    "email":"mailto:zimmer@bbaw.de"
-                },
-                {
                     "type":"administrative",
                     "name":"Dr. JörgBrauns",
                     "email":"mailto:direktor@bbaw.de"
+                },
+                {
+                    "type":"security",
+                    "name":"KaiZimmer",
+                    "email":"mailto:security@bbaw.de"
                 },
                 {
                     "type":"support",
@@ -135,17 +135,17 @@
                     "email":"mailto:zimmer@bbaw.de"
                 },
                 {
-                    "type":"security",
+                    "type":"technical",
                     "name":"KaiZimmer",
-                    "email":"mailto:security@bbaw.de"
+                    "email":"mailto:zimmer@bbaw.de"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -170,14 +170,14 @@
             "description":"Verschiedene Dienste der Berlin-Brandenburgischen Akademie der Wissenschaften (BBAW)",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"KaiZimmer",
-                    "email":"mailto:zimmer@bbaw.de"
-                },
-                {
                     "type":"administrative",
                     "name":"Dr. JörgBrauns",
                     "email":"mailto:direktor@bbaw.de"
+                },
+                {
+                    "type":"security",
+                    "name":"KaiZimmer",
+                    "email":"mailto:security@bbaw.de"
                 },
                 {
                     "type":"support",
@@ -185,17 +185,17 @@
                     "email":"mailto:zimmer@bbaw.de"
                 },
                 {
-                    "type":"security",
+                    "type":"technical",
                     "name":"KaiZimmer",
-                    "email":"mailto:security@bbaw.de"
+                    "email":"mailto:zimmer@bbaw.de"
                 }
             ],
             "info":"http://www.bbaw.de",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }

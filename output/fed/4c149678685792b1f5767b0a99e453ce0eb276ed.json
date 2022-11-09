@@ -1,5 +1,5 @@
 {
-    "generated":"2022-11-09 10:28",
+    "generated":"2022-11-09 12:56",
     "en":[
         {
             "catalogID":"4c149678685792b1f5767b0a99e453ce0eb276ed",
@@ -24,12 +24,12 @@
             "description":"Die LMU UnterrichtsMitschau zeichnet seit 1968 Unterricht auf und entwickelt nun zusammen mit verschiedenen Kooperationspartnern ein Portal für zugriffsgeschützten videographierten Unterricht. Dieser wird bei Nachweis eines entsprechenden fachlichen Interesses Einrichtungen aus der Lehreraus-, -fort- und -weiterbildung für unterschiedliche Settings in Forschung und Lehre zur Verfügung gestellt. Dabei werden, neben forschungsbasierten Einsatzmöglichkeiten durch die Integration von Annotations-, Diskussions- und Interaktionsmöglichkeiten, auch komplexe Lehr-Lernszenarien ermöglicht.",
             "resourceContacts":[
                 {
-                    "type":"technical",
+                    "type":"administrative",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
                 {
-                    "type":"administrative",
+                    "type":"security",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
@@ -39,7 +39,7 @@
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
                 {
-                    "type":"security",
+                    "type":"technical",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 }
@@ -47,8 +47,8 @@
             "info":"https://unterrichtonline.org/",
             "privacy":"",
             "entityCategories":[
-                "http://aai.dfn.de/category/metavideoportal-member",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://aai.dfn.de/category/metavideoportal-member"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
@@ -79,12 +79,12 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
+                    "type":"administrative",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
                 {
-                    "type":"administrative",
+                    "type":"security",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
@@ -94,7 +94,7 @@
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
                 {
-                    "type":"security",
+                    "type":"technical",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 }
@@ -102,8 +102,8 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://aai.dfn.de/category/metavideoportal-member",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://aai.dfn.de/category/metavideoportal-member"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
@@ -134,12 +134,12 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
+                    "type":"administrative",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
                 {
-                    "type":"administrative",
+                    "type":"security",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
@@ -149,7 +149,7 @@
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
                 {
-                    "type":"security",
+                    "type":"technical",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 }
@@ -157,8 +157,8 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://aai.dfn.de/category/metavideoportal-member",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://aai.dfn.de/category/metavideoportal-member"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"
@@ -189,12 +189,12 @@
             "description":"Die LMU UnterrichtsMitschau zeichnet seit 1968 Unterricht auf und entwickelt nun zusammen mit verschiedenen Kooperationspartnern ein Portal für zugriffsgeschützten videographierten Unterricht. Dieser wird bei Nachweis eines entsprechenden fachlichen Interesses Einrichtungen aus der Lehreraus-, -fort- und -weiterbildung für unterschiedliche Settings in Forschung und Lehre zur Verfügung gestellt. Dabei werden, neben forschungsbasierten Einsatzmöglichkeiten durch die Integration von Annotations-, Diskussions- und Interaktionsmöglichkeiten, auch komplexe Lehr-Lernszenarien ermöglicht.",
             "resourceContacts":[
                 {
-                    "type":"technical",
+                    "type":"administrative",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
                 {
-                    "type":"administrative",
+                    "type":"security",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
@@ -204,7 +204,7 @@
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 },
                 {
-                    "type":"security",
+                    "type":"technical",
                     "name":"RobertMeyer",
                     "email":"mailto:unterrichtsmitschau@lmu.de"
                 }
@@ -212,8 +212,8 @@
             "info":"https://unterrichtonline.org/",
             "privacy":"https://unterrichtonline.org/datenschutz",
             "entityCategories":[
-                "http://aai.dfn.de/category/metavideoportal-member",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://aai.dfn.de/category/metavideoportal-member"
             ],
             "SirtfiSupport":[
                 "https://refeds.org/sirtfi"

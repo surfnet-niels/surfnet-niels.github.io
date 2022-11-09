@@ -1,5 +1,5 @@
 {
-    "generated":"2022-11-09 10:28",
+    "generated":"2022-11-09 12:56",
     "en":[
         {
             "catalogID":"1fd436e45b6bd5120c5380471e1f5943eb177612",
@@ -23,12 +23,12 @@
             "description":"Various services provided by Huygens ING in the context of the CLARIN initiative.",
             "resourceContacts":[
                 {
-                    "type":"technical",
+                    "type":"support",
                     "name":"SupportHuygens ING (KNAW)",
                     "email":"mailto:sso@huygens.knaw.nl"
                 },
                 {
-                    "type":"support",
+                    "type":"technical",
                     "name":"SupportHuygens ING (KNAW)",
                     "email":"mailto:sso@huygens.knaw.nl"
                 }
@@ -36,8 +36,8 @@
             "info":"http://www.huygens.knaw.nl/?lang=en",
             "privacy":"http://www.huygens.knaw.nl/privacy-policy/?lang=en",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -65,12 +65,12 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
+                    "type":"support",
                     "name":"SupportHuygens ING (KNAW)",
                     "email":"mailto:sso@huygens.knaw.nl"
                 },
                 {
-                    "type":"support",
+                    "type":"technical",
                     "name":"SupportHuygens ING (KNAW)",
                     "email":"mailto:sso@huygens.knaw.nl"
                 }
@@ -78,8 +78,8 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -107,12 +107,12 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
+                    "type":"support",
                     "name":"SupportHuygens ING (KNAW)",
                     "email":"mailto:sso@huygens.knaw.nl"
                 },
                 {
-                    "type":"support",
+                    "type":"technical",
                     "name":"SupportHuygens ING (KNAW)",
                     "email":"mailto:sso@huygens.knaw.nl"
                 }
@@ -120,8 +120,8 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
@@ -149,12 +149,12 @@
             "description":"Verschiedene Dienste, die von Huygens ING im Rahmen der CLARIN-Initiative zur Verfügung gestellt werden.",
             "resourceContacts":[
                 {
-                    "type":"technical",
+                    "type":"support",
                     "name":"SupportHuygens ING (KNAW)",
                     "email":"mailto:sso@huygens.knaw.nl"
                 },
                 {
-                    "type":"support",
+                    "type":"technical",
                     "name":"SupportHuygens ING (KNAW)",
                     "email":"mailto:sso@huygens.knaw.nl"
                 }
@@ -162,8 +162,8 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://clarin.eu/category/clarin-member",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://clarin.eu/category/clarin-member"
             ],
             "SirtfiSupport":[]
         }
