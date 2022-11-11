@@ -140,46 +140,6 @@
         "description":"Resource Registry for the Nigerian Identity Federation"
     },
     {
-        "catalogID":"fba6aa26bd476685f4979e7eee81026bd2b1b721",
-        "resourceName":"SP [TigerFed]",
-        "resourceProvider":{
-            "name":"Service Provider [TigerFed]",
-            "displayname":"SP [TigerFed]",
-            "url":"http://sp.tigerfed.net.bd"
-        },
-        "description":"We can check the attributes of an IDP"
-    },
-    {
-        "catalogID":"6e145f366ccadd5280c0dcfcdfb6ac748e9b5cb5",
-        "resourceName":"Zoom Video Conference",
-        "resourceProvider":{
-            "name":"Zoom Video Conference",
-            "displayname":"Identity proxy for zoom",
-            "url":"http://bdren.zoom.us"
-        },
-        "description":"Zoom Video Conferencing by bdren Federation"
-    },
-    {
-        "catalogID":"ed9b0cefff7e772341d37b0610bd13650ca55ad5",
-        "resourceName":"LMS-TIGERFed",
-        "resourceProvider":{
-            "name":"TIGERFed LMS",
-            "displayname":"LMS-TIGERFed",
-            "url":"https://lms.tigerfed.net.bd"
-        },
-        "description":"This is the Learning Management System under TIGERFed Federation"
-    },
-    {
-        "catalogID":"70a38bd3a4d0363aa849f2c49d6ffa42d336e805",
-        "resourceName":"OCC-TF",
-        "resourceProvider":{
-            "name":"OwnCloud TF",
-            "displayname":"OCC-TF",
-            "url":"https://stor.tigerfed.net.bd"
-        },
-        "description":""
-    },
-    {
         "catalogID":"87ea9af2545b146db8fd897e248f623d2ff313f4",
         "resourceName":"Technical University of Košice Ulysseus Test Service",
         "resourceProvider":{
