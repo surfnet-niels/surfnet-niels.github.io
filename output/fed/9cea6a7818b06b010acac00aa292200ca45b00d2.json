@@ -19570,16 +19570,6 @@
         "description":"Test - Wise Technologies"
     },
     {
-        "catalogID":"a8c1eb64f8482d3377321dc6611ee0e82ab8c226",
-        "resourceName":"Document@s - RedCLARA",
-        "resourceProvider":{
-            "name":"RedCLARA",
-            "displayname":"RedCLARA",
-            "url":"http://www.redclara.net/"
-        },
-        "description":"RedCLARA's Repository of Documents"
-    },
-    {
         "catalogID":"291923619a2621f82550540137fcc6d95d13f718",
         "resourceName":"Colaboratorio's Wiki - RedCLARA",
         "resourceProvider":{
@@ -19588,26 +19578,6 @@
             "url":"http://www.redclara.net/"
         },
         "description":"RedCLARA's Colaboratotio Wiki Service"
-    },
-    {
-        "catalogID":"8ca593d81772f10de7d9f05e66adfe7648082717",
-        "resourceName":"Proxy-SP - RedCLARA",
-        "resourceProvider":{
-            "name":"RedCLARA",
-            "displayname":"RedCLARA",
-            "url":"http://www.redclara.net/"
-        },
-        "description":"Proxy-SP Service"
-    },
-    {
-        "catalogID":"222a4da57322c0209ac097f9c4d45245abb1a0ed",
-        "resourceName":"EDX Mooc - RedCLARA",
-        "resourceProvider":{
-            "name":"RedCLARA",
-            "displayname":"RedCLARA",
-            "url":"http://www.redclara.net/"
-        },
-        "description":"RedCLARA's EDX - Mooc system"
     },
     {
         "catalogID":"5c460d37ffba93f3db6a04fcc49bce4b27d0095d",
@@ -19620,16 +19590,6 @@
         "description":"RedCLARA's Colaboratorio Videoconference and Webconference booking system"
     },
     {
-        "catalogID":"60724dc99df5a388c3ce3c1b3efcda0dacf85c1c",
-        "resourceName":"TicalVirtual DEMO - RedCLARA",
-        "resourceProvider":{
-            "name":"RedCLARA",
-            "displayname":"RedCLARA",
-            "url":"http://www.redclara.net/"
-        },
-        "description":"Tical Virtual DEMO Service"
-    },
-    {
         "catalogID":"64e1b3649804aeb1b3c940059272c126449a3bc9",
         "resourceName":"Communities - RedCLARA",
         "resourceProvider":{
@@ -19638,16 +19598,6 @@
             "url":"http://www.redclara.net/"
         },
         "description":"RedCLARA's Colaboratorio Communities Service"
-    },
-    {
-        "catalogID":"3ca2658b3e0c310b1535a586ddedb318b236befc",
-        "resourceName":"TicalVirtual - RedCLARA",
-        "resourceProvider":{
-            "name":"RedCLARA",
-            "displayname":"RedCLARA",
-            "url":"http://www.redclara.net/"
-        },
-        "description":"Tical Virtual Service"
     },
     {
         "catalogID":"274e8bd5b65fe90124343fa9f2ed80861ae5db56",
@@ -19670,14 +19620,54 @@
         "description":"RedCLARA's NREN Administration Service"
     },
     {
-        "catalogID":"252ab7fe8486fd352cb42dc2805d6335d78b4955",
-        "resourceName":"IMP RedCLARA",
+        "catalogID":"c0764fec8a127ecebfb6f15fa2c2b8b0d820375c",
+        "resourceName":"Colaboratorio - RedCLARA",
         "resourceProvider":{
             "name":"RedCLARA",
             "displayname":"RedCLARA",
             "url":"http://www.redclara.net/"
         },
-        "description":"IMP RedCLARA Service"
+        "description":"RedCLARA's Colaboratorio Service"
+    },
+    {
+        "catalogID":"a8c1eb64f8482d3377321dc6611ee0e82ab8c226",
+        "resourceName":"Document@s - RedCLARA",
+        "resourceProvider":{
+            "name":"RedCLARA",
+            "displayname":"RedCLARA",
+            "url":"http://www.redclara.net/"
+        },
+        "description":"RedCLARA's Repository of Documents"
+    },
+    {
+        "catalogID":"222a4da57322c0209ac097f9c4d45245abb1a0ed",
+        "resourceName":"EDX Mooc - RedCLARA",
+        "resourceProvider":{
+            "name":"RedCLARA",
+            "displayname":"RedCLARA",
+            "url":"http://www.redclara.net/"
+        },
+        "description":"RedCLARA's EDX - Mooc system"
+    },
+    {
+        "catalogID":"60724dc99df5a388c3ce3c1b3efcda0dacf85c1c",
+        "resourceName":"TicalVirtual DEMO - RedCLARA",
+        "resourceProvider":{
+            "name":"RedCLARA",
+            "displayname":"RedCLARA",
+            "url":"http://www.redclara.net/"
+        },
+        "description":"Tical Virtual DEMO Service"
+    },
+    {
+        "catalogID":"3ca2658b3e0c310b1535a586ddedb318b236befc",
+        "resourceName":"TicalVirtual - RedCLARA",
+        "resourceProvider":{
+            "name":"RedCLARA",
+            "displayname":"RedCLARA",
+            "url":"http://www.redclara.net/"
+        },
+        "description":"Tical Virtual Service"
     },
     {
         "catalogID":"5dfbd447035a68ab841cb267192bd0c218ba341e",
@@ -19690,14 +19680,24 @@
         "description":"Rocket Chat Service"
     },
     {
-        "catalogID":"c0764fec8a127ecebfb6f15fa2c2b8b0d820375c",
-        "resourceName":"Colaboratorio - RedCLARA",
+        "catalogID":"252ab7fe8486fd352cb42dc2805d6335d78b4955",
+        "resourceName":"IMP RedCLARA",
         "resourceProvider":{
             "name":"RedCLARA",
             "displayname":"RedCLARA",
             "url":"http://www.redclara.net/"
         },
-        "description":"RedCLARA's Colaboratorio Service"
+        "description":"IMP RedCLARA Service"
+    },
+    {
+        "catalogID":"8ca593d81772f10de7d9f05e66adfe7648082717",
+        "resourceName":"Proxy-SP - RedCLARA",
+        "resourceProvider":{
+            "name":"RedCLARA",
+            "displayname":"RedCLARA",
+            "url":"http://www.redclara.net/"
+        },
+        "description":"Proxy-SP Service"
     },
     {
         "catalogID":"5f15e3380dca403eddc4dd0316018d730b81455a",
