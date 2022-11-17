@@ -1,0 +1,167 @@
+{
+    "generated":"2022-11-17 16:35",
+    "en":[
+        {
+            "catalogID":"5e56ddd0bfb3369615d8211afd7ac170b2025b95",
+            "entityID":"https://wiki.ubuntunet.net/plugins/servlet/samlsso",
+            "resourceName":"UbuntuNet Alliance Wiki",
+            "resourceProvider":{
+                "name":"UbuntuNet Alliance for Research and Education Networking",
+                "displayname":"UbuntuNet Alliance",
+                "url":"https://wiki.ubuntunet.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"UbuntuNet Alliance Wiki Service",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"UbuntuNet AllianceSupport",
+                    "email":"mailto:support@ubuntunet.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"UbuntuNet AllianceDevOps",
+                    "email":"mailto:devops@ubuntunet.net"
+                }
+            ],
+            "info":"https://wiki.ubuntunet.net/",
+            "privacy":"https://ubuntunet.net/privacy-notice/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"5e56ddd0bfb3369615d8211afd7ac170b2025b95",
+            "entityID":"https://wiki.ubuntunet.net/plugins/servlet/samlsso",
+            "resourceName":"UbuntuNet Alliance Wiki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://wiki.ubuntunet.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"UbuntuNet AllianceSupport",
+                    "email":"mailto:support@ubuntunet.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"UbuntuNet AllianceDevOps",
+                    "email":"mailto:devops@ubuntunet.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"5e56ddd0bfb3369615d8211afd7ac170b2025b95",
+            "entityID":"https://wiki.ubuntunet.net/plugins/servlet/samlsso",
+            "resourceName":"UbuntuNet Alliance Wiki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://wiki.ubuntunet.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"UbuntuNet AllianceSupport",
+                    "email":"mailto:support@ubuntunet.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"UbuntuNet AllianceDevOps",
+                    "email":"mailto:devops@ubuntunet.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"5e56ddd0bfb3369615d8211afd7ac170b2025b95",
+            "entityID":"https://wiki.ubuntunet.net/plugins/servlet/samlsso",
+            "resourceName":"UbuntuNet Alliance Wiki",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://wiki.ubuntunet.net/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonTargetedID",
+                    "displayName",
+                    "email"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"UbuntuNet AllianceSupport",
+                    "email":"mailto:support@ubuntunet.net"
+                },
+                {
+                    "type":"technical",
+                    "name":"UbuntuNet AllianceDevOps",
+                    "email":"mailto:devops@ubuntunet.net"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
