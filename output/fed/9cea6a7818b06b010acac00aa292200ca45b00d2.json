@@ -31830,14 +31830,14 @@
         "description":"Czech National Corpus services."
     },
     {
-        "catalogID":"b42d710c65e8309042866363f7a9d3cbbea49dd7",
-        "resourceName":"Linköping University",
+        "catalogID":"9acda21f4fe11fb6944cf2b3951810e831e13179",
+        "resourceName":"Jönköping University",
         "resourceProvider":{
-            "name":"Linköping University",
-            "displayname":"Linköping University",
-            "url":"https://liu.se/en"
+            "name":"HJ",
+            "displayname":"Jönköping University",
+            "url":"http://www.ju.se"
         },
-        "description":"Linköping University"
+        "description":"This service is used for login to services at Jönköping University."
     },
     {
         "catalogID":"7c77aacbadf7c8b5bf1906d6d747e6dc3c4f294c",
@@ -31850,54 +31850,34 @@
         "description":"Umea University"
     },
     {
-        "catalogID":"9acda21f4fe11fb6944cf2b3951810e831e13179",
-        "resourceName":"Jönköping University",
+        "catalogID":"b42d710c65e8309042866363f7a9d3cbbea49dd7",
+        "resourceName":"Linköping University",
         "resourceProvider":{
-            "name":"HJ",
-            "displayname":"Jönköping University",
-            "url":"http://www.ju.se"
+            "name":"Linköping University",
+            "displayname":"Linköping University",
+            "url":"https://liu.se/en"
         },
-        "description":"This service is used for login to services at Jönköping University."
+        "description":"Linköping University"
     },
     {
-        "catalogID":"c3ba81cede254454b64ee9743df19201fe34adc9",
-        "resourceName":"NORDUnet Box Service Access",
+        "catalogID":"5dc11d23ee7ee842181a9803cf0137e794d5cdf6",
+        "resourceName":"ECIU University",
         "resourceProvider":{
-            "name":"NORDUnet",
-            "displayname":"NORDUnet A/S",
-            "url":"http://www.nordu.net"
+            "name":"ECIU University",
+            "displayname":"ECIU University",
+            "url":"https://www.eciu.eu"
         },
-        "description":"NORDUnet Box Service Access"
+        "description":"ECIU University"
     },
     {
-        "catalogID":"d15d3638da035684225871dbd87517f76cd21d86",
-        "resourceName":"MediaFora",
+        "catalogID":"5fc1d050607c4844cdb1435d259b743f7dce1467",
+        "resourceName":"ECIU University",
         "resourceProvider":{
-            "name":"Danish e-Infrastructure Cooperation",
-            "displayname":"Danish e-Infrastructure Cooperation (DeIC)",
-            "url":"https://www.deic.dk"
+            "name":"ECIU University",
+            "displayname":"ECIU University",
+            "url":"https://eciu.eu"
         },
-        "description":"MediaFora aims to provide a platform for exchange of knowledge on media services at higher education"
-    },
-    {
-        "catalogID":"eda7996ca259406000de854d657967cd2185d41f",
-        "resourceName":"NORDUnet Tools",
-        "resourceProvider":{
-            "name":"NORDUnet",
-            "displayname":"NORDUnet A/S",
-            "url":"http://www.nordu.net"
-        },
-        "description":"NORDUnet Project and Issue tracking tools (JIRA and Confluence)."
-    },
-    {
-        "catalogID":"62b46b832d3b9f3ad0d6ca4a0eab19f1ad6e9a88",
-        "resourceName":"Carbon Portal authentication service",
-        "resourceProvider":{
-            "name":"ICOS Carbon Portal",
-            "displayname":"Carbon Portal",
-            "url":"http://icos-cp.eu/"
-        },
-        "description":"Single Sign On for services of ICOS Carbon Portal. Maintained by the Carbon Portal team at Physical Geography department (nateko.lu.se)."
+        "description":"ECIU University"
     },
     {
         "catalogID":"634266eff12e0778e349c4c92916c48314696af9",
@@ -31910,77 +31890,17 @@
         "description":"Provides access to databases and other resources for Nias Nordic Council Member institutions"
     },
     {
-        "catalogID":"c2fb8aeeea073a03c3018b3701daee3154a62317",
-        "resourceName":"URKUND",
-        "resourceProvider":{
-            "name":"Prio Infocenter AB",
-            "displayname":"URKUND / Prio Infocenter AB",
-            "url":"https://www.ouriginal.com/sv/"
-        },
-        "description":"URKUND is an online plagiarism checker service reserved for teachers"
-    },
-    {
-        "catalogID":"0e6c717ada3ae66721c31fedf52d88ba68a03918",
-        "resourceName":"The Staff Portal (Medarbetarportalen) at Uppsala University",
-        "resourceProvider":{
-            "name":"Uppsala University",
-            "displayname":"Uppsala University",
-            "url":"http://www.uu.se/en/"
-        },
-        "description":"The Staff Portal (Medarbetarportalen) is an intranet for employees at Uppsala University, but it's also available for students and external users."
-    },
-    {
-        "catalogID":"d8f0d2d57b44fea86211914757bd2d89edb87882",
-        "resourceName":"InAcademia Affiliation Validation Service",
-        "resourceProvider":{
-            "name":"InAcademia operated by GÉANT",
-            "displayname":"InAcademia",
-            "url":"https://inacademia.org/about"
-        },
-        "description":"InAcademia validates the academic affiliation assigned to users by home institutions. This data is provided in pseudonymised form to registered services that request it."
-    },
-    {
-        "catalogID":"cb82ecea32af98ccaefc063f004a9bb546adb3aa",
-        "resourceName":"SND Service Provider",
-        "resourceProvider":{
-            "name":"Swedish National Data Service",
-            "displayname":"Swedish National Data Service",
-            "url":"https://snd.gu.se/en"
-        },
-        "description":"SSO service for SND."
-    },
-    {
-        "catalogID":"9078e2e87b63145b521a0b0426c391c370e8e431",
-        "resourceName":"NORDUnet Graylog",
+        "catalogID":"c3ba81cede254454b64ee9743df19201fe34adc9",
+        "resourceName":"NORDUnet Box Service Access",
         "resourceProvider":{
             "name":"NORDUnet",
             "displayname":"NORDUnet A/S",
             "url":"http://www.nordu.net"
         },
-        "description":"A graylog server run by NORDUnet"
+        "description":"NORDUnet Box Service Access"
     },
     {
-        "catalogID":"a6d5e87bbccbd7c76291daa07ae373d3a8112953",
-        "resourceName":"Indico",
-        "resourceProvider":{
-            "name":"Uppsala University",
-            "displayname":"Uppsala University",
-            "url":"http://www.uu.se/en/"
-        },
-        "description":"Indico is an event management system for meetings, conferences and lectures."
-    },
-    {
-        "catalogID":"b1bfa7976fc368acd73fe760a20105e7a701e1b1",
-        "resourceName":"Kantara Initiative",
-        "resourceProvider":{
-            "name":"Kantara Initiative Inc",
-            "displayname":"Kantara Initiative Inc",
-            "url":"https://kantarainitiative.org"
-        },
-        "description":"The Kantara Initiative is the global consortium improving trustworthy use of identity and personal data through innovation, standardization and good practice."
-    },
-    {
-        "catalogID":"eecab7bb537699db34d1794816a9feb8a7bb39c0",
+        "catalogID":"b4712320584a69775eaaeb4fa09b6701ae8c4d2d",
         "resourceName":"Cloudmore",
         "resourceProvider":{
             "name":"Cloudmore AB",
@@ -31990,7 +31910,57 @@
         "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
     },
     {
-        "catalogID":"b4712320584a69775eaaeb4fa09b6701ae8c4d2d",
+        "catalogID":"62b46b832d3b9f3ad0d6ca4a0eab19f1ad6e9a88",
+        "resourceName":"Carbon Portal authentication service",
+        "resourceProvider":{
+            "name":"ICOS Carbon Portal",
+            "displayname":"Carbon Portal",
+            "url":"http://icos-cp.eu/"
+        },
+        "description":"Single Sign On for services of ICOS Carbon Portal. Maintained by the Carbon Portal team at Physical Geography department (nateko.lu.se)."
+    },
+    {
+        "catalogID":"eda7996ca259406000de854d657967cd2185d41f",
+        "resourceName":"NORDUnet Tools",
+        "resourceProvider":{
+            "name":"NORDUnet",
+            "displayname":"NORDUnet A/S",
+            "url":"http://www.nordu.net"
+        },
+        "description":"NORDUnet Project and Issue tracking tools (JIRA and Confluence)."
+    },
+    {
+        "catalogID":"de64748103587c017bb8aa8717b535858760ac95",
+        "resourceName":"Sunet Crowd Identity Management",
+        "resourceProvider":{
+            "name":"The Swedish Research Council",
+            "displayname":"Sunet",
+            "url":"https://www.sunet.se"
+        },
+        "description":"Sunet's Atlassian Crowd-service providing identity management for Sunet's Jira and Confluence"
+    },
+    {
+        "catalogID":"a80ce7c86d725c123fc868e7053e97cfe92d82cc",
+        "resourceName":"Demosite for seamlessaccess.org",
+        "resourceProvider":{
+            "name":"SeamlessAccess.org",
+            "displayname":"SeamlessAccess.org",
+            "url":"https://seamlessaccess.org/"
+        },
+        "description":"Demosite for seamlessaccess.org"
+    },
+    {
+        "catalogID":"9bf64322628a8a853c4d0bd6ed9732b3a5cff161",
+        "resourceName":"Demosite for seamlessaccess.org",
+        "resourceProvider":{
+            "name":"SeamlessAccess.org",
+            "displayname":"SeamlessAccess.org",
+            "url":"https://seamlessaccess.org/"
+        },
+        "description":"Demosite for seamlessaccess.org"
+    },
+    {
+        "catalogID":"85793c85f3db2de75c2001514f404aa4f729a833",
         "resourceName":"Cloudmore",
         "resourceProvider":{
             "name":"Cloudmore AB",
@@ -32010,104 +31980,14 @@
         "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
     },
     {
-        "catalogID":"38c965395645f37ebab30f57777d244691ec9927",
-        "resourceName":"Cloudmore",
-        "resourceProvider":{
-            "name":"Cloudmore AB",
-            "displayname":"Cloudmore",
-            "url":"http://www.cloudmore.com/"
-        },
-        "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
-    },
-    {
-        "catalogID":"d70a32b8e133d02fa22742cb32e4c9556e253ebb",
-        "resourceName":"Språkbanken",
-        "resourceProvider":{
-            "name":"Språkbanken",
-            "displayname":"Språkbanken",
-            "url":"https://spraakbanken.gu.se/eng/"
-        },
-        "description":"Språkbanken (the Swedish Language Bank) is a nationally and internationally acknowledged research unit at the Department of Swedish, University of Gothenburg"
-    },
-    {
-        "catalogID":"85793c85f3db2de75c2001514f404aa4f729a833",
-        "resourceName":"Cloudmore",
-        "resourceProvider":{
-            "name":"Cloudmore AB",
-            "displayname":"Cloudmore",
-            "url":"http://www.cloudmore.com/"
-        },
-        "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
-    },
-    {
-        "catalogID":"32750732eab43e57e38b02804756c5ea8a47b442",
-        "resourceName":"Cloudmore",
-        "resourceProvider":{
-            "name":"Cloudmore AB",
-            "displayname":"Cloudmore",
-            "url":"http://www.cloudmore.com/"
-        },
-        "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
-    },
-    {
-        "catalogID":"40d02234efa2ed46104e1038fd0833ac004379a3",
-        "resourceName":"Cloudmore",
-        "resourceProvider":{
-            "name":"Cloudmore AB",
-            "displayname":"Cloudmore",
-            "url":"http://www.cloudmore.com/"
-        },
-        "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
-    },
-    {
-        "catalogID":"345b311a37ad9c79347aefe8cca82a634edfff93",
-        "resourceName":"IPnett Cloud Services Beta",
+        "catalogID":"717827b4a5c68d5d114b955f80ded5c010aa56cd",
+        "resourceName":"Sunet Drive Satosa GW",
         "resourceProvider":{
             "name":"The Swedish Research Council",
             "displayname":"Sunet",
-            "url":"https://sunet.se"
+            "url":"https://www.sunet.se"
         },
-        "description":"IPnett Cloud Services OpenStack"
-    },
-    {
-        "catalogID":"04dcd2d3d49e55e2dd4159b19744d61c6e1c04bc",
-        "resourceName":"Institute for Language and Folklore",
-        "resourceProvider":{
-            "name":"Institute for Language and Folklore",
-            "displayname":"Institute for Language and Folklore",
-            "url":"https://www.sprakochfolkminnen.se/"
-        },
-        "description":"Institute for Language and Folklore"
-    },
-    {
-        "catalogID":"c66edefde6df7177f2b6cb0cf1cbcc4fc0a9e4b4",
-        "resourceName":"InAcademia stats portal",
-        "resourceProvider":{
-            "name":"InAcademia",
-            "displayname":"InAcademia",
-            "url":"https://inacademia.org"
-        },
-        "description":"The stats portal for InAcademia"
-    },
-    {
-        "catalogID":"d3249ba9f010faba48e04bff1369efc63493d557",
-        "resourceName":"Indico NORDUnet",
-        "resourceProvider":{
-            "name":"NORDUnet",
-            "displayname":"NORDUnet",
-            "url":"https://www.nordu.net"
-        },
-        "description":"Indico NORDUnet is a meeting, workshop and conference collaboration service."
-    },
-    {
-        "catalogID":"910d4d731a5d0a63dc95caccc8a61d688512be24",
-        "resourceName":"ErrorURL demo site",
-        "resourceProvider":{
-            "name":"The Swedish Research Council",
-            "displayname":"Swedish Academic Identity Federation (SWAMID)",
-            "url":"http://www.swamid.se"
-        },
-        "description":"An errorURL demo site for the REFEDS errorurl group"
+        "description":"Satosa GW to bridge SAML authentication for Sunet Drive"
     },
     {
         "catalogID":"7619550ac396a98d9c539542b38b78642bc911a5",
@@ -32120,44 +32000,14 @@
         "description":"SUNET eduSIGN Service makes it easy to electronically sign documents"
     },
     {
-        "catalogID":"4a0d72340715f1aa16fea49d436654246407019b",
-        "resourceName":"SUNET signing service",
+        "catalogID":"910d4d731a5d0a63dc95caccc8a61d688512be24",
+        "resourceName":"ErrorURL demo site",
         "resourceProvider":{
             "name":"The Swedish Research Council",
-            "displayname":"Sunet",
-            "url":"https://www.sunet.se"
+            "displayname":"Swedish Academic Identity Federation (SWAMID)",
+            "url":"http://www.swamid.se"
         },
-        "description":"eduSign signing service"
-    },
-    {
-        "catalogID":"de64748103587c017bb8aa8717b535858760ac95",
-        "resourceName":"Sunet Crowd Identity Management",
-        "resourceProvider":{
-            "name":"The Swedish Research Council",
-            "displayname":"Sunet",
-            "url":"https://www.sunet.se"
-        },
-        "description":"Sunet's Atlassian Crowd-service providing identity management for Sunet's Jira and Confluence"
-    },
-    {
-        "catalogID":"9e938bfaf8cd7e4fe2c0b3720372b2ab764c37c2",
-        "resourceName":"Fysikum Nextcloud",
-        "resourceProvider":{
-            "name":"Fysikum",
-            "displayname":"Fysikum",
-            "url":"https://fysik.su.se"
-        },
-        "description":"Fysikum Nextcloud"
-    },
-    {
-        "catalogID":"c108bfe703f4e36e1c895512f841cb0afdff111f",
-        "resourceName":"Fysikum Indico",
-        "resourceProvider":{
-            "name":"Stockholm Univerity",
-            "displayname":"Fysikum, Stockholm University",
-            "url":"https://www.su.se/fysikum/"
-        },
-        "description":"Fysikum Indico"
+        "description":"An errorURL demo site for the REFEDS errorurl group"
     },
     {
         "catalogID":"1625e38eb1721682a095b5ed25c8035197a15b78",
@@ -32180,64 +32030,14 @@
         "description":"Gitlab version control service for Fysikum at Stockholm University"
     },
     {
-        "catalogID":"717827b4a5c68d5d114b955f80ded5c010aa56cd",
-        "resourceName":"Sunet Drive Satosa GW",
+        "catalogID":"9078e2e87b63145b521a0b0426c391c370e8e431",
+        "resourceName":"NORDUnet Graylog",
         "resourceProvider":{
-            "name":"The Swedish Research Council",
-            "displayname":"Sunet",
-            "url":"https://www.sunet.se"
+            "name":"NORDUnet",
+            "displayname":"NORDUnet A/S",
+            "url":"http://www.nordu.net"
         },
-        "description":"Satosa GW to bridge SAML authentication for Sunet Drive"
-    },
-    {
-        "catalogID":"adf805231eb6afc3c727d76d6098c46d1a471b84",
-        "resourceName":"Ouriginal",
-        "resourceProvider":{
-            "name":"Prio Infocenter AB",
-            "displayname":"Ouriginal Group AB",
-            "url":"https://www.ouriginal.com/sv/"
-        },
-        "description":"Ouriginal is a similarity detection solution that combines text-matching with writing-style analysis to promote academic integrity and help combat plagiarism."
-    },
-    {
-        "catalogID":"9c8a85d82b013c303a93fcc395134ba8ff771dca",
-        "resourceName":"InAcademia stats qa-portal",
-        "resourceProvider":{
-            "name":"InAcademia",
-            "displayname":"InAcademia",
-            "url":"https://inacademia.org"
-        },
-        "description":"The stats qa-portal for InAcademia"
-    },
-    {
-        "catalogID":"9bf64322628a8a853c4d0bd6ed9732b3a5cff161",
-        "resourceName":"Demosite for seamlessaccess.org",
-        "resourceProvider":{
-            "name":"SeamlessAccess.org",
-            "displayname":"SeamlessAccess.org",
-            "url":"https://seamlessaccess.org/"
-        },
-        "description":"Demosite for seamlessaccess.org"
-    },
-    {
-        "catalogID":"a80ce7c86d725c123fc868e7053e97cfe92d82cc",
-        "resourceName":"Demosite for seamlessaccess.org",
-        "resourceProvider":{
-            "name":"SeamlessAccess.org",
-            "displayname":"SeamlessAccess.org",
-            "url":"https://seamlessaccess.org/"
-        },
-        "description":"Demosite for seamlessaccess.org"
-    },
-    {
-        "catalogID":"154841c3e5e772b9740b87cbb6d1ba4dd9293efb",
-        "resourceName":"MFA Testing Tool",
-        "resourceProvider":{
-            "name":"Uppsala University",
-            "displayname":"Uppsala University",
-            "url":"http://www.uu.se/en/"
-        },
-        "description":"A tool for testing multi-factor authentication (MFA)."
+        "description":"A graylog server run by NORDUnet"
     },
     {
         "catalogID":"7bff4d607b9ddbceb4339420c9a329e00119de90",
@@ -32250,24 +32050,224 @@
         "description":"Sunet Drive"
     },
     {
-        "catalogID":"5fc1d050607c4844cdb1435d259b743f7dce1467",
-        "resourceName":"ECIU University",
+        "catalogID":"d8f0d2d57b44fea86211914757bd2d89edb87882",
+        "resourceName":"InAcademia Affiliation Validation Service",
         "resourceProvider":{
-            "name":"ECIU University",
-            "displayname":"ECIU University",
-            "url":"https://eciu.eu"
+            "name":"InAcademia operated by GÉANT",
+            "displayname":"InAcademia",
+            "url":"https://inacademia.org/about"
         },
-        "description":"ECIU University"
+        "description":"InAcademia validates the academic affiliation assigned to users by home institutions. This data is provided in pseudonymised form to registered services that request it."
     },
     {
-        "catalogID":"5dc11d23ee7ee842181a9803cf0137e794d5cdf6",
-        "resourceName":"ECIU University",
+        "catalogID":"c108bfe703f4e36e1c895512f841cb0afdff111f",
+        "resourceName":"Fysikum Indico",
         "resourceProvider":{
-            "name":"ECIU University",
-            "displayname":"ECIU University",
-            "url":"https://www.eciu.eu"
+            "name":"Stockholm Univerity",
+            "displayname":"Fysikum, Stockholm University",
+            "url":"https://www.su.se/fysikum/"
         },
-        "description":"ECIU University"
+        "description":"Fysikum Indico"
+    },
+    {
+        "catalogID":"d3249ba9f010faba48e04bff1369efc63493d557",
+        "resourceName":"Indico NORDUnet",
+        "resourceProvider":{
+            "name":"NORDUnet",
+            "displayname":"NORDUnet",
+            "url":"https://www.nordu.net"
+        },
+        "description":"Indico NORDUnet is a meeting, workshop and conference collaboration service."
+    },
+    {
+        "catalogID":"a6d5e87bbccbd7c76291daa07ae373d3a8112953",
+        "resourceName":"Indico",
+        "resourceProvider":{
+            "name":"Uppsala University",
+            "displayname":"Uppsala University",
+            "url":"http://www.uu.se/en/"
+        },
+        "description":"Indico is an event management system for meetings, conferences and lectures."
+    },
+    {
+        "catalogID":"b1bfa7976fc368acd73fe760a20105e7a701e1b1",
+        "resourceName":"Kantara Initiative",
+        "resourceProvider":{
+            "name":"Kantara Initiative Inc",
+            "displayname":"Kantara Initiative Inc",
+            "url":"https://kantarainitiative.org"
+        },
+        "description":"The Kantara Initiative is the global consortium improving trustworthy use of identity and personal data through innovation, standardization and good practice."
+    },
+    {
+        "catalogID":"345b311a37ad9c79347aefe8cca82a634edfff93",
+        "resourceName":"IPnett Cloud Services Beta",
+        "resourceProvider":{
+            "name":"The Swedish Research Council",
+            "displayname":"Sunet",
+            "url":"https://sunet.se"
+        },
+        "description":"IPnett Cloud Services OpenStack"
+    },
+    {
+        "catalogID":"38c965395645f37ebab30f57777d244691ec9927",
+        "resourceName":"Cloudmore",
+        "resourceProvider":{
+            "name":"Cloudmore AB",
+            "displayname":"Cloudmore",
+            "url":"http://www.cloudmore.com/"
+        },
+        "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
+    },
+    {
+        "catalogID":"154841c3e5e772b9740b87cbb6d1ba4dd9293efb",
+        "resourceName":"MFA Testing Tool",
+        "resourceProvider":{
+            "name":"Uppsala University",
+            "displayname":"Uppsala University",
+            "url":"http://www.uu.se/en/"
+        },
+        "description":"A tool for testing multi-factor authentication (MFA)."
+    },
+    {
+        "catalogID":"0e6c717ada3ae66721c31fedf52d88ba68a03918",
+        "resourceName":"The Staff Portal (Medarbetarportalen) at Uppsala University",
+        "resourceProvider":{
+            "name":"Uppsala University",
+            "displayname":"Uppsala University",
+            "url":"http://www.uu.se/en/"
+        },
+        "description":"The Staff Portal (Medarbetarportalen) is an intranet for employees at Uppsala University, but it's also available for students and external users."
+    },
+    {
+        "catalogID":"9e938bfaf8cd7e4fe2c0b3720372b2ab764c37c2",
+        "resourceName":"Fysikum Nextcloud",
+        "resourceProvider":{
+            "name":"Fysikum",
+            "displayname":"Fysikum",
+            "url":"https://fysik.su.se"
+        },
+        "description":"Fysikum Nextcloud"
+    },
+    {
+        "catalogID":"eecab7bb537699db34d1794816a9feb8a7bb39c0",
+        "resourceName":"Cloudmore",
+        "resourceProvider":{
+            "name":"Cloudmore AB",
+            "displayname":"Cloudmore",
+            "url":"http://www.cloudmore.com/"
+        },
+        "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
+    },
+    {
+        "catalogID":"adf805231eb6afc3c727d76d6098c46d1a471b84",
+        "resourceName":"Ouriginal",
+        "resourceProvider":{
+            "name":"Prio Infocenter AB",
+            "displayname":"Ouriginal Group AB",
+            "url":"https://www.ouriginal.com/sv/"
+        },
+        "description":"Ouriginal is a similarity detection solution that combines text-matching with writing-style analysis to promote academic integrity and help combat plagiarism."
+    },
+    {
+        "catalogID":"c2fb8aeeea073a03c3018b3701daee3154a62317",
+        "resourceName":"URKUND",
+        "resourceProvider":{
+            "name":"Prio Infocenter AB",
+            "displayname":"URKUND / Prio Infocenter AB",
+            "url":"https://www.ouriginal.com/sv/"
+        },
+        "description":"URKUND is an online plagiarism checker service reserved for teachers"
+    },
+    {
+        "catalogID":"4a0d72340715f1aa16fea49d436654246407019b",
+        "resourceName":"SUNET signing service",
+        "resourceProvider":{
+            "name":"The Swedish Research Council",
+            "displayname":"Sunet",
+            "url":"https://www.sunet.se"
+        },
+        "description":"eduSign signing service"
+    },
+    {
+        "catalogID":"cb82ecea32af98ccaefc063f004a9bb546adb3aa",
+        "resourceName":"SND Service Provider",
+        "resourceProvider":{
+            "name":"Swedish National Data Service",
+            "displayname":"Swedish National Data Service",
+            "url":"https://snd.gu.se/en"
+        },
+        "description":"SSO service for SND."
+    },
+    {
+        "catalogID":"d70a32b8e133d02fa22742cb32e4c9556e253ebb",
+        "resourceName":"Språkbanken",
+        "resourceProvider":{
+            "name":"Språkbanken",
+            "displayname":"Språkbanken",
+            "url":"https://spraakbanken.gu.se/eng/"
+        },
+        "description":"Språkbanken (the Swedish Language Bank) is a nationally and internationally acknowledged research unit at the Department of Swedish, University of Gothenburg"
+    },
+    {
+        "catalogID":"04dcd2d3d49e55e2dd4159b19744d61c6e1c04bc",
+        "resourceName":"Institute for Language and Folklore",
+        "resourceProvider":{
+            "name":"Institute for Language and Folklore",
+            "displayname":"Institute for Language and Folklore",
+            "url":"https://www.sprakochfolkminnen.se/"
+        },
+        "description":"Institute for Language and Folklore"
+    },
+    {
+        "catalogID":"32750732eab43e57e38b02804756c5ea8a47b442",
+        "resourceName":"Cloudmore",
+        "resourceProvider":{
+            "name":"Cloudmore AB",
+            "displayname":"Cloudmore",
+            "url":"http://www.cloudmore.com/"
+        },
+        "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
+    },
+    {
+        "catalogID":"c66edefde6df7177f2b6cb0cf1cbcc4fc0a9e4b4",
+        "resourceName":"InAcademia stats portal",
+        "resourceProvider":{
+            "name":"InAcademia",
+            "displayname":"InAcademia",
+            "url":"https://inacademia.org"
+        },
+        "description":"The stats portal for InAcademia"
+    },
+    {
+        "catalogID":"9c8a85d82b013c303a93fcc395134ba8ff771dca",
+        "resourceName":"InAcademia stats qa-portal",
+        "resourceProvider":{
+            "name":"InAcademia",
+            "displayname":"InAcademia",
+            "url":"https://inacademia.org"
+        },
+        "description":"The stats qa-portal for InAcademia"
+    },
+    {
+        "catalogID":"40d02234efa2ed46104e1038fd0833ac004379a3",
+        "resourceName":"Cloudmore",
+        "resourceProvider":{
+            "name":"Cloudmore AB",
+            "displayname":"Cloudmore",
+            "url":"http://www.cloudmore.com/"
+        },
+        "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
+    },
+    {
+        "catalogID":"d15d3638da035684225871dbd87517f76cd21d86",
+        "resourceName":"MediaFora",
+        "resourceProvider":{
+            "name":"Danish e-Infrastructure Cooperation",
+            "displayname":"Danish e-Infrastructure Cooperation (DeIC)",
+            "url":"https://www.deic.dk"
+        },
+        "description":"MediaFora aims to provide a platform for exchange of knowledge on media services at higher education"
     },
     {
         "catalogID":"c65171710903a01c945005deb31b69024fc6ab62",
