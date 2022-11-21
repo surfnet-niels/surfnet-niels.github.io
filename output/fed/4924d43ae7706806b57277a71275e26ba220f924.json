@@ -1,14 +1,14 @@
 {
-    "generated":"2022-11-21 16:36",
+    "generated":"2022-11-21 18:30",
     "en":[
         {
             "catalogID":"4924d43ae7706806b57277a71275e26ba220f924",
             "entityID":"https://wayf.rcauth.eu/wayf/",
             "resourceName":"RCauth Pilot Online CA",
             "resourceProvider":{
-                "name":"Nikhef",
-                "displayname":"Nikhef",
-                "url":"https://www.nikhef.nl/"
+                "name":"RCauth",
+                "displayname":"RCauth.eu",
+                "url":"https://rcauth.eu/"
             },
             "resourceAttributes":{
                 "required":[],
@@ -29,23 +29,23 @@
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"Operator",
-                    "email":"mailto:ca@rcauth.eu"
+                    "name":"Admin",
+                    "email":"mailto:admin@rcauth.eu"
                 },
                 {
                     "type":"support",
-                    "name":"Operator",
-                    "email":"mailto:ca@rcauth.eu"
+                    "name":"Support",
+                    "email":"mailto:support@rcauth.eu"
                 },
                 {
                     "type":"security",
                     "name":"CSIRT",
-                    "email":"mailto:security@nikhef.nl"
+                    "email":"mailto:security@rcauth.eu"
                 },
                 {
                     "type":"technical",
                     "name":"RCauthOperator",
-                    "email":"mailto:msalle@nikhef.nl"
+                    "email":"mailto:ops-management@rcauth.eu"
                 }
             ],
             "info":"https://rcauth.eu/",
@@ -66,7 +66,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.nikhef.nl/"
+                "url":"https://rcauth.eu/"
             },
             "resourceAttributes":{
                 "required":[],
@@ -87,23 +87,23 @@
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"Operator",
-                    "email":"mailto:ca@rcauth.eu"
+                    "name":"Admin",
+                    "email":"mailto:admin@rcauth.eu"
                 },
                 {
                     "type":"support",
-                    "name":"Operator",
-                    "email":"mailto:ca@rcauth.eu"
+                    "name":"Support",
+                    "email":"mailto:support@rcauth.eu"
                 },
                 {
                     "type":"security",
                     "name":"CSIRT",
-                    "email":"mailto:security@nikhef.nl"
+                    "email":"mailto:security@rcauth.eu"
                 },
                 {
                     "type":"technical",
                     "name":"RCauthOperator",
-                    "email":"mailto:msalle@nikhef.nl"
+                    "email":"mailto:ops-management@rcauth.eu"
                 }
             ],
             "info":"",
@@ -124,7 +124,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.nikhef.nl/"
+                "url":"https://rcauth.eu/"
             },
             "resourceAttributes":{
                 "required":[],
@@ -145,23 +145,23 @@
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"Operator",
-                    "email":"mailto:ca@rcauth.eu"
+                    "name":"Admin",
+                    "email":"mailto:admin@rcauth.eu"
                 },
                 {
                     "type":"support",
-                    "name":"Operator",
-                    "email":"mailto:ca@rcauth.eu"
+                    "name":"Support",
+                    "email":"mailto:support@rcauth.eu"
                 },
                 {
                     "type":"security",
                     "name":"CSIRT",
-                    "email":"mailto:security@nikhef.nl"
+                    "email":"mailto:security@rcauth.eu"
                 },
                 {
                     "type":"technical",
                     "name":"RCauthOperator",
-                    "email":"mailto:msalle@nikhef.nl"
+                    "email":"mailto:ops-management@rcauth.eu"
                 }
             ],
             "info":"",
@@ -182,7 +182,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.nikhef.nl/"
+                "url":"https://rcauth.eu/"
             },
             "resourceAttributes":{
                 "required":[],
@@ -203,23 +203,23 @@
             "resourceContacts":[
                 {
                     "type":"administrative",
-                    "name":"Operator",
-                    "email":"mailto:ca@rcauth.eu"
+                    "name":"Admin",
+                    "email":"mailto:admin@rcauth.eu"
                 },
                 {
                     "type":"support",
-                    "name":"Operator",
-                    "email":"mailto:ca@rcauth.eu"
+                    "name":"Support",
+                    "email":"mailto:support@rcauth.eu"
                 },
                 {
                     "type":"security",
                     "name":"CSIRT",
-                    "email":"mailto:security@nikhef.nl"
+                    "email":"mailto:security@rcauth.eu"
                 },
                 {
                     "type":"technical",
                     "name":"RCauthOperator",
-                    "email":"mailto:msalle@nikhef.nl"
+                    "email":"mailto:ops-management@rcauth.eu"
                 }
             ],
             "info":"",
