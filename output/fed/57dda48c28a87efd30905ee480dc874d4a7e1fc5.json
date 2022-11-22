@@ -1,0 +1,207 @@
+{
+    "generated":"2022-11-22 14:23",
+    "en":[
+        {
+            "catalogID":"57dda48c28a87efd30905ee480dc874d4a7e1fc5",
+            "entityID":"https://meta-trend-viewer.elte-dh.hu/shibboleth",
+            "resourceName":"The in-house trend viewer of ELTE Department of Digital Humanities",
+            "resourceProvider":{
+                "name":"ELTE",
+                "displayname":"ELTE",
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"The system enables linguistic examination of the loaded text corpora.Loaded corpora can only be used for non-profit and scientific purposes.For more information, visit https://elte-dh.hu.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Palkó GáborPalkó Gábor",
+                    "email":"mailto:palko.gabor@btk.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Indig BalázsIndig Balázs",
+                    "email":"mailto:indig.balazs@btk.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Fejes RichárdFejes Richárd",
+                    "email":"mailto:fejes.richard@btk.elte.hu"
+                }
+            ],
+            "info":"https://elte-dh.hu/meta-trend-viewer/",
+            "privacy":"https://adatvedelem.elte.hu/",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"57dda48c28a87efd30905ee480dc874d4a7e1fc5",
+            "entityID":"https://meta-trend-viewer.elte-dh.hu/shibboleth",
+            "resourceName":"The in-house trend viewer of ELTE Department of Digital Humanities",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Palkó GáborPalkó Gábor",
+                    "email":"mailto:palko.gabor@btk.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Indig BalázsIndig Balázs",
+                    "email":"mailto:indig.balazs@btk.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Fejes RichárdFejes Richárd",
+                    "email":"mailto:fejes.richard@btk.elte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"57dda48c28a87efd30905ee480dc874d4a7e1fc5",
+            "entityID":"https://meta-trend-viewer.elte-dh.hu/shibboleth",
+            "resourceName":"The in-house trend viewer of ELTE Department of Digital Humanities",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Palkó GáborPalkó Gábor",
+                    "email":"mailto:palko.gabor@btk.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Indig BalázsIndig Balázs",
+                    "email":"mailto:indig.balazs@btk.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Fejes RichárdFejes Richárd",
+                    "email":"mailto:fejes.richard@btk.elte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"57dda48c28a87efd30905ee480dc874d4a7e1fc5",
+            "entityID":"https://meta-trend-viewer.elte-dh.hu/shibboleth",
+            "resourceName":"The in-house trend viewer of ELTE Department of Digital Humanities",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.elte.hu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "surname",
+                    "givenName",
+                    "eduPersonPrincipalName",
+                    "displayName",
+                    "eduPersonTargetedID",
+                    "eduPersonScopedAffiliation"
+                ],
+                "requested":[
+                    "eduPersonOrgUnitDN",
+                    "eduPersonEntitlement"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Palkó GáborPalkó Gábor",
+                    "email":"mailto:palko.gabor@btk.elte.hu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Indig BalázsIndig Balázs",
+                    "email":"mailto:indig.balazs@btk.elte.hu"
+                },
+                {
+                    "type":"support",
+                    "name":"Fejes RichárdFejes Richárd",
+                    "email":"mailto:fejes.richard@btk.elte.hu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://eduid.hu/category/registered-by-eduidhu"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
