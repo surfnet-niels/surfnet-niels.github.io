@@ -1,5 +1,5 @@
 {
-    "generated":"2022-11-30 10:25",
+    "generated":"2022-11-30 12:46",
     "en":[
         {
             "catalogID":"49c0588f8c8d2c00b17e6d00d35dc894de825aa4",
@@ -26,14 +26,22 @@
                     "type":"technical",
                     "name":[],
                     "email":"mailto:dsi-identity@sorbonne-universite.fr"
+                },
+                {
+                    "type":"security",
+                    "name":" Sylvie Dupuy",
+                    "email":"mailto:sylvie.dupuy@sorbonne-universite.fr"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "https://myacademicid.org/entity-categories/esi"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -62,14 +70,22 @@
                     "type":"technical",
                     "name":[],
                     "email":"mailto:dsi-identity@sorbonne-universite.fr"
+                },
+                {
+                    "type":"security",
+                    "name":" Sylvie Dupuy",
+                    "email":"mailto:sylvie.dupuy@sorbonne-universite.fr"
                 }
             ],
             "info":"https://elearning.4euplus.eu/",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "https://myacademicid.org/entity-categories/esi"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -98,14 +114,22 @@
                     "type":"technical",
                     "name":[],
                     "email":"mailto:dsi-identity@sorbonne-universite.fr"
+                },
+                {
+                    "type":"security",
+                    "name":" Sylvie Dupuy",
+                    "email":"mailto:sylvie.dupuy@sorbonne-universite.fr"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "https://myacademicid.org/entity-categories/esi"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -134,14 +158,22 @@
                     "type":"technical",
                     "name":[],
                     "email":"mailto:dsi-identity@sorbonne-universite.fr"
+                },
+                {
+                    "type":"security",
+                    "name":" Sylvie Dupuy",
+                    "email":"mailto:sylvie.dupuy@sorbonne-universite.fr"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "https://myacademicid.org/entity-categories/esi"
             ],
-            "SirtfiSupport":[]
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }
