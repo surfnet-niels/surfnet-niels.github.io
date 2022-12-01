@@ -1,5 +1,5 @@
 {
-    "generated":"2022-12-01 10:26",
+    "generated":"2022-12-01 12:47",
     "en":[
         {
             "catalogID":"9bbbd337a759a0ffc63879b5731c59723de4d382",
@@ -11,7 +11,11 @@
                 "url":"https://www.codecreator.cz/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
                 "requested":[]
             },
             "description":"mBooks Publi",
@@ -32,14 +36,18 @@
         {
             "catalogID":"9bbbd337a759a0ffc63879b5731c59723de4d382",
             "entityID":"https://publi.cz",
-            "resourceName":"https://publi.cz",
+            "resourceName":"Publi",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.codecreator.cz/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -60,14 +68,18 @@
         {
             "catalogID":"9bbbd337a759a0ffc63879b5731c59723de4d382",
             "entityID":"https://publi.cz",
-            "resourceName":"https://publi.cz",
+            "resourceName":"Publi",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.codecreator.cz/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -88,14 +100,18 @@
         {
             "catalogID":"9bbbd337a759a0ffc63879b5731c59723de4d382",
             "entityID":"https://publi.cz",
-            "resourceName":"https://publi.cz",
+            "resourceName":"Publi",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.codecreator.cz/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
                 "requested":[]
             },
             "description":"",
