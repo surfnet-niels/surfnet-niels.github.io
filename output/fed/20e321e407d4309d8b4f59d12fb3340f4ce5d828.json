@@ -1,0 +1,179 @@
+{
+    "generated":"2022-12-01 22:21",
+    "en":[
+        {
+            "catalogID":"20e321e407d4309d8b4f59d12fb3340f4ce5d828",
+            "entityID":"https://loginqa.wisc.edu/idp/shibboleth-sp",
+            "resourceName":"University of Wisconsin-Madison",
+            "resourceProvider":{
+                "name":"University of Wisconsin-Madison",
+                "displayname":"University of Wisconsin-Madison",
+                "url":"http://www.wisc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"NetID Login Service",
+                    "email":"mailto:admin@login.wisc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NetID Login Service",
+                    "email":"mailto:tech@login.wisc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"NetID Login Service",
+                    "email":"mailto:security@login.wisc.edu"
+                }
+            ],
+            "info":"https://login.wisc.edu/redirect/docs",
+            "privacy":"https://www.wisc.edu/privacy-notice/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"20e321e407d4309d8b4f59d12fb3340f4ce5d828",
+            "entityID":"https://loginqa.wisc.edu/idp/shibboleth-sp",
+            "resourceName":"University of Wisconsin-Madison",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.wisc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"NetID Login Service",
+                    "email":"mailto:admin@login.wisc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NetID Login Service",
+                    "email":"mailto:tech@login.wisc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"NetID Login Service",
+                    "email":"mailto:security@login.wisc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"20e321e407d4309d8b4f59d12fb3340f4ce5d828",
+            "entityID":"https://loginqa.wisc.edu/idp/shibboleth-sp",
+            "resourceName":"University of Wisconsin-Madison",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.wisc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"NetID Login Service",
+                    "email":"mailto:admin@login.wisc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NetID Login Service",
+                    "email":"mailto:tech@login.wisc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"NetID Login Service",
+                    "email":"mailto:security@login.wisc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"20e321e407d4309d8b4f59d12fb3340f4ce5d828",
+            "entityID":"https://loginqa.wisc.edu/idp/shibboleth-sp",
+            "resourceName":"University of Wisconsin-Madison",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.wisc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"NetID Login Service",
+                    "email":"mailto:admin@login.wisc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"NetID Login Service",
+                    "email":"mailto:tech@login.wisc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"NetID Login Service",
+                    "email":"mailto:security@login.wisc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
