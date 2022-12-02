@@ -31920,7 +31920,7 @@
         "description":"Demosite for seamlessaccess.org"
     },
     {
-        "catalogID":"85793c85f3db2de75c2001514f404aa4f729a833",
+        "catalogID":"dcd7ebf91ae3c53e175f114f9430eee11e457adf",
         "resourceName":"Cloudmore",
         "resourceProvider":{
             "name":"Cloudmore AB",
@@ -31930,7 +31930,7 @@
         "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
     },
     {
-        "catalogID":"dcd7ebf91ae3c53e175f114f9430eee11e457adf",
+        "catalogID":"85793c85f3db2de75c2001514f404aa4f729a833",
         "resourceName":"Cloudmore",
         "resourceProvider":{
             "name":"Cloudmore AB",
@@ -32190,16 +32190,6 @@
         "description":"Cloud Brokerage Platform for IT, Business and Public Sector"
     },
     {
-        "catalogID":"c66edefde6df7177f2b6cb0cf1cbcc4fc0a9e4b4",
-        "resourceName":"InAcademia stats portal",
-        "resourceProvider":{
-            "name":"InAcademia",
-            "displayname":"InAcademia",
-            "url":"https://inacademia.org"
-        },
-        "description":"The stats portal for InAcademia"
-    },
-    {
         "catalogID":"9c8a85d82b013c303a93fcc395134ba8ff771dca",
         "resourceName":"InAcademia stats qa-portal",
         "resourceProvider":{
@@ -32208,6 +32198,16 @@
             "url":"https://inacademia.org"
         },
         "description":"The stats qa-portal for InAcademia"
+    },
+    {
+        "catalogID":"c66edefde6df7177f2b6cb0cf1cbcc4fc0a9e4b4",
+        "resourceName":"InAcademia stats portal",
+        "resourceProvider":{
+            "name":"InAcademia",
+            "displayname":"InAcademia",
+            "url":"https://inacademia.org"
+        },
+        "description":"The stats portal for InAcademia"
     },
     {
         "catalogID":"40d02234efa2ed46104e1038fd0833ac004379a3",
