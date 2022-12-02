@@ -1,5 +1,5 @@
 {
-    "generated":"2022-12-02 12:40",
+    "generated":"2022-12-02 14:20",
     "en":[
         {
             "catalogID":"d3249ba9f010faba48e04bff1369efc63493d557",
@@ -13,10 +13,10 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "organizationName",
-                    "email",
+                    "o",
+                    "mail",
                     "givenName",
-                    "surname"
+                    "sn"
                 ],
                 "requested":[]
             },
@@ -26,9 +26,14 @@
                     "type":"technical",
                     "name":"Administrator",
                     "email":"mailto:sei@nordu.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":[],
+                    "email":"mailto:sei@nordu.net"
                 }
             ],
-            "info":"",
+            "info":"https://indico.nordu.net/",
             "privacy":"https://indico.nordu.net/privacy-statement/",
             "entityCategories":[
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
@@ -49,10 +54,10 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "organizationName",
-                    "email",
+                    "o",
+                    "mail",
                     "givenName",
-                    "surname"
+                    "sn"
                 ],
                 "requested":[]
             },
@@ -61,6 +66,11 @@
                 {
                     "type":"technical",
                     "name":"Administrator",
+                    "email":"mailto:sei@nordu.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":[],
                     "email":"mailto:sei@nordu.net"
                 }
             ],
@@ -85,10 +95,10 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "organizationName",
-                    "email",
+                    "o",
+                    "mail",
                     "givenName",
-                    "surname"
+                    "sn"
                 ],
                 "requested":[]
             },
@@ -97,6 +107,11 @@
                 {
                     "type":"technical",
                     "name":"Administrator",
+                    "email":"mailto:sei@nordu.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":[],
                     "email":"mailto:sei@nordu.net"
                 }
             ],
@@ -121,10 +136,10 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "organizationName",
-                    "email",
+                    "o",
+                    "mail",
                     "givenName",
-                    "surname"
+                    "sn"
                 ],
                 "requested":[]
             },
@@ -133,6 +148,11 @@
                 {
                     "type":"technical",
                     "name":"Administrator",
+                    "email":"mailto:sei@nordu.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":[],
                     "email":"mailto:sei@nordu.net"
                 }
             ],

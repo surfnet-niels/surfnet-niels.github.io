@@ -1,5 +1,5 @@
 {
-    "generated":"2022-12-02 12:40",
+    "generated":"2022-12-02 14:20",
     "en":[
         {
             "catalogID":"c3ba81cede254454b64ee9743df19201fe34adc9",
@@ -14,7 +14,7 @@
                 "required":[
                     "mail",
                     "displayName",
-                    "surname",
+                    "sn",
                     "givenName",
                     "eduPersonPrincipalName"
                 ],
@@ -32,14 +32,26 @@
                     "type":"technical",
                     "name":"NORDUNetNOC",
                     "email":"mailto:noc@nordu.net"
+                },
+                {
+                    "type":"security",
+                    "name":"NORDUnet CERT",
+                    "email":"mailto:cert@nordu.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"NOC",
+                    "email":"mailto:noc@nordu.net"
+                },
+                {
+                    "type":"support",
+                    "name":"NORDUNetNOC",
+                    "email":"mailto:noc@nordu.net"
                 }
             ],
             "info":"https://box.com",
-            "privacy":"",
+            "privacy":"https://www.box.com/legal/privacypolicy",
             "entityCategories":[
-                "http://www.swamid.se/category/nren-service",
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/eu-adequate-protection",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
@@ -59,7 +71,7 @@
                 "required":[
                     "mail",
                     "displayName",
-                    "surname",
+                    "sn",
                     "givenName",
                     "eduPersonPrincipalName"
                 ],
@@ -77,14 +89,26 @@
                     "type":"technical",
                     "name":"NORDUNetNOC",
                     "email":"mailto:noc@nordu.net"
+                },
+                {
+                    "type":"security",
+                    "name":"NORDUnet CERT",
+                    "email":"mailto:cert@nordu.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"NOC",
+                    "email":"mailto:noc@nordu.net"
+                },
+                {
+                    "type":"support",
+                    "name":"NORDUNetNOC",
+                    "email":"mailto:noc@nordu.net"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/nren-service",
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/eu-adequate-protection",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
@@ -104,7 +128,7 @@
                 "required":[
                     "mail",
                     "displayName",
-                    "surname",
+                    "sn",
                     "givenName",
                     "eduPersonPrincipalName"
                 ],
@@ -122,14 +146,26 @@
                     "type":"technical",
                     "name":"NORDUNetNOC",
                     "email":"mailto:noc@nordu.net"
+                },
+                {
+                    "type":"security",
+                    "name":"NORDUnet CERT",
+                    "email":"mailto:cert@nordu.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"NOC",
+                    "email":"mailto:noc@nordu.net"
+                },
+                {
+                    "type":"support",
+                    "name":"NORDUNetNOC",
+                    "email":"mailto:noc@nordu.net"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/nren-service",
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/eu-adequate-protection",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]
@@ -149,7 +185,7 @@
                 "required":[
                     "mail",
                     "displayName",
-                    "surname",
+                    "sn",
                     "givenName",
                     "eduPersonPrincipalName"
                 ],
@@ -167,14 +203,26 @@
                     "type":"technical",
                     "name":"NORDUNetNOC",
                     "email":"mailto:noc@nordu.net"
+                },
+                {
+                    "type":"security",
+                    "name":"NORDUnet CERT",
+                    "email":"mailto:cert@nordu.net"
+                },
+                {
+                    "type":"administrative",
+                    "name":"NOC",
+                    "email":"mailto:noc@nordu.net"
+                },
+                {
+                    "type":"support",
+                    "name":"NORDUNetNOC",
+                    "email":"mailto:noc@nordu.net"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/nren-service",
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/eu-adequate-protection",
                 "http://refeds.org/category/research-and-scholarship"
             ],
             "SirtfiSupport":[]

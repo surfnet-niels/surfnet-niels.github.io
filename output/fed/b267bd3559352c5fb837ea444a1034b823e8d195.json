@@ -1,5 +1,5 @@
 {
-    "generated":"2022-12-02 12:40",
+    "generated":"2022-12-02 14:20",
     "en":[
         {
             "catalogID":"b267bd3559352c5fb837ea444a1034b823e8d195",
@@ -37,7 +37,8 @@
                     "sn NameStandIn",
                     "isMemberOf",
                     "schacPersonalUniqueCode",
-                    "street"
+                    "street",
+                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr"
                 ],
                 "requested":[]
             },
@@ -92,7 +93,8 @@
                     "sn NameStandIn",
                     "isMemberOf",
                     "schacPersonalUniqueCode",
-                    "street"
+                    "street",
+                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr"
                 ],
                 "requested":[]
             },
@@ -147,7 +149,8 @@
                     "sn NameStandIn",
                     "isMemberOf",
                     "schacPersonalUniqueCode",
-                    "street"
+                    "street",
+                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr"
                 ],
                 "requested":[]
             },
@@ -202,7 +205,8 @@
                     "sn NameStandIn",
                     "isMemberOf",
                     "schacPersonalUniqueCode",
-                    "street"
+                    "street",
+                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr"
                 ],
                 "requested":[]
             },
