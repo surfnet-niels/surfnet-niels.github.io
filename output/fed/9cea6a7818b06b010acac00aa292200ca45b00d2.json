@@ -4091,7 +4091,7 @@
     },
     {
         "catalogID":"9b19e07348fdf84864c896e92896f8e1a7658247",
-        "resourceName":"University of Wisconsin-Madison",
+        "resourceName":"University of Wisconsin-Madison Login",
         "resourceProvider":{
             "name":"University of Wisconsin-Madison",
             "displayname":"University of Wisconsin-Madison",
@@ -4101,7 +4101,7 @@
     },
     {
         "catalogID":"20e321e407d4309d8b4f59d12fb3340f4ce5d828",
-        "resourceName":"University of Wisconsin-Madison",
+        "resourceName":"University of Wisconsin-Madison Login",
         "resourceProvider":{
             "name":"University of Wisconsin-Madison",
             "displayname":"University of Wisconsin-Madison",
@@ -4111,7 +4111,7 @@
     },
     {
         "catalogID":"920098bab3027e2ee6086f37fc692e397d339ff3",
-        "resourceName":"University of Wisconsin-Madison",
+        "resourceName":"University of Wisconsin-Madison Login",
         "resourceProvider":{
             "name":"University of Wisconsin-Madison",
             "displayname":"University of Wisconsin-Madison",
@@ -4121,7 +4121,7 @@
     },
     {
         "catalogID":"47883abdc176e2de626d22959ae0e11e8d00f16b",
-        "resourceName":"University of Wisconsin-Madison",
+        "resourceName":"University of Wisconsin-Madison Login",
         "resourceProvider":{
             "name":"University of Wisconsin-Madison",
             "displayname":"University of Wisconsin-Madison",
@@ -6598,6 +6598,16 @@
             "url":"http://www.unc.edu/"
         },
         "description":"UNC REDCap learning environment"
+    },
+    {
+        "catalogID":"8bb8eb56faa7342deee3f22c38ec4019030b59bd",
+        "resourceName":"UNC REDCap",
+        "resourceProvider":{
+            "name":"University of North Carolina at Chapel Hill",
+            "displayname":"University of North Carolina at Chapel Hill",
+            "url":"http://www.unc.edu/"
+        },
+        "description":"UNC REDCap"
     },
     {
         "catalogID":"4014871e5669eb8e10f21898c70fe3c4a4e73a1d",
@@ -14570,6 +14580,16 @@
         "description":""
     },
     {
+        "catalogID":"9f06f5df029bf7894b5335eb6a839f489ed7bbd9",
+        "resourceName":"InfoReady Review - Commonwealth University of Pennsylvania",
+        "resourceProvider":{
+            "name":"InfoReady Corp",
+            "displayname":"InfoReady Corp",
+            "url":"http://www.infoready4.com/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"b682b15e6e57219d79d9ffe85f0da78eea828c80",
         "resourceName":"InfoReady Review - Cornell University",
         "resourceProvider":{
@@ -15512,6 +15532,16 @@
     {
         "catalogID":"5ee9f7efc2850b47517d086e673dbb0250558de0",
         "resourceName":"InfoReady Review - University of California, Santa Cruz",
+        "resourceProvider":{
+            "name":"InfoReady Corp",
+            "displayname":"InfoReady Corp",
+            "url":"http://www.infoready4.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"1b00dd3fbf65ea1a00d5281db0e4a217ff4970de",
+        "resourceName":"InfoReady Review - University of California, Santa Cruz - The Humanities Institute",
         "resourceProvider":{
             "name":"InfoReady Corp",
             "displayname":"InfoReady Corp",
@@ -18921,16 +18951,6 @@
     },
     {
         "catalogID":"36d43a9964bd1a1982f163ab36d9b2d05d6dacbb",
-        "resourceName":"FSI-SP",
-        "resourceProvider":{
-            "name":"Facilities Survey, Inc.",
-            "displayname":"Facilities Survey, Inc.",
-            "url":"http://facilitiessurvey.com/"
-        },
-        "description":"Facilities Survey Inc. Service Provider"
-    },
-    {
-        "catalogID":"e037945fc98381f8e326d0ea13960bda59fe3f9d",
         "resourceName":"FSI-SP",
         "resourceProvider":{
             "name":"Facilities Survey, Inc.",

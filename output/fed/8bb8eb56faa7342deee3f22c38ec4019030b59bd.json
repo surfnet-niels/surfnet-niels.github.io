@@ -1,0 +1,219 @@
+{
+    "generated":"2022-12-05 22:20",
+    "en":[
+        {
+            "catalogID":"8bb8eb56faa7342deee3f22c38ec4019030b59bd",
+            "entityID":"https://rc2.redcap.unc.edu/shibboleth",
+            "resourceName":"UNC REDCap",
+            "resourceProvider":{
+                "name":"University of North Carolina at Chapel Hill",
+                "displayname":"University of North Carolina at Chapel Hill",
+                "url":"http://www.unc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"UNC REDCap",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                }
+            ],
+            "info":"https://projectredcap.org/",
+            "privacy":"https://www.unc.edu/about/privacy-statement/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"8bb8eb56faa7342deee3f22c38ec4019030b59bd",
+            "entityID":"https://rc2.redcap.unc.edu/shibboleth",
+            "resourceName":"UNC REDCap",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.unc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"8bb8eb56faa7342deee3f22c38ec4019030b59bd",
+            "entityID":"https://rc2.redcap.unc.edu/shibboleth",
+            "resourceName":"UNC REDCap",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.unc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"8bb8eb56faa7342deee3f22c38ec4019030b59bd",
+            "entityID":"https://rc2.redcap.unc.edu/shibboleth",
+            "resourceName":"UNC REDCap",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.unc.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                },
+                {
+                    "type":"support",
+                    "name":"Team REDCap",
+                    "email":"mailto:redcap@unc.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
