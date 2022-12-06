@@ -1,13 +1,13 @@
 {
-    "generated":"2022-12-06 16:32",
+    "generated":"2022-12-06 18:29",
     "en":[
         {
             "catalogID":"c3ba81cede254454b64ee9743df19201fe34adc9",
             "entityID":"https://box-idp.nordu.net/simplesaml/module.php/saml/sp/metadata.php/default-sp",
             "resourceName":"NORDUnet Box Service Access",
             "resourceProvider":{
-                "name":"NORDUnet",
-                "displayname":"NORDUnet A/S",
+                "name":"NORDUnet A/S",
+                "displayname":"NORDUnet",
                 "url":"http://www.nordu.net"
             },
             "resourceAttributes":{
@@ -50,9 +50,11 @@
                 }
             ],
             "info":"https://box.com",
-            "privacy":"https://www.box.com/legal/privacypolicy",
+            "privacy":"https://box-idp.nordu.net/privacy-policy/",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/category/code-of-conduct/v2"
             ],
             "SirtfiSupport":[]
         }
@@ -109,7 +111,9 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/category/code-of-conduct/v2"
             ],
             "SirtfiSupport":[]
         }
@@ -166,7 +170,9 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/category/code-of-conduct/v2"
             ],
             "SirtfiSupport":[]
         }
@@ -223,7 +229,9 @@
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/category/code-of-conduct/v2"
             ],
             "SirtfiSupport":[]
         }
