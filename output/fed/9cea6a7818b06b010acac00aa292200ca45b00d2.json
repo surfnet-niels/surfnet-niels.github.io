@@ -20730,16 +20730,6 @@
         "description":""
     },
     {
-        "catalogID":"1b456a7558ebb8b230eedcbdbb4f91d59e45a1ba",
-        "resourceName":"https://www.pi-navigator.com/shibboleth/metadata",
-        "resourceProvider":{
-            "name":"Perfect Information Ltd",
-            "displayname":"Perfect Information Ltd: PI Navigator",
-            "url":"http://www.perfectinfo.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"66f111143900f145b4b2c3e0252070e3b25d3180",
         "resourceName":"https://www.goglasgow.org.uk/shibboleth-sp",
         "resourceProvider":{
@@ -29738,6 +29728,16 @@
             "url":"https://www.highwirepress.com/"
         },
         "description":""
+    },
+    {
+        "catalogID":"5d2b7666c417574eb45cf9de5b3207a3ee2cb35a",
+        "resourceName":"mafoo.org.uk test SP",
+        "resourceProvider":{
+            "name":"Matthew Slowe",
+            "displayname":"Matthew Slowe",
+            "url":"https://mafoo.org.uk/"
+        },
+        "description":"Test Service"
     },
     {
         "catalogID":"d22847155c34ea51f4f0cdb9ad7bad3966a0a846",
