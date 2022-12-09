@@ -1,0 +1,115 @@
+{
+    "generated":"2022-12-09 18:27",
+    "en":[
+        {
+            "catalogID":"c686143641e98dff68aacb567a1b29c8b8f50aa7",
+            "entityID":"https://idp01.he-ferrer.eu.trials.vip/idp/shibboleth",
+            "resourceName":"SP He-ferrer",
+            "resourceProvider":{
+                "name":" Haute Ecole Francisco Ferrer ",
+                "displayname":"  HE-FERRER ",
+                "url":" https://www.he-ferrer.eu/ "
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"Test SP HEFF",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Jank",
+                    "email":"mailto:David.Jank.ext@i-city.brucity.be"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c686143641e98dff68aacb567a1b29c8b8f50aa7",
+            "entityID":"https://idp01.he-ferrer.eu.trials.vip/idp/shibboleth",
+            "resourceName":"https://idp01.he-ferrer.eu.trials.vip/idp/shibboleth",
+            "resourceProvider":{
+                "name":" Haute Ecole Francisco Ferrer ",
+                "displayname":"  HE-FERRER ",
+                "url":" https://www.he-ferrer.eu/ "
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Jank",
+                    "email":"mailto:David.Jank.ext@i-city.brucity.be"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c686143641e98dff68aacb567a1b29c8b8f50aa7",
+            "entityID":"https://idp01.he-ferrer.eu.trials.vip/idp/shibboleth",
+            "resourceName":"https://idp01.he-ferrer.eu.trials.vip/idp/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":" https://www.he-ferrer.eu/ "
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Jank",
+                    "email":"mailto:David.Jank.ext@i-city.brucity.be"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c686143641e98dff68aacb567a1b29c8b8f50aa7",
+            "entityID":"https://idp01.he-ferrer.eu.trials.vip/idp/shibboleth",
+            "resourceName":"https://idp01.he-ferrer.eu.trials.vip/idp/shibboleth",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":" https://www.he-ferrer.eu/ "
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"David Jank",
+                    "email":"mailto:David.Jank.ext@i-city.brucity.be"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
