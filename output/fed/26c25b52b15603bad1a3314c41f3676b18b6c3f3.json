@@ -1,0 +1,147 @@
+{
+    "generated":"2022-12-12 18:27",
+    "en":[
+        {
+            "catalogID":"26c25b52b15603bad1a3314c41f3676b18b6c3f3",
+            "entityID":"https://subscriptions.edina.ac.uk/shibboleth",
+            "resourceName":"Digimap Subscriptions",
+            "resourceProvider":{
+                "name":"University of Edinburgh",
+                "displayname":"University of Edinburgh",
+                "url":"http://edina.ac.uk/about/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"Subscribe to Digimap Collections",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"EDINA Helpdesk",
+                    "email":"mailto:edina@ed.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"EDINA",
+                    "email":"mailto:edina-shibboleth@mlist.is.ed.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"26c25b52b15603bad1a3314c41f3676b18b6c3f3",
+            "entityID":"https://subscriptions.edina.ac.uk/shibboleth",
+            "resourceName":"Digimap Subscriptions",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edina.ac.uk/about/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"EDINA Helpdesk",
+                    "email":"mailto:edina@ed.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"EDINA",
+                    "email":"mailto:edina-shibboleth@mlist.is.ed.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"26c25b52b15603bad1a3314c41f3676b18b6c3f3",
+            "entityID":"https://subscriptions.edina.ac.uk/shibboleth",
+            "resourceName":"Digimap Subscriptions",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edina.ac.uk/about/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"EDINA Helpdesk",
+                    "email":"mailto:edina@ed.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"EDINA",
+                    "email":"mailto:edina-shibboleth@mlist.is.ed.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"26c25b52b15603bad1a3314c41f3676b18b6c3f3",
+            "entityID":"https://subscriptions.edina.ac.uk/shibboleth",
+            "resourceName":"Digimap Subscriptions",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edina.ac.uk/about/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"EDINA Helpdesk",
+                    "email":"mailto:edina@ed.ac.uk"
+                },
+                {
+                    "type":"technical",
+                    "name":"EDINA",
+                    "email":"mailto:edina-shibboleth@mlist.is.ed.ac.uk"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
