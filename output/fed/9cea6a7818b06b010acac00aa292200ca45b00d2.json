@@ -31260,16 +31260,6 @@
         "description":""
     },
     {
-        "catalogID":"972eb3c18d49adddc1053c416861c7c5aff24e66",
-        "resourceName":"https://secure-acc.etnic.be/nidp/saml2/metadata",
-        "resourceProvider":{
-            "name":"ETNIC",
-            "displayname":"Etnic-Acceptance",
-            "url":"https://www.etnic.be"
-        },
-        "description":""
-    },
-    {
         "catalogID":"7a9a01da3598bb89c4ef185a485ae7e44558e0ff",
         "resourceName":"https://edugain.vinci.be/adfs/services/trust",
         "resourceProvider":{
@@ -31280,24 +31270,34 @@
         "description":""
     },
     {
-        "catalogID":"3dae0fc7fd644c9c9528ce80f3b781b76fb89a98",
-        "resourceName":"https://secure.etnic.be/nidp/saml2/metadata",
-        "resourceProvider":{
-            "name":"ETNIC",
-            "displayname":"Etnic-Production",
-            "url":"www.etnic.be"
-        },
-        "description":""
-    },
-    {
         "catalogID":"c686143641e98dff68aacb567a1b29c8b8f50aa7",
-        "resourceName":"SP He-ferrer",
+        "resourceName":"https://idp01.he-ferrer.eu.trials.vip/idp/shibboleth",
         "resourceProvider":{
             "name":" Haute Ecole Francisco Ferrer ",
             "displayname":"  HE-FERRER ",
             "url":" https://www.he-ferrer.eu/ "
         },
-        "description":"Test SP HEFF"
+        "description":""
+    },
+    {
+        "catalogID":"3dae0fc7fd644c9c9528ce80f3b781b76fb89a98",
+        "resourceName":"https://secure.etnic.be/nidp/saml2/metadata",
+        "resourceProvider":{
+            "name":"ETNIC",
+            "displayname":"Etnic-Production",
+            "url":"https://www.etnic.be"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"972eb3c18d49adddc1053c416861c7c5aff24e66",
+        "resourceName":"https://secure-acc.etnic.be/nidp/saml2/metadata",
+        "resourceProvider":{
+            "name":"ETNIC",
+            "displayname":"Etnic-Acceptance",
+            "url":"https://www.etnic.be"
+        },
+        "description":""
     },
     {
         "catalogID":"b63c7202fea2242240ed7530ab59ca91b7826718",
@@ -36101,13 +36101,13 @@
     },
     {
         "catalogID":"829c9c834c03dd0ce597b39f2fd318edeec08c0f",
-        "resourceName":"eduroam Visitor Access (eVA) | SURFnet",
+        "resourceName":"eduroam Visitor Access (eVA)",
         "resourceProvider":{
             "name":"SURFnet",
             "displayname":"SURFnet",
             "url":"https://www.surf.nl"
         },
-        "description":"eduroam Visitor Access (eVA) | SURFnet"
+        "description":"eduroam Visitor Access (eVA)"
     },
     {
         "catalogID":"17f66609abc4d7fb1e0dcc9567ec23fe9d81603e",

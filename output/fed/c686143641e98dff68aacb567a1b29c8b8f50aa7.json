@@ -1,10 +1,10 @@
 {
-    "generated":"2022-12-14 14:20",
+    "generated":"2022-12-14 16:32",
     "en":[
         {
             "catalogID":"c686143641e98dff68aacb567a1b29c8b8f50aa7",
             "entityID":"https://idp01.he-ferrer.eu.trials.vip/idp/shibboleth",
-            "resourceName":"SP He-ferrer",
+            "resourceName":"https://idp01.he-ferrer.eu.trials.vip/idp/shibboleth",
             "resourceProvider":{
                 "name":" Haute Ecole Francisco Ferrer ",
                 "displayname":"  HE-FERRER ",
@@ -14,7 +14,7 @@
                 "required":[],
                 "requested":[]
             },
-            "description":"Test SP HEFF",
+            "description":"",
             "resourceContacts":[
                 {
                     "type":"technical",
