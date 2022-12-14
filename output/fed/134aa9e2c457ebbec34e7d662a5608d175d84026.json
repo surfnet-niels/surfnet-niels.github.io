@@ -1,0 +1,211 @@
+{
+    "generated":"2022-12-14 14:20",
+    "en":[
+        {
+            "catalogID":"134aa9e2c457ebbec34e7d662a5608d175d84026",
+            "entityID":"https://login.epsectra.com/oidc/authenticate/ephome_broker",
+            "resourceName":"Sectra Medical Education AB",
+            "resourceProvider":{
+                "name":"Sectra Medical Education AB",
+                "displayname":"Sectra Medical Education AB",
+                "url":"https://medical.sectra.com/solutionarea/medical-education/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"Sectra Medical Education AB",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Carl von Koch",
+                    "email":"mailto:carl.vonkoch@sectra.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Sectra Servicdesk",
+                    "email":"mailto:servicedesk@sectra.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Johan Larsson",
+                    "email":"mailto:johan.larsson@sectra.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Johan Larsson",
+                    "email":"mailto:johan.larsson@sectra.com"
+                }
+            ],
+            "info":"https://medical.sectra.com/solutionarea/medical-education/",
+            "privacy":"https://resourcehub.epsectra.com/end-user-license-agreement-for-sectra-education-portal/",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"134aa9e2c457ebbec34e7d662a5608d175d84026",
+            "entityID":"https://login.epsectra.com/oidc/authenticate/ephome_broker",
+            "resourceName":"Education Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://medical.sectra.com/solutionarea/medical-education/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Carl von Koch",
+                    "email":"mailto:carl.vonkoch@sectra.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Sectra Servicdesk",
+                    "email":"mailto:servicedesk@sectra.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Johan Larsson",
+                    "email":"mailto:johan.larsson@sectra.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Johan Larsson",
+                    "email":"mailto:johan.larsson@sectra.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"134aa9e2c457ebbec34e7d662a5608d175d84026",
+            "entityID":"https://login.epsectra.com/oidc/authenticate/ephome_broker",
+            "resourceName":"Education Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://medical.sectra.com/solutionarea/medical-education/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Carl von Koch",
+                    "email":"mailto:carl.vonkoch@sectra.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Sectra Servicdesk",
+                    "email":"mailto:servicedesk@sectra.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Johan Larsson",
+                    "email":"mailto:johan.larsson@sectra.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Johan Larsson",
+                    "email":"mailto:johan.larsson@sectra.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"134aa9e2c457ebbec34e7d662a5608d175d84026",
+            "entityID":"https://login.epsectra.com/oidc/authenticate/ephome_broker",
+            "resourceName":"Education Portal",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://medical.sectra.com/solutionarea/medical-education/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement",
+                    "displayName",
+                    "givenName",
+                    "sn"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Carl von Koch",
+                    "email":"mailto:carl.vonkoch@sectra.com"
+                },
+                {
+                    "type":"support",
+                    "name":"Sectra Servicdesk",
+                    "email":"mailto:servicedesk@sectra.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Johan Larsson",
+                    "email":"mailto:johan.larsson@sectra.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Johan Larsson",
+                    "email":"mailto:johan.larsson@sectra.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
