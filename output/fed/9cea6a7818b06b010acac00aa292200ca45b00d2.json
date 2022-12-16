@@ -31250,16 +31250,6 @@
         "description":""
     },
     {
-        "catalogID":"7ee332d4b4d90660271b09b6325ac8a1871c0005",
-        "resourceName":"http://adfs.helb-prigogine.be/adfs/services/trust",
-        "resourceProvider":{
-            "name":"HELB",
-            "displayname":"Haute Ecole Libre de Bruxelles Ilya Prigogine",
-            "url":"https://www.helb-prigogine.be"
-        },
-        "description":""
-    },
-    {
         "catalogID":"7a9a01da3598bb89c4ef185a485ae7e44558e0ff",
         "resourceName":"https://edugain.vinci.be/adfs/services/trust",
         "resourceProvider":{
@@ -31296,6 +31286,16 @@
             "name":"ETNIC",
             "displayname":"Etnic-Acceptance",
             "url":"https://www.etnic.be"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"7ee332d4b4d90660271b09b6325ac8a1871c0005",
+        "resourceName":"http://adfs.helb-prigogine.be/adfs/services/trust",
+        "resourceProvider":{
+            "name":"HELB",
+            "displayname":"Haute Ecole Libre de Bruxelles Ilya Prigogine",
+            "url":"https://www.helb-prigogine.be"
         },
         "description":""
     },
