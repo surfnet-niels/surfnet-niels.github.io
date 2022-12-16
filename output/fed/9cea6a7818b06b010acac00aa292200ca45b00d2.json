@@ -10670,16 +10670,6 @@
         "description":""
     },
     {
-        "catalogID":"7145e8d7f76b2c8412e0fea8a853e6f9d0764e12",
-        "resourceName":"AcademicWorks - University of South Carolina Arts & Sciences",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"41773adfa107869bf6ff2dfbdb66fe6c8de71ddd",
         "resourceName":"AcademicWorks - Bergen Community College Foundation Scholarships",
         "resourceProvider":{
@@ -10810,16 +10800,6 @@
         "description":""
     },
     {
-        "catalogID":"fa220acf641c72e8e487cbe4dabb6f31923d2e21",
-        "resourceName":"AcademicWorks - California State University, Bakersfield",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"e9f88109a34a165ccf14973afadedbdc63a871cd",
         "resourceName":"AcademicWorks - California State University, Chico",
         "resourceProvider":{
@@ -10840,28 +10820,8 @@
         "description":""
     },
     {
-        "catalogID":"866719d711d05bf37eb6fdb9e5b8ad8cbeebbe87",
-        "resourceName":"AcademicWorks - California State University, East Bay",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"56824b74c17eb1455dfba3721572f67e052d3e53",
         "resourceName":"AcademicWorks - California State University-Long Beach",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"a142cf3f754aee6c7c751b01388255f50656b4da",
-        "resourceName":"AcademicWorks - California State University Maritime Academy",
         "resourceProvider":{
             "name":"Blackbaud, Inc.",
             "displayname":"Blackbaud, Inc.",
@@ -32900,16 +32860,6 @@
         "description":"VIDEOTORIUM - Bethlen Gábor Általános Elementary School"
     },
     {
-        "catalogID":"1b85ce354cb1be5cea43184262b45cd41f624d96",
-        "resourceName":"MOOC Test Portal",
-        "resourceProvider":{
-            "name":"University of Public Service",
-            "displayname":"University of Public Service",
-            "url":"http://en.uni-nke.hu"
-        },
-        "description":"Moodle (MOOC) Test Portal"
-    },
-    {
         "catalogID":"5d5d6176ba05659f04612ef20c5020c8db9c6a8c",
         "resourceName":"MOOC Portal",
         "resourceProvider":{
@@ -32938,6 +32888,16 @@
             "url":"http://en.uni-nke.hu"
         },
         "description":"Moodle e-learning system"
+    },
+    {
+        "catalogID":"1b85ce354cb1be5cea43184262b45cd41f624d96",
+        "resourceName":"MOOC Test Portal",
+        "resourceProvider":{
+            "name":"University of Public Service",
+            "displayname":"University of Public Service",
+            "url":"http://en.uni-nke.hu"
+        },
+        "description":"Moodle (MOOC) Test Portal"
     },
     {
         "catalogID":"d315381231bf88d9c23f7193c958abd34e37fb14",
