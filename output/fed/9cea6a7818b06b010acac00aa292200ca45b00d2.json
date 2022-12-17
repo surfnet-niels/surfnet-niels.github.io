@@ -32860,16 +32860,6 @@
         "description":"VIDEOTORIUM - Bethlen Gábor Általános Elementary School"
     },
     {
-        "catalogID":"5d5d6176ba05659f04612ef20c5020c8db9c6a8c",
-        "resourceName":"MOOC Portal",
-        "resourceProvider":{
-            "name":"University of Public Service",
-            "displayname":"University of Public Service",
-            "url":"http://en.uni-nke.hu"
-        },
-        "description":"Moodle (MOOC) Portal"
-    },
-    {
         "catalogID":"57dda48c28a87efd30905ee480dc874d4a7e1fc5",
         "resourceName":"The in-house trend viewer of ELTE Department of Digital Humanities",
         "resourceProvider":{
@@ -32878,6 +32868,16 @@
             "url":"http://www.elte.hu"
         },
         "description":"The system enables linguistic examination of the loaded text corpora.Loaded corpora can only be used for non-profit and scientific purposes.For more information, visit https://elte-dh.hu."
+    },
+    {
+        "catalogID":"1b85ce354cb1be5cea43184262b45cd41f624d96",
+        "resourceName":"MOOC Test Portal",
+        "resourceProvider":{
+            "name":"University of Public Service",
+            "displayname":"University of Public Service",
+            "url":"http://en.uni-nke.hu"
+        },
+        "description":"Moodle (MOOC) Test Portal"
     },
     {
         "catalogID":"6e3ea25221559a7f3370b398a5893cf8a700fed0",
@@ -32890,14 +32890,14 @@
         "description":"Moodle e-learning system"
     },
     {
-        "catalogID":"1b85ce354cb1be5cea43184262b45cd41f624d96",
-        "resourceName":"MOOC Test Portal",
+        "catalogID":"5d5d6176ba05659f04612ef20c5020c8db9c6a8c",
+        "resourceName":"MOOC Portal",
         "resourceProvider":{
             "name":"University of Public Service",
             "displayname":"University of Public Service",
             "url":"http://en.uni-nke.hu"
         },
-        "description":"Moodle (MOOC) Test Portal"
+        "description":"Moodle (MOOC) Portal"
     },
     {
         "catalogID":"d315381231bf88d9c23f7193c958abd34e37fb14",
