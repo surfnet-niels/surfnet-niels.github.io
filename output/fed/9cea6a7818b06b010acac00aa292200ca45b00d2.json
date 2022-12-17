@@ -32880,16 +32880,6 @@
         "description":"Moodle (MOOC) Test Portal"
     },
     {
-        "catalogID":"6e3ea25221559a7f3370b398a5893cf8a700fed0",
-        "resourceName":"NKE Moodle",
-        "resourceProvider":{
-            "name":"University of Public Service",
-            "displayname":"University of Public Service",
-            "url":"http://en.uni-nke.hu"
-        },
-        "description":"Moodle e-learning system"
-    },
-    {
         "catalogID":"5d5d6176ba05659f04612ef20c5020c8db9c6a8c",
         "resourceName":"MOOC Portal",
         "resourceProvider":{
@@ -32898,6 +32888,16 @@
             "url":"http://en.uni-nke.hu"
         },
         "description":"Moodle (MOOC) Portal"
+    },
+    {
+        "catalogID":"6e3ea25221559a7f3370b398a5893cf8a700fed0",
+        "resourceName":"NKE Moodle",
+        "resourceProvider":{
+            "name":"University of Public Service",
+            "displayname":"University of Public Service",
+            "url":"http://en.uni-nke.hu"
+        },
+        "description":"Moodle e-learning system"
     },
     {
         "catalogID":"d315381231bf88d9c23f7193c958abd34e37fb14",
