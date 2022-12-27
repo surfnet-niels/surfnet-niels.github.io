@@ -1,5 +1,5 @@
 {
-    "generated":"2022-12-27 08:26",
+    "generated":"2022-12-27 10:23",
     "en":[
         {
             "catalogID":"daf85034f87516aa92e96b285ec8dbc57feeb758",
@@ -16,7 +16,7 @@
                 ],
                 "requested":[]
             },
-            "description":"OMREN Dashboard",
+            "description":"https://www.omren.om/",
             "resourceContacts":[
                 {
                     "type":"support",
@@ -36,8 +36,14 @@
             ],
             "info":"https://www.omren.om/",
             "privacy":"https://www.omren.om/",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi",
+                "https://noec.release-check.edugain.org/shibboleth"
+            ]
         }
     ],
     "fr":[
@@ -76,8 +82,14 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi",
+                "https://noec.release-check.edugain.org/shibboleth"
+            ]
         }
     ],
     "it":[
@@ -116,8 +128,14 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi",
+                "https://noec.release-check.edugain.org/shibboleth"
+            ]
         }
     ],
     "de":[
@@ -156,8 +174,14 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi",
+                "https://noec.release-check.edugain.org/shibboleth"
+            ]
         }
     ]
 }
