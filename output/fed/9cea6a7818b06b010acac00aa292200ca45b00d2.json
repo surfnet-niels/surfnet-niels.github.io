@@ -1030,16 +1030,6 @@
         "description":"The digital collections of the University of Cyprus."
     },
     {
-        "catalogID":"daf85034f87516aa92e96b285ec8dbc57feeb758",
-        "resourceName":"OMREN Dashboard",
-        "resourceProvider":{
-            "name":"OMREN Dashboard",
-            "displayname":"OMREN Dashboard",
-            "url":"https://www.omren.om/"
-        },
-        "description":"https://www.omren.om/"
-    },
-    {
         "catalogID":"5d91118b2d0f054671b6856cc1fc13b6047c6731",
         "resourceName":"ezproxy",
         "resourceProvider":{
@@ -1098,6 +1088,16 @@
             "url":"https://www.masader.om/overview"
         },
         "description":"Masader is the brand name of the Oman Virtual Science Library, which provides seamless and affordable access to a wealth of global research material. Membership of the Oman Research and Education Network (OMREN) makes Masader available to universities, technical colleges, and other Oman-based institutions engaged in education and scientific research."
+    },
+    {
+        "catalogID":"d498b46a43fa59b0f139bf7795b1def2587eee25",
+        "resourceName":"Moasher",
+        "resourceProvider":{
+            "name":"Moasher",
+            "displayname":"Moasher",
+            "url":"https://moasher.omren.om/"
+        },
+        "description":"Moasher"
     },
     {
         "catalogID":"1b23194ad7e4d8ebc3b47fc6459c7804870dc1b4",
