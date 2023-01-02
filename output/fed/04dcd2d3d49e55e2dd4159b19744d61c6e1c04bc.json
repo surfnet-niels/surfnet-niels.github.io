@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-02 08:27",
+    "generated":"2023-01-02 10:23",
     "en":[
         {
             "catalogID":"04dcd2d3d49e55e2dd4159b19744d61c6e1c04bc",
@@ -8,7 +8,7 @@
             "resourceProvider":{
                 "name":"Institute for Language and Folklore",
                 "displayname":"Institute for Language and Folklore",
-                "url":"https://www.sprakochfolkminnen.se/"
+                "url":"https://www.isof.se/"
             },
             "resourceAttributes":{
                 "required":[],
@@ -19,11 +19,16 @@
                 {
                     "type":"technical",
                     "name":"MagnusAhltorp",
-                    "email":"mailto:magnus.ahltorp@sprakochfolkminnen.se"
+                    "email":"mailto:magnus.ahltorp@isof.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"MagnusAhltorp",
+                    "email":"mailto:magnus.ahltorp@isof.se"
                 }
             ],
-            "info":"https://www.sprakochfolkminnen.se/om-oss/verksamhet/about-the-institute.html",
-            "privacy":"",
+            "info":"https://www.isof.se/other-languages/english/about-the-institute",
+            "privacy":"https://www.isof.se/vart-uppdrag/om-myndigheten/om-webbplatsen/hantering-av-personuppgifter",
             "entityCategories":[
                 "http://refeds.org/category/research-and-scholarship"
             ],
@@ -38,7 +43,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.sprakochfolkminnen.se/"
+                "url":"https://www.isof.se/"
             },
             "resourceAttributes":{
                 "required":[],
@@ -49,7 +54,12 @@
                 {
                     "type":"technical",
                     "name":"MagnusAhltorp",
-                    "email":"mailto:magnus.ahltorp@sprakochfolkminnen.se"
+                    "email":"mailto:magnus.ahltorp@isof.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"MagnusAhltorp",
+                    "email":"mailto:magnus.ahltorp@isof.se"
                 }
             ],
             "info":"",
@@ -68,7 +78,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.sprakochfolkminnen.se/"
+                "url":"https://www.isof.se/"
             },
             "resourceAttributes":{
                 "required":[],
@@ -79,7 +89,12 @@
                 {
                     "type":"technical",
                     "name":"MagnusAhltorp",
-                    "email":"mailto:magnus.ahltorp@sprakochfolkminnen.se"
+                    "email":"mailto:magnus.ahltorp@isof.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"MagnusAhltorp",
+                    "email":"mailto:magnus.ahltorp@isof.se"
                 }
             ],
             "info":"",
@@ -98,7 +113,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"https://www.sprakochfolkminnen.se/"
+                "url":"https://www.isof.se/"
             },
             "resourceAttributes":{
                 "required":[],
@@ -109,7 +124,12 @@
                 {
                     "type":"technical",
                     "name":"MagnusAhltorp",
-                    "email":"mailto:magnus.ahltorp@sprakochfolkminnen.se"
+                    "email":"mailto:magnus.ahltorp@isof.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"MagnusAhltorp",
+                    "email":"mailto:magnus.ahltorp@isof.se"
                 }
             ],
             "info":"",
