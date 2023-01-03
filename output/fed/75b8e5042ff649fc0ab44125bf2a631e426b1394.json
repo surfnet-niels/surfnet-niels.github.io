@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-03 14:20",
+    "generated":"2023-01-03 16:31",
     "en":[
         {
             "catalogID":"75b8e5042ff649fc0ab44125bf2a631e426b1394",
@@ -12,15 +12,16 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
                     "mail",
-                    "eduPersonAffiliation",
                     "eduPersonPrincipalName",
-                    "eduPersonEntitlement",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonAffiliation",
                     "sn",
                     "givenName"
-                ],
-                "requested":[]
+                ]
             },
             "description":"Moodle qualif",
             "resourceContacts":[
@@ -51,15 +52,16 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
                     "mail",
-                    "eduPersonAffiliation",
                     "eduPersonPrincipalName",
-                    "eduPersonEntitlement",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonAffiliation",
                     "sn",
                     "givenName"
-                ],
-                "requested":[]
+                ]
             },
             "description":"Moodle qualif",
             "resourceContacts":[
@@ -90,15 +92,16 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
                     "mail",
-                    "eduPersonAffiliation",
                     "eduPersonPrincipalName",
-                    "eduPersonEntitlement",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonAffiliation",
                     "sn",
                     "givenName"
-                ],
-                "requested":[]
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -129,15 +132,16 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
                     "mail",
-                    "eduPersonAffiliation",
                     "eduPersonPrincipalName",
-                    "eduPersonEntitlement",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[
+                    "uid",
+                    "eduPersonAffiliation",
                     "sn",
                     "givenName"
-                ],
-                "requested":[]
+                ]
             },
             "description":"",
             "resourceContacts":[
