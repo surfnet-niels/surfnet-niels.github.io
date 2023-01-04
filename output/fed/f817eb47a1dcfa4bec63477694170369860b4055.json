@@ -1,0 +1,143 @@
+{
+    "generated":"2023-01-04 10:24",
+    "en":[
+        {
+            "catalogID":"f817eb47a1dcfa4bec63477694170369860b4055",
+            "entityID":"https://el.us.edu.pl/shibboleth",
+            "resourceName":"E-learning SP University of Silesia",
+            "resourceProvider":{
+                "name":"University of Silesia",
+                "displayname":"University of Silesia",
+                "url":"http://us.edu.pl"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Administrator Moodle",
+                    "email":"mailto:administrator_moodle@us.edu.pl"
+                }
+            ],
+            "info":"",
+            "privacy":"https://el.us.edu.pl/t4eu/sp/privacy_policy.html",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"f817eb47a1dcfa4bec63477694170369860b4055",
+            "entityID":"https://el.us.edu.pl/shibboleth",
+            "resourceName":"E-learning SP University of Silesia",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://us.edu.pl"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Administrator Moodle",
+                    "email":"mailto:administrator_moodle@us.edu.pl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"f817eb47a1dcfa4bec63477694170369860b4055",
+            "entityID":"https://el.us.edu.pl/shibboleth",
+            "resourceName":"E-learning SP University of Silesia",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://us.edu.pl"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Administrator Moodle",
+                    "email":"mailto:administrator_moodle@us.edu.pl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"f817eb47a1dcfa4bec63477694170369860b4055",
+            "entityID":"https://el.us.edu.pl/shibboleth",
+            "resourceName":"E-learning SP University of Silesia",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://us.edu.pl"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"Administrator Moodle",
+                    "email":"mailto:administrator_moodle@us.edu.pl"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
