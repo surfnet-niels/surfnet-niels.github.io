@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-04 10:24",
+    "generated":"2023-01-04 12:40",
     "en":[
         {
             "catalogID":"75b8e5042ff649fc0ab44125bf2a631e426b1394",
@@ -13,12 +13,12 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName",
-                    "eduPersonEntitlement"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "uid",
                     "eduPersonAffiliation",
+                    "eduPersonEntitlement",
                     "sn",
                     "givenName"
                 ]
@@ -53,12 +53,12 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName",
-                    "eduPersonEntitlement"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "uid",
                     "eduPersonAffiliation",
+                    "eduPersonEntitlement",
                     "sn",
                     "givenName"
                 ]
@@ -93,12 +93,12 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName",
-                    "eduPersonEntitlement"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "uid",
                     "eduPersonAffiliation",
+                    "eduPersonEntitlement",
                     "sn",
                     "givenName"
                 ]
@@ -133,12 +133,12 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName",
-                    "eduPersonEntitlement"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "uid",
                     "eduPersonAffiliation",
+                    "eduPersonEntitlement",
                     "sn",
                     "givenName"
                 ]
