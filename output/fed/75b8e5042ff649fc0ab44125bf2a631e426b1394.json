@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-05 10:24",
+    "generated":"2023-01-05 12:40",
     "en":[
         {
             "catalogID":"75b8e5042ff649fc0ab44125bf2a631e426b1394",
@@ -13,14 +13,14 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "sn",
+                    "givenName"
                 ],
                 "requested":[
                     "uid",
                     "eduPersonAffiliation",
-                    "eduPersonEntitlement",
-                    "sn",
-                    "givenName"
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"Moodle qualif",
@@ -53,14 +53,14 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "sn",
+                    "givenName"
                 ],
                 "requested":[
                     "uid",
                     "eduPersonAffiliation",
-                    "eduPersonEntitlement",
-                    "sn",
-                    "givenName"
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"Moodle qualif",
@@ -93,14 +93,14 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "sn",
+                    "givenName"
                 ],
                 "requested":[
                     "uid",
                     "eduPersonAffiliation",
-                    "eduPersonEntitlement",
-                    "sn",
-                    "givenName"
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"",
@@ -133,14 +133,14 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "sn",
+                    "givenName"
                 ],
                 "requested":[
                     "uid",
                     "eduPersonAffiliation",
-                    "eduPersonEntitlement",
-                    "sn",
-                    "givenName"
+                    "eduPersonEntitlement"
                 ]
             },
             "description":"",
