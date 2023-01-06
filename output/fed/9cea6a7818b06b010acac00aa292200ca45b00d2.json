@@ -210,396 +210,6 @@
         "description":"Diversos grupos de expertos (comunidades) dedicados al desarrollo de aplicaciones y de recursos educativos, que son concebidos como herramientas de apoyo a los procesos de enseñanza-aprendizaje en la educación superior, que fomentan la innovación educativa, el desarrollo de formadores, la actualización docente, la vinculación de la universidad con la sociedad y que, al mismo tiempo, permiten a personas ajenas al sistema educativo formal adquirir las competencias necesarias tanto para su desempeño profesional como para el aprendizaje a lo largo de toda la vida."
     },
     {
-        "catalogID":"46291ba92c07adfa9d55f96977a33dece087fe4a",
-        "resourceName":"CSTCloud Online Service",
-        "resourceProvider":{
-            "name":"CSTCloud Online Service",
-            "displayname":"CSTCloud Online Service",
-            "url":"https://passport.escience.cn/Shibboleth.sso/Login"
-        },
-        "description":"cstnet.cn"
-    },
-    {
-        "catalogID":"97f01f5b1f482a06d2058bc6da2b4ef6c4a5f779",
-        "resourceName":"fenqubiao",
-        "resourceProvider":{
-            "name":"fenqubiao",
-            "displayname":"fenqubiao",
-            "url":"https://shibboleth.group123.cc/Shibboleth.sso/Login"
-        },
-        "description":"https://sp.fenqubiao.com/Shibboleth.sso/Login"
-    },
-    {
-        "catalogID":"13840f2cb9eca0d8431384c049835c718c778b3c",
-        "resourceName":"https://sp.foxitsoftware.cn/shibboleth",
-        "resourceProvider":{
-            "name":"Foxit Software",
-            "displayname":"Foxit Software",
-            "url":"https://www.foxitsoftware.cn/"
-        },
-        "description":"https://sp.foxitsoftware.cn/shibboleth"
-    },
-    {
-        "catalogID":"e312cc49fd1a8c61c159b174930047d3dc20e5db",
-        "resourceName":"http://websso1.um.edu.mo/adfs/services/trust",
-        "resourceProvider":{
-            "name":[],
-            "displayname":[],
-            "url":"https://www.um.edu.mo/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"1e3a50caa075fa015d69954fd3ec97b8422c7815",
-        "resourceName":"CSTCloud AAI",
-        "resourceProvider":{
-            "name":"Computer Network Information Center, Chinese Academy of Sciences",
-            "displayname":"Computer Network Information Center, Chinese Academy of Sciences",
-            "url":"https://aai.cstcloud.net"
-        },
-        "description":"https://aai.cstcloud.net"
-    },
-    {
-        "catalogID":"e8682225c133af8d5a023135f2218a6d24b26840",
-        "resourceName":"https://auth.osa.org/oa/entity",
-        "resourceProvider":{
-            "name":"The Optical Society",
-            "displayname":"The Optical Society",
-            "url":"https://www.osa.org"
-        },
-        "description":"https://auth.osa.org/oa/entity"
-    },
-    {
-        "catalogID":"fcb3bc5915467b9b7ed0f51a26926bfc350fff95",
-        "resourceName":"https://fsso.cnki.net/shibboleth",
-        "resourceProvider":{
-            "name":"Tongfang Knowledge Network Technology",
-            "displayname":"Tongfang Knowledge Network Technology",
-            "url":"http://www.cnki.net/"
-        },
-        "description":"https://fsso.cnki.net"
-    },
-    {
-        "catalogID":"9d506953bdad826ce7c4982eb3d4c115f38c6c7a",
-        "resourceName":"https://scifundsp.wanfangdata.com.cn/shibboleth",
-        "resourceProvider":{
-            "name":"wanfangdata",
-            "displayname":"wanfangdata",
-            "url":"http://www.wanfangdata.com.cn"
-        },
-        "description":"https://fsso.wanfangdata.com.cn/scifund"
-    },
-    {
-        "catalogID":"6e80262e07f9968ac8b51667297df62c820a7321",
-        "resourceName":"https://shibboleth.wanfangdata.com.cn/shibboleth",
-        "resourceProvider":{
-            "name":"wanfangdata",
-            "displayname":"wanfangdata",
-            "url":"http://www.wanfangdata.com.cn"
-        },
-        "description":"https://fsso.wanfangdata.com.cn"
-    },
-    {
-        "catalogID":"b55208828b377016cbe5f9c1f1a57e7819c49194",
-        "resourceName":"Clarivate Analytics SP (Web of Knowledge & EndNote Web)",
-        "resourceProvider":{
-            "name":"Camelot UK BIDCO Limited",
-            "displayname":"Clarivate Analytics",
-            "url":"https://clarivate.com/"
-        },
-        "description":"Explore literature in the sciences, social sciences, arts and humanities and publish bibliographies."
-    },
-    {
-        "catalogID":"22d2d3a3225f21888193392c08cb1e86da8c633b",
-        "resourceName":"Elsevier",
-        "resourceProvider":{
-            "name":"Elsevier B.V.",
-            "displayname":"Elsevier",
-            "url":"http://www.elsevier.com/"
-        },
-        "description":"Access Elsevier products using your institutional credentials"
-    },
-    {
-        "catalogID":"894645779c78bcfdc105ce32b8aca5c96efb66d9",
-        "resourceName":"Cambridge Core",
-        "resourceProvider":{
-            "name":"University of Cambridge",
-            "displayname":"University of Cambridge",
-            "url":"http://www.cambridge.org/"
-        },
-        "description":"Cambridge Core is the home of academic content from Cambridge University."
-    },
-    {
-        "catalogID":"d3b388e44563d52c6193912e29a003a902e1d1db",
-        "resourceName":"https://shib.rsc.org/shibboleth",
-        "resourceProvider":{
-            "name":"Royal Society of Chemistry",
-            "displayname":"Royal Society of Chemistry",
-            "url":"http://www.rsc.org/aboutus/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"455cc89fecfa3db0316aa5f82fb77aa690440e4b",
-        "resourceName":"https://shib.rsc-uat.org/shibboleth",
-        "resourceProvider":{
-            "name":"Royal Society of Chemistry",
-            "displayname":"Royal Society of Chemistry Test System",
-            "url":"http://www.rsc.org/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"be245f2023530b857c5001eae75337ef0403cbbb",
-        "resourceName":"ProQuest Test",
-        "resourceProvider":{
-            "name":"ProQuest LLC",
-            "displayname":"ProQuest LLC",
-            "url":"http://www.proquest.com/"
-        },
-        "description":"ProQuest provides subscription access to numerous premium technical journals, dissertations and other information databases."
-    },
-    {
-        "catalogID":"16dd115fcfdb006e234b90490e10235517fd1823",
-        "resourceName":"ProQuest PROD SP",
-        "resourceProvider":{
-            "name":"ProQuest LLC",
-            "displayname":"ProQuest LLC",
-            "url":"http://www.proquest.com/"
-        },
-        "description":"ProQuest provides subscription access to numerous premium technical journals, dissertations and other information databases."
-    },
-    {
-        "catalogID":"e44e6e07b84a8edf14d9429481bfc96db1def5e5",
-        "resourceName":"ACS Publications",
-        "resourceProvider":{
-            "name":"American Chemical Society",
-            "displayname":"American Chemical Society",
-            "url":"http://www.acs.org"
-        },
-        "description":"Publishes products and services for the practice and advancement of the chemical sciences."
-    },
-    {
-        "catalogID":"ed6261546aa0607f40a3f04e6ee9e8e1da8dc047",
-        "resourceName":"CILogon",
-        "resourceProvider":{
-            "name":"University of Illinois at Urbana-Champaign",
-            "displayname":"National Center for Supercomputing Applications",
-            "url":"http://www.ncsa.illinois.edu/"
-        },
-        "description":"CILogon facilitates secure access to CyberInfrastructure (CI)."
-    },
-    {
-        "catalogID":"07820fa7e2ab0b2252d9a109616e2104a8cbeabb",
-        "resourceName":"Ovid",
-        "resourceProvider":{
-            "name":"Ovid Technologies, Inc",
-            "displayname":"Ovid Technologies, Inc",
-            "url":"http://www.ovid.com/"
-        },
-        "description":"Wolters Kluwer OpenAthens Keystone Production"
-    },
-    {
-        "catalogID":"1f3949c4d52b44a29d5431865366000629d88649",
-        "resourceName":"EBSCO Publishing, Inc",
-        "resourceProvider":{
-            "name":"EBSCO Publishing, Inc",
-            "displayname":"EBSCO Publishing, Inc",
-            "url":"http://ebsco.com/"
-        },
-        "description":"SP description: EBSCO is the leading provider of research databases, e-journal and e-package subscription management, book collection development and acquisition management, and a major provider of library technology, e-books and clinical decision solutions for universities, colleges, hospitals, corporations, government, K12 schools and public libraries worldwide."
-    },
-    {
-        "catalogID":"136b988a23ad7de45b7855c72d89adc83e106f5a",
-        "resourceName":"IOPscience",
-        "resourceProvider":{
-            "name":"IOP Publishing Limited",
-            "displayname":"IOPscience",
-            "url":"http://www.iop.org/"
-        },
-        "description":"IOPscience is an online service for journal content published by IOP Publishing. IOPscience embraces innovative technologies to make it easier for researchers to access scientific, technical and medical content."
-    },
-    {
-        "catalogID":"2c683cf6d5672db482c281bcf76f6b77d8687d6f",
-        "resourceName":"https://shibboleth.eb.com/sp",
-        "resourceProvider":{
-            "name":"Encyclopaedia Britannica (UK) Limited",
-            "displayname":"Britannica Online School Edition",
-            "url":"http://www.britannica.co.uk/BritannicaCoUK_Info_History.htm"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"3529a0564e4d91964fd0ced7f7f2ddefa33ec68f",
-        "resourceName":"Nature Research",
-        "resourceProvider":{
-            "name":"Springer Nature Limited",
-            "displayname":"Nature Research",
-            "url":"https://www.springernature.com/"
-        },
-        "description":"Nature Research serves the research community by publishing its most significant discoveries."
-    },
-    {
-        "catalogID":"60e9ca41488cef84071402f2779fa7c78c302c2d",
-        "resourceName":"https://ieeexplore.ieee.org/shibboleth-sp",
-        "resourceProvider":{
-            "name":"The Institute of Electrical And Electronics Engineers, Incorporated",
-            "displayname":"IEEE XploreDigital Library",
-            "url":"http://www.ieee.org/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"0b0ee19886cdf4801274ce5fdeca615c75350fa0",
-        "resourceName":"https://www.annualreviews.org/shibboleth",
-        "resourceProvider":{
-            "name":"Atypon Systems, Inc",
-            "displayname":"Atypon Systems: Annual Reviews",
-            "url":"http://www.annualreviews.org/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"1ae9182ea2d6ce7e4ecaf887e7b9bd65e2ff323b",
-        "resourceName":"https://www.tandfonline.com/shibboleth",
-        "resourceProvider":{
-            "name":"Atypon Systems, Inc",
-            "displayname":"Atypon Systems: Taylor & Francis Online",
-            "url":"http://www.tandfonline.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"4eb89e825f99b1c3cf29d49a09e7a28fcb54ffa4",
-        "resourceName":"https://fsso-qa1.springer.com",
-        "resourceProvider":{
-            "name":"Springer-Verlag London Limited",
-            "displayname":"Springer Link (qa1)",
-            "url":"http://link.springer.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"2d313376ea5015e5c770a7f2cb155368caa44357",
-        "resourceName":"World Scientific Publishing",
-        "resourceProvider":{
-            "name":"Atypon Systems, Inc",
-            "displayname":"Atypon Systems, Inc",
-            "url":"https://www.worldscientific.com/"
-        },
-        "description":"World Scientific Publishing is a leading independent publisher of academic and professional books and journals."
-    },
-    {
-        "catalogID":"b08b2baeffbe9dce89824755970c2ebeb6725fc0",
-        "resourceName":"Springer",
-        "resourceProvider":{
-            "name":"Springer-Verlag London Limited",
-            "displayname":"Springer",
-            "url":"https://www.springernature.com/"
-        },
-        "description":"The world's most comprehensive online collection of scientific, technological and medical journals."
-    },
-    {
-        "catalogID":"79371483f72c9f57628748224542a46502ca22a7",
-        "resourceName":"https://shibboleth.highwire.org/entity/secure-sp",
-        "resourceProvider":{
-            "name":"HighWire Press, Inc.",
-            "displayname":"HighWire Press Online",
-            "url":"http://highwire.stanford.edu/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"42ac84cf04daee3058b4e69fb6dcad51773368ee",
-        "resourceName":"https://www.jove.com/shibboleth",
-        "resourceProvider":{
-            "name":"MYJOVE Corporation",
-            "displayname":"Journal of Visualized Experiments",
-            "url":"http://www.jove.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"1a051adcb5fae052aaa0c6329a933929cd917559",
-        "resourceName":"Atypon SP",
-        "resourceProvider":{
-            "name":"Atypon Systems, Inc",
-            "displayname":"Atypon SP",
-            "url":"http://www.atypon.com"
-        },
-        "description":"Atypon Systems operates a hosting platform that provides content delivery services to a wide range of professional and scholarly publishers."
-    },
-    {
-        "catalogID":"a4b97e232b31526593aef339f61ff5fe33e07ea4",
-        "resourceName":"Karger Publishers",
-        "resourceProvider":{
-            "name":"S. Karger AG",
-            "displayname":"Karger Publishers",
-            "url":"http://www.karger.com"
-        },
-        "description":"Karger Publishers in Basel, Switzerland, is a globally active medical and scientific publishing company."
-    },
-    {
-        "catalogID":"aa1966c75e6b4abf93748da6e33591495809a657",
-        "resourceName":"Digital Science",
-        "resourceProvider":{
-            "name":"LibLynx LLC",
-            "displayname":"Digital Science",
-            "url":"https://www.digital-science.com/"
-        },
-        "description":"Research tools for finding, reading, managing & citing papers"
-    },
-    {
-        "catalogID":"aab4044f503bc386e55c7963d1cc39e43180833f",
-        "resourceName":"SPIE -- International Society for Optics and Photonics",
-        "resourceProvider":{
-            "name":"Society of Photo-Optical Instrumentation Engineers",
-            "displayname":"Society of Photo-Optical Instrumentation Engineers",
-            "url":"http://spie.org/"
-        },
-        "description":"SPIE Digital Library - The world's largest collection of optics and photonics applied research."
-    },
-    {
-        "catalogID":"9d9b2130b8a25eebad2d2f6155df69133bbd71b7",
-        "resourceName":"Oxford University Press - Shibboleth 2 SP Sigma Test",
-        "resourceProvider":{
-            "name":"Semantico Limited",
-            "displayname":"Semantico Limited",
-            "url":"https://global.oup.com/?cc=gb"
-        },
-        "description":"Oxford University Press - Shibboleth 2 SP Sigma Test"
-    },
-    {
-        "catalogID":"718dcc35b350955f966aca6ae0c646f9c40c8d43",
-        "resourceName":"Wolters Kluwer OneID (int)",
-        "resourceProvider":{
-            "name":"Wolters Kluwer United States Inc",
-            "displayname":"Wolters Kluwer United States Inc",
-            "url":"http://kluwerlawonline.com"
-        },
-        "description":"Wolters Kluwer Content and Resources (integration)"
-    },
-    {
-        "catalogID":"0c63644e3ea0fa5596523879b7e4c7d1f8741233",
-        "resourceName":"BioOne Complete",
-        "resourceProvider":{
-            "name":"Society of Photo-Optical Instrumentation Engineers",
-            "displayname":"Society of Photo-Optical Instrumentation Engineers",
-            "url":"https://bioone.org/"
-        },
-        "description":"BioOne Complete is BioOne's full-text database of more than 200 leading journals in the biological, ecological, and environmental sciences."
-    },
-    {
-        "catalogID":"cbdfd406d89b42c1f17d2e4bc49b1e44386c4b1f",
-        "resourceName":"EGI Check-in Service",
-        "resourceProvider":{
-            "name":"EGI Foundation",
-            "displayname":"EGI Foundation",
-            "url":"https://www.egi.eu/"
-        },
-        "description":"EGI Check-in Service"
-    },
-    {
         "catalogID":"c7507439fa50273077b4fc077a358aaddc905cc3",
         "resourceName":"KIF Filesender (in English)",
         "resourceProvider":{
@@ -650,6 +260,16 @@
         "description":"RASH main SP"
     },
     {
+        "catalogID":"e8682225c133af8d5a023135f2218a6d24b26840",
+        "resourceName":"https://auth.osa.org/oa/entity",
+        "resourceProvider":{
+            "name":"The Optical Society",
+            "displayname":"The Optical Society",
+            "url":"https://www.osa.org"
+        },
+        "description":"https://auth.osa.org/oa/entity"
+    },
+    {
         "catalogID":"55763c5984e3c8994dc2ed38154fafae4a1450ce",
         "resourceName":"https://carsi.sh.edu.cn/shibboleth",
         "resourceProvider":{
@@ -670,6 +290,16 @@
         "description":"https://ds.carsi.edu.cn/ds/index.html"
     },
     {
+        "catalogID":"fcb3bc5915467b9b7ed0f51a26926bfc350fff95",
+        "resourceName":"https://fsso.cnki.net/shibboleth",
+        "resourceProvider":{
+            "name":"Tongfang Knowledge Network Technology",
+            "displayname":"Tongfang Knowledge Network Technology",
+            "url":"http://www.cnki.net/"
+        },
+        "description":"https://fsso.cnki.net"
+    },
+    {
         "catalogID":"3bc1cef0c82b8a7e84d264bf19e2d453257d6c42",
         "resourceName":"https://fsso.zhizhen.com/shibboleth",
         "resourceProvider":{
@@ -680,6 +310,16 @@
         "description":"https://fsso.zhizhen.com"
     },
     {
+        "catalogID":"9d506953bdad826ce7c4982eb3d4c115f38c6c7a",
+        "resourceName":"https://scifundsp.wanfangdata.com.cn/shibboleth",
+        "resourceProvider":{
+            "name":"wanfangdata",
+            "displayname":"wanfangdata",
+            "url":"http://www.wanfangdata.com.cn"
+        },
+        "description":"https://fsso.wanfangdata.com.cn/scifund"
+    },
+    {
         "catalogID":"321c5a32e52bff3daaac4926a64cd79c4bed7a18",
         "resourceName":"https://shibboleth.guodao.cn/shibboleth",
         "resourceProvider":{
@@ -688,6 +328,16 @@
             "url":"http://guodao.cn/"
         },
         "description":"http://fsso.metel.cn"
+    },
+    {
+        "catalogID":"6e80262e07f9968ac8b51667297df62c820a7321",
+        "resourceName":"https://shibboleth.wanfangdata.com.cn/shibboleth",
+        "resourceProvider":{
+            "name":"wanfangdata",
+            "displayname":"wanfangdata",
+            "url":"http://www.wanfangdata.com.cn"
+        },
+        "description":"https://fsso.wanfangdata.com.cn"
     },
     {
         "catalogID":"8ac93cd5e3b249ea9f5617b5c10b24d8e20f21b3",
@@ -878,6 +528,16 @@
             "url":"http://www.rucdigit.com/"
         },
         "description":"https://sp-zhongguosixiangj.carsi.edu.cn/shibboleth"
+    },
+    {
+        "catalogID":"13840f2cb9eca0d8431384c049835c718c778b3c",
+        "resourceName":"https://sp.foxitsoftware.cn/shibboleth",
+        "resourceProvider":{
+            "name":"Foxit Software",
+            "displayname":"Foxit Software",
+            "url":"https://www.foxitsoftware.cn/"
+        },
+        "description":"https://sp.foxitsoftware.cn/shibboleth"
     },
     {
         "catalogID":"c25348f2b14810ddc75355239f430a47f1240d18",
@@ -1130,6 +790,36 @@
         "description":""
     },
     {
+        "catalogID":"b55208828b377016cbe5f9c1f1a57e7819c49194",
+        "resourceName":"Clarivate Analytics SP (Web of Knowledge & EndNote Web)",
+        "resourceProvider":{
+            "name":"Camelot UK BIDCO Limited",
+            "displayname":"Clarivate Analytics",
+            "url":"https://clarivate.com/"
+        },
+        "description":"Explore literature in the sciences, social sciences, arts and humanities and publish bibliographies."
+    },
+    {
+        "catalogID":"22d2d3a3225f21888193392c08cb1e86da8c633b",
+        "resourceName":"Elsevier",
+        "resourceProvider":{
+            "name":"Elsevier B.V.",
+            "displayname":"Elsevier",
+            "url":"http://www.elsevier.com/"
+        },
+        "description":"Access Elsevier products using your institutional credentials"
+    },
+    {
+        "catalogID":"894645779c78bcfdc105ce32b8aca5c96efb66d9",
+        "resourceName":"Cambridge Core",
+        "resourceProvider":{
+            "name":"University of Cambridge",
+            "displayname":"University of Cambridge",
+            "url":"http://www.cambridge.org/"
+        },
+        "description":"Cambridge Core is the home of academic content from Cambridge University."
+    },
+    {
         "catalogID":"f5245c9b8857597180a57e49ff571621c76ac13a",
         "resourceName":"Filesender on RUNNet",
         "resourceProvider":{
@@ -1308,6 +998,26 @@
             "url":"http://www.capitalmarket.com/"
         },
         "description":"Capitaline Service provider"
+    },
+    {
+        "catalogID":"d3b388e44563d52c6193912e29a003a902e1d1db",
+        "resourceName":"https://shib.rsc.org/shibboleth",
+        "resourceProvider":{
+            "name":"Royal Society of Chemistry",
+            "displayname":"Royal Society of Chemistry",
+            "url":"http://www.rsc.org/aboutus/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"455cc89fecfa3db0316aa5f82fb77aa690440e4b",
+        "resourceName":"https://shib.rsc-uat.org/shibboleth",
+        "resourceProvider":{
+            "name":"Royal Society of Chemistry",
+            "displayname":"Royal Society of Chemistry Test System",
+            "url":"http://www.rsc.org/"
+        },
+        "description":""
     },
     {
         "catalogID":"3f3d92ae42a6fb0c2e199434d30137e06f64ea29",
@@ -3870,6 +3580,16 @@
         "description":"Organic Seawolf Center for Education and Research"
     },
     {
+        "catalogID":"1f3949c4d52b44a29d5431865366000629d88649",
+        "resourceName":"EBSCO Publishing, Inc",
+        "resourceProvider":{
+            "name":"EBSCO Publishing, Inc",
+            "displayname":"EBSCO Publishing, Inc",
+            "url":"http://ebsco.com/"
+        },
+        "description":"SP description: EBSCO is the leading provider of research databases, e-journal and e-package subscription management, book collection development and acquisition management, and a major provider of library technology, e-books and clinical decision solutions for universities, colleges, hospitals, corporations, government, K12 schools and public libraries worldwide."
+    },
+    {
         "catalogID":"f720903764ad849850b97a6a5d435d56e9b0e767",
         "resourceName":"www.palmetto.clemson.edu",
         "resourceProvider":{
@@ -5878,6 +5598,26 @@
             "url":"http://universitytickets.com/"
         },
         "description":""
+    },
+    {
+        "catalogID":"be245f2023530b857c5001eae75337ef0403cbbb",
+        "resourceName":"ProQuest Test",
+        "resourceProvider":{
+            "name":"ProQuest LLC",
+            "displayname":"ProQuest LLC",
+            "url":"http://www.proquest.com/"
+        },
+        "description":"ProQuest provides subscription access to numerous premium technical journals, dissertations and other information databases."
+    },
+    {
+        "catalogID":"16dd115fcfdb006e234b90490e10235517fd1823",
+        "resourceName":"ProQuest PROD SP",
+        "resourceProvider":{
+            "name":"ProQuest LLC",
+            "displayname":"ProQuest LLC",
+            "url":"http://www.proquest.com/"
+        },
+        "description":"ProQuest provides subscription access to numerous premium technical journals, dissertations and other information databases."
     },
     {
         "catalogID":"3aebc2840372f921285a0b9a2bf34baf97d5398e",
@@ -10108,6 +9848,16 @@
             "url":"http://www.ou.edu/"
         },
         "description":"University of Oklahoma Health Sciences Center REDCap Research Tool"
+    },
+    {
+        "catalogID":"e44e6e07b84a8edf14d9429481bfc96db1def5e5",
+        "resourceName":"ACS Publications",
+        "resourceProvider":{
+            "name":"American Chemical Society",
+            "displayname":"American Chemical Society",
+            "url":"http://www.acs.org"
+        },
+        "description":"Publishes products and services for the practice and advancement of the chemical sciences."
     },
     {
         "catalogID":"d4a23cefe5ad5748ad74340910d49552ed076e46",
@@ -16810,6 +16560,16 @@
         "description":""
     },
     {
+        "catalogID":"ed6261546aa0607f40a3f04e6ee9e8e1da8dc047",
+        "resourceName":"CILogon",
+        "resourceProvider":{
+            "name":"University of Illinois at Urbana-Champaign",
+            "displayname":"National Center for Supercomputing Applications",
+            "url":"http://www.ncsa.illinois.edu/"
+        },
+        "description":"CILogon facilitates secure access to CyberInfrastructure (CI)."
+    },
+    {
         "catalogID":"47b48224f8b3421f32271689cf56e4bcd8726c15",
         "resourceName":"PeopleGrove",
         "resourceProvider":{
@@ -19650,6 +19410,16 @@
         "description":"370,000 images from museums, galleries & archives. All resources rights cleared for use in teaching and learning."
     },
     {
+        "catalogID":"07820fa7e2ab0b2252d9a109616e2104a8cbeabb",
+        "resourceName":"Ovid",
+        "resourceProvider":{
+            "name":"Ovid Technologies, Inc",
+            "displayname":"Ovid Technologies, Inc",
+            "url":"http://www.ovid.com/"
+        },
+        "description":"Wolters Kluwer OpenAthens Keystone Production"
+    },
+    {
         "catalogID":"30bb41517282c570ed38017807dcbc305a86f6f4",
         "resourceName":"JiscMail",
         "resourceProvider":{
@@ -19688,6 +19458,16 @@
             "url":"http://www.rocksbackpages.com/"
         },
         "description":""
+    },
+    {
+        "catalogID":"136b988a23ad7de45b7855c72d89adc83e106f5a",
+        "resourceName":"IOPscience",
+        "resourceProvider":{
+            "name":"IOP Publishing Limited",
+            "displayname":"IOPscience",
+            "url":"http://www.iop.org/"
+        },
+        "description":"IOPscience is an online service for journal content published by IOP Publishing. IOPscience embraces innovative technologies to make it easier for researchers to access scientific, technical and medical content."
     },
     {
         "catalogID":"9a5d67aefb44abc4ee625415b4abcff29572f902",
@@ -19900,6 +19680,16 @@
         "description":""
     },
     {
+        "catalogID":"2c683cf6d5672db482c281bcf76f6b77d8687d6f",
+        "resourceName":"https://shibboleth.eb.com/sp",
+        "resourceProvider":{
+            "name":"Encyclopaedia Britannica (UK) Limited",
+            "displayname":"Britannica Online School Edition",
+            "url":"http://www.britannica.co.uk/BritannicaCoUK_Info_History.htm"
+        },
+        "description":""
+    },
+    {
         "catalogID":"3f33f84d45b1f81e50de9d564954badbf90be7bf",
         "resourceName":"https://journals.bmj.com/shibboleth",
         "resourceProvider":{
@@ -20048,6 +19838,16 @@
             "url":"http://www.booksforallscotland.org.uk/"
         },
         "description":"Books For All Scotland provides accessible books to support pupils who have difficulty with ordinary printed text."
+    },
+    {
+        "catalogID":"3529a0564e4d91964fd0ced7f7f2ddefa33ec68f",
+        "resourceName":"Nature Research",
+        "resourceProvider":{
+            "name":"Springer Nature Limited",
+            "displayname":"Nature Research",
+            "url":"https://www.springernature.com/"
+        },
+        "description":"Nature Research serves the research community by publishing its most significant discoveries."
     },
     {
         "catalogID":"0e8dacba378386e377224788f93bd84493b7ee11",
@@ -20350,6 +20150,16 @@
         "description":""
     },
     {
+        "catalogID":"60e9ca41488cef84071402f2779fa7c78c302c2d",
+        "resourceName":"https://ieeexplore.ieee.org/shibboleth-sp",
+        "resourceProvider":{
+            "name":"The Institute of Electrical And Electronics Engineers, Incorporated",
+            "displayname":"IEEE XploreDigital Library",
+            "url":"http://www.ieee.org/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"3a820041c5d8de21885382c18e4802b314a3d091",
         "resourceName":"https://wikis.ncl.ac.uk/shibboleth/metadata",
         "resourceProvider":{
@@ -20426,6 +20236,16 @@
             "name":"Bridgeman Art Library Limited (The)",
             "displayname":"The Bridgeman Art Library Limited: Bridgeman Education",
             "url":"http://www.bridgemaneducation.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"0b0ee19886cdf4801274ce5fdeca615c75350fa0",
+        "resourceName":"https://www.annualreviews.org/shibboleth",
+        "resourceProvider":{
+            "name":"Atypon Systems, Inc",
+            "displayname":"Atypon Systems: Annual Reviews",
+            "url":"http://www.annualreviews.org/"
         },
         "description":""
     },
@@ -20668,6 +20488,16 @@
             "url":"http://www.igpublish.com/"
         },
         "description":"Established in Singapore since 2006, we work with many reputable publishers to represent their brands."
+    },
+    {
+        "catalogID":"1ae9182ea2d6ce7e4ecaf887e7b9bd65e2ff323b",
+        "resourceName":"https://www.tandfonline.com/shibboleth",
+        "resourceProvider":{
+            "name":"Atypon Systems, Inc",
+            "displayname":"Atypon Systems: Taylor & Francis Online",
+            "url":"http://www.tandfonline.com/"
+        },
+        "description":""
     },
     {
         "catalogID":"b0d929aa68022ebe48b185fd005af2d2d39d0793",
@@ -21190,6 +21020,16 @@
         "description":"GOEsend uses your email address to provide the file exchange service to you"
     },
     {
+        "catalogID":"4eb89e825f99b1c3cf29d49a09e7a28fcb54ffa4",
+        "resourceName":"https://fsso-qa1.springer.com",
+        "resourceProvider":{
+            "name":"Springer-Verlag London Limited",
+            "displayname":"Springer Link (qa1)",
+            "url":"http://link.springer.com/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"08925a19190d85389bcf69f6c39184b65b307723",
         "resourceName":"Instant Anatomy",
         "resourceProvider":{
@@ -21198,6 +21038,26 @@
             "url":"https://instantanatomy.co.uk/"
         },
         "description":""
+    },
+    {
+        "catalogID":"2d313376ea5015e5c770a7f2cb155368caa44357",
+        "resourceName":"World Scientific Publishing",
+        "resourceProvider":{
+            "name":"Atypon Systems, Inc",
+            "displayname":"Atypon Systems, Inc",
+            "url":"https://www.worldscientific.com/"
+        },
+        "description":"World Scientific Publishing is a leading independent publisher of academic and professional books and journals."
+    },
+    {
+        "catalogID":"b08b2baeffbe9dce89824755970c2ebeb6725fc0",
+        "resourceName":"Springer",
+        "resourceProvider":{
+            "name":"Springer-Verlag London Limited",
+            "displayname":"Springer",
+            "url":"https://www.springernature.com/"
+        },
+        "description":"The world's most comprehensive online collection of scientific, technological and medical journals."
     },
     {
         "catalogID":"5accdd10b5312f76f75d1a0fcee87a45ae4a44f7",
@@ -21256,6 +21116,16 @@
             "name":"HighWire Press, Inc.",
             "displayname":"American Physiology Society",
             "url":"http://www.physiology.org/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"79371483f72c9f57628748224542a46502ca22a7",
+        "resourceName":"https://shibboleth.highwire.org/entity/secure-sp",
+        "resourceProvider":{
+            "name":"HighWire Press, Inc.",
+            "displayname":"HighWire Press Online",
+            "url":"http://highwire.stanford.edu/"
         },
         "description":""
     },
@@ -22530,6 +22400,16 @@
         "description":""
     },
     {
+        "catalogID":"42ac84cf04daee3058b4e69fb6dcad51773368ee",
+        "resourceName":"https://www.jove.com/shibboleth",
+        "resourceProvider":{
+            "name":"MYJOVE Corporation",
+            "displayname":"Journal of Visualized Experiments",
+            "url":"http://www.jove.com/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"f964dd561f50a2329ade4ef7fd1f7da7d4a83ca0",
         "resourceName":"https://gcs.simitive.com",
         "resourceProvider":{
@@ -22958,6 +22838,16 @@
             "url":"http://www.markallengroup.com/ma-healthcare/"
         },
         "description":"Vital information for professionals working with disabled and older people"
+    },
+    {
+        "catalogID":"1a051adcb5fae052aaa0c6329a933929cd917559",
+        "resourceName":"Atypon SP",
+        "resourceProvider":{
+            "name":"Atypon Systems, Inc",
+            "displayname":"Atypon SP",
+            "url":"http://www.atypon.com"
+        },
+        "description":"Atypon Systems operates a hosting platform that provides content delivery services to a wide range of professional and scholarly publishers."
     },
     {
         "catalogID":"4b0ee4666a47adc607685a46a2e7365edb6450bd",
@@ -25840,6 +25730,16 @@
         "description":""
     },
     {
+        "catalogID":"a4b97e232b31526593aef339f61ff5fe33e07ea4",
+        "resourceName":"Karger Publishers",
+        "resourceProvider":{
+            "name":"S. Karger AG",
+            "displayname":"Karger Publishers",
+            "url":"http://www.karger.com"
+        },
+        "description":"Karger Publishers in Basel, Switzerland, is a globally active medical and scientific publishing company."
+    },
+    {
         "catalogID":"00805add9d37d00212fc13a4158d52e8f9882443",
         "resourceName":"https://cityofbristol.idm.oclc.org/shibboleth",
         "resourceProvider":{
@@ -26830,6 +26730,16 @@
         "description":""
     },
     {
+        "catalogID":"aa1966c75e6b4abf93748da6e33591495809a657",
+        "resourceName":"Digital Science",
+        "resourceProvider":{
+            "name":"LibLynx LLC",
+            "displayname":"Digital Science",
+            "url":"https://www.digital-science.com/"
+        },
+        "description":"Research tools for finding, reading, managing & citing papers"
+    },
+    {
         "catalogID":"ea6fa76682ff93f50e3c6dcaad9328a830dba76b",
         "resourceName":"Actus Performance Management Software",
         "resourceProvider":{
@@ -27740,6 +27650,16 @@
         "description":"University of Oxford's WIN Centre Open Neuroscience"
     },
     {
+        "catalogID":"aab4044f503bc386e55c7963d1cc39e43180833f",
+        "resourceName":"SPIE -- International Society for Optics and Photonics",
+        "resourceProvider":{
+            "name":"Society of Photo-Optical Instrumentation Engineers",
+            "displayname":"Society of Photo-Optical Instrumentation Engineers",
+            "url":"http://spie.org/"
+        },
+        "description":"SPIE Digital Library - The world's largest collection of optics and photonics applied research."
+    },
+    {
         "catalogID":"38742ddb954687a24d54705a76b02be5103c1571",
         "resourceName":"PEP-Web",
         "resourceProvider":{
@@ -27798,6 +27718,16 @@
             "url":"http://www.siso.co.uk"
         },
         "description":"Smarthub: Bournemouth University"
+    },
+    {
+        "catalogID":"9d9b2130b8a25eebad2d2f6155df69133bbd71b7",
+        "resourceName":"Oxford University Press - Shibboleth 2 SP Sigma Test",
+        "resourceProvider":{
+            "name":"Semantico Limited",
+            "displayname":"Semantico Limited",
+            "url":"https://global.oup.com/?cc=gb"
+        },
+        "description":"Oxford University Press - Shibboleth 2 SP Sigma Test"
     },
     {
         "catalogID":"8ae4fb7b09e931763928c22f2851f8c69bf1f92a",
@@ -28038,6 +27968,16 @@
             "url":"http://www.instructure.com/"
         },
         "description":"Instructure, Inc. is the software-as-a-service (SaaS) technology company that makes Canvas VLE."
+    },
+    {
+        "catalogID":"718dcc35b350955f966aca6ae0c646f9c40c8d43",
+        "resourceName":"Wolters Kluwer OneID (int)",
+        "resourceProvider":{
+            "name":"Wolters Kluwer United States Inc",
+            "displayname":"Wolters Kluwer United States Inc",
+            "url":"http://kluwerlawonline.com"
+        },
+        "description":"Wolters Kluwer Content and Resources (integration)"
     },
     {
         "catalogID":"21b831c5611b16c3135521bc5c3745844ce64985",
@@ -28438,6 +28378,16 @@
             "url":"https://ndmpdr.simitive.com"
         },
         "description":""
+    },
+    {
+        "catalogID":"0c63644e3ea0fa5596523879b7e4c7d1f8741233",
+        "resourceName":"BioOne Complete",
+        "resourceProvider":{
+            "name":"Society of Photo-Optical Instrumentation Engineers",
+            "displayname":"Society of Photo-Optical Instrumentation Engineers",
+            "url":"https://bioone.org/"
+        },
+        "description":"BioOne Complete is BioOne's full-text database of more than 200 leading journals in the biological, ecological, and environmental sciences."
     },
     {
         "catalogID":"14397306b4107b48483e5aac748bd3abbcc6798a",
@@ -35208,6 +35158,16 @@
             "url":"https://www.egi.eu/"
         },
         "description":"EOSC Portal supports access to European Open Science Cloud services and resources"
+    },
+    {
+        "catalogID":"cbdfd406d89b42c1f17d2e4bc49b1e44386c4b1f",
+        "resourceName":"EGI Check-in Service",
+        "resourceProvider":{
+            "name":"EGI Foundation",
+            "displayname":"EGI Foundation",
+            "url":"https://www.egi.eu/"
+        },
+        "description":"EGI Check-in Service"
     },
     {
         "catalogID":"594357401d747e3cfc79e52853d1921798626df1",
