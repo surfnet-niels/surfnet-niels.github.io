@@ -31560,6 +31560,16 @@
         "description":"Provides access to databases and other resources for Nias Nordic Council Member institutions"
     },
     {
+        "catalogID":"2a92569c3c8cdf22d96554100868a9eccee8a8c2",
+        "resourceName":"SITES Authentication Service",
+        "resourceProvider":{
+            "name":"SITES Data Portal",
+            "displayname":"SITES Data Portal",
+            "url":"https://www.fieldsites.se/sv-SE"
+        },
+        "description":"Single sign on for SITES data services"
+    },
+    {
         "catalogID":"c3ba81cede254454b64ee9743df19201fe34adc9",
         "resourceName":"NORDUnet Box Service Access",
         "resourceProvider":{
@@ -31585,7 +31595,7 @@
         "resourceProvider":{
             "name":"ICOS Carbon Portal",
             "displayname":"Carbon Portal",
-            "url":"http://icos-cp.eu/"
+            "url":"https://www.icos-cp.eu/"
         },
         "description":"Single Sign On for services of ICOS Carbon Portal. Maintained by the Carbon Portal team at Physical Geography department (nateko.lu.se)."
     },
@@ -33198,6 +33208,16 @@
             "url":"http://www.rwth-aachen.de"
         },
         "description":"RWTHjupyter computational environment"
+    },
+    {
+        "catalogID":"54804690dfa4f3e16d6bf12a9c89d3581f13e55b",
+        "resourceName":"Gitlab Server AWI",
+        "resourceProvider":{
+            "name":"e13",
+            "displayname":"Alfred Wegener Institute, Helmholtz Centre for Polar and Marine Research (AWI)",
+            "url":"https://www.awi.de/en/"
+        },
+        "description":"Gitlab Server"
     },
     {
         "catalogID":"8f8d28ec276597736d044c4c0d59dbe0b353db6e",

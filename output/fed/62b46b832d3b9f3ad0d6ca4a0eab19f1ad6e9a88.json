@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-09 12:41",
+    "generated":"2023-01-09 14:25",
     "en":[
         {
             "catalogID":"62b46b832d3b9f3ad0d6ca4a0eab19f1ad6e9a88",
@@ -8,7 +8,7 @@
             "resourceProvider":{
                 "name":"ICOS Carbon Portal",
                 "displayname":"Carbon Portal",
-                "url":"http://icos-cp.eu/"
+                "url":"https://www.icos-cp.eu/"
             },
             "resourceAttributes":{
                 "required":[
@@ -24,13 +24,16 @@
                     "type":"technical",
                     "name":"OlegMirzov",
                     "email":"mailto:oleg.mirzov@nateko.lu.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"AlexVermeulen",
+                    "email":"mailto:alex.vermeulen@nateko.lu.se"
                 }
             ],
-            "info":"",
+            "info":"https://www.icos-cp.eu/",
             "privacy":"https://cpauth.icos-cp.eu/saml/privacyStatement",
             "entityCategories":[
-                "http://www.swamid.se/category/hei-service",
-                "http://www.swamid.se/category/research-and-education",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
@@ -40,11 +43,11 @@
         {
             "catalogID":"62b46b832d3b9f3ad0d6ca4a0eab19f1ad6e9a88",
             "entityID":"https://cpauth.icos-cp.eu/saml/cpauth",
-            "resourceName":"ICOS Carbon Portal",
+            "resourceName":"ICOS Carbon Portal SAML service",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://icos-cp.eu/"
+                "url":"https://www.icos-cp.eu/"
             },
             "resourceAttributes":{
                 "required":[
@@ -60,13 +63,16 @@
                     "type":"technical",
                     "name":"OlegMirzov",
                     "email":"mailto:oleg.mirzov@nateko.lu.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"AlexVermeulen",
+                    "email":"mailto:alex.vermeulen@nateko.lu.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/hei-service",
-                "http://www.swamid.se/category/research-and-education",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
@@ -76,11 +82,11 @@
         {
             "catalogID":"62b46b832d3b9f3ad0d6ca4a0eab19f1ad6e9a88",
             "entityID":"https://cpauth.icos-cp.eu/saml/cpauth",
-            "resourceName":"ICOS Carbon Portal",
+            "resourceName":"ICOS Carbon Portal SAML service",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://icos-cp.eu/"
+                "url":"https://www.icos-cp.eu/"
             },
             "resourceAttributes":{
                 "required":[
@@ -96,13 +102,16 @@
                     "type":"technical",
                     "name":"OlegMirzov",
                     "email":"mailto:oleg.mirzov@nateko.lu.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"AlexVermeulen",
+                    "email":"mailto:alex.vermeulen@nateko.lu.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/hei-service",
-                "http://www.swamid.se/category/research-and-education",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
@@ -112,11 +121,11 @@
         {
             "catalogID":"62b46b832d3b9f3ad0d6ca4a0eab19f1ad6e9a88",
             "entityID":"https://cpauth.icos-cp.eu/saml/cpauth",
-            "resourceName":"ICOS Carbon Portal",
+            "resourceName":"ICOS Carbon Portal SAML service",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://icos-cp.eu/"
+                "url":"https://www.icos-cp.eu/"
             },
             "resourceAttributes":{
                 "required":[
@@ -132,13 +141,16 @@
                     "type":"technical",
                     "name":"OlegMirzov",
                     "email":"mailto:oleg.mirzov@nateko.lu.se"
+                },
+                {
+                    "type":"administrative",
+                    "name":"AlexVermeulen",
+                    "email":"mailto:alex.vermeulen@nateko.lu.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/hei-service",
-                "http://www.swamid.se/category/research-and-education",
                 "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
