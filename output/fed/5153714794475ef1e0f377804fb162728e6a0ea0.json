@@ -1,10 +1,10 @@
 {
-    "generated":"2023-01-09 20:24",
+    "generated":"2023-01-09 22:21",
     "en":[
         {
             "catalogID":"5153714794475ef1e0f377804fb162728e6a0ea0",
             "entityID":"https://mfa-auth.beta.conity.com/Saml2",
-            "resourceName":"Pheno",
+            "resourceName":"Conity",
             "resourceProvider":{
                 "name":"The Ohio State University",
                 "displayname":"Ohio State University",
@@ -14,7 +14,7 @@
                 "required":[],
                 "requested":[]
             },
-            "description":"Pheno is a powerful research platform for evaluating the efficacy of clinical low back and neck pain treatment modalities, or identifying patient phenotypes that respond favorably to a given treatment. It can also be used to objectively evaluate the effect of organizational countermeasures such as training programs, equipment changes, or other occupational interventions on low back and neck pain for a given population.",
+            "description":"Conity is a powerful research platform that enables users to access a holistic array of low back and neck pain biomarkers. Biomarkers are derived from wearable sensor, biomedical imaging, electronic health record, and patient questionnaire data.",
             "resourceContacts":[
                 {
                     "type":"administrative",
@@ -32,8 +32,8 @@
                     "email":"mailto:security@osu.edu"
                 }
             ],
-            "info":"https://mfa-auth.beta.conity.com/info.html",
-            "privacy":"https://mfa-auth.beta.conity.com/privacy_statement.html",
+            "info":"https://conity.com/",
+            "privacy":"https://conity.com/legal/privacy",
             "entityCategories":[
                 "http://id.incommon.org/category/registered-by-incommon"
             ],
