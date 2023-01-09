@@ -1,10 +1,10 @@
 {
-    "generated":"2023-01-09 18:27",
+    "generated":"2023-01-09 20:24",
     "en":[
         {
             "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
             "entityID":"https://admin-portal.acvp.hk/saml2/service-provider-metadata-all",
-            "resourceName":"ACVP Admin",
+            "resourceName":"ACVP Admin Portal",
             "resourceProvider":{
                 "name":"jucc.edu.hk",
                 "displayname":"Joint Universities Computer Centre Ltd",
@@ -12,18 +12,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "displayName",
+                    "commonName",
+                    "mail",
+                    "eduPersonPrincipalName",
                     "eduPersonScopedAffiliation",
                     "eduPersonAffiliation",
                     "eduPersonAssurance",
-                    "mail",
-                    "commonName",
-                    "eduPersonPrincipalName"
+                    "displayName"
                 ],
                 "requested":[
+                    "organizationName",
                     "schacHomeOrganization",
-                    "homeOrganization",
-                    "organizationName"
+                    "homeOrganization"
                 ]
             },
             "description":"ACVP Admin Portal",
@@ -44,7 +44,7 @@
         {
             "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
             "entityID":"https://admin-portal.acvp.hk/saml2/service-provider-metadata-all",
-            "resourceName":"ACVP Admin",
+            "resourceName":"ACVP Admin Portal",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -52,18 +52,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "displayName",
+                    "commonName",
+                    "mail",
+                    "eduPersonPrincipalName",
                     "eduPersonScopedAffiliation",
                     "eduPersonAffiliation",
                     "eduPersonAssurance",
-                    "mail",
-                    "commonName",
-                    "eduPersonPrincipalName"
+                    "displayName"
                 ],
                 "requested":[
+                    "organizationName",
                     "schacHomeOrganization",
-                    "homeOrganization",
-                    "organizationName"
+                    "homeOrganization"
                 ]
             },
             "description":"",
@@ -84,7 +84,7 @@
         {
             "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
             "entityID":"https://admin-portal.acvp.hk/saml2/service-provider-metadata-all",
-            "resourceName":"ACVP Admin",
+            "resourceName":"ACVP Admin Portal",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -92,18 +92,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "displayName",
+                    "commonName",
+                    "mail",
+                    "eduPersonPrincipalName",
                     "eduPersonScopedAffiliation",
                     "eduPersonAffiliation",
                     "eduPersonAssurance",
-                    "mail",
-                    "commonName",
-                    "eduPersonPrincipalName"
+                    "displayName"
                 ],
                 "requested":[
+                    "organizationName",
                     "schacHomeOrganization",
-                    "homeOrganization",
-                    "organizationName"
+                    "homeOrganization"
                 ]
             },
             "description":"",
@@ -124,7 +124,7 @@
         {
             "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
             "entityID":"https://admin-portal.acvp.hk/saml2/service-provider-metadata-all",
-            "resourceName":"ACVP Admin",
+            "resourceName":"ACVP Admin Portal",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -132,18 +132,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "displayName",
+                    "commonName",
+                    "mail",
+                    "eduPersonPrincipalName",
                     "eduPersonScopedAffiliation",
                     "eduPersonAffiliation",
                     "eduPersonAssurance",
-                    "mail",
-                    "commonName",
-                    "eduPersonPrincipalName"
+                    "displayName"
                 ],
                 "requested":[
+                    "organizationName",
                     "schacHomeOrganization",
-                    "homeOrganization",
-                    "organizationName"
+                    "homeOrganization"
                 ]
             },
             "description":"",

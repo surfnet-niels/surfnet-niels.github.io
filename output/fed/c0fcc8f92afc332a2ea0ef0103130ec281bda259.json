@@ -1,10 +1,10 @@
 {
-    "generated":"2023-01-09 18:27",
+    "generated":"2023-01-09 20:24",
     "en":[
         {
             "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
             "entityID":"https://www.acvp.hk/saml2/service-provider-metadata-all",
-            "resourceName":"ACVP Student",
+            "resourceName":"ACVP Student Portal",
             "resourceProvider":{
                 "name":"jucc.edu.hk",
                 "displayname":"Joint Universities Computer Centre Ltd",
@@ -12,15 +12,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAssurance",
-                    "eduPersonScopedAffiliation",
-                    "homeOrganization",
-                    "mail",
-                    "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
+                    "homeOrganization",
+                    "eduPersonAssurance",
+                    "mail",
                     "commonName",
-                    "eduPersonAffiliation"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "organizationName"
@@ -44,7 +44,7 @@
         {
             "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
             "entityID":"https://www.acvp.hk/saml2/service-provider-metadata-all",
-            "resourceName":"ACVP Student",
+            "resourceName":"ACVP Student Portal",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -52,15 +52,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAssurance",
-                    "eduPersonScopedAffiliation",
-                    "homeOrganization",
-                    "mail",
-                    "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
+                    "homeOrganization",
+                    "eduPersonAssurance",
+                    "mail",
                     "commonName",
-                    "eduPersonAffiliation"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "organizationName"
@@ -84,7 +84,7 @@
         {
             "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
             "entityID":"https://www.acvp.hk/saml2/service-provider-metadata-all",
-            "resourceName":"ACVP Student",
+            "resourceName":"ACVP Student Portal",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -92,15 +92,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAssurance",
-                    "eduPersonScopedAffiliation",
-                    "homeOrganization",
-                    "mail",
-                    "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
+                    "homeOrganization",
+                    "eduPersonAssurance",
+                    "mail",
                     "commonName",
-                    "eduPersonAffiliation"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "organizationName"
@@ -124,7 +124,7 @@
         {
             "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
             "entityID":"https://www.acvp.hk/saml2/service-provider-metadata-all",
-            "resourceName":"ACVP Student",
+            "resourceName":"ACVP Student Portal",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -132,15 +132,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonAssurance",
-                    "eduPersonScopedAffiliation",
-                    "homeOrganization",
-                    "mail",
-                    "eduPersonPrincipalName",
                     "schacHomeOrganization",
                     "displayName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonAffiliation",
+                    "homeOrganization",
+                    "eduPersonAssurance",
+                    "mail",
                     "commonName",
-                    "eduPersonAffiliation"
+                    "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "organizationName"
