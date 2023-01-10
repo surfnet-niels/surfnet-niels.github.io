@@ -130,6 +130,16 @@
         "description":"Embedded Discovery Service for research and development institutes in Thailand"
     },
     {
+        "catalogID":"4cc1476df74624675dd1c5fa3df7111b7ade2c3b",
+        "resourceName":"dataLab (MiLab)",
+        "resourceProvider":{
+            "name":"RedCLARA",
+            "displayname":"RedCLARA",
+            "url":"http://www.redclara.net/"
+        },
+        "description":"dataLab (MiLab) Service"
+    },
+    {
         "catalogID":"711d946fb11517eda15d67faf5bbf4daf9e20d88",
         "resourceName":"eduiD.ng Resource Registry",
         "resourceProvider":{
@@ -2391,13 +2401,13 @@
     },
     {
         "catalogID":"cce256c0f431150298121224bda828713c50d2a2",
-        "resourceName":"Pheno",
+        "resourceName":"Conity",
         "resourceProvider":{
             "name":"The Ohio State University",
             "displayname":"Ohio State University",
             "url":"http://www.osu.edu/"
         },
-        "description":"Pheno is a powerful research platform for evaluating the efficacy of clinical low back and neck pain treatment modalities, or identifying patient phenotypes that respond favorably to a given treatment. It can also be used to objectively evaluate the effect of organizational countermeasures such as training programs, equipment changes, or other occupational interventions on low back and neck pain for a given population."
+        "description":"Conity is a powerful research platform that enables users to access a holistic array of low back and neck pain biomarkers. Biomarkers are derived from wearable sensor, biomedical imaging, electronic health record, and patient questionnaire data."
     },
     {
         "catalogID":"5153714794475ef1e0f377804fb162728e6a0ea0",
@@ -3952,6 +3962,16 @@
     {
         "catalogID":"a4aec50baaecc07a810dd83c9e1836bb78173a9f",
         "resourceName":"RefWorks",
+        "resourceProvider":{
+            "name":"RefWorks, LLC",
+            "displayname":"RefWorks, LLC",
+            "url":"http://refworks.com/"
+        },
+        "description":"RefWorks is a leading reference management service that simplifies research, collaboration, data organization, and writing."
+    },
+    {
+        "catalogID":"7891c7a06a1c7d058ed367606d79265f08849666",
+        "resourceName":"RefWorks Staging",
         "resourceProvider":{
             "name":"RefWorks, LLC",
             "displayname":"RefWorks, LLC",
@@ -11560,16 +11580,6 @@
         "description":""
     },
     {
-        "catalogID":"b1b94629e828a71508fb85ad4e10b85100e530cc",
-        "resourceName":"AcademicWorks - University of Colorado-Denver",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"fc2f8cfef8d16ff4915eb08ac600f99f3507096b",
         "resourceName":"AcademicWorks - University of Central Florida",
         "resourceProvider":{
@@ -11582,16 +11592,6 @@
     {
         "catalogID":"467afaa4247c90b7bf6454636d780fe83b270c43",
         "resourceName":"AcademicWorks - University of California, Hastings",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"2f3f598af53ae72455663ab9f356ca65fa6e4f2e",
-        "resourceName":"AcademicWorks - UCI",
         "resourceProvider":{
             "name":"Blackbaud, Inc.",
             "displayname":"Blackbaud, Inc.",
@@ -11730,16 +11730,6 @@
         "description":""
     },
     {
-        "catalogID":"70dd22ddb1e8fb3429cd065d3b0091a6e46a9f02",
-        "resourceName":"AcademicWorks - University of Michigan, Dearborn",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"a8e0c1b6b1847b5242a3d5bac9b506e8bc924319",
         "resourceName":"AcademicWorks - University of Missouri-Kansas City",
         "resourceProvider":{
@@ -11770,16 +11760,6 @@
         "description":""
     },
     {
-        "catalogID":"5e33f702eb1492683c0161df37303c00939f0af8",
-        "resourceName":"AcademicWorks - The University of North Carolina at Chapel Hill",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"fd0c81c1de04189e0e890290cac63e8739d94e4d",
         "resourceName":"AcademicWorks - University of North Carolina at Greensboro",
         "resourceProvider":{
@@ -11792,16 +11772,6 @@
     {
         "catalogID":"cf596b59df6c40dbf4b0835e083b93aea5feff72",
         "resourceName":"AcademicWorks - University of Northern Colorado",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"7db1af592913b0cabd8f3be060b93ae4e3eef4cc",
-        "resourceName":"AcademicWorks - University of Nevada-Las Vegas",
         "resourceProvider":{
             "name":"Blackbaud, Inc.",
             "displayname":"Blackbaud, Inc.",
@@ -11850,26 +11820,6 @@
         "description":""
     },
     {
-        "catalogID":"8845a45e1cbb0213c0361441fd56e0f38964c7ff",
-        "resourceName":"AcademicWorks - University of Southern California",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"6433e305168797ecf7e13ec02f9ce8b854b00be0",
-        "resourceName":"AcademicWorks - University of South Florida St. Petersburg",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"2b6c2d825e2e3e58af5a441ebc838ca111ed77e9",
         "resourceName":"Academic Works - The University of Texas at Arlington",
         "resourceProvider":{
@@ -11882,16 +11832,6 @@
     {
         "catalogID":"fd3c2474d57739e7fb7fdc6d64de489bfe19cdc3",
         "resourceName":"AcademicWorks - University of Utah",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"07e4e60a7bb1e87d48e7bf5296e37103d119b5a4",
-        "resourceName":"AcademicWorks - University of Texas El Paso",
         "resourceProvider":{
             "name":"Blackbaud, Inc.",
             "displayname":"Blackbaud, Inc.",
@@ -11980,16 +11920,6 @@
         "description":""
     },
     {
-        "catalogID":"3fc146c65716341d4c2bdf9fb6958fa2723bbb43",
-        "resourceName":"AcademicWorks QA - UW-River Falls",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"b14ea07876f344e478291577c6849647436e4884",
         "resourceName":"AcademicWorks - Virginia Commonwealth University",
         "resourceProvider":{
@@ -12012,16 +11942,6 @@
     {
         "catalogID":"71809361c9ff2329832585fa8df04e31139f7d16",
         "resourceName":"AcademicWorks - Washington",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"e8d3a450425417cdd493f97610f67eadf9189a5e",
-        "resourceName":"AcademicWorks - Wayne State University",
         "resourceProvider":{
             "name":"Blackbaud, Inc.",
             "displayname":"Blackbaud, Inc.",
@@ -12060,28 +11980,8 @@
         "description":""
     },
     {
-        "catalogID":"e568b805c88b7294ca2fa21a2b960f954c0b7b23",
-        "resourceName":"AcademicWorks - Western Michigan University",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
         "catalogID":"a4786c3d65363ffa173c7fd80e8c40d3ece8e16e",
         "resourceName":"AcademicWorks - College of Wooster",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"8f2227b94dde96be61da5d0a99ecc7adcf9e8759",
-        "resourceName":"AcademicWorks - Western Oregon University",
         "resourceProvider":{
             "name":"Blackbaud, Inc.",
             "displayname":"Blackbaud, Inc.",
@@ -12102,16 +12002,6 @@
     {
         "catalogID":"f303d2c50e322f28d0023a50cc11ac80fad783a8",
         "resourceName":"AcademicWorks - Wayne State College",
-        "resourceProvider":{
-            "name":"Blackbaud, Inc.",
-            "displayname":"Blackbaud, Inc.",
-            "url":"https://www.blackbaud.com/"
-        },
-        "description":""
-    },
-    {
-        "catalogID":"17af2e98d8680cacf1665592662bda77064825bc",
-        "resourceName":"AcademicWorks - Washington State University, Tri-Cities",
         "resourceProvider":{
             "name":"Blackbaud, Inc.",
             "displayname":"Blackbaud, Inc.",
@@ -14206,6 +14096,16 @@
             "name":"Nelnet Business Solutions",
             "displayname":"Nelnet Business Solutions",
             "url":"http://www.nelnet.net/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"02236e9b3722e4542c9f9371ec094f643f014a24",
+        "resourceName":"InfoReady Review - Brown University Advance CTR",
+        "resourceProvider":{
+            "name":"InfoReady Corp",
+            "displayname":"InfoReady Corp",
+            "url":"http://www.infoready4.com/"
         },
         "description":""
     },
@@ -16452,6 +16352,16 @@
     {
         "catalogID":"45f59e0e3bcb711b967819311cf5fb97a110fd06",
         "resourceName":"STHILDAS StarRez Web Dev",
+        "resourceProvider":{
+            "name":"StarRez, Inc.",
+            "displayname":"StarRez, Inc.",
+            "url":"https://www.starrez.com/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"6900a3dc11c80d8e0720d83299fc5bf399061558",
+        "resourceName":"UMICH StarRez PortalX",
         "resourceProvider":{
             "name":"StarRez, Inc.",
             "displayname":"StarRez, Inc.",

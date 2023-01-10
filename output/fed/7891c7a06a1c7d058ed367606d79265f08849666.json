@@ -1,0 +1,183 @@
+{
+    "generated":"2023-01-10 22:22",
+    "en":[
+        {
+            "catalogID":"7891c7a06a1c7d058ed367606d79265f08849666",
+            "entityID":"https://staging-shibboleth.refworks.proquest.com/shibboleth/sp",
+            "resourceName":"RefWorks Staging",
+            "resourceProvider":{
+                "name":"RefWorks, LLC",
+                "displayname":"RefWorks, LLC",
+                "url":"http://refworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"RefWorks is a leading reference management service that simplifies research, collaboration, data organization, and writing.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                },
+                {
+                    "type":"security",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                }
+            ],
+            "info":"https://knowledge.exlibrisgroup.com/RefWorks",
+            "privacy":"https://refworks.proquest.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7891c7a06a1c7d058ed367606d79265f08849666",
+            "entityID":"https://staging-shibboleth.refworks.proquest.com/shibboleth/sp",
+            "resourceName":"RefWorks Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://refworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                },
+                {
+                    "type":"security",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7891c7a06a1c7d058ed367606d79265f08849666",
+            "entityID":"https://staging-shibboleth.refworks.proquest.com/shibboleth/sp",
+            "resourceName":"RefWorks Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://refworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                },
+                {
+                    "type":"security",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7891c7a06a1c7d058ed367606d79265f08849666",
+            "entityID":"https://staging-shibboleth.refworks.proquest.com/shibboleth/sp",
+            "resourceName":"RefWorks Staging",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://refworks.com/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                },
+                {
+                    "type":"security",
+                    "name":"RefWorks Support",
+                    "email":"mailto:refworks.support@exlibrisgroup.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
