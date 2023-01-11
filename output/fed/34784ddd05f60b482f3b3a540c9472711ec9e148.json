@@ -1,13 +1,13 @@
 {
-    "generated":"2023-01-11 08:28",
+    "generated":"2023-01-11 10:27",
     "en":[
         {
             "catalogID":"34784ddd05f60b482f3b3a540c9472711ec9e148",
             "entityID":"https://login.nren.ac.za/sp",
             "resourceName":"SA NREN Login Proxy",
             "resourceProvider":{
-                "name":"SAFIRE - South African Identity Federation",
-                "displayname":"SAFIRE Test Identity Provider",
+                "name":"Tertiary Education and Research Network of South Africa NPC",
+                "displayname":"SAFIRE - South African Identity Federation",
                 "url":"https://safire.ac.za/"
             },
             "resourceAttributes":{
@@ -34,14 +34,14 @@
                     "email":"mailto:support@tenet.ac.za"
                 },
                 {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Operations Team",
+                    "email":"mailto:safire@tenet.ac.za"
+                },
+                {
                     "type":"security",
                     "name":"TENET SAFIRE Incident Response Team",
                     "email":"mailto:safire-ops@lists.tenet.ac.za"
-                },
-                {
-                    "type":"technical",
-                    "name":"TENET SAFIRE Project",
-                    "email":"mailto:safire@tenet.ac.za"
                 }
             ],
             "info":"https://www.tenet.ac.za/",
@@ -84,14 +84,14 @@
                     "email":"mailto:support@tenet.ac.za"
                 },
                 {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Operations Team",
+                    "email":"mailto:safire@tenet.ac.za"
+                },
+                {
                     "type":"security",
                     "name":"TENET SAFIRE Incident Response Team",
                     "email":"mailto:safire-ops@lists.tenet.ac.za"
-                },
-                {
-                    "type":"technical",
-                    "name":"TENET SAFIRE Project",
-                    "email":"mailto:safire@tenet.ac.za"
                 }
             ],
             "info":"",
@@ -134,14 +134,14 @@
                     "email":"mailto:support@tenet.ac.za"
                 },
                 {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Operations Team",
+                    "email":"mailto:safire@tenet.ac.za"
+                },
+                {
                     "type":"security",
                     "name":"TENET SAFIRE Incident Response Team",
                     "email":"mailto:safire-ops@lists.tenet.ac.za"
-                },
-                {
-                    "type":"technical",
-                    "name":"TENET SAFIRE Project",
-                    "email":"mailto:safire@tenet.ac.za"
                 }
             ],
             "info":"",
@@ -184,14 +184,14 @@
                     "email":"mailto:support@tenet.ac.za"
                 },
                 {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Operations Team",
+                    "email":"mailto:safire@tenet.ac.za"
+                },
+                {
                     "type":"security",
                     "name":"TENET SAFIRE Incident Response Team",
                     "email":"mailto:safire-ops@lists.tenet.ac.za"
-                },
-                {
-                    "type":"technical",
-                    "name":"TENET SAFIRE Project",
-                    "email":"mailto:safire@tenet.ac.za"
                 }
             ],
             "info":"",

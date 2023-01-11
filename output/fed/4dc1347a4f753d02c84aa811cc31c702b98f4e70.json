@@ -1,13 +1,13 @@
 {
-    "generated":"2023-01-11 08:28",
+    "generated":"2023-01-11 10:27",
     "en":[
         {
             "catalogID":"4dc1347a4f753d02c84aa811cc31c702b98f4e70",
             "entityID":"https://testsp.safire.ac.za/Shibboleth.sso/Metadata",
             "resourceName":"SAFIRE Test Service Provider",
             "resourceProvider":{
-                "name":"SAFIRE - South African Identity Federation",
-                "displayname":"SAFIRE Test Identity Provider",
+                "name":"Tertiary Education and Research Network of South Africa NPC",
+                "displayname":"SAFIRE - South African Identity Federation",
                 "url":"https://safire.ac.za/"
             },
             "resourceAttributes":{
@@ -34,14 +34,14 @@
             "description":"The Test Service Provider allows you to log into your home organisation, and to see what personal information they provide about you.",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"TENET SAFIRE Project Office",
-                    "email":"mailto:safire@tenet.ac.za"
-                },
-                {
                     "type":"support",
                     "name":"TENET Service Support Centre",
                     "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Operations Team",
+                    "email":"mailto:safire@tenet.ac.za"
                 },
                 {
                     "type":"security",
@@ -91,14 +91,14 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"TENET SAFIRE Project Office",
-                    "email":"mailto:safire@tenet.ac.za"
-                },
-                {
                     "type":"support",
                     "name":"TENET Service Support Centre",
                     "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Operations Team",
+                    "email":"mailto:safire@tenet.ac.za"
                 },
                 {
                     "type":"security",
@@ -148,14 +148,14 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"TENET SAFIRE Project Office",
-                    "email":"mailto:safire@tenet.ac.za"
-                },
-                {
                     "type":"support",
                     "name":"TENET Service Support Centre",
                     "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Operations Team",
+                    "email":"mailto:safire@tenet.ac.za"
                 },
                 {
                     "type":"security",
@@ -205,14 +205,14 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"technical",
-                    "name":"TENET SAFIRE Project Office",
-                    "email":"mailto:safire@tenet.ac.za"
-                },
-                {
                     "type":"support",
                     "name":"TENET Service Support Centre",
                     "email":"mailto:support@tenet.ac.za"
+                },
+                {
+                    "type":"technical",
+                    "name":"TENET SAFIRE Operations Team",
+                    "email":"mailto:safire@tenet.ac.za"
                 },
                 {
                     "type":"security",
