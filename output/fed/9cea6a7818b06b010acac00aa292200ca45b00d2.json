@@ -1400,24 +1400,24 @@
         "description":"file sender service"
     },
     {
-        "catalogID":"6c394d194ff56c73a83ca15e9947858cc1487e3c",
-        "resourceName":"Sabinet Discover",
+        "catalogID":"58d287bcbee0e73a33b9a84d21f17d20a1b54b72",
+        "resourceName":"figshare",
         "resourceProvider":{
-            "name":"Sabinet Online Ltd",
-            "displayname":"Sabinet",
-            "url":"http://sabinet.co.za"
+            "name":"Figshare LLP",
+            "displayname":"Figshare LLP",
+            "url":"http://figshare.com/"
         },
-        "description":"Sabinet Discover is an information services tool & publication platform that provides seamless access to comprehensive African legal, news and research content"
+        "description":"Cloud based repository for citable and discoverable research outputs"
     },
     {
-        "catalogID":"d0256aec7abee32bd4e0db7308f43b54a79a96e4",
-        "resourceName":"SAFIRE Examples Service Provider",
+        "catalogID":"34784ddd05f60b482f3b3a540c9472711ec9e148",
+        "resourceName":"SA NREN Login Proxy",
         "resourceProvider":{
-            "name":"Tertiary Education and Research Network of South Africa",
-            "displayname":"TENET South Africa",
-            "url":"https://www.tenet.ac.za/"
+            "name":"Tertiary Education and Research Network of South Africa NPC",
+            "displayname":"SAFIRE - South African Identity Federation",
+            "url":"https://safire.ac.za/"
         },
-        "description":"A set of examples showing SAFIRE integration with various common applications."
+        "description":"The SA NREN Login Proxy provides federated and social logins for a number of services operated by the SA NREN (TENET + SANReN)."
     },
     {
         "catalogID":"7aaede58f437d5f5af93a2376e58df408d8237d4",
@@ -1430,16 +1430,6 @@
         "description":"The ORCID Hub helps universities and research institutions link affiliations and works to their researcher's ORCID records"
     },
     {
-        "catalogID":"01a4ee1a829458056e659f2f94f83008b8f2a41d",
-        "resourceName":"Data Intensive Research Initiative of South Africa",
-        "resourceProvider":{
-            "name":"Council for Scientific and Industrial Research",
-            "displayname":"CSIR (DIRISA)",
-            "url":"https://www.csir.co.za/"
-        },
-        "description":"DIRISA enables researchers to plan, manage, store and share their data using a series of cloud-based tools."
-    },
-    {
         "catalogID":"bb0c9dea7ac76abbd962965cffa4ea7e9d03e5c6",
         "resourceName":"SADiLaR Language Resource Repository",
         "resourceProvider":{
@@ -1448,26 +1438,6 @@
             "url":"https://www.sadilar.org/"
         },
         "description":"A digital repository of language resources, in various modalities, that are available for download from SADiLaR."
-    },
-    {
-        "catalogID":"4b7eea58bfc24030f1f70f702a1bf3fc2f27349c",
-        "resourceName":"figshare - stage",
-        "resourceProvider":{
-            "name":"Figshare LLP",
-            "displayname":"Figshare LLP",
-            "url":"http://figshare.com/"
-        },
-        "description":"Cloud based repository for citable and discoverable research outputs"
-    },
-    {
-        "catalogID":"58d287bcbee0e73a33b9a84d21f17d20a1b54b72",
-        "resourceName":"figshare",
-        "resourceProvider":{
-            "name":"Figshare LLP",
-            "displayname":"Figshare LLP",
-            "url":"http://figshare.com/"
-        },
-        "description":"Cloud based repository for citable and discoverable research outputs"
     },
     {
         "catalogID":"4c88e4ddcf3e661049d7ff346d1de4cf88ec528d",
@@ -1480,14 +1450,44 @@
         "description":"Register for and manage events organised by TENET or the SA NREN (Indico)"
     },
     {
-        "catalogID":"34784ddd05f60b482f3b3a540c9472711ec9e148",
-        "resourceName":"SA NREN Login Proxy",
+        "catalogID":"4b7eea58bfc24030f1f70f702a1bf3fc2f27349c",
+        "resourceName":"figshare - stage",
         "resourceProvider":{
-            "name":"Tertiary Education and Research Network of South Africa NPC",
-            "displayname":"SAFIRE - South African Identity Federation",
-            "url":"https://safire.ac.za/"
+            "name":"Figshare LLP",
+            "displayname":"Figshare LLP",
+            "url":"http://figshare.com/"
         },
-        "description":"The SA NREN Login Proxy provides federated and social logins for a number of services operated by the SA NREN (TENET + SANReN)."
+        "description":"Cloud based repository for citable and discoverable research outputs"
+    },
+    {
+        "catalogID":"01a4ee1a829458056e659f2f94f83008b8f2a41d",
+        "resourceName":"Data Intensive Research Initiative of South Africa",
+        "resourceProvider":{
+            "name":"Council for Scientific and Industrial Research",
+            "displayname":"CSIR (DIRISA)",
+            "url":"https://www.csir.co.za/"
+        },
+        "description":"DIRISA enables researchers to plan, manage, store and share their data using a series of cloud-based tools."
+    },
+    {
+        "catalogID":"d0256aec7abee32bd4e0db7308f43b54a79a96e4",
+        "resourceName":"SAFIRE Examples Service Provider",
+        "resourceProvider":{
+            "name":"Tertiary Education and Research Network of South Africa",
+            "displayname":"TENET South Africa",
+            "url":"https://www.tenet.ac.za/"
+        },
+        "description":"A set of examples showing SAFIRE integration with various common applications."
+    },
+    {
+        "catalogID":"6c394d194ff56c73a83ca15e9947858cc1487e3c",
+        "resourceName":"Sabinet Discover",
+        "resourceProvider":{
+            "name":"Sabinet Online Ltd",
+            "displayname":"Sabinet",
+            "url":"http://sabinet.co.za"
+        },
+        "description":"Sabinet Discover is an information services tool & publication platform that provides seamless access to comprehensive African legal, news and research content"
     },
     {
         "catalogID":"4dc1347a4f753d02c84aa811cc31c702b98f4e70",
