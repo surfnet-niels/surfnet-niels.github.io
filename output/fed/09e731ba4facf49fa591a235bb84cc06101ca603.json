@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-16 12:42",
+    "generated":"2023-01-16 14:20",
     "en":[
         {
             "catalogID":"09e731ba4facf49fa591a235bb84cc06101ca603",
@@ -11,7 +11,9 @@
                 "url":"https://www.uni-muenster.de/en/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonAssurance"
+                ],
                 "requested":[
                     "eduPersonPrincipalName",
                     "eduPersonUniqueId",
@@ -58,7 +60,9 @@
                 "url":"https://www.uni-muenster.de/en/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonAssurance"
+                ],
                 "requested":[
                     "eduPersonPrincipalName",
                     "eduPersonUniqueId",
@@ -105,7 +109,9 @@
                 "url":"https://www.uni-muenster.de/en/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonAssurance"
+                ],
                 "requested":[
                     "eduPersonPrincipalName",
                     "eduPersonUniqueId",
@@ -152,7 +158,9 @@
                 "url":"https://www.uni-muenster.de/en/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonAssurance"
+                ],
                 "requested":[
                     "eduPersonPrincipalName",
                     "eduPersonUniqueId",
