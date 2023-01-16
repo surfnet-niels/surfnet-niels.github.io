@@ -1,13 +1,13 @@
 {
-    "generated":"2023-01-16 10:25",
+    "generated":"2023-01-16 12:42",
     "en":[
         {
             "catalogID":"d70a32b8e133d02fa22742cb32e4c9556e253ebb",
             "entityID":"https://sp.spraakbanken.gu.se/shibboleth",
-            "resourceName":"Språkbanken",
+            "resourceName":"Språkbanken Text",
             "resourceProvider":{
-                "name":"Språkbanken",
-                "displayname":"Språkbanken",
+                "name":"University of Gothenburg",
+                "displayname":"Department of Swedish, Multilingualism, Language Technology University of Gothenburg",
                 "url":"https://spraakbanken.gu.se/eng/"
             },
             "resourceAttributes":{
@@ -28,7 +28,7 @@
                     "cn"
                 ]
             },
-            "description":"Språkbanken (the Swedish Language Bank) is a nationally and internationally acknowledged research unit at the Department of Swedish, University of Gothenburg",
+            "description":"Språkbanken Text is a nationally and internationally acknowledged research unit at the Department of Swedish, Multilinguality, Language Technology, University of Gothenburg",
             "resourceContacts":[
                 {
                     "type":"administrative",
@@ -37,21 +37,25 @@
                 },
                 {
                     "type":"technical",
-                    "name":"Carl-JohanSchenström",
+                    "name":"Leif-JöranOlsson",
                     "email":"mailto:sb-sysadmin@svenska.gu.se"
                 },
                 {
                     "type":"support",
-                    "name":"Carl-JohanSchenström",
+                    "name":"Leif-JöranOlsson",
+                    "email":"mailto:sb-sysadmin@svenska.gu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Leif-JöranOlsson",
                     "email":"mailto:sb-sysadmin@svenska.gu.se"
                 }
             ],
             "info":"https://spraakbanken.gu.se/eng/",
-            "privacy":"",
+            "privacy":"https://repo.spraakbanken.gu.se/xmlui/page/privacypolicy",
             "entityCategories":[
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/hei-service",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
         }
@@ -60,7 +64,7 @@
         {
             "catalogID":"d70a32b8e133d02fa22742cb32e4c9556e253ebb",
             "entityID":"https://sp.spraakbanken.gu.se/shibboleth",
-            "resourceName":"Språkbanken",
+            "resourceName":"Språkbanken Text",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -93,21 +97,25 @@
                 },
                 {
                     "type":"technical",
-                    "name":"Carl-JohanSchenström",
+                    "name":"Leif-JöranOlsson",
                     "email":"mailto:sb-sysadmin@svenska.gu.se"
                 },
                 {
                     "type":"support",
-                    "name":"Carl-JohanSchenström",
+                    "name":"Leif-JöranOlsson",
+                    "email":"mailto:sb-sysadmin@svenska.gu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Leif-JöranOlsson",
                     "email":"mailto:sb-sysadmin@svenska.gu.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/hei-service",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
         }
@@ -116,7 +124,7 @@
         {
             "catalogID":"d70a32b8e133d02fa22742cb32e4c9556e253ebb",
             "entityID":"https://sp.spraakbanken.gu.se/shibboleth",
-            "resourceName":"Språkbanken",
+            "resourceName":"Språkbanken Text",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -149,21 +157,25 @@
                 },
                 {
                     "type":"technical",
-                    "name":"Carl-JohanSchenström",
+                    "name":"Leif-JöranOlsson",
                     "email":"mailto:sb-sysadmin@svenska.gu.se"
                 },
                 {
                     "type":"support",
-                    "name":"Carl-JohanSchenström",
+                    "name":"Leif-JöranOlsson",
+                    "email":"mailto:sb-sysadmin@svenska.gu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Leif-JöranOlsson",
                     "email":"mailto:sb-sysadmin@svenska.gu.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/hei-service",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
         }
@@ -172,7 +184,7 @@
         {
             "catalogID":"d70a32b8e133d02fa22742cb32e4c9556e253ebb",
             "entityID":"https://sp.spraakbanken.gu.se/shibboleth",
-            "resourceName":"Språkbanken",
+            "resourceName":"Språkbanken Text",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -205,21 +217,25 @@
                 },
                 {
                     "type":"technical",
-                    "name":"Carl-JohanSchenström",
+                    "name":"Leif-JöranOlsson",
                     "email":"mailto:sb-sysadmin@svenska.gu.se"
                 },
                 {
                     "type":"support",
-                    "name":"Carl-JohanSchenström",
+                    "name":"Leif-JöranOlsson",
+                    "email":"mailto:sb-sysadmin@svenska.gu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Leif-JöranOlsson",
                     "email":"mailto:sb-sysadmin@svenska.gu.se"
                 }
             ],
             "info":"",
             "privacy":"",
             "entityCategories":[
-                "http://www.swamid.se/category/research-and-education",
-                "http://www.swamid.se/category/hei-service",
-                "http://refeds.org/category/research-and-scholarship"
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
             ],
             "SirtfiSupport":[]
         }
