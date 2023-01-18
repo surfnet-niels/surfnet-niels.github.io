@@ -1,10 +1,10 @@
 {
-    "generated":"2023-01-18 12:40",
+    "generated":"2023-01-18 14:20",
     "en":[
         {
             "catalogID":"e63f441a160a92dcf2b4288c56be1b41f78f815a",
             "entityID":"https://edu.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
-            "resourceName":"https://edu.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
+            "resourceName":"Restena 'URL shortener' Service",
             "resourceProvider":{
                 "name":"Restena Foundation",
                 "displayname":"Restena Foundation",
@@ -14,7 +14,7 @@
                 "required":[],
                 "requested":[]
             },
-            "description":"",
+            "description":"With the URL shortener, securely redirect long URLs to short URLs while respecting your privacy and that of link visitors. Login to shorten and manage your URLs.",
             "resourceContacts":[
                 {
                     "type":"technical",
@@ -32,7 +32,7 @@
         {
             "catalogID":"e63f441a160a92dcf2b4288c56be1b41f78f815a",
             "entityID":"https://edu.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
-            "resourceName":"https://edu.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
+            "resourceName":"Service 'Raccourcisseur d'URL' de Restena",
             "resourceProvider":{
                 "name":"Fondation Restena",
                 "displayname":"Fondation Restena",
@@ -42,7 +42,7 @@
                 "required":[],
                 "requested":[]
             },
-            "description":"",
+            "description":"Avec le raccourcisseur d’URL, redirigez des URL longues de manière sécurisée vers des URL courtes tout en respectant votre vie privée et celle des visiteurs-ses de vos liens. Connectez-vous pour raccourcir et gérer vos URL.",
             "resourceContacts":[
                 {
                     "type":"technical",
@@ -88,7 +88,7 @@
         {
             "catalogID":"e63f441a160a92dcf2b4288c56be1b41f78f815a",
             "entityID":"https://edu.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
-            "resourceName":"https://edu.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
+            "resourceName":"Restena 'URL shortener' Service",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -98,7 +98,7 @@
                 "required":[],
                 "requested":[]
             },
-            "description":"",
+            "description":"Mit dem URL-Verkürzer können Sie lange URLs sicher in kurze URLs umleiten und dabei Ihre Privatsphäre und die der Besucher Ihrer Links schützen. Verbinden Sie sich, um Ihre URLs zu kürzen und zu verwalten.",
             "resourceContacts":[
                 {
                     "type":"technical",
