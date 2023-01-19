@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-19 08:27",
+    "generated":"2023-01-19 10:25",
     "en":[
         {
             "catalogID":"12321ef85ffb7e8ba886fc40a3935e06cf33cfa8",
@@ -12,7 +12,11 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    null,
+                    null,
+                    null
+                ]
             },
             "description":"With the URL shortener, securely redirect long URLs to short URLs while respecting your privacy and that of link visitors. Login to shorten and manage your URLs.",
             "resourceContacts":[
@@ -40,7 +44,11 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    null,
+                    null,
+                    null
+                ]
             },
             "description":"Avec le raccourcisseur d’URL, redirigez des URL longues de manière sécurisée vers des URL courtes tout en respectant votre vie privée et celle des visiteurs-ses de vos liens. Connectez-vous pour raccourcir et gérer vos URL.",
             "resourceContacts":[
@@ -60,7 +68,7 @@
         {
             "catalogID":"12321ef85ffb7e8ba886fc40a3935e06cf33cfa8",
             "entityID":"https://short.restena.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
-            "resourceName":"https://short.restena.lu/simplesaml/module.php/saml/sp/metadata.php/discover",
+            "resourceName":"Restena 'URL shortener' Service",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -68,7 +76,11 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    null,
+                    null,
+                    null
+                ]
             },
             "description":"",
             "resourceContacts":[
@@ -96,7 +108,11 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[]
+                "requested":[
+                    null,
+                    null,
+                    null
+                ]
             },
             "description":"Mit dem URL-Verkürzer können Sie lange URLs sicher in kurze URLs umleiten und dabei Ihre Privatsphäre und die der Besucher Ihrer Links schützen. Verbinden Sie sich, um Ihre URLs zu kürzen und zu verwalten.",
             "resourceContacts":[
