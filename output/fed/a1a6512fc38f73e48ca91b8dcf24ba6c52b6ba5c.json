@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-22 18:25",
+    "generated":"2023-01-22 20:22",
     "en":[
         {
             "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
@@ -12,21 +12,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonAffiliation",
-                    "surname",
                     "givenName",
-                    "mail",
+                    "surname",
                     "displayName",
-                    "commonName"
+                    "eduPersonAffiliation",
+                    "commonName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonAssurance",
                     "homeOrganizationType",
                     "organizationalUnit",
                     "homeOrganization",
                     "schacHomeOrganization",
                     "departmentNumber",
-                    "eduPersonAssurance",
                     "organizationName"
                 ]
             },
@@ -61,21 +61,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonAffiliation",
-                    "surname",
                     "givenName",
-                    "mail",
+                    "surname",
                     "displayName",
-                    "commonName"
+                    "eduPersonAffiliation",
+                    "commonName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonAssurance",
                     "homeOrganizationType",
                     "organizationalUnit",
                     "homeOrganization",
                     "schacHomeOrganization",
                     "departmentNumber",
-                    "eduPersonAssurance",
                     "organizationName"
                 ]
             },
@@ -110,21 +110,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonAffiliation",
-                    "surname",
                     "givenName",
-                    "mail",
+                    "surname",
                     "displayName",
-                    "commonName"
+                    "eduPersonAffiliation",
+                    "commonName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonAssurance",
                     "homeOrganizationType",
                     "organizationalUnit",
                     "homeOrganization",
                     "schacHomeOrganization",
                     "departmentNumber",
-                    "eduPersonAssurance",
                     "organizationName"
                 ]
             },
@@ -159,21 +159,21 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonAffiliation",
-                    "surname",
                     "givenName",
-                    "mail",
+                    "surname",
                     "displayName",
-                    "commonName"
+                    "eduPersonAffiliation",
+                    "commonName",
+                    "eduPersonScopedAffiliation",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonAssurance",
                     "homeOrganizationType",
                     "organizationalUnit",
                     "homeOrganization",
                     "schacHomeOrganization",
                     "departmentNumber",
-                    "eduPersonAssurance",
                     "organizationName"
                 ]
             },
