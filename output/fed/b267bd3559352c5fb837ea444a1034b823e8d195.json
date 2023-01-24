@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-24 14:19",
+    "generated":"2023-01-24 16:30",
     "en":[
         {
             "catalogID":"b267bd3559352c5fb837ea444a1034b823e8d195",
@@ -38,7 +38,8 @@
                     "isMemberOf",
                     "schacPersonalUniqueCode",
                     "street",
-                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr"
+                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr",
+                    "schacGender"
                 ],
                 "requested":[]
             },
@@ -94,7 +95,8 @@
                     "isMemberOf",
                     "schacPersonalUniqueCode",
                     "street",
-                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr"
+                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr",
+                    "schacGender"
                 ],
                 "requested":[]
             },
@@ -150,7 +152,8 @@
                     "isMemberOf",
                     "schacPersonalUniqueCode",
                     "street",
-                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr"
+                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr",
+                    "schacGender"
                 ],
                 "requested":[]
             },
@@ -206,7 +209,8 @@
                     "isMemberOf",
                     "schacPersonalUniqueCode",
                     "street",
-                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr"
+                    "oioCvrNumberIdentifier https://modst.dk/sso/claims/cvr",
+                    "schacGender"
                 ],
                 "requested":[]
             },
