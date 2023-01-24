@@ -580,16 +580,6 @@
         "description":"EGI Check-in Service"
     },
     {
-        "catalogID":"c7507439fa50273077b4fc077a358aaddc905cc3",
-        "resourceName":"KIF Filesender (in English)",
-        "resourceProvider":{
-            "name":"KIF Filesender",
-            "displayname":"KIF Filesender",
-            "url":"https://www.kif.kg/en"
-        },
-        "description":"KIF Single Sign On"
-    },
-    {
         "catalogID":"48863d04ef89721ccf8a5249b603429edbe898c9",
         "resourceName":"University Politehnica of Bucharest",
         "resourceProvider":{
@@ -2278,6 +2268,16 @@
             "url":"https://www.eciu.org/"
         },
         "description":"ECIU Challenge based learning platform."
+    },
+    {
+        "catalogID":"a48a8bb565f9a070fc2c4f738b97c273f929a662",
+        "resourceName":"Athenauni Moodle",
+        "resourceProvider":{
+            "name":"Vilnius Gediminas technical university",
+            "displayname":"Vilnius Gediminas technical university | Athena project",
+            "url":"https://www.vgtu.lt/en"
+        },
+        "description":"Moodle"
     },
     {
         "catalogID":"8db5f2601a2c1261385d34d133ac9323743e30c8",

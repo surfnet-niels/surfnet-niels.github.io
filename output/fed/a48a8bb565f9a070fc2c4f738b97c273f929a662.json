@@ -1,0 +1,139 @@
+{
+    "generated":"2023-01-24 10:23",
+    "en":[
+        {
+            "catalogID":"a48a8bb565f9a070fc2c4f738b97c273f929a662",
+            "entityID":"https://study.athenauni.eu/auth/saml2/sp/metadata.php",
+            "resourceName":"Athenauni Moodle",
+            "resourceProvider":{
+                "name":"Vilnius Gediminas technical university",
+                "displayname":"Vilnius Gediminas technical university | Athena project",
+                "url":"https://www.vgtu.lt/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    "schacHomeOrganization"
+                ],
+                "requested":[]
+            },
+            "description":"Moodle",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"VILNIUSTECH ITSC",
+                    "email":"mailto:webmaster@vilniustech.lt"
+                }
+            ],
+            "info":"https://study.athenauni.eu",
+            "privacy":"https://study.athenauni.eu",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a48a8bb565f9a070fc2c4f738b97c273f929a662",
+            "entityID":"https://study.athenauni.eu/auth/saml2/sp/metadata.php",
+            "resourceName":"Athenauni Moodle",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vgtu.lt/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    "schacHomeOrganization"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"VILNIUSTECH ITSC",
+                    "email":"mailto:webmaster@vilniustech.lt"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a48a8bb565f9a070fc2c4f738b97c273f929a662",
+            "entityID":"https://study.athenauni.eu/auth/saml2/sp/metadata.php",
+            "resourceName":"Athenauni Moodle",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vgtu.lt/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    "schacHomeOrganization"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"VILNIUSTECH ITSC",
+                    "email":"mailto:webmaster@vilniustech.lt"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a48a8bb565f9a070fc2c4f738b97c273f929a662",
+            "entityID":"https://study.athenauni.eu/auth/saml2/sp/metadata.php",
+            "resourceName":"Athenauni Moodle",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.vgtu.lt/en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "sn",
+                    "mail",
+                    "schacHomeOrganization"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"VILNIUSTECH ITSC",
+                    "email":"mailto:webmaster@vilniustech.lt"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
