@@ -28960,6 +28960,26 @@
         "description":"BSD Online is an online learning platform that teaches the fundamentals of digital skills, including coding and design using an certified interactive curriculum and real world applications in the areas of Web Development, Video Game Development, App Development, AI, VR, Digital Marketing, ECommerce, Data and more. "
     },
     {
+        "catalogID":"13e5ba02bd20d77d93d870e60ec47b9f6325235c",
+        "resourceName":"Bloomsbury Student Learning Authentication Service (Dev)",
+        "resourceProvider":{
+            "name":"Bloomsbury Publishing Plc",
+            "displayname":"Bloomsbury Publishing Plc",
+            "url":"https://www.bloomsbury.com/uk/"
+        },
+        "description":"Development environment for testing access for Bloomsbury Student Learning products"
+    },
+    {
+        "catalogID":"7f7fadca3d3e46140c29c71e1bafe08844616032",
+        "resourceName":"Bloomsbury Student Learning Authentication Service (Staging)",
+        "resourceProvider":{
+            "name":"Bloomsbury Publishing Plc",
+            "displayname":"Bloomsbury Publishing Plc",
+            "url":"https://www.bloomsbury.com/uk/"
+        },
+        "description":"Staging environment for testing access for Bloomsbury Student Learning products"
+    },
+    {
         "catalogID":"ce142e875551f4415e626ff063689f9b23248552",
         "resourceName":"MedicinesComplete – the leading drug information suite",
         "resourceProvider":{
