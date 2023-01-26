@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-26 12:42",
+    "generated":"2023-01-26 14:20",
     "en":[
         {
             "catalogID":"3460e0ea3e824818ae9bf9bec81494fa6dba986d",
@@ -12,18 +12,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "schacHomeOrganization"
-                ],
-                "requested":[
                     "email",
-                    "displayName",
-                    "eduPersonTargetedID",
-                    "cn",
                     "givenName",
                     "sn",
+                    "schacHomeOrganization",
                     "eduPersonScopedAffiliation"
-                ]
+                ],
+                "requested":[]
             },
             "description":"The digital collections of the University of Cyprus.",
             "resourceContacts":[
@@ -51,18 +46,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "schacHomeOrganization"
-                ],
-                "requested":[
                     "email",
-                    "displayName",
-                    "eduPersonTargetedID",
-                    "cn",
                     "givenName",
                     "sn",
+                    "schacHomeOrganization",
                     "eduPersonScopedAffiliation"
-                ]
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -90,18 +80,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "schacHomeOrganization"
-                ],
-                "requested":[
                     "email",
-                    "displayName",
-                    "eduPersonTargetedID",
-                    "cn",
                     "givenName",
                     "sn",
+                    "schacHomeOrganization",
                     "eduPersonScopedAffiliation"
-                ]
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -129,18 +114,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "schacHomeOrganization"
-                ],
-                "requested":[
                     "email",
-                    "displayName",
-                    "eduPersonTargetedID",
-                    "cn",
                     "givenName",
                     "sn",
+                    "schacHomeOrganization",
                     "eduPersonScopedAffiliation"
-                ]
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
