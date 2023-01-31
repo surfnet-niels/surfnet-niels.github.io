@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-16 12:42",
+    "generated":"2023-01-31 10:24",
     "en":[
         {
             "catalogID":"634266eff12e0778e349c4c92916c48314696af9",
@@ -7,8 +7,8 @@
             "resourceName":"AsiaPortal: Databases and other resources provided by the Nordic Institute of Asian Studies",
             "resourceProvider":{
                 "name":"Nordic Institute of Asian Studies",
-                "displayname":"NIAS - Nordic Institute of Asian Studies",
-                "url":"http://www.nias.ku.dk"
+                "displayname":"NIAS",
+                "url":"https://nias.ku.dk/"
             },
             "resourceAttributes":{
                 "required":[
@@ -20,16 +20,19 @@
             "description":"Provides access to databases and other resources for Nias Nordic Council Member institutions",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"Inga-Lill Blomkvist",
+                    "email":"mailto:ilb@nias.ku.dk"
+                },
+                {
                     "type":"technical",
                     "name":"Administrator",
                     "email":"mailto:bib@nias.ku.dk"
                 }
             ],
-            "info":"http://guide.asiaportal.info",
+            "info":"https://www.asiaportal.info/help/",
             "privacy":"http://www.asiaportal.info/privacypolicy",
-            "entityCategories":[
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
+            "entityCategories":[],
             "SirtfiSupport":[]
         }
     ],
@@ -41,7 +44,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.nias.ku.dk"
+                "url":"https://nias.ku.dk/"
             },
             "resourceAttributes":{
                 "required":[
@@ -53,6 +56,11 @@
             "description":"",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"Inga-Lill Blomkvist",
+                    "email":"mailto:ilb@nias.ku.dk"
+                },
+                {
                     "type":"technical",
                     "name":"Administrator",
                     "email":"mailto:bib@nias.ku.dk"
@@ -60,9 +68,7 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
+            "entityCategories":[],
             "SirtfiSupport":[]
         }
     ],
@@ -74,7 +80,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.nias.ku.dk"
+                "url":"https://nias.ku.dk/"
             },
             "resourceAttributes":{
                 "required":[
@@ -86,6 +92,11 @@
             "description":"",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"Inga-Lill Blomkvist",
+                    "email":"mailto:ilb@nias.ku.dk"
+                },
+                {
                     "type":"technical",
                     "name":"Administrator",
                     "email":"mailto:bib@nias.ku.dk"
@@ -93,9 +104,7 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
+            "entityCategories":[],
             "SirtfiSupport":[]
         }
     ],
@@ -107,7 +116,7 @@
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
-                "url":"http://www.nias.ku.dk"
+                "url":"https://nias.ku.dk/"
             },
             "resourceAttributes":{
                 "required":[
@@ -119,6 +128,11 @@
             "description":"",
             "resourceContacts":[
                 {
+                    "type":"administrative",
+                    "name":"Inga-Lill Blomkvist",
+                    "email":"mailto:ilb@nias.ku.dk"
+                },
+                {
                     "type":"technical",
                     "name":"Administrator",
                     "email":"mailto:bib@nias.ku.dk"
@@ -126,9 +140,7 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[
-                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
-            ],
+            "entityCategories":[],
             "SirtfiSupport":[]
         }
     ]
