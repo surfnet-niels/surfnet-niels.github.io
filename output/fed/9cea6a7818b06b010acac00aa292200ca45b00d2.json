@@ -1,15 +1,5 @@
 [
     {
-        "catalogID":"6d4a8139ca0cb5b85cc20dc6a676635f8d450a27",
-        "resourceName":"KENET File Sender",
-        "resourceProvider":{
-            "name":"Kenya Education Network Trust (KENET)",
-            "displayname":"KENET File Sender",
-            "url":"https://www.kenet.or.ke/"
-        },
-        "description":"KENET File Sender"
-    },
-    {
         "catalogID":"960220a38b23a3003f66e1e520e5bf38d7b39e7d",
         "resourceName":"KENET eduVPN",
         "resourceProvider":{
@@ -18,6 +8,16 @@
             "url":"https://www.kenet.or.ke/"
         },
         "description":"KENET eduVPN"
+    },
+    {
+        "catalogID":"d1fbd024f381083ff588f5e7fc94f2d2e257c2e1",
+        "resourceName":"KENET FileSender",
+        "resourceProvider":{
+            "name":"Kenya Education Network(KENET)",
+            "displayname":"KENET",
+            "url":"https://kenet.or.ke"
+        },
+        "description":"The KENET FileSender service is a web-based fileshairing service for the Kenyan Identity Federation for Research and Education community"
     },
     {
         "catalogID":"427ccb354919cd588545e098353c2a3c37d12068",
