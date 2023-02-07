@@ -1,5 +1,5 @@
 {
-    "generated":"2023-02-07 12:42",
+    "generated":"2023-02-07 14:20",
     "en":[
         {
             "catalogID":"d3079f96fd4a47a20c36362ad400104b93258b2a",
@@ -12,11 +12,9 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[
-                    "eduPersonPrincipalName"
-                ]
+                "requested":[]
             },
-            "description":"With more than 7 million active users, itslearning is one of the fastest growing international technology companies. Our learning platform is used by millions of educators, students, and administrative staff worldwide. We are dedicated to education and are passionate about the success of each student.",
+            "description":"itslearning is a cloud-based LMS that connects people with passions, ideas, and each other.",
             "resourceContacts":[
                 {
                     "type":"technical",
@@ -29,8 +27,8 @@
                     "email":"mailto:support@itslearning.com"
                 }
             ],
-            "info":"",
-            "privacy":"",
+            "info":"https://itslearning.com/global/higher-education/lms-overview/",
+            "privacy":"https://itslearning.com/global/privacy-policy/",
             "entityCategories":[],
             "SirtfiSupport":[]
         }
@@ -39,7 +37,7 @@
         {
             "catalogID":"d3079f96fd4a47a20c36362ad400104b93258b2a",
             "entityID":"https://www.itslearning.net/integrations/samlmetadata/saml2v2/3",
-            "resourceName":"itslearning",
+            "resourceName":"https://www.itslearning.net/integrations/samlmetadata/saml2v2/3",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -47,9 +45,7 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[
-                    "eduPersonPrincipalName"
-                ]
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -74,7 +70,7 @@
         {
             "catalogID":"d3079f96fd4a47a20c36362ad400104b93258b2a",
             "entityID":"https://www.itslearning.net/integrations/samlmetadata/saml2v2/3",
-            "resourceName":"itslearning",
+            "resourceName":"https://www.itslearning.net/integrations/samlmetadata/saml2v2/3",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -82,9 +78,7 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[
-                    "eduPersonPrincipalName"
-                ]
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -109,7 +103,7 @@
         {
             "catalogID":"d3079f96fd4a47a20c36362ad400104b93258b2a",
             "entityID":"https://www.itslearning.net/integrations/samlmetadata/saml2v2/3",
-            "resourceName":"itslearning",
+            "resourceName":"https://www.itslearning.net/integrations/samlmetadata/saml2v2/3",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -117,9 +111,7 @@
             },
             "resourceAttributes":{
                 "required":[],
-                "requested":[
-                    "eduPersonPrincipalName"
-                ]
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[

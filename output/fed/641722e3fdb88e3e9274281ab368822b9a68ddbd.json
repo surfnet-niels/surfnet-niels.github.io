@@ -1,5 +1,5 @@
 {
-    "generated":"2023-02-07 12:42",
+    "generated":"2023-02-07 14:20",
     "en":[
         {
             "catalogID":"641722e3fdb88e3e9274281ab368822b9a68ddbd",
@@ -12,8 +12,8 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eppn",
-                    "mail"
+                    "mail",
+                    "eppn"
                 ],
                 "requested":[]
             },
@@ -28,20 +28,10 @@
                     "type":"support",
                     "name":[],
                     "email":"mailto:support@itslearning.com"
-                },
-                {
-                    "type":"administrative",
-                    "name":[],
-                    "email":"mailto:support@itslearning.com"
-                },
-                {
-                    "type":"security",
-                    "name":"Security Team",
-                    "email":"mailto:support@itslearning.com"
                 }
             ],
             "info":"https://itslearning.com/global/higher-education/lms-overview/",
-            "privacy":"http://www.geant.net/uri/dataprotection-code-of-conduct/v1/",
+            "privacy":"https://itslearning.com/global/privacy-policy/",
             "entityCategories":[
                 "http://refeds.org/category/research-and-scholarship"
             ],
@@ -60,8 +50,8 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eppn",
-                    "mail"
+                    "mail",
+                    "eppn"
                 ],
                 "requested":[]
             },
@@ -75,16 +65,6 @@
                 {
                     "type":"support",
                     "name":[],
-                    "email":"mailto:support@itslearning.com"
-                },
-                {
-                    "type":"administrative",
-                    "name":[],
-                    "email":"mailto:support@itslearning.com"
-                },
-                {
-                    "type":"security",
-                    "name":"Security Team",
                     "email":"mailto:support@itslearning.com"
                 }
             ],
@@ -108,8 +88,8 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eppn",
-                    "mail"
+                    "mail",
+                    "eppn"
                 ],
                 "requested":[]
             },
@@ -123,16 +103,6 @@
                 {
                     "type":"support",
                     "name":[],
-                    "email":"mailto:support@itslearning.com"
-                },
-                {
-                    "type":"administrative",
-                    "name":[],
-                    "email":"mailto:support@itslearning.com"
-                },
-                {
-                    "type":"security",
-                    "name":"Security Team",
                     "email":"mailto:support@itslearning.com"
                 }
             ],
@@ -156,8 +126,8 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eppn",
-                    "mail"
+                    "mail",
+                    "eppn"
                 ],
                 "requested":[]
             },
@@ -171,16 +141,6 @@
                 {
                     "type":"support",
                     "name":[],
-                    "email":"mailto:support@itslearning.com"
-                },
-                {
-                    "type":"administrative",
-                    "name":[],
-                    "email":"mailto:support@itslearning.com"
-                },
-                {
-                    "type":"security",
-                    "name":"Security Team",
                     "email":"mailto:support@itslearning.com"
                 }
             ],
