@@ -29590,16 +29590,6 @@
         "description":"medfilm v3"
     },
     {
-        "catalogID":"465ca975c625817f9d122412842b5abf1827b90b",
-        "resourceName":"MEDFILM educational platform",
-        "resourceProvider":{
-            "name":"Université de Strasbourg",
-            "displayname":"Université de Strasbourg",
-            "url":"http://www.unistra.fr"
-        },
-        "description":"MEDFILM educational platform is a database on the history of health."
-    },
-    {
         "catalogID":"012a751d16472e0fb1d6d56c765832848069a1a4",
         "resourceName":"Metacampus for Unite!",
         "resourceProvider":{
@@ -32238,6 +32228,16 @@
             "url":"http://en.uni-nke.hu"
         },
         "description":"Moodle e-learning system"
+    },
+    {
+        "catalogID":"d2d2cd2eae8f9ac7a970997f8b18f5d0f4109ca6",
+        "resourceName":"overleaf.kinin.hu",
+        "resourceProvider":{
+            "name":"SZTAKI - Computer and Automation Research Institute",
+            "displayname":"SZTAKI - Computer and Automation Research Institute",
+            "url":"http://sztaki.hu/?en"
+        },
+        "description":"overleaf.kinin.hu"
     },
     {
         "catalogID":"d315381231bf88d9c23f7193c958abd34e37fb14",
