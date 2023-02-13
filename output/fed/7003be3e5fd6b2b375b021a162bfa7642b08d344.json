@@ -1,5 +1,5 @@
 {
-    "generated":"2023-02-13 18:28",
+    "generated":"2023-02-13 20:23",
     "en":[
         {
             "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
@@ -13,17 +13,17 @@
             "resourceAttributes":{
                 "required":[
                     "commonName",
-                    "eduPersonScopedAffiliation",
-                    "eduPersonAssurance",
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "mail"
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "eduPersonAssurance",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
-                    "schacHomeOrganization",
                     "homeOrganization",
-                    "organizationName"
+                    "organizationName",
+                    "schacHomeOrganization"
                 ]
             },
             "description":"ACVP Admin Portal",
@@ -53,17 +53,17 @@
             "resourceAttributes":{
                 "required":[
                     "commonName",
-                    "eduPersonScopedAffiliation",
-                    "eduPersonAssurance",
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "mail"
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "eduPersonAssurance",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
-                    "schacHomeOrganization",
                     "homeOrganization",
-                    "organizationName"
+                    "organizationName",
+                    "schacHomeOrganization"
                 ]
             },
             "description":"",
@@ -93,17 +93,17 @@
             "resourceAttributes":{
                 "required":[
                     "commonName",
-                    "eduPersonScopedAffiliation",
-                    "eduPersonAssurance",
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "mail"
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "eduPersonAssurance",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
-                    "schacHomeOrganization",
                     "homeOrganization",
-                    "organizationName"
+                    "organizationName",
+                    "schacHomeOrganization"
                 ]
             },
             "description":"",
@@ -133,17 +133,17 @@
             "resourceAttributes":{
                 "required":[
                     "commonName",
-                    "eduPersonScopedAffiliation",
-                    "eduPersonAssurance",
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "eduPersonAffiliation",
-                    "mail"
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "eduPersonAssurance",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
-                    "schacHomeOrganization",
                     "homeOrganization",
-                    "organizationName"
+                    "organizationName",
+                    "schacHomeOrganization"
                 ]
             },
             "description":"",
