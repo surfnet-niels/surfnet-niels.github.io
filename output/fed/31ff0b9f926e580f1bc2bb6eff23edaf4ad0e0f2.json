@@ -1,5 +1,5 @@
 {
-    "generated":"2023-02-15 16:32",
+    "generated":"2023-02-15 18:27",
     "en":[
         {
             "catalogID":"31ff0b9f926e580f1bc2bb6eff23edaf4ad0e0f2",
@@ -12,7 +12,7 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonAffiliation"
                 ],
                 "requested":[]
             },
@@ -25,8 +25,8 @@
                 },
                 {
                     "type":"security",
-                    "name":"MichaelSteinecke",
-                    "email":"mailto:michael.steinecke@irb.fraunhofer.de"
+                    "name":"Informationssicherheit",
+                    "email":"mailto:informationssicherheit@irb.fraunhofer.de"
                 },
                 {
                     "type":"support",
@@ -41,8 +41,12 @@
             ],
             "info":"https://irb.fraunhofer.de/",
             "privacy":"https://irb.fraunhofer.de/de/datenschutzerklaerung.html",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "entityCategories":[
+                "https://refeds.org/category/anonymous"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "fr":[
@@ -57,7 +61,7 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonAffiliation"
                 ],
                 "requested":[]
             },
@@ -70,8 +74,8 @@
                 },
                 {
                     "type":"security",
-                    "name":"MichaelSteinecke",
-                    "email":"mailto:michael.steinecke@irb.fraunhofer.de"
+                    "name":"Informationssicherheit",
+                    "email":"mailto:informationssicherheit@irb.fraunhofer.de"
                 },
                 {
                     "type":"support",
@@ -86,8 +90,12 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "entityCategories":[
+                "https://refeds.org/category/anonymous"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "it":[
@@ -102,7 +110,7 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonAffiliation"
                 ],
                 "requested":[]
             },
@@ -115,8 +123,8 @@
                 },
                 {
                     "type":"security",
-                    "name":"MichaelSteinecke",
-                    "email":"mailto:michael.steinecke@irb.fraunhofer.de"
+                    "name":"Informationssicherheit",
+                    "email":"mailto:informationssicherheit@irb.fraunhofer.de"
                 },
                 {
                     "type":"support",
@@ -131,8 +139,12 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "entityCategories":[
+                "https://refeds.org/category/anonymous"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ],
     "de":[
@@ -147,7 +159,7 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation"
+                    "eduPersonAffiliation"
                 ],
                 "requested":[]
             },
@@ -160,8 +172,8 @@
                 },
                 {
                     "type":"security",
-                    "name":"MichaelSteinecke",
-                    "email":"mailto:michael.steinecke@irb.fraunhofer.de"
+                    "name":"Informationssicherheit",
+                    "email":"mailto:informationssicherheit@irb.fraunhofer.de"
                 },
                 {
                     "type":"support",
@@ -176,8 +188,12 @@
             ],
             "info":"https://irb.fraunhofer.de/",
             "privacy":"https://irb.fraunhofer.de/de/datenschutzerklaerung.html",
-            "entityCategories":[],
-            "SirtfiSupport":[]
+            "entityCategories":[
+                "https://refeds.org/category/anonymous"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
         }
     ]
 }

@@ -1,5 +1,5 @@
 {
-    "generated":"2023-02-15 16:32",
+    "generated":"2023-02-15 18:27",
     "en":[
         {
             "catalogID":"40c9fb48d8189dd66fd2aa9aeea59580b2f7bbcd",
@@ -12,7 +12,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "gn",
+                    "sn",
+                    "mail",
+                    "eduPersonPrimaryAffiliation",
+                    "schacHomeOrganization",
+                    "cn"
                 ],
                 "requested":[]
             },
@@ -22,6 +28,11 @@
                     "type":"support",
                     "name":"MikeRindom",
                     "email":"mailto:mrindom@ruc.dk"
+                },
+                {
+                    "type":"technical",
+                    "name":"ΤριανταφύλλουΝικόλαος",
+                    "email":"mailto:triantafyllou.ni@gmail.com"
                 }
             ],
             "info":"",
@@ -42,7 +53,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "gn",
+                    "sn",
+                    "mail",
+                    "eduPersonPrimaryAffiliation",
+                    "schacHomeOrganization",
+                    "cn"
                 ],
                 "requested":[]
             },
@@ -52,6 +69,11 @@
                     "type":"support",
                     "name":"MikeRindom",
                     "email":"mailto:mrindom@ruc.dk"
+                },
+                {
+                    "type":"technical",
+                    "name":"ΤριανταφύλλουΝικόλαος",
+                    "email":"mailto:triantafyllou.ni@gmail.com"
                 }
             ],
             "info":"",
@@ -72,7 +94,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "gn",
+                    "sn",
+                    "mail",
+                    "eduPersonPrimaryAffiliation",
+                    "schacHomeOrganization",
+                    "cn"
                 ],
                 "requested":[]
             },
@@ -82,6 +110,11 @@
                     "type":"support",
                     "name":"MikeRindom",
                     "email":"mailto:mrindom@ruc.dk"
+                },
+                {
+                    "type":"technical",
+                    "name":"ΤριανταφύλλουΝικόλαος",
+                    "email":"mailto:triantafyllou.ni@gmail.com"
                 }
             ],
             "info":"",
@@ -102,7 +135,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "gn",
+                    "sn",
+                    "mail",
+                    "eduPersonPrimaryAffiliation",
+                    "schacHomeOrganization",
+                    "cn"
                 ],
                 "requested":[]
             },
@@ -112,6 +151,11 @@
                     "type":"support",
                     "name":"MikeRindom",
                     "email":"mailto:mrindom@ruc.dk"
+                },
+                {
+                    "type":"technical",
+                    "name":"ΤριανταφύλλουΝικόλαος",
+                    "email":"mailto:triantafyllou.ni@gmail.com"
                 }
             ],
             "info":"",
