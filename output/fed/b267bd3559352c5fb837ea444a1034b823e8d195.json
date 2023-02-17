@@ -1,5 +1,5 @@
 {
-    "generated":"2023-02-17 14:21",
+    "generated":"2023-02-17 16:30",
     "en":[
         {
             "catalogID":"b267bd3559352c5fb837ea444a1034b823e8d195",
@@ -52,8 +52,10 @@
                 }
             ],
             "info":"http://www.wayf.dk",
-            "privacy":"",
-            "entityCategories":[],
+            "privacy":"https://www.deic.dk/en/privacy-policy",
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -110,7 +112,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -167,7 +171,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -224,7 +230,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ]
