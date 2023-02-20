@@ -1,5 +1,5 @@
 {
-    "generated":"2023-02-20 18:27",
+    "generated":"2023-02-20 20:23",
     "en":[
         {
             "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
@@ -13,17 +13,17 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAssurance",
-                    "eduPersonAffiliation",
                     "commonName",
-                    "eduPersonScopedAffiliation",
                     "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
                     "mail",
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "homeOrganization",
-                    "organizationName",
-                    "schacHomeOrganization"
+                    "schacHomeOrganization",
+                    "organizationName"
                 ]
             },
             "description":"ACVP Admin Portal",
@@ -53,17 +53,17 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAssurance",
-                    "eduPersonAffiliation",
                     "commonName",
-                    "eduPersonScopedAffiliation",
                     "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
                     "mail",
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "homeOrganization",
-                    "organizationName",
-                    "schacHomeOrganization"
+                    "schacHomeOrganization",
+                    "organizationName"
                 ]
             },
             "description":"",
@@ -93,17 +93,17 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAssurance",
-                    "eduPersonAffiliation",
                     "commonName",
-                    "eduPersonScopedAffiliation",
                     "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
                     "mail",
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "homeOrganization",
-                    "organizationName",
-                    "schacHomeOrganization"
+                    "schacHomeOrganization",
+                    "organizationName"
                 ]
             },
             "description":"",
@@ -133,17 +133,17 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonAssurance",
-                    "eduPersonAffiliation",
                     "commonName",
-                    "eduPersonScopedAffiliation",
                     "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
                     "mail",
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
                     "homeOrganization",
-                    "organizationName",
-                    "schacHomeOrganization"
+                    "schacHomeOrganization",
+                    "organizationName"
                 ]
             },
             "description":"",
