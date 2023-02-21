@@ -33730,6 +33730,16 @@
         "description":"Various services provided by Huygens ING in the context of the CLARIN initiative."
     },
     {
+        "catalogID":"09fece915e8ea3acfa0a116413c603dbb3cecba1",
+        "resourceName":"CLARIN CMDI metadata (prod)",
+        "resourceProvider":{
+            "name":"e459",
+            "displayname":"CLARIN ERIC",
+            "url":"http://clarin.eu"
+        },
+        "description":"For the Component Registry, Virtual Language Observatory."
+    },
+    {
         "catalogID":"2aca74b00ea24359b9af0f1ac7131885bac5312a",
         "resourceName":"MPI for Psycholinguistics",
         "resourceProvider":{
@@ -33768,6 +33778,16 @@
             "url":"http://clarin.eu"
         },
         "description":"A semantic annotation platform offering intelligent annotation assistance and knowledge management."
+    },
+    {
+        "catalogID":"e5fa8190cbcfc8bac65d15444248d1661b85f947",
+        "resourceName":"CLARIN Virtual Collection Registry",
+        "resourceProvider":{
+            "name":"e459",
+            "displayname":"CLARIN ERIC",
+            "url":"http://clarin.eu"
+        },
+        "description":"For the Virtual Collection Registry."
     },
     {
         "catalogID":"b140b08106f7fa2dc3c0e9a2f6c95da869b35eb7",
