@@ -33700,6 +33700,16 @@
         "description":"The CLARINO Bergen Repository for language resources at the University of Bergen"
     },
     {
+        "catalogID":"d93a6ec9584e8e7f9bae4a265f28c0a23096589e",
+        "resourceName":"CLARIN-DK-UCPH Repository",
+        "resourceProvider":{
+            "name":"e459",
+            "displayname":"CLARIN ERIC",
+            "url":"http://clarin.eu"
+        },
+        "description":"Digital repository and services of the CLARIN Centre at the University of Copenhagen."
+    },
+    {
         "catalogID":"aae9214966fec92838e49783b86d8d2387be51ae",
         "resourceName":"CLARIN-IS Repository",
         "resourceProvider":{
@@ -33738,6 +33748,16 @@
             "url":"http://clarin.eu"
         },
         "description":"For the Component Registry, Virtual Language Observatory."
+    },
+    {
+        "catalogID":"5c70d5b52f879eb3eaa7afa3840b1866e65879b1",
+        "resourceName":"CLARIN-LT Repository and Services",
+        "resourceProvider":{
+            "name":"e459",
+            "displayname":"CLARIN ERIC",
+            "url":"http://clarin.eu"
+        },
+        "description":"Repository for sharing and depositing language tools and resources."
     },
     {
         "catalogID":"2aca74b00ea24359b9af0f1ac7131885bac5312a",
