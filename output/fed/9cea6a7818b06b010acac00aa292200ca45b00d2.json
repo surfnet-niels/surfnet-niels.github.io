@@ -34714,7 +34714,7 @@
         "resourceName":"Moocs HES-SO",
         "resourceProvider":{
             "name":"hes-so.ch",
-            "displayname":"HES-SO - University of Applied Sciences Western Switzerland",
+            "displayname":"HES-SO - Haute Ecole Spécialisée de Suisse occidentale",
             "url":"http://www.hes-so.ch/"
         },
         "description":"The purpose of this service is to authenticate users to Moocs HES-SO service."
@@ -34748,16 +34748,6 @@
             "url":"http://www.unisi.ch/"
         },
         "description":"Qualtrics Shibboleth Authenticator for USI"
-    },
-    {
-        "catalogID":"8ef05d910e923cf37c437ce9cea05096896bdc6f",
-        "resourceName":"AnsibleTestLdb",
-        "resourceProvider":{
-            "name":"switch.ch",
-            "displayname":"SWITCH",
-            "url":"http://www.switch.ch/"
-        },
-        "description":"The purpose of this service ist to test the deployment of attribute viewer with ansible."
     },
     {
         "catalogID":"2291055505e0387b861bad99f16d208aa80dbab4",
