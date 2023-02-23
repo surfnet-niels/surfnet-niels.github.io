@@ -32700,6 +32700,16 @@
         "description":"The INFN ILDG Identity and Access Management (IAM) service is a central service used to manage identities and authorization policies in support of ILDG experiment."
     },
     {
+        "catalogID":"ac87b8fe43b1c4e1d8d2477eeb66510cfae4aee1",
+        "resourceName":"GARR Satosa Gateway",
+        "resourceProvider":{
+            "name":"GARR",
+            "displayname":"Satosa Gateway provided by GARR",
+            "url":"https://www.garr.it/en/"
+        },
+        "description":"GARR Satosa Gateway"
+    },
+    {
         "catalogID":"91c619cfb099e062d642ff209d9fbda42f615d42",
         "resourceName":"The BLOOM Hub for digitalisation in higher education",
         "resourceProvider":{
