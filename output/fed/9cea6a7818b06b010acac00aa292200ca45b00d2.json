@@ -28830,6 +28830,16 @@
         "description":""
     },
     {
+        "catalogID":"5bef9fa8bb17ca3059551c17575e357323a28fce",
+        "resourceName":"https://contacts.uat.ukfederation.org.uk/sp",
+        "resourceProvider":{
+            "name":"Jisc Services Limited",
+            "displayname":"Jisc Services Limited",
+            "url":"https://www.ukfederation.org.uk/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"6b593336187324ef4f86c86da8f6d4712b221c9c",
         "resourceName":"MacTutor",
         "resourceProvider":{
@@ -35598,6 +35608,26 @@
             "url":"https://my.goodhabitz.com"
         },
         "description":"GoodHabitz is a provider of online training courses"
+    },
+    {
+        "catalogID":"78fc347f6a30f8d07c630e208801dc4a7fc5ba8e",
+        "resourceName":"eduroam supporting services",
+        "resourceProvider":{
+            "name":"eduroam",
+            "displayname":"eduroam",
+            "url":"http://www.eduroam.org"
+        },
+        "description":"eduroam supporting services include: eduroam database, CAT, monitoring, F-Ticks"
+    },
+    {
+        "catalogID":"ec0a00ea3b48b2e8e2fc01f9200d90adc1cdf36b",
+        "resourceName":"SRCE eduGAIN proxy SP, edugainproxy.srce.hr",
+        "resourceProvider":{
+            "name":"University of Zagreb, University Computing Centre (SRCE)",
+            "displayname":"University of Zagreb, University Computing Centre (SRCE)",
+            "url":"https://www.srce.unizg.hr/"
+        },
+        "description":"eduGAIN proxy for all the services provided by University of Zagreb, University Computing Centre (SRCE)"
     },
     {
         "catalogID":"a775a7086849065e893795418a8b39e5c8582e92",
