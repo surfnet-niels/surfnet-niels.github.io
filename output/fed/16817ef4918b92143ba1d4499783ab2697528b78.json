@@ -1,5 +1,5 @@
 {
-    "generated":"2023-02-23 12:44",
+    "generated":"2023-02-23 14:22",
     "en":[
         {
             "catalogID":"16817ef4918b92143ba1d4499783ab2697528b78",
@@ -49,7 +49,9 @@
             ],
             "info":"https://sdds.baltig-pages.infn.it/saml-federation/herd_privacy-policy-and-description-en.html",
             "privacy":"https://sdds.baltig-pages.infn.it/saml-federation/herd_privacy-policy-and-description-en.html",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -102,7 +104,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -155,7 +159,9 @@
             ],
             "info":"https://sdds.baltig-pages.infn.it/saml-federation/herd_privacy-policy-and-description-it.html",
             "privacy":"https://sdds.baltig-pages.infn.it/saml-federation/herd_privacy-policy-and-description-it.html",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -208,7 +214,9 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
             "SirtfiSupport":[]
         }
     ]
