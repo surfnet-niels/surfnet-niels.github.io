@@ -1,5 +1,5 @@
 {
-    "generated":"2023-02-25 08:27",
+    "generated":"2023-02-25 10:23",
     "en":[
         {
             "catalogID":"7b2ad174bcc10ced91a355e9aedf0060adec40b9",
@@ -13,15 +13,15 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName",
-                    "displayName"
-                ],
-                "requested":[
                     "eduPersonTargetedID",
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
                     "eduPersonScopedAffiliation",
+                    "displayName",
                     "sn",
                     "givenName"
-                ]
+                ],
+                "requested":[]
             },
             "description":"saml federation bridge production\nthis is the bridge between CC-IN2P3 SSO and EduGain federation\npermit to give access to our services for EduGain users",
             "resourceContacts":[
@@ -54,15 +54,15 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName",
-                    "displayName"
-                ],
-                "requested":[
                     "eduPersonTargetedID",
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
                     "eduPersonScopedAffiliation",
+                    "displayName",
                     "sn",
                     "givenName"
-                ]
+                ],
+                "requested":[]
             },
             "description":"saml federation bridge production\nc'est le pont entre le sso CC-IN2P3 et la fédération EduGain\npermet de donner accès à nos services à des utilisateur EduGain",
             "resourceContacts":[
@@ -95,15 +95,15 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName",
-                    "displayName"
-                ],
-                "requested":[
                     "eduPersonTargetedID",
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
                     "eduPersonScopedAffiliation",
+                    "displayName",
                     "sn",
                     "givenName"
-                ]
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -136,15 +136,15 @@
             "resourceAttributes":{
                 "required":[
                     "mail",
-                    "eduPersonPrincipalName",
-                    "displayName"
-                ],
-                "requested":[
                     "eduPersonTargetedID",
+                    "eduPersonUniqueId",
+                    "eduPersonPrincipalName",
                     "eduPersonScopedAffiliation",
+                    "displayName",
                     "sn",
                     "givenName"
-                ]
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
