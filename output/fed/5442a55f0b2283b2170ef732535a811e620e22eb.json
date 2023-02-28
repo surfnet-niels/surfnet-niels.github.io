@@ -1,0 +1,195 @@
+{
+    "generated":"2023-02-28 22:22",
+    "en":[
+        {
+            "catalogID":"5442a55f0b2283b2170ef732535a811e620e22eb",
+            "entityID":"https://boston.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Boston College",
+            "resourceProvider":{
+                "name":"Edublogs",
+                "displayname":"Edublogs",
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"https://incsub.com/privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"5442a55f0b2283b2170ef732535a811e620e22eb",
+            "entityID":"https://boston.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Boston College",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"5442a55f0b2283b2170ef732535a811e620e22eb",
+            "entityID":"https://boston.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Boston College",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"5442a55f0b2283b2170ef732535a811e620e22eb",
+            "entityID":"https://boston.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"Boston College",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
