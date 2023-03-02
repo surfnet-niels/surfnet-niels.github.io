@@ -32660,6 +32660,16 @@
         "description":"GARR Satosa Gateway"
     },
     {
+        "catalogID":"81e55e8433d547f1918b704bd3824ffd4ee26f63",
+        "resourceName":"INFN CTAO Identity and Access Management Service",
+        "resourceProvider":{
+            "name":"National Institute for Nuclear Physics (INFN)",
+            "displayname":"IAM-CTAO provided by INFN",
+            "url":"http://home.infn.it/en/"
+        },
+        "description":"The INFN CTAO Identity and Access Management (IAM) service is a central service used to manage identities and authorization policies in support of CTAO experiment."
+    },
+    {
         "catalogID":"91c619cfb099e062d642ff209d9fbda42f615d42",
         "resourceName":"The BLOOM Hub for digitalisation in higher education",
         "resourceProvider":{
