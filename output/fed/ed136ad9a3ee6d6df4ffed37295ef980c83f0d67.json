@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-03 14:20",
+    "generated":"2023-03-03 16:30",
     "en":[
         {
             "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
@@ -46,7 +46,7 @@
         {
             "catalogID":"ed136ad9a3ee6d6df4ffed37295ef980c83f0d67",
             "entityID":"https://saml.ip2i.in2p3.fr/module.php/saml/sp/metadata.php/default-sp",
-            "resourceName":"IN2P3-IP2I - SAML bridge",
+            "resourceName":"IN2P3-IP2I - Pont SAML",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -67,7 +67,7 @@
                     "cn"
                 ]
             },
-            "description":"saml federation bridge production",
+            "description":"Pont saml fédération de production",
             "resourceContacts":[
                 {
                     "type":"technical",
