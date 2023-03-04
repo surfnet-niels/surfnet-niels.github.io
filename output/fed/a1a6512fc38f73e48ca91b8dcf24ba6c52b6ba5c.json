@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-04 18:26",
+    "generated":"2023-03-04 20:21",
     "en":[
         {
             "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
@@ -12,18 +12,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "givenName",
-                    "commonName",
-                    "mail",
                     "eduPersonAffiliation",
                     "displayName",
-                    "surname"
+                    "commonName",
+                    "givenName",
+                    "mail",
+                    "surname",
+                    "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "homeOrganization",
-                    "organizationName",
                     "schacHomeOrganization",
+                    "organizationName",
                     "eduPersonAssurance",
                     "homeOrganizationType",
                     "departmentNumber",
@@ -33,14 +33,14 @@
             "description":"Active Classroom (AClass) is a website designed for knowledge transfer of education studies and idea exchanges. Our target audience include teachers from different education sectors, ranging from pre-schools, primary schools, secondary schools, to higher ",
             "resourceContacts":[
                 {
-                    "type":"support",
-                    "name":"Bick HarLam",
-                    "email":"mailto:bhlam@eduhk.hk"
-                },
-                {
                     "type":"technical",
                     "name":"NickLAI",
                     "email":"mailto:nicklai@ust.hk"
+                },
+                {
+                    "type":"support",
+                    "name":"Bick HarLam",
+                    "email":"mailto:bhlam@eduhk.hk"
                 }
             ],
             "info":"",
@@ -61,18 +61,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "givenName",
-                    "commonName",
-                    "mail",
                     "eduPersonAffiliation",
                     "displayName",
-                    "surname"
+                    "commonName",
+                    "givenName",
+                    "mail",
+                    "surname",
+                    "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "homeOrganization",
-                    "organizationName",
                     "schacHomeOrganization",
+                    "organizationName",
                     "eduPersonAssurance",
                     "homeOrganizationType",
                     "departmentNumber",
@@ -82,14 +82,14 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
-                    "name":"Bick HarLam",
-                    "email":"mailto:bhlam@eduhk.hk"
-                },
-                {
                     "type":"technical",
                     "name":"NickLAI",
                     "email":"mailto:nicklai@ust.hk"
+                },
+                {
+                    "type":"support",
+                    "name":"Bick HarLam",
+                    "email":"mailto:bhlam@eduhk.hk"
                 }
             ],
             "info":"",
@@ -110,18 +110,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "givenName",
-                    "commonName",
-                    "mail",
                     "eduPersonAffiliation",
                     "displayName",
-                    "surname"
+                    "commonName",
+                    "givenName",
+                    "mail",
+                    "surname",
+                    "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "homeOrganization",
-                    "organizationName",
                     "schacHomeOrganization",
+                    "organizationName",
                     "eduPersonAssurance",
                     "homeOrganizationType",
                     "departmentNumber",
@@ -131,14 +131,14 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
-                    "name":"Bick HarLam",
-                    "email":"mailto:bhlam@eduhk.hk"
-                },
-                {
                     "type":"technical",
                     "name":"NickLAI",
                     "email":"mailto:nicklai@ust.hk"
+                },
+                {
+                    "type":"support",
+                    "name":"Bick HarLam",
+                    "email":"mailto:bhlam@eduhk.hk"
                 }
             ],
             "info":"",
@@ -159,18 +159,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonScopedAffiliation",
-                    "givenName",
-                    "commonName",
-                    "mail",
                     "eduPersonAffiliation",
                     "displayName",
-                    "surname"
+                    "commonName",
+                    "givenName",
+                    "mail",
+                    "surname",
+                    "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "homeOrganization",
-                    "organizationName",
                     "schacHomeOrganization",
+                    "organizationName",
                     "eduPersonAssurance",
                     "homeOrganizationType",
                     "departmentNumber",
@@ -180,14 +180,14 @@
             "description":"",
             "resourceContacts":[
                 {
-                    "type":"support",
-                    "name":"Bick HarLam",
-                    "email":"mailto:bhlam@eduhk.hk"
-                },
-                {
                     "type":"technical",
                     "name":"NickLAI",
                     "email":"mailto:nicklai@ust.hk"
+                },
+                {
+                    "type":"support",
+                    "name":"Bick HarLam",
+                    "email":"mailto:bhlam@eduhk.hk"
                 }
             ],
             "info":"",
