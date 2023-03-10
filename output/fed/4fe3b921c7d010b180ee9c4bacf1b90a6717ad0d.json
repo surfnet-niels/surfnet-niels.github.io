@@ -1,0 +1,155 @@
+{
+    "generated":"2023-03-10 14:22",
+    "en":[
+        {
+            "catalogID":"4fe3b921c7d010b180ee9c4bacf1b90a6717ad0d",
+            "entityID":"https://fpp.sir2.rediris.es/es.ua.moodle/module.php/saml/sp/metadata.php/sir2-thiss",
+            "resourceName":"Moodle Universidad de Alicante",
+            "resourceProvider":{
+                "name":"Moodle Universidad de Alicante",
+                "displayname":"Moodle Universidad de Alicante",
+                "url":"https://si.ua.es/moodle/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"Moodle of the University of Alicante",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SIR2 operations team",
+                    "email":"mailto:sir2@rediris.es"
+                }
+            ],
+            "info":"https://si.ua.es/moodle/",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"4fe3b921c7d010b180ee9c4bacf1b90a6717ad0d",
+            "entityID":"https://fpp.sir2.rediris.es/es.ua.moodle/module.php/saml/sp/metadata.php/sir2-thiss",
+            "resourceName":"Moodle Universidad de Alicante",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://si.ua.es/moodle/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SIR2 operations team",
+                    "email":"mailto:sir2@rediris.es"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"4fe3b921c7d010b180ee9c4bacf1b90a6717ad0d",
+            "entityID":"https://fpp.sir2.rediris.es/es.ua.moodle/module.php/saml/sp/metadata.php/sir2-thiss",
+            "resourceName":"Moodle Universidad de Alicante",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://si.ua.es/moodle/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SIR2 operations team",
+                    "email":"mailto:sir2@rediris.es"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"4fe3b921c7d010b180ee9c4bacf1b90a6717ad0d",
+            "entityID":"https://fpp.sir2.rediris.es/es.ua.moodle/module.php/saml/sp/metadata.php/sir2-thiss",
+            "resourceName":"Moodle Universidad de Alicante",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://si.ua.es/moodle/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId",
+                    "eduPersonPrincipalName",
+                    "mail",
+                    "givenName",
+                    "surname",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonEntitlement"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SIR2 operations team",
+                    "email":"mailto:sir2@rediris.es"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
