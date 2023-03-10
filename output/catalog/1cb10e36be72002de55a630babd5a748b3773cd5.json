@@ -1,0 +1,20 @@
+[
+    {
+        "catalogID":"1cb10e36be72002de55a630babd5a748b3773cd5",
+        "entityID":"https://sonoma.atriumcampus.com/sso/module.php/saml/sp/metadata.php/sonoma",
+        "service":{
+            "licence":"FALSE",
+            "mfa required":"FALSE",
+            "tenancy":"single",
+            "service type":"other",
+            "landing_page":"https://example.org/acmp_sp"
+        },
+        "vendor":{
+            "vendor_name":"ACME Inc.",
+            "vendor information":"ACME product line is featuring outlandish products that fail or backfire catastrophically at the worst possible times",
+            "vendor logo":"images/acme.jpeg",
+            "vendor support pages":"https://example.org/acme/support",
+            "vendor website":"https://example.org/acme"
+        }
+    }
+]
