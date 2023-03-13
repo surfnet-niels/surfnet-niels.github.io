@@ -960,6 +960,16 @@
         "description":"https://sp1.incopat.com/shibboleth"
     },
     {
+        "catalogID":"cc35d2fea02083adfb0a84267daeab61127a821a",
+        "resourceName":"https://spgateway.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"SEVEN(BEIJING)EDUCATION TECHNOLOGY CO.,LTD",
+            "displayname":"SEVEN(BEIJING)EDUCATION TECHNOLOGY CO.,LTD",
+            "url":"https://www.sevedu.com/"
+        },
+        "description":"https://spgateway.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"8638d36a391b608b39c6a608e1eb1dc59c7e026b",
         "resourceName":"https://spoauth2.carsi.edu.cn/shibboleth",
         "resourceProvider":{
