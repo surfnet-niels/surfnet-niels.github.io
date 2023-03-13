@@ -1,0 +1,155 @@
+{
+    "generated":"2023-03-13 12:43",
+    "en":[
+        {
+            "catalogID":"7b3d1f080615e608189c7ca054b64eeeff6e7600",
+            "entityID":"https://fpp.sir2.rediris.es/es.ehu.moodle/module.php/saml/sp/metadata.php/sir2-thiss",
+            "resourceName":"Moodle Universidad del Pais Vasco",
+            "resourceProvider":{
+                "name":"Moodle Universidad del Pais Vasco",
+                "displayname":"Moodle Universidad del Pais Vasco",
+                "url":"https://egela.ehu.eus/login/index.php?lang=en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId",
+                    "uid",
+                    "givenName",
+                    "surname",
+                    "mail",
+                    "displayName",
+                    "telephoneNumber"
+                ],
+                "requested":[]
+            },
+            "description":"Moodle from the University of the Basque Country",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SIR2 operations team",
+                    "email":"mailto:sir2@rediris.es"
+                }
+            ],
+            "info":"https://egela.ehu.eus/login/index.php?lang=en",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"7b3d1f080615e608189c7ca054b64eeeff6e7600",
+            "entityID":"https://fpp.sir2.rediris.es/es.ehu.moodle/module.php/saml/sp/metadata.php/sir2-thiss",
+            "resourceName":"Moodle Universidad del Pais Vasco",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://egela.ehu.eus/login/index.php?lang=en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId",
+                    "uid",
+                    "givenName",
+                    "surname",
+                    "mail",
+                    "displayName",
+                    "telephoneNumber"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SIR2 operations team",
+                    "email":"mailto:sir2@rediris.es"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"7b3d1f080615e608189c7ca054b64eeeff6e7600",
+            "entityID":"https://fpp.sir2.rediris.es/es.ehu.moodle/module.php/saml/sp/metadata.php/sir2-thiss",
+            "resourceName":"Moodle Universidad del Pais Vasco",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://egela.ehu.eus/login/index.php?lang=en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId",
+                    "uid",
+                    "givenName",
+                    "surname",
+                    "mail",
+                    "displayName",
+                    "telephoneNumber"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SIR2 operations team",
+                    "email":"mailto:sir2@rediris.es"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"7b3d1f080615e608189c7ca054b64eeeff6e7600",
+            "entityID":"https://fpp.sir2.rediris.es/es.ehu.moodle/module.php/saml/sp/metadata.php/sir2-thiss",
+            "resourceName":"Moodle Universidad del Pais Vasco",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://egela.ehu.eus/login/index.php?lang=en"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId",
+                    "uid",
+                    "givenName",
+                    "surname",
+                    "mail",
+                    "displayName",
+                    "telephoneNumber"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"SIR2 operations team",
+                    "email":"mailto:sir2@rediris.es"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}

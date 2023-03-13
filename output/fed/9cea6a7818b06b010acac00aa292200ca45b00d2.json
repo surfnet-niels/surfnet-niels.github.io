@@ -34820,6 +34820,16 @@
         "description":"EARC - GEANT Data Protection Code of Conduct Test"
     },
     {
+        "catalogID":"6d2344800c91a5aeae631135139cb476fbf5a673",
+        "resourceName":"HARICA",
+        "resourceProvider":{
+            "name":"Greek University Network",
+            "displayname":"Greek University Network (GUnet)",
+            "url":"http://www.gunet.gr/"
+        },
+        "description":"Hellenic Academic and Research Institutions Certification Authority"
+    },
+    {
         "catalogID":"db6b2bb7a2cb3a179a1136b3d796d70de712b01a",
         "resourceName":"DiSSCo Login (Demo environment)",
         "resourceProvider":{
@@ -35058,6 +35068,16 @@
             "url":"https://si.ua.es/moodle/"
         },
         "description":"Moodle of the University of Alicante"
+    },
+    {
+        "catalogID":"7b3d1f080615e608189c7ca054b64eeeff6e7600",
+        "resourceName":"Moodle Universidad del Pais Vasco",
+        "resourceProvider":{
+            "name":"Moodle Universidad del Pais Vasco",
+            "displayname":"Moodle Universidad del Pais Vasco",
+            "url":"https://egela.ehu.eus/login/index.php?lang=en"
+        },
+        "description":"Moodle from the University of the Basque Country"
     },
     {
         "catalogID":"aa7066525421cc6d789940795f14a4efae945792",
