@@ -1,10 +1,10 @@
 {
-    "generated":"2023-03-13 14:21",
+    "generated":"2023-03-13 16:30",
     "en":[
         {
             "catalogID":"31ff0b9f926e580f1bc2bb6eff23edaf4ad0e0f2",
             "entityID":"https://shibboleth.irb.fraunhofer.de/shibboleth",
-            "resourceName":"Fraunhofer IRB",
+            "resourceName":"Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.",
             "resourceProvider":{
                 "name":"e707",
                 "displayname":"Fraunhofer-Informationszentrum Raum und Bau IRB",
@@ -16,7 +16,7 @@
                 ],
                 "requested":[]
             },
-            "description":"Fraunhofer Instituts für Raum und Bau Applications",
+            "description":"The literature database RSWBplus is one of the construction databases of the Fraunhofer Information Center for Planning and Building IRB.",
             "resourceContacts":[
                 {
                     "type":"administrative",
@@ -39,7 +39,7 @@
                     "email":"mailto:support@irb.fraunhofer.de"
                 }
             ],
-            "info":"https://irb.fraunhofer.de/",
+            "info":"https://www.fraunhofer.de",
             "privacy":"https://irb.fraunhofer.de/de/datenschutzerklaerung.html",
             "entityCategories":[
                 "https://refeds.org/category/anonymous"
@@ -53,7 +53,7 @@
         {
             "catalogID":"31ff0b9f926e580f1bc2bb6eff23edaf4ad0e0f2",
             "entityID":"https://shibboleth.irb.fraunhofer.de/shibboleth",
-            "resourceName":"Fraunhofer IRB",
+            "resourceName":"Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -102,7 +102,7 @@
         {
             "catalogID":"31ff0b9f926e580f1bc2bb6eff23edaf4ad0e0f2",
             "entityID":"https://shibboleth.irb.fraunhofer.de/shibboleth",
-            "resourceName":"Fraunhofer IRB",
+            "resourceName":"Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
@@ -151,7 +151,7 @@
         {
             "catalogID":"31ff0b9f926e580f1bc2bb6eff23edaf4ad0e0f2",
             "entityID":"https://shibboleth.irb.fraunhofer.de/shibboleth",
-            "resourceName":"Fraunhofer IRB",
+            "resourceName":"Fraunhofer-Gesellschaft zur Förderung der angewandten Forschung e.V.",
             "resourceProvider":{
                 "name":"e707",
                 "displayname":"Fraunhofer-Informationszentrum Raum und Bau IRB",
@@ -163,7 +163,7 @@
                 ],
                 "requested":[]
             },
-            "description":"Anwendungen des Fraunhofer Instituts für Raum und Bau",
+            "description":"Die Literaturdatenbank RSWBplus ist eine der Baudatenbanken des Fraunhofer-Informationszentrum Raum und Bau IRB.",
             "resourceContacts":[
                 {
                     "type":"administrative",
@@ -186,7 +186,7 @@
                     "email":"mailto:support@irb.fraunhofer.de"
                 }
             ],
-            "info":"https://irb.fraunhofer.de/",
+            "info":"https://www.fraunhofer.de",
             "privacy":"https://irb.fraunhofer.de/de/datenschutzerklaerung.html",
             "entityCategories":[
                 "https://refeds.org/category/anonymous"
