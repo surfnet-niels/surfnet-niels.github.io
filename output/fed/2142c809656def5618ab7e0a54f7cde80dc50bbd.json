@@ -1,0 +1,171 @@
+{
+    "generated":"2023-03-14 16:37",
+    "en":[
+        {
+            "catalogID":"2142c809656def5618ab7e0a54f7cde80dc50bbd",
+            "entityID":"https://myacademicid.una-europa.eu",
+            "resourceName":"MyAcademicID UNA Europa",
+            "resourceProvider":{
+                "name":"UNA Europa",
+                "displayname":"UNA Europa",
+                "url":"https://www.una-europa.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "schacPersonalUniqueCode"
+                ],
+                "requested":[
+                    "schacHomeOrganization",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"Website to obtain an EBSI verifiable MyAcademicID credential",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"KU LeuvenIT servicedesk",
+                    "email":"mailto:icts@kuleuven.be"
+                },
+                {
+                    "type":"support",
+                    "name":"KU LeuvenIT servicedesk",
+                    "email":"mailto:icts@kuleuven.be"
+                }
+            ],
+            "info":"https://www.una-europa.eu",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"2142c809656def5618ab7e0a54f7cde80dc50bbd",
+            "entityID":"https://myacademicid.una-europa.eu",
+            "resourceName":"MyAcademicID UNA Europa",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.una-europa.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "schacPersonalUniqueCode"
+                ],
+                "requested":[
+                    "schacHomeOrganization",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"KU LeuvenIT servicedesk",
+                    "email":"mailto:icts@kuleuven.be"
+                },
+                {
+                    "type":"support",
+                    "name":"KU LeuvenIT servicedesk",
+                    "email":"mailto:icts@kuleuven.be"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"2142c809656def5618ab7e0a54f7cde80dc50bbd",
+            "entityID":"https://myacademicid.una-europa.eu",
+            "resourceName":"MyAcademicID UNA Europa",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.una-europa.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "schacPersonalUniqueCode"
+                ],
+                "requested":[
+                    "schacHomeOrganization",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"KU LeuvenIT servicedesk",
+                    "email":"mailto:icts@kuleuven.be"
+                },
+                {
+                    "type":"support",
+                    "name":"KU LeuvenIT servicedesk",
+                    "email":"mailto:icts@kuleuven.be"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"2142c809656def5618ab7e0a54f7cde80dc50bbd",
+            "entityID":"https://myacademicid.una-europa.eu",
+            "resourceName":"MyAcademicID UNA Europa",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.una-europa.eu"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "mail",
+                    "schacPersonalUniqueCode"
+                ],
+                "requested":[
+                    "schacHomeOrganization",
+                    "sn",
+                    "givenName"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"technical",
+                    "name":"KU LeuvenIT servicedesk",
+                    "email":"mailto:icts@kuleuven.be"
+                },
+                {
+                    "type":"support",
+                    "name":"KU LeuvenIT servicedesk",
+                    "email":"mailto:icts@kuleuven.be"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
