@@ -1,0 +1,123 @@
+{
+    "generated":"2023-03-17 12:40",
+    "en":[
+        {
+            "catalogID":"63936d1d6248af257dfc73ad586cc1cb9e19da45",
+            "entityID":"https://grouper-registry.ligo-india.in/shibboleth",
+            "resourceName":"LIGO-INDIA Service Provider",
+            "resourceProvider":{
+                "name":"IUCAA",
+                "displayname":"LIGO-INDIA",
+                "url":"http://www.ligo-india.in/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId"
+                ],
+                "requested":[]
+            },
+            "description":"LIGO-INDIA  aLOGi",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"LIGO Sysadmin",
+                    "email":"mailto:ldas_admin@iucaa.in"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"63936d1d6248af257dfc73ad586cc1cb9e19da45",
+            "entityID":"https://grouper-registry.ligo-india.in/shibboleth",
+            "resourceName":"LIGO-INDIA Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ligo-india.in/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"LIGO Sysadmin",
+                    "email":"mailto:ldas_admin@iucaa.in"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"63936d1d6248af257dfc73ad586cc1cb9e19da45",
+            "entityID":"https://grouper-registry.ligo-india.in/shibboleth",
+            "resourceName":"LIGO-INDIA Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ligo-india.in/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"LIGO Sysadmin",
+                    "email":"mailto:ldas_admin@iucaa.in"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"63936d1d6248af257dfc73ad586cc1cb9e19da45",
+            "entityID":"https://grouper-registry.ligo-india.in/shibboleth",
+            "resourceName":"LIGO-INDIA Service Provider",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ligo-india.in/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "transientId"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"LIGO Sysadmin",
+                    "email":"mailto:ldas_admin@iucaa.in"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[],
+            "SirtfiSupport":[]
+        }
+    ]
+}
