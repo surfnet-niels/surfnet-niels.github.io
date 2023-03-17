@@ -2160,6 +2160,16 @@
         "description":"UNISF Online Learning Platform"
     },
     {
+        "catalogID":"ff395276e7a887a32fd1a7077902c44a14b32f9a",
+        "resourceName":"SMARTMEDIA",
+        "resourceProvider":{
+            "name":"Universidade Lusófona de Humanidades e Tecnologias",
+            "displayname":"Universidade Lusófona de Humanidades e Tecnologias",
+            "url":"https://www.ulusofona.pt/"
+        },
+        "description":"SMARTMEDIA is a web application aimed at managing short, medium, and long-term audio-visual productions. It was developed in partnership with SPTelvisão, an audiovisual Portuguese producer company, under the Portugal 2020 operational program. The version available at this website address is an academic version that is available to students of Universidade Lusófona and partner institutions that provide federated authentication through eduGAIN."
+    },
+    {
         "catalogID":"c60facbaea7ccfecf4839dbffcd84d423bdecc01",
         "resourceName":"WEB-class",
         "resourceProvider":{
@@ -35648,6 +35658,16 @@
             "url":"http://www.eduroam.org"
         },
         "description":"eduroam supporting services include: eduroam database, CAT, monitoring, F-Ticks"
+    },
+    {
+        "catalogID":"ec0a00ea3b48b2e8e2fc01f9200d90adc1cdf36b",
+        "resourceName":"SRCE eduGAIN proxy SP, edugainproxy.srce.hr",
+        "resourceProvider":{
+            "name":"University of Zagreb, University Computing Centre (SRCE)",
+            "displayname":"University of Zagreb, University Computing Centre (SRCE)",
+            "url":"https://www.srce.unizg.hr/"
+        },
+        "description":"eduGAIN proxy for all the services provided by University of Zagreb, University Computing Centre (SRCE)"
     },
     {
         "catalogID":"a775a7086849065e893795418a8b39e5c8582e92",
