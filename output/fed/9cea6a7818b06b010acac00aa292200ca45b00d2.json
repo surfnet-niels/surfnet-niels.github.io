@@ -110,6 +110,36 @@
         "description":"UbuntuNet Alliance Wiki Service"
     },
     {
+        "catalogID":"0db79178575f80697e80eb2c68f4819e5694b22f",
+        "resourceName":"ProFERE",
+        "resourceProvider":{
+            "name":"Plateforme de formation du projet ProFERE",
+            "displayname":"Plateforme de formation du projet ProFERE",
+            "url":"https://profere.uvci.edu.ci/formation"
+        },
+        "description":"Plateforme de formation du projet ProFERE"
+    },
+    {
+        "catalogID":"abc1f57cd717a2c2f5834f737f4e36b917d5f983",
+        "resourceName":"WACREN Drive",
+        "resourceProvider":{
+            "name":"WACREN",
+            "displayname":"West and Central African Research and Education Network",
+            "url":"https://www.wacren.net"
+        },
+        "description":"WACREN drive"
+    },
+    {
+        "catalogID":"3519eed38584719dd05d02a818575bbe88b9b3c4",
+        "resourceName":"eduVPN",
+        "resourceProvider":{
+            "name":"AzScienceNet",
+            "displayname":"AzScienceNet",
+            "url":"https://edugain.azsciencenet.az"
+        },
+        "description":"eduVPN SP"
+    },
+    {
         "catalogID":"4b9f89adf3550155c79c2eb1556151292533e0c2",
         "resourceName":"NECTEC SP",
         "resourceProvider":{
@@ -1198,6 +1228,16 @@
             "url":"https://snapwiz.com"
         },
         "description":""
+    },
+    {
+        "catalogID":"9726c49cbdfc02d55edfab322c91b1acbbc005c8",
+        "resourceName":"Learn@SIFULAN",
+        "resourceProvider":{
+            "name":"SIFULAN Malaysian Access Federation",
+            "displayname":"SIFULAN Malaysian Access Federation",
+            "url":"https://sifulan.my"
+        },
+        "description":"Learn@SIFULAN is a platform where Identity Federation user communities can access several open and closed courses. Learn@SIFULAN was developed by using Moodle platform and integrated with SIFULAN Federation and eduGAIN. To access Learn@SIFULAN simply login by using Seamless Access. For open courses, it can be accessed by self-enrolling, while for closed courses, it can be accessed based on invitation."
     },
     {
         "catalogID":"a1a6512fc38f73e48ca91b8dcf24ba6c52b6ba5c",
