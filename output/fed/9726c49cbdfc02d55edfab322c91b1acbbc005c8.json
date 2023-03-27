@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-27 08:27",
+    "generated":"2023-03-27 10:23",
     "en":[
         {
             "catalogID":"9726c49cbdfc02d55edfab322c91b1acbbc005c8",
@@ -16,13 +16,12 @@
                     "surname",
                     "givenName",
                     "eduPersonScopedAffiliation",
-                    "displayName",
-                    "persistentId"
-                ],
-                "requested":[
                     "schacHomeOrganization",
-                    "schacCountryOfResidence"
-                ]
+                    "displayName",
+                    "schacCountryOfResidence",
+                    "samlPairwiseID"
+                ],
+                "requested":[]
             },
             "description":"Learn@SIFULAN is a platform where Identity Federation user communities can access several open and closed courses. Learn@SIFULAN was developed by using Moodle platform and integrated with SIFULAN Federation and eduGAIN. To access Learn@SIFULAN simply login by using Seamless Access. For open courses, it can be accessed by self-enrolling, while for closed courses, it can be accessed based on invitation.",
             "resourceContacts":[
@@ -56,13 +55,12 @@
                     "surname",
                     "givenName",
                     "eduPersonScopedAffiliation",
-                    "displayName",
-                    "persistentId"
-                ],
-                "requested":[
                     "schacHomeOrganization",
-                    "schacCountryOfResidence"
-                ]
+                    "displayName",
+                    "schacCountryOfResidence",
+                    "samlPairwiseID"
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -96,13 +94,12 @@
                     "surname",
                     "givenName",
                     "eduPersonScopedAffiliation",
-                    "displayName",
-                    "persistentId"
-                ],
-                "requested":[
                     "schacHomeOrganization",
-                    "schacCountryOfResidence"
-                ]
+                    "displayName",
+                    "schacCountryOfResidence",
+                    "samlPairwiseID"
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
@@ -136,13 +133,12 @@
                     "surname",
                     "givenName",
                     "eduPersonScopedAffiliation",
-                    "displayName",
-                    "persistentId"
-                ],
-                "requested":[
                     "schacHomeOrganization",
-                    "schacCountryOfResidence"
-                ]
+                    "displayName",
+                    "schacCountryOfResidence",
+                    "samlPairwiseID"
+                ],
+                "requested":[]
             },
             "description":"",
             "resourceContacts":[
