@@ -760,6 +760,16 @@
         "description":"https://sp-caas4calis.carsi.edu.cn/shibboleth"
     },
     {
+        "catalogID":"f1af4cc8bb84e5ff68173219da06526cb4fba77e",
+        "resourceName":"https://sp-calis2smart.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"CALIS",
+            "displayname":"CALIS",
+            "url":"http://www.calis.edu.cn"
+        },
+        "description":"https://sp-calis2smart.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"28ca03a219b66bd97c9ec02b478bfe493aa37aa6",
         "resourceName":"https://sp-ceinet.carsi.edu.cn/shibboleth",
         "resourceProvider":{
@@ -1070,16 +1080,6 @@
         "description":"https://www.patyee.com"
     },
     {
-        "catalogID":"24a2eafd8ce7ec591ad20f864217a66d89656723",
-        "resourceName":"LEARN Event Manager",
-        "resourceProvider":{
-            "name":"LEARN",
-            "displayname":"LEARN",
-            "url":"https://www.learn.ac.lk"
-        },
-        "description":"Event Manager by Lanka Education and Research Network"
-    },
-    {
         "catalogID":"d27df068d3f29ea3578460d3e7bafa8d4a6992d5",
         "resourceName":"Moodle",
         "resourceProvider":{
@@ -1088,6 +1088,16 @@
             "url":"https://sp.dhammikalalantha.com/"
         },
         "description":"moodle"
+    },
+    {
+        "catalogID":"24a2eafd8ce7ec591ad20f864217a66d89656723",
+        "resourceName":"LEARN Event Manager",
+        "resourceProvider":{
+            "name":"LEARN",
+            "displayname":"LEARN",
+            "url":"https://www.learn.ac.lk"
+        },
+        "description":"Event Manager by Lanka Education and Research Network"
     },
     {
         "catalogID":"3df3d83d555dc3253a25c61e5ab6af31feaf6d16",
