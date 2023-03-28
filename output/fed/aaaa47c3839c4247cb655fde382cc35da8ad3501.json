@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-28 08:27",
+    "generated":"2023-03-28 10:24",
     "en":[
         {
             "catalogID":"aaaa47c3839c4247cb655fde382cc35da8ad3501",
@@ -13,14 +13,14 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "schacHomeOrganization",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "rfc822Mailbox",
                     null,
+                    "eduPersonPrincipalName",
                     null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
+                    "surname"
                 ]
             },
             "description":"Moodle with AAI for project Transform4Europe",
@@ -60,14 +60,14 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "schacHomeOrganization",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "rfc822Mailbox",
                     null,
+                    "eduPersonPrincipalName",
                     null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
+                    "surname"
                 ]
             },
             "description":"",
@@ -107,14 +107,14 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "schacHomeOrganization",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "rfc822Mailbox",
                     null,
+                    "eduPersonPrincipalName",
                     null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
+                    "surname"
                 ]
             },
             "description":"",
@@ -154,14 +154,14 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
+                    "schacHomeOrganization",
+                    "givenName",
+                    "eduPersonScopedAffiliation",
+                    "rfc822Mailbox",
                     null,
+                    "eduPersonPrincipalName",
                     null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null,
-                    null
+                    "surname"
                 ]
             },
             "description":"",
