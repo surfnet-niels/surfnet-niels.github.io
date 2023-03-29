@@ -1060,16 +1060,6 @@
         "description":"https://www.patyee.com"
     },
     {
-        "catalogID":"24a2eafd8ce7ec591ad20f864217a66d89656723",
-        "resourceName":"LEARN Event Manager",
-        "resourceProvider":{
-            "name":"LEARN",
-            "displayname":"LEARN",
-            "url":"https://www.learn.ac.lk"
-        },
-        "description":"Event Manager by Lanka Education and Research Network"
-    },
-    {
         "catalogID":"d27df068d3f29ea3578460d3e7bafa8d4a6992d5",
         "resourceName":"Moodle",
         "resourceProvider":{
@@ -1078,6 +1068,16 @@
             "url":"https://sp.dhammikalalantha.com/"
         },
         "description":"moodle"
+    },
+    {
+        "catalogID":"24a2eafd8ce7ec591ad20f864217a66d89656723",
+        "resourceName":"LEARN Event Manager",
+        "resourceProvider":{
+            "name":"LEARN",
+            "displayname":"LEARN",
+            "url":"https://www.learn.ac.lk"
+        },
+        "description":"Event Manager by Lanka Education and Research Network"
     },
     {
         "catalogID":"3df3d83d555dc3253a25c61e5ab6af31feaf6d16",
@@ -32578,16 +32578,6 @@
             "url":"http://home.infn.it/en/"
         },
         "description":"The INFN CTAO Identity and Access Management (IAM) service is a central service used to manage identities and authorization policies in support of CTAO experiment."
-    },
-    {
-        "catalogID":"a26f2dda3c0ebd2f9dc441ebcb4cafc1344518ce",
-        "resourceName":"Unimib Student services",
-        "resourceProvider":{
-            "name":"University of Milano-Bicocca",
-            "displayname":"Student services provided by University of Milano-Bicocca",
-            "url":"https://en.unimib.it/"
-        },
-        "description":"Access to the student services provided by University of Milano-Bicocca"
     },
     {
         "catalogID":"91c619cfb099e062d642ff209d9fbda42f615d42",
