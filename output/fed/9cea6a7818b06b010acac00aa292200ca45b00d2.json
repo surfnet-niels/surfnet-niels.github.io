@@ -1060,16 +1060,6 @@
         "description":"https://www.patyee.com"
     },
     {
-        "catalogID":"d27df068d3f29ea3578460d3e7bafa8d4a6992d5",
-        "resourceName":"Moodle",
-        "resourceProvider":{
-            "name":"ABC Institute",
-            "displayname":"ABC Institute",
-            "url":"https://sp.dhammikalalantha.com/"
-        },
-        "description":"moodle"
-    },
-    {
         "catalogID":"24a2eafd8ce7ec591ad20f864217a66d89656723",
         "resourceName":"LEARN Event Manager",
         "resourceProvider":{
@@ -1078,6 +1068,16 @@
             "url":"https://www.learn.ac.lk"
         },
         "description":"Event Manager by Lanka Education and Research Network"
+    },
+    {
+        "catalogID":"d27df068d3f29ea3578460d3e7bafa8d4a6992d5",
+        "resourceName":"Moodle",
+        "resourceProvider":{
+            "name":"ABC Institute",
+            "displayname":"ABC Institute",
+            "url":"https://sp.dhammikalalantha.com/"
+        },
+        "description":"moodle"
     },
     {
         "catalogID":"3df3d83d555dc3253a25c61e5ab6af31feaf6d16",
@@ -21000,16 +21000,6 @@
         "description":""
     },
     {
-        "catalogID":"c40e4fcd379385d8b960aee384d311fe8a56b3bf",
-        "resourceName":"GOEsend",
-        "resourceProvider":{
-            "name":"University of Kent",
-            "displayname":"University of Kent",
-            "url":"http://www.goetec.ac.uk/"
-        },
-        "description":"GOEsend uses your email address to provide the file exchange service to you"
-    },
-    {
         "catalogID":"08925a19190d85389bcf69f6c39184b65b307723",
         "resourceName":"Instant Anatomy",
         "resourceProvider":{
@@ -26351,13 +26341,13 @@
     },
     {
         "catalogID":"3b48d38b2004e7564633427bed33960d24609b5a",
-        "resourceName":"University of Nottingham (China campus) - Alma library services",
+        "resourceName":"University of Nottingham (China campus) - Alma",
         "resourceProvider":{
             "name":"Ex Libris (UK) Limited",
-            "displayname":"University of Nottingham (China campus) - Alma library services",
-            "url":"http://exlibrisgroup.com"
+            "displayname":"Ex Libris (UK) Limited",
+            "url":"http://exlibrisgroup.com/"
         },
-        "description":"This is a \"University of Nottingham (China campus) - Alma\" SP for Ex Libris (UK) Limited."
+        "description":"University of Nottingham (China campus) - Alma"
     },
     {
         "catalogID":"fcc65fdd9f34164c255e6f952cb918261e2974cf",
