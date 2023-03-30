@@ -1060,16 +1060,6 @@
         "description":"https://www.patyee.com"
     },
     {
-        "catalogID":"24a2eafd8ce7ec591ad20f864217a66d89656723",
-        "resourceName":"LEARN Event Manager",
-        "resourceProvider":{
-            "name":"LEARN",
-            "displayname":"LEARN",
-            "url":"https://www.learn.ac.lk"
-        },
-        "description":"Event Manager by Lanka Education and Research Network"
-    },
-    {
         "catalogID":"d27df068d3f29ea3578460d3e7bafa8d4a6992d5",
         "resourceName":"Moodle",
         "resourceProvider":{
@@ -1078,6 +1068,16 @@
             "url":"https://sp.dhammikalalantha.com/"
         },
         "description":"moodle"
+    },
+    {
+        "catalogID":"24a2eafd8ce7ec591ad20f864217a66d89656723",
+        "resourceName":"LEARN Event Manager",
+        "resourceProvider":{
+            "name":"LEARN",
+            "displayname":"LEARN",
+            "url":"https://www.learn.ac.lk"
+        },
+        "description":"Event Manager by Lanka Education and Research Network"
     },
     {
         "catalogID":"3df3d83d555dc3253a25c61e5ab6af31feaf6d16",
@@ -7232,6 +7232,16 @@
     {
         "catalogID":"bcd275a64120076e0b909bdc17a860386e39606c",
         "resourceName":"Qualtrics Labs, Inc.",
+        "resourceProvider":{
+            "name":"Qualtrics Labs, Inc.",
+            "displayname":"Qualtrics Labs, Inc.",
+            "url":"http://www.qualtrics.com"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"93bfb3339ecd00c7170eacbc2b1a81bbbcb8c307",
+        "resourceName":"Qualtrics - hnd1",
         "resourceProvider":{
             "name":"Qualtrics Labs, Inc.",
             "displayname":"Qualtrics Labs, Inc.",
@@ -18858,6 +18868,26 @@
             "url":"https://ideascale.com/"
         },
         "description":"Oxford ideas platform for ideas and funding calls including IT Innovation Challenges. For the University of Oxford."
+    },
+    {
+        "catalogID":"6d65d9a181e0694490916ad30e64349c0d3bfdd8",
+        "resourceName":"Ovrture - Bucknell University",
+        "resourceProvider":{
+            "name":"Ovrture, Inc",
+            "displayname":"Ovrture, Inc",
+            "url":"https://ovrture.com/"
+        },
+        "description":"A platform for advancement offices to communicate with major donors and prospects via hyper-tailored cultivation and stewardship microsites."
+    },
+    {
+        "catalogID":"31001f021906ac3d7a361227092b7fc56007f35e",
+        "resourceName":"Ovrture - Bucknell University - staging",
+        "resourceProvider":{
+            "name":"Ovrture, Inc",
+            "displayname":"Ovrture, Inc",
+            "url":"https://ovrture.com/"
+        },
+        "description":"A platform for advancement offices to communicate with major donors and prospects via hyper-tailored cultivation and stewardship microsites."
     },
     {
         "catalogID":"244e0e1523c390219205634cede93eb0f24c4e3a",
