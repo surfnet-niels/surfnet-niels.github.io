@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"2d4990d19e4519095ee99737af161554557b69df",
@@ -12,14 +12,14 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "mail",
                     "cn",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
-                    "givenName",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "givenName"
                 ]
             },
             "description":"CLARIN-PL Digital Repository - Polish Section of CLARIN ERIC",
@@ -62,14 +62,14 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "mail",
                     "cn",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
-                    "givenName",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "givenName"
                 ]
             },
             "description":"",
@@ -112,14 +112,14 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "mail",
                     "cn",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
-                    "givenName",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "givenName"
                 ]
             },
             "description":"",
@@ -162,14 +162,14 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "mail",
                     "cn",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
-                    "givenName",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "givenName"
                 ]
             },
             "description":"CLARIN-PL Die Digitale Langzeitarchiv - Die polnische Sektion des CLARIN ERIC",

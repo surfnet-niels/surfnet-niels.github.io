@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"1d2aa72caf5cae02a76afb74e25fa1566984a333",
@@ -15,12 +15,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"Project management system Redmine offered as service to the DH community",
@@ -81,12 +81,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"",
@@ -147,12 +147,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"",
@@ -213,12 +213,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"Projektmanagementsystem Redmine als Service für die DH commmunity",

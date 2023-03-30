@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"965ffafded14b43c0ad2297300ab013a8bffbfde",
@@ -15,12 +15,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"Platform for teaching materials for the digital arts and humanities.",
@@ -81,12 +81,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"",
@@ -147,12 +147,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"",
@@ -213,12 +213,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"e-Learning Plattform für Lernmaterialien für Digitale Geisteswissenschaften",

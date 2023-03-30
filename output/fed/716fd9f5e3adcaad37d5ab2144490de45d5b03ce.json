@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"716fd9f5e3adcaad37d5ab2144490de45d5b03ce",
@@ -13,11 +13,11 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "givenName",
-                    "sn",
-                    "mail",
+                    "eduPersonTargetedID",
                     "eduPersonUniqueId",
-                    "eduPersonTargetedID"
+                    "givenName",
+                    "mail",
+                    "sn"
                 ],
                 "requested":[]
             },
@@ -58,11 +58,11 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "givenName",
-                    "sn",
-                    "mail",
+                    "eduPersonTargetedID",
                     "eduPersonUniqueId",
-                    "eduPersonTargetedID"
+                    "givenName",
+                    "mail",
+                    "sn"
                 ],
                 "requested":[]
             },
@@ -103,11 +103,11 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "givenName",
-                    "sn",
-                    "mail",
+                    "eduPersonTargetedID",
                     "eduPersonUniqueId",
-                    "eduPersonTargetedID"
+                    "givenName",
+                    "mail",
+                    "sn"
                 ],
                 "requested":[]
             },
@@ -148,11 +148,11 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "givenName",
-                    "sn",
-                    "mail",
+                    "eduPersonTargetedID",
                     "eduPersonUniqueId",
-                    "eduPersonTargetedID"
+                    "givenName",
+                    "mail",
+                    "sn"
                 ],
                 "requested":[]
             },

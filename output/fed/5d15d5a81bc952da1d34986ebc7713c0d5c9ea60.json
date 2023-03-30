@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"5d15d5a81bc952da1d34986ebc7713c0d5c9ea60",
@@ -12,15 +12,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "eduPersonTargetedID",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ],
                 "requested":[
                     "cn",
-                    "schacHomeOrganization",
-                    "eduPersonEntitlement"
+                    "eduPersonEntitlement",
+                    "schacHomeOrganization"
                 ]
             },
             "description":"ILC-CNR for CLARIN-IT Consortium: Digital repository and services on language research infrastructure",
@@ -68,15 +68,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "eduPersonTargetedID",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ],
                 "requested":[
                     "cn",
-                    "schacHomeOrganization",
-                    "eduPersonEntitlement"
+                    "eduPersonEntitlement",
+                    "schacHomeOrganization"
                 ]
             },
             "description":"",
@@ -124,15 +124,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "eduPersonTargetedID",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ],
                 "requested":[
                     "cn",
-                    "schacHomeOrganization",
-                    "eduPersonEntitlement"
+                    "eduPersonEntitlement",
+                    "schacHomeOrganization"
                 ]
             },
             "description":"",
@@ -180,15 +180,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
                     "displayName",
-                    "eduPersonTargetedID",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID"
                 ],
                 "requested":[
                     "cn",
-                    "schacHomeOrganization",
-                    "eduPersonEntitlement"
+                    "eduPersonEntitlement",
+                    "schacHomeOrganization"
                 ]
             },
             "description":"ILC-CNR for CLARIN-IT Consortium: Digital repository and services on language research infrastructure",

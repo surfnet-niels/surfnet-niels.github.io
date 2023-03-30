@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"5c8c372f5fe79f1da9028cb657292fa4ce2584d7",
@@ -12,18 +12,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
+                    "cn",
                     "eduPersonPrincipalName",
-                    "mail",
-                    "cn"
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
                     "o",
                     "ou",
-                    "givenName",
-                    "sn",
-                    "eduPersonAffiliation",
-                    "eduPersonScopedAffiliation"
+                    "sn"
                 ]
             },
             "description":"The CLARINO Bergen Repository for language resources at the University of Bergen",
@@ -66,18 +66,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
+                    "cn",
                     "eduPersonPrincipalName",
-                    "mail",
-                    "cn"
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
                     "o",
                     "ou",
-                    "givenName",
-                    "sn",
-                    "eduPersonAffiliation",
-                    "eduPersonScopedAffiliation"
+                    "sn"
                 ]
             },
             "description":"",
@@ -120,18 +120,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
+                    "cn",
                     "eduPersonPrincipalName",
-                    "mail",
-                    "cn"
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
                     "o",
                     "ou",
-                    "givenName",
-                    "sn",
-                    "eduPersonAffiliation",
-                    "eduPersonScopedAffiliation"
+                    "sn"
                 ]
             },
             "description":"",
@@ -174,18 +174,18 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
+                    "cn",
                     "eduPersonPrincipalName",
-                    "mail",
-                    "cn"
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonAffiliation",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
                     "o",
                     "ou",
-                    "givenName",
-                    "sn",
-                    "eduPersonAffiliation",
-                    "eduPersonScopedAffiliation"
+                    "sn"
                 ]
             },
             "description":"Norwegische Forschungsinfrastruktur für Sprachdaten und Dienste im Rahmen der CLARIN-Initiative.",

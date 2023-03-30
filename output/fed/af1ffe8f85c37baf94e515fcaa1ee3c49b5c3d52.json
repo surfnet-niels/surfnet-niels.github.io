@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"af1ffe8f85c37baf94e515fcaa1ee3c49b5c3d52",
@@ -12,11 +12,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
                     "eduPersonEntitlement",
-                    "sn",
+                    "eduPersonPrincipalName",
                     "givenName",
-                    "mail"
+                    "mail",
+                    "sn"
                 ],
                 "requested":[]
             },
@@ -58,11 +58,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
                     "eduPersonEntitlement",
-                    "sn",
+                    "eduPersonPrincipalName",
                     "givenName",
-                    "mail"
+                    "mail",
+                    "sn"
                 ],
                 "requested":[]
             },
@@ -104,11 +104,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
                     "eduPersonEntitlement",
-                    "sn",
+                    "eduPersonPrincipalName",
                     "givenName",
-                    "mail"
+                    "mail",
+                    "sn"
                 ],
                 "requested":[]
             },
@@ -150,11 +150,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
                     "eduPersonEntitlement",
-                    "sn",
+                    "eduPersonPrincipalName",
                     "givenName",
-                    "mail"
+                    "mail",
+                    "sn"
                 ],
                 "requested":[]
             },

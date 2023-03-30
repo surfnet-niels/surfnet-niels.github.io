@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"c86e96dd868d6f8e0a9f47622ee15956ccdeb3ff",
@@ -13,16 +13,16 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "eduPersonUniqueId",
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "eduPersonUniqueId"
                 ],
                 "requested":[
                     "displayName",
-                    "mail",
-                    "givenName",
-                    "sn",
                     "eduPersonOrcid",
-                    "o"
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
                 ]
             },
             "description":"DARIAH AAI Services Proxy",
@@ -64,16 +64,16 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "eduPersonUniqueId",
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "eduPersonUniqueId"
                 ],
                 "requested":[
                     "displayName",
-                    "mail",
-                    "givenName",
-                    "sn",
                     "eduPersonOrcid",
-                    "o"
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
                 ]
             },
             "description":"",
@@ -115,16 +115,16 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "eduPersonUniqueId",
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "eduPersonUniqueId"
                 ],
                 "requested":[
                     "displayName",
-                    "mail",
-                    "givenName",
-                    "sn",
                     "eduPersonOrcid",
-                    "o"
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
                 ]
             },
             "description":"",
@@ -166,16 +166,16 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "eduPersonUniqueId",
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "eduPersonUniqueId"
                 ],
                 "requested":[
                     "displayName",
-                    "mail",
-                    "givenName",
-                    "sn",
                     "eduPersonOrcid",
-                    "o"
+                    "givenName",
+                    "mail",
+                    "o",
+                    "sn"
                 ]
             },
             "description":"Proxy für Dienste in der DARIAH AAI",

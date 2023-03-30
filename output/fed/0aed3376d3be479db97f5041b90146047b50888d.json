@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"0aed3376d3be479db97f5041b90146047b50888d",
@@ -12,11 +12,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonPrincipalName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ],
                 "requested":[
                     "cn"
@@ -63,11 +63,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonPrincipalName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ],
                 "requested":[
                     "cn"
@@ -114,11 +114,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonPrincipalName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ],
                 "requested":[
                     "cn"
@@ -165,11 +165,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
                     "eduPersonPrincipalName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ],
                 "requested":[
                     "cn"

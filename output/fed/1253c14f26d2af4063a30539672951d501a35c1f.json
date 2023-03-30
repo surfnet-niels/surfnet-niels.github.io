@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"1253c14f26d2af4063a30539672951d501a35c1f",
@@ -15,12 +15,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"A hosting service for research data provided by the Austrian Centre for Digital Humanities of the Austrian Academy of Sciences (ACDH-ÖAW).",
@@ -81,12 +81,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"",
@@ -147,12 +147,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"",
@@ -213,12 +213,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"Hosting Dienst für Forschungsdaten des österreichischen Zentrums für Digitale Geisteswissenschaften der Österreichischen Akademie der Wissenschaften (ACDH-ÖAW).",

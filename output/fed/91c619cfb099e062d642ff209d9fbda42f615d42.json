@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"91c619cfb099e062d642ff209d9fbda42f615d42",
@@ -12,11 +12,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "displayName",
-                    "mail",
                     "eduPersonPrincipalName",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[]
             },
@@ -59,11 +59,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "displayName",
-                    "mail",
                     "eduPersonPrincipalName",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[]
             },
@@ -106,11 +106,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "displayName",
-                    "mail",
                     "eduPersonPrincipalName",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[]
             },
@@ -153,11 +153,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonTargetedID",
                     "displayName",
-                    "mail",
                     "eduPersonPrincipalName",
-                    "eduPersonScopedAffiliation"
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[]
             },

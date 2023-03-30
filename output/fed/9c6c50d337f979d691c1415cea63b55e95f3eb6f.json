@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"9c6c50d337f979d691c1415cea63b55e95f3eb6f",
@@ -13,16 +13,16 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
+                    "givenName",
                     "mail",
-                    "sn",
-                    "givenName"
+                    "sn"
                 ],
                 "requested":[
-                    "eduPersonUniqueId",
+                    "displayName",
+                    "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
-                    "displayName",
-                    "eduPersonAssurance"
+                    "eduPersonUniqueId"
                 ]
             },
             "description":"The video portals “ViU: Early Science - Videobasierte Unterrichtsanalyse“ and “ProVision” contain lesson records from different grades and subjects as well as additional materials and notes on the use of these videos in courses. (Please see our privacy statement.) The Meta-Videoportal combines several video portals. – Required data are (ONE OF eppn subject-id pairwise-id persistent-id targeted-id) AND (mail) AND (displayName or (sn AND givenName)).",
@@ -67,16 +67,16 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
+                    "givenName",
                     "mail",
-                    "sn",
-                    "givenName"
+                    "sn"
                 ],
                 "requested":[
-                    "eduPersonUniqueId",
+                    "displayName",
+                    "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
-                    "displayName",
-                    "eduPersonAssurance"
+                    "eduPersonUniqueId"
                 ]
             },
             "description":"",
@@ -121,16 +121,16 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
+                    "givenName",
                     "mail",
-                    "sn",
-                    "givenName"
+                    "sn"
                 ],
                 "requested":[
-                    "eduPersonUniqueId",
+                    "displayName",
+                    "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
-                    "displayName",
-                    "eduPersonAssurance"
+                    "eduPersonUniqueId"
                 ]
             },
             "description":"",
@@ -175,16 +175,16 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
+                    "givenName",
                     "mail",
-                    "sn",
-                    "givenName"
+                    "sn"
                 ],
                 "requested":[
-                    "eduPersonUniqueId",
+                    "displayName",
+                    "eduPersonAssurance",
                     "eduPersonScopedAffiliation",
                     "eduPersonTargetedID",
-                    "displayName",
-                    "eduPersonAssurance"
+                    "eduPersonUniqueId"
                 ]
             },
             "description":"Die Videoportale „ViU: Early Science - Videobasierte Unterrichtsanalyse“ und „ProVision“ enthalten Unterrichtsaufzeichnungen aus unterschiedlichen Klassenstufen und Fächern sowie Zusatzmaterialien und Hinweise zur Nutzung dieser Videos in Lehrveranstaltungen. (Beachten Sie bitte unsere Datenschutzerklärung.) Das Meta-Videoportal fasst mehrere Videoportale zusammen. – Benötigte Daten sind (EINER VON eppn subject-id pairwise-id persistent-id targeted-id) UND (mail) UND (displayName ODER (sn UND givenName))",

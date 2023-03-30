@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"d93a6ec9584e8e7f9bae4a265f28c0a23096589e",
@@ -12,15 +12,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "mail",
                     "cn",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonScopedAffiliation",
                     "givenName",
-                    "sn",
-                    "eduPersonScopedAffiliation"
+                    "sn"
                 ]
             },
             "description":"Digital repository and services of the CLARIN Centre at the University of Copenhagen.",
@@ -63,15 +63,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "mail",
                     "cn",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonScopedAffiliation",
                     "givenName",
-                    "sn",
-                    "eduPersonScopedAffiliation"
+                    "sn"
                 ]
             },
             "description":"",
@@ -114,15 +114,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "mail",
                     "cn",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonScopedAffiliation",
                     "givenName",
-                    "sn",
-                    "eduPersonScopedAffiliation"
+                    "sn"
                 ]
             },
             "description":"",
@@ -165,15 +165,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "mail",
                     "cn",
-                    "eduPersonTargetedID"
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID",
+                    "mail"
                 ],
                 "requested":[
+                    "eduPersonScopedAffiliation",
                     "givenName",
-                    "sn",
-                    "eduPersonScopedAffiliation"
+                    "sn"
                 ]
             },
             "description":"Die digitale Infrastruktur und Services des CLARIN Centers an der Universität Kopenhagen.",

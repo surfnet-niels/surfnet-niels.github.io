@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"4efbb499be760374e01b8879eb507a9bbc636a6d",
@@ -12,13 +12,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
                     "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "eduPersonUniqueId",
                     "givenName",
+                    "mail",
                     "sn",
-                    "mail"
+                    "uid"
                 ],
                 "requested":[
                     "eduPersonEntitlement"
@@ -63,13 +63,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
                     "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "eduPersonUniqueId",
                     "givenName",
+                    "mail",
                     "sn",
-                    "mail"
+                    "uid"
                 ],
                 "requested":[
                     "eduPersonEntitlement"
@@ -114,13 +114,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
                     "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "eduPersonUniqueId",
                     "givenName",
+                    "mail",
                     "sn",
-                    "mail"
+                    "uid"
                 ],
                 "requested":[
                     "eduPersonEntitlement"
@@ -165,13 +165,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
                     "eduPersonPrincipalName",
                     "eduPersonTargetedID",
                     "eduPersonUniqueId",
                     "givenName",
+                    "mail",
                     "sn",
-                    "mail"
+                    "uid"
                 ],
                 "requested":[
                     "eduPersonEntitlement"

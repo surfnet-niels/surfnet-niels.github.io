@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"09e731ba4facf49fa591a235bb84cc06101ca603",
@@ -16,9 +16,9 @@
                 ],
                 "requested":[
                     "eduPersonPrincipalName",
-                    "eduPersonUniqueId",
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "eduPersonUniqueId"
                 ]
             },
             "description":"This central Single Sign-On covers almost all WWW services of the university of Münster. Required are: eduPersonPrincipalName OR a persistent SAML2-NameID OR eduPersonTargetedID",
@@ -65,9 +65,9 @@
                 ],
                 "requested":[
                     "eduPersonPrincipalName",
-                    "eduPersonUniqueId",
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "eduPersonUniqueId"
                 ]
             },
             "description":"",
@@ -114,9 +114,9 @@
                 ],
                 "requested":[
                     "eduPersonPrincipalName",
-                    "eduPersonUniqueId",
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "eduPersonUniqueId"
                 ]
             },
             "description":"",
@@ -163,9 +163,9 @@
                 ],
                 "requested":[
                     "eduPersonPrincipalName",
-                    "eduPersonUniqueId",
                     "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonTargetedID",
+                    "eduPersonUniqueId"
                 ]
             },
             "description":"Dieses zentrale Single Sign-On umfasst fast alle WWW-Angebote der Universität Münster. Benötigt werden: eduPersonPrincipalName ODER eine persistente SAML2-NameID ODER eduPersonTargetedID",

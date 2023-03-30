@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"93ebb05f5905d43169dbab426143b3f7937fee6a",
@@ -12,13 +12,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "mail"
                 ],
                 "requested":[
+                    "displayName",
                     "givenName",
-                    "sn",
-                    "displayName"
+                    "sn"
                 ]
             },
             "description":"RRZE hosted GitLab Server",
@@ -62,13 +62,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "mail"
                 ],
                 "requested":[
+                    "displayName",
                     "givenName",
-                    "sn",
-                    "displayName"
+                    "sn"
                 ]
             },
             "description":"",
@@ -112,13 +112,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "mail"
                 ],
                 "requested":[
+                    "displayName",
                     "givenName",
-                    "sn",
-                    "displayName"
+                    "sn"
                 ]
             },
             "description":"",
@@ -162,13 +162,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "mail",
-                    "eduPersonPrincipalName"
+                    "eduPersonPrincipalName",
+                    "mail"
                 ],
                 "requested":[
+                    "displayName",
                     "givenName",
-                    "sn",
-                    "displayName"
+                    "sn"
                 ]
             },
             "description":"GitLab Dienst am RRZE",

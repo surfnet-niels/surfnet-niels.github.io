@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"d3b2770a14e3daf105c85ea80834cba8df39e78f",
@@ -15,12 +15,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"Various services provided by the Austrian Centre for Digital Humanities of the Austrian Academy of Sciences (ACDH-ÖAW) (primarily in the context of the CLARIN initiative).",
@@ -81,12 +81,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"",
@@ -147,12 +147,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"",
@@ -213,12 +213,12 @@
                     "eduPersonPrincipalName"
                 ],
                 "requested":[
-                    "eduPersonTargetedID",
-                    "mail",
                     "displayName",
-                    "sn",
+                    "eduPersonScopedAffiliation",
+                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonScopedAffiliation"
+                    "mail",
+                    "sn"
                 ]
             },
             "description":"Verschiedene Dienste des österreichischen Zentrums für Digitale Geisteswissenschaften der Österreichischen Akademie der Wissenschaften (ACDH-ÖAW) (primär im Rahmen der CLARIN-Initiative).",

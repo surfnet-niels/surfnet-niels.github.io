@@ -1,5 +1,5 @@
 {
-    "generated":"2023-03-30 08:27",
+    "generated":"2023-03-30 10:22",
     "en":[
         {
             "catalogID":"a1c84ac79e1f03f65a9e52378eff6164e5ecc8f1",
@@ -12,12 +12,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
-                    "sn",
+                    "eduPersonAffiliation",
                     "givenName",
                     "mail",
-                    "eduPersonAffiliation",
-                    "o"
+                    "o",
+                    "sn",
+                    "uid"
                 ],
                 "requested":[]
             },
@@ -57,12 +57,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
-                    "sn",
+                    "eduPersonAffiliation",
                     "givenName",
                     "mail",
-                    "eduPersonAffiliation",
-                    "o"
+                    "o",
+                    "sn",
+                    "uid"
                 ],
                 "requested":[]
             },
@@ -102,12 +102,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
-                    "sn",
+                    "eduPersonAffiliation",
                     "givenName",
                     "mail",
-                    "eduPersonAffiliation",
-                    "o"
+                    "o",
+                    "sn",
+                    "uid"
                 ],
                 "requested":[]
             },
@@ -147,12 +147,12 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "uid",
-                    "sn",
+                    "eduPersonAffiliation",
                     "givenName",
                     "mail",
-                    "eduPersonAffiliation",
-                    "o"
+                    "o",
+                    "sn",
+                    "uid"
                 ],
                 "requested":[]
             },
