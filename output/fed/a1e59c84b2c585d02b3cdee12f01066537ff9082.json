@@ -1,0 +1,191 @@
+{
+    "generated":"2023-03-31 20:20",
+    "en":[
+        {
+            "catalogID":"a1e59c84b2c585d02b3cdee12f01066537ff9082",
+            "entityID":"https://osu.ovrture.io/sp",
+            "resourceName":"Ovrture - Ohio State University",
+            "resourceProvider":{
+                "name":"Ovrture, Inc",
+                "displayname":"Ovrture, Inc",
+                "url":"https://ovrture.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"A platform for advancement offices to communicate with major donors and prospects via hyper-tailored cultivation and stewardship microsites.",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Support Team",
+                    "email":"mailto:support@ovrture.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DevOps Team",
+                    "email":"mailto:devops@ovrture.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Team",
+                    "email":"mailto:security@ovrture.com"
+                }
+            ],
+            "info":"https://ovrture.com",
+            "privacy":"https://ovrture.com/application-privacy-policy/",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a1e59c84b2c585d02b3cdee12f01066537ff9082",
+            "entityID":"https://osu.ovrture.io/sp",
+            "resourceName":"Ovrture - Ohio State University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://ovrture.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Support Team",
+                    "email":"mailto:support@ovrture.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DevOps Team",
+                    "email":"mailto:devops@ovrture.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Team",
+                    "email":"mailto:security@ovrture.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a1e59c84b2c585d02b3cdee12f01066537ff9082",
+            "entityID":"https://osu.ovrture.io/sp",
+            "resourceName":"Ovrture - Ohio State University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://ovrture.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Support Team",
+                    "email":"mailto:support@ovrture.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DevOps Team",
+                    "email":"mailto:devops@ovrture.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Team",
+                    "email":"mailto:security@ovrture.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a1e59c84b2c585d02b3cdee12f01066537ff9082",
+            "entityID":"https://osu.ovrture.io/sp",
+            "resourceName":"Ovrture - Ohio State University",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://ovrture.com/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonTargetedID"
+                ],
+                "requested":[
+                    "mail"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Support Team",
+                    "email":"mailto:support@ovrture.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"DevOps Team",
+                    "email":"mailto:devops@ovrture.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Team",
+                    "email":"mailto:security@ovrture.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
