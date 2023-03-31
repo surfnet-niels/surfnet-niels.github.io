@@ -650,16 +650,6 @@
         "description":"EGI Check-in Service"
     },
     {
-        "catalogID":"c7507439fa50273077b4fc077a358aaddc905cc3",
-        "resourceName":"KIF Filesender (in English)",
-        "resourceProvider":{
-            "name":"KIF Filesender",
-            "displayname":"KIF Filesender",
-            "url":"https://www.kif.kg/en"
-        },
-        "description":"KIF Single Sign On"
-    },
-    {
         "catalogID":"48863d04ef89721ccf8a5249b603429edbe898c9",
         "resourceName":"University Politehnica of Bucharest",
         "resourceProvider":{
@@ -1288,6 +1278,56 @@
             "url":"http://www.cuhk.edu.hk"
         },
         "description":"Knowledge & Education Exchange Platform (KEEP) is a personalized educational portal for users to easily search, subscribe and access content from the KEEP Cloud Ecosystem. KEEP supports the development of innovative teaching and learning with cutting-edge"
+    },
+    {
+        "catalogID":"b6d0463b7abb6133be665554714fda26bad2d197",
+        "resourceName":"Filesender | RENU",
+        "resourceProvider":{
+            "name":"Research and Education Network for Uganda",
+            "displayname":"Research and Education Network for Uganda (RENU)",
+            "url":"https://www.renu.ac.ug/"
+        },
+        "description":"FileSender is a service that allows authorized users to store and send files to any Internet user who has access to e-mail and an appropriately configured web browser.  It is primarily of interest to users who need to send files larger than those allowed by e-mail systems (typically limited to 10MB to 20MB depending on the e-mail system)."
+    },
+    {
+        "catalogID":"5482f1ba6d6b6cd252d98eb1c46d53138848eeb4",
+        "resourceName":"RENU eduVPN",
+        "resourceProvider":{
+            "name":"Research and Education Network for Uganda",
+            "displayname":"Research and Education Network for Uganda",
+            "url":"https://www.renu.ac.ug"
+        },
+        "description":"eduVPN is a VPN service provided for the international research and education community."
+    },
+    {
+        "catalogID":"0c9af80b3a5568512b5656e6ee759771f3ccb227",
+        "resourceName":"Software Bank | RENU",
+        "resourceProvider":{
+            "name":"Research and Education Network for Uganda",
+            "displayname":"Research and Education Network for Uganda (RENU)",
+            "url":"https://renu.ac.ug"
+        },
+        "description":"Software bank for computer-aided design, electronics, constructions, and mathematical simulations to enhance learning."
+    },
+    {
+        "catalogID":"8a3f5614bb446b2f86ad3ce6b7b694a1546545a9",
+        "resourceName":"Peer Edge",
+        "resourceProvider":{
+            "name":"RENU",
+            "displayname":"RENU",
+            "url":"https://peeredge.africa"
+        },
+        "description":"Peer Edge is a platform aimed at bridging communities and improving access to research opportunities and undertakings for all persons from all corners of the world. Currently, Peer Edge provides four services; (1) the ability to quickly find collaborators/advisors/mentors and advertising, and timely search for research jobs, grants, conferences/workshops, and research communities."
+    },
+    {
+        "catalogID":"2de5878f28a003b74152d6e47e84b2ce8ab5eedb",
+        "resourceName":"RENU Versity",
+        "resourceProvider":{
+            "name":"RENU",
+            "displayname":"RENU",
+            "url":"https://www.renu.ac.ug"
+        },
+        "description":"RENU Discounted shop"
     },
     {
         "catalogID":"66403b6384a258b065856f10c55dfe9a254b71fa",
@@ -19326,6 +19366,16 @@
             "name":"CoreHR Ltd.",
             "displayname":"CoreHR",
             "url":"https://www.corehr.com"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"dd1688817f7986d2daea69bd827ba07c80daf4fd",
+        "resourceName":"IADT FilmEU",
+        "resourceProvider":{
+            "name":"IADT",
+            "displayname":"IADT",
+            "url":"https://www.iadt.ie"
         },
         "description":""
     },
