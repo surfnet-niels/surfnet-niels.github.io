@@ -32800,6 +32800,16 @@
         "description":"The INFN CTAO Identity and Access Management (IAM) service is a central service used to manage identities and authorization policies in support of CTAO experiment."
     },
     {
+        "catalogID":"61cba8ab34882a7156b3684cb13ece2f1a7f7c5c",
+        "resourceName":"INFN AMS Identity and Access Management Service",
+        "resourceProvider":{
+            "name":"National Institute for Nuclear Physics (INFN)",
+            "displayname":"IAM-AMS provided by INFN",
+            "url":"http://home.infn.it/en/"
+        },
+        "description":"The INFN AMS Identity and Access Management (IAM) service is a central service used to manage identities and authorization policies in support of AMS experiment."
+    },
+    {
         "catalogID":"91c619cfb099e062d642ff209d9fbda42f615d42",
         "resourceName":"The BLOOM Hub for digitalisation in higher education",
         "resourceProvider":{
