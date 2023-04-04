@@ -1,5 +1,5 @@
 {
-    "generated":"2023-04-04 08:25",
+    "generated":"2023-04-04 10:21",
     "en":[
         {
             "catalogID":"9dd31f3531aa6a454c9a764ef906efac46774579",
@@ -13,7 +13,11 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "mail"
+                    "mail",
+                    "schacPersonalUniqueCode",
+                    "givenName",
+                    "surname",
+                    "displayName"
                 ],
                 "requested":[]
             },
@@ -46,7 +50,11 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "mail"
+                    "mail",
+                    "schacPersonalUniqueCode",
+                    "givenName",
+                    "surname",
+                    "displayName"
                 ],
                 "requested":[]
             },
@@ -79,7 +87,11 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "mail"
+                    "mail",
+                    "schacPersonalUniqueCode",
+                    "givenName",
+                    "surname",
+                    "displayName"
                 ],
                 "requested":[]
             },
@@ -112,7 +124,11 @@
             "resourceAttributes":{
                 "required":[
                     "eduPersonPrincipalName",
-                    "mail"
+                    "mail",
+                    "schacPersonalUniqueCode",
+                    "givenName",
+                    "surname",
+                    "displayName"
                 ],
                 "requested":[]
             },
