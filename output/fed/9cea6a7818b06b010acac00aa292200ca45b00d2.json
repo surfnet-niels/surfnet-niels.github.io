@@ -3630,6 +3630,16 @@
         "description":"SP Federation Demo"
     },
     {
+        "catalogID":"fa994af0e2031ac2ade2515fe03a3498ef6bf759",
+        "resourceName":"UCLA Dataverse",
+        "resourceProvider":{
+            "name":"University of California-Los Angeles",
+            "displayname":"University of California-Los Angeles",
+            "url":"http://www.ucla.edu/"
+        },
+        "description":"Open source research data repository software"
+    },
+    {
         "catalogID":"96c31d3d088afe99bb251e89f812ae240ccb2ca7",
         "resourceName":"Center for Leading Innovation and Collaboration",
         "resourceProvider":{
@@ -3728,6 +3738,16 @@
             "url":"http://www.umbc.edu/"
         },
         "description":""
+    },
+    {
+        "catalogID":"98750dbd9e6362baa0b2fced759072117de0005a",
+        "resourceName":"Duke Indico instance",
+        "resourceProvider":{
+            "name":"Duke University",
+            "displayname":"Duke University",
+            "url":"http://www.duke.edu/"
+        },
+        "description":"Central Indico event management system"
     },
     {
         "catalogID":"8bda171afa58270032f2ef85ad9e1eb8b369d513",
@@ -9132,6 +9152,16 @@
     {
         "catalogID":"92f5d34f3437bcc71c347bf43f3a15624a0d2475",
         "resourceName":"my.redcap.yale.edu",
+        "resourceProvider":{
+            "name":"Yale University",
+            "displayname":"Yale University",
+            "url":"http://www.yale.edu/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"bee325a27be05b94316894cfb319ba15441f888f",
+        "resourceName":"REDCap",
         "resourceProvider":{
             "name":"Yale University",
             "displayname":"Yale University",
@@ -18902,26 +18932,6 @@
     {
         "catalogID":"d0c89c74aae585f1d8e127368e21e7197ef952dc",
         "resourceName":"Ovrture - Boston University - staging",
-        "resourceProvider":{
-            "name":"Ovrture, Inc",
-            "displayname":"Ovrture, Inc",
-            "url":"https://ovrture.com/"
-        },
-        "description":"A platform for advancement offices to communicate with major donors and prospects via hyper-tailored cultivation and stewardship microsites."
-    },
-    {
-        "catalogID":"7d5c553ca056ebe9d755f49791087ae8c0268886",
-        "resourceName":"Ovrture - Indiana University",
-        "resourceProvider":{
-            "name":"Ovrture, Inc",
-            "displayname":"Ovrture, Inc",
-            "url":"https://ovrture.com/"
-        },
-        "description":"A platform for advancement offices to communicate with major donors and prospects via hyper-tailored cultivation and stewardship microsites."
-    },
-    {
-        "catalogID":"7b608265f9f6df2ce9606afcfa3070b4db69fba9",
-        "resourceName":"Ovrture - Indiana University - staging",
         "resourceProvider":{
             "name":"Ovrture, Inc",
             "displayname":"Ovrture, Inc",

@@ -1,0 +1,211 @@
+{
+    "generated":"2023-04-05 20:23",
+    "en":[
+        {
+            "catalogID":"fa994af0e2031ac2ade2515fe03a3498ef6bf759",
+            "entityID":"https://dataverse.ucla.edu/shibboleth-sp",
+            "resourceName":"UCLA Dataverse",
+            "resourceProvider":{
+                "name":"University of California-Los Angeles",
+                "displayname":"University of California-Los Angeles",
+                "url":"http://www.ucla.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"Open source research data repository software",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tim Dennis",
+                    "email":"mailto:tdennis@library.ucla.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Stephen Gurnick",
+                    "email":"mailto:sgurnick@library.ucla.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tim Dennis",
+                    "email":"mailto:tdennis@library.ucla.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@ucla.edu"
+                }
+            ],
+            "info":"https://dataverse.ucla.edu/",
+            "privacy":"https://www.ucla.edu/terms-of-use",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"fa994af0e2031ac2ade2515fe03a3498ef6bf759",
+            "entityID":"https://dataverse.ucla.edu/shibboleth-sp",
+            "resourceName":"UCLA Dataverse",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucla.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tim Dennis",
+                    "email":"mailto:tdennis@library.ucla.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Stephen Gurnick",
+                    "email":"mailto:sgurnick@library.ucla.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tim Dennis",
+                    "email":"mailto:tdennis@library.ucla.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@ucla.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"fa994af0e2031ac2ade2515fe03a3498ef6bf759",
+            "entityID":"https://dataverse.ucla.edu/shibboleth-sp",
+            "resourceName":"UCLA Dataverse",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucla.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tim Dennis",
+                    "email":"mailto:tdennis@library.ucla.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Stephen Gurnick",
+                    "email":"mailto:sgurnick@library.ucla.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tim Dennis",
+                    "email":"mailto:tdennis@library.ucla.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@ucla.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"fa994af0e2031ac2ade2515fe03a3498ef6bf759",
+            "entityID":"https://dataverse.ucla.edu/shibboleth-sp",
+            "resourceName":"UCLA Dataverse",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ucla.edu/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "eduPersonPrincipalName",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Tim Dennis",
+                    "email":"mailto:tdennis@library.ucla.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"Stephen Gurnick",
+                    "email":"mailto:sgurnick@library.ucla.edu"
+                },
+                {
+                    "type":"administrative",
+                    "name":"Tim Dennis",
+                    "email":"mailto:tdennis@library.ucla.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"ITS Security",
+                    "email":"mailto:security@ucla.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
