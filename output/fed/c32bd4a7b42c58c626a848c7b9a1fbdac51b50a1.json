@@ -1,0 +1,187 @@
+{
+    "generated":"2023-04-11 20:20",
+    "en":[
+        {
+            "catalogID":"c32bd4a7b42c58c626a848c7b9a1fbdac51b50a1",
+            "entityID":"https://fenix.tecnico.ulisboa.pt",
+            "resourceName":"FenixEdu Técnico Lisboa",
+            "resourceProvider":{
+                "name":"Instituto Superior Técnico",
+                "displayname":"Instituto Superior Técnico",
+                "url":"https://tecnico.ulisboa.pt/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "schacPersonalUniqueCode"
+                ],
+                "requested":[
+                    "givenName",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"Academic Management System for Instituto Superior Técnico",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DSIComputer Services Division",
+                    "email":"mailto:dsi@tecnico.ulisboa.pt"
+                },
+                {
+                    "type":"security",
+                    "name":"Instituto Superior TecnicoComputer Security Incidents Response Team",
+                    "email":"mailto:csirt@tecnico.ulisboa.pt"
+                },
+                {
+                    "type":"technical",
+                    "name":"DSI - Direcção de Serviços de Informática do IST",
+                    "email":"mailto:dsi@dsi.tecnico.ulisboa.pt"
+                }
+            ],
+            "info":"https://fenixedu.org",
+            "privacy":"https://tecnico.ulisboa.pt/en/informations/terms-conditions/",
+            "entityCategories":[
+                "https://myacademicid.org/entity-categories/esi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c32bd4a7b42c58c626a848c7b9a1fbdac51b50a1",
+            "entityID":"https://fenix.tecnico.ulisboa.pt",
+            "resourceName":"FenixEdu Técnico Lisboa",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://tecnico.ulisboa.pt/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "schacPersonalUniqueCode"
+                ],
+                "requested":[
+                    "givenName",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DSIComputer Services Division",
+                    "email":"mailto:dsi@tecnico.ulisboa.pt"
+                },
+                {
+                    "type":"security",
+                    "name":"Instituto Superior TecnicoComputer Security Incidents Response Team",
+                    "email":"mailto:csirt@tecnico.ulisboa.pt"
+                },
+                {
+                    "type":"technical",
+                    "name":"DSI - Direcção de Serviços de Informática do IST",
+                    "email":"mailto:dsi@dsi.tecnico.ulisboa.pt"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://myacademicid.org/entity-categories/esi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c32bd4a7b42c58c626a848c7b9a1fbdac51b50a1",
+            "entityID":"https://fenix.tecnico.ulisboa.pt",
+            "resourceName":"FenixEdu Técnico Lisboa",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://tecnico.ulisboa.pt/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "schacPersonalUniqueCode"
+                ],
+                "requested":[
+                    "givenName",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DSIComputer Services Division",
+                    "email":"mailto:dsi@tecnico.ulisboa.pt"
+                },
+                {
+                    "type":"security",
+                    "name":"Instituto Superior TecnicoComputer Security Incidents Response Team",
+                    "email":"mailto:csirt@tecnico.ulisboa.pt"
+                },
+                {
+                    "type":"technical",
+                    "name":"DSI - Direcção de Serviços de Informática do IST",
+                    "email":"mailto:dsi@dsi.tecnico.ulisboa.pt"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://myacademicid.org/entity-categories/esi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c32bd4a7b42c58c626a848c7b9a1fbdac51b50a1",
+            "entityID":"https://fenix.tecnico.ulisboa.pt",
+            "resourceName":"FenixEdu Técnico Lisboa",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://tecnico.ulisboa.pt/en/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "email",
+                    "schacPersonalUniqueCode"
+                ],
+                "requested":[
+                    "givenName",
+                    "schacHomeOrganization"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"support",
+                    "name":"DSIComputer Services Division",
+                    "email":"mailto:dsi@tecnico.ulisboa.pt"
+                },
+                {
+                    "type":"security",
+                    "name":"Instituto Superior TecnicoComputer Security Incidents Response Team",
+                    "email":"mailto:csirt@tecnico.ulisboa.pt"
+                },
+                {
+                    "type":"technical",
+                    "name":"DSI - Direcção de Serviços de Informática do IST",
+                    "email":"mailto:dsi@dsi.tecnico.ulisboa.pt"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://myacademicid.org/entity-categories/esi"
+            ],
+            "SirtfiSupport":[]
+        }
+    ]
+}
