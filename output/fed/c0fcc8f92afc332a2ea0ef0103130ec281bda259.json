@@ -1,5 +1,5 @@
 {
-    "generated":"2023-04-15 18:22",
+    "generated":"2023-04-15 20:20",
     "en":[
         {
             "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
@@ -12,15 +12,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "schacHomeOrganization",
-                    "mail",
-                    "eduPersonScopedAffiliation",
                     "commonName",
                     "eduPersonPrincipalName",
-                    "eduPersonAffiliation",
-                    "displayName",
+                    "mail",
+                    "eduPersonAssurance",
                     "homeOrganization",
-                    "eduPersonAssurance"
+                    "eduPersonScopedAffiliation",
+                    "displayName",
+                    "schacHomeOrganization",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
                     "organizationName"
@@ -52,15 +52,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "schacHomeOrganization",
-                    "mail",
-                    "eduPersonScopedAffiliation",
                     "commonName",
                     "eduPersonPrincipalName",
-                    "eduPersonAffiliation",
-                    "displayName",
+                    "mail",
+                    "eduPersonAssurance",
                     "homeOrganization",
-                    "eduPersonAssurance"
+                    "eduPersonScopedAffiliation",
+                    "displayName",
+                    "schacHomeOrganization",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
                     "organizationName"
@@ -92,15 +92,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "schacHomeOrganization",
-                    "mail",
-                    "eduPersonScopedAffiliation",
                     "commonName",
                     "eduPersonPrincipalName",
-                    "eduPersonAffiliation",
-                    "displayName",
+                    "mail",
+                    "eduPersonAssurance",
                     "homeOrganization",
-                    "eduPersonAssurance"
+                    "eduPersonScopedAffiliation",
+                    "displayName",
+                    "schacHomeOrganization",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
                     "organizationName"
@@ -132,15 +132,15 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "schacHomeOrganization",
-                    "mail",
-                    "eduPersonScopedAffiliation",
                     "commonName",
                     "eduPersonPrincipalName",
-                    "eduPersonAffiliation",
-                    "displayName",
+                    "mail",
+                    "eduPersonAssurance",
                     "homeOrganization",
-                    "eduPersonAssurance"
+                    "eduPersonScopedAffiliation",
+                    "displayName",
+                    "schacHomeOrganization",
+                    "eduPersonAffiliation"
                 ],
                 "requested":[
                     "organizationName"
