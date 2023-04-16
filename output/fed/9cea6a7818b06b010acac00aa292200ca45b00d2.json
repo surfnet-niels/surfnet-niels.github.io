@@ -1080,6 +1080,66 @@
         "description":"KION Login Service for EduGAIN"
     },
     {
+        "catalogID":"5d91118b2d0f054671b6856cc1fc13b6047c6731",
+        "resourceName":"ezproxy",
+        "resourceProvider":{
+            "name":"ezproxy",
+            "displayname":"ezproxy",
+            "url":"https://www.masader.om/"
+        },
+        "description":"ezproxy"
+    },
+    {
+        "catalogID":"93e8a2165352ce2fed49b26b8f93991f46d4e95d",
+        "resourceName":"IJmeet",
+        "resourceProvider":{
+            "name":"IJmeet",
+            "displayname":"IJmeet",
+            "url":"https://ijmeet.com/"
+        },
+        "description":"IJmeet"
+    },
+    {
+        "catalogID":"1bbe5526e56c81741614a2ec0c0430c74f07d66a",
+        "resourceName":"Shuaa",
+        "resourceProvider":{
+            "name":"Shuaa",
+            "displayname":"Shuaa",
+            "url":"https://shuaa.om/"
+        },
+        "description":"shuaa.om"
+    },
+    {
+        "catalogID":"9ec59c05d3b5f1a8258b689a6deece6a8c3d2085",
+        "resourceName":"Masader",
+        "resourceProvider":{
+            "name":"Masader",
+            "displayname":"Masader",
+            "url":"https://www.masader.om/overview"
+        },
+        "description":"Masader is the brand name of the Oman Virtual Science Library, which provides seamless and affordable access to a wealth of global research material. Membership of the Oman Research and Education Network (OMREN) makes Masader available to universities, technical colleges, and other Oman-based institutions engaged in education and scientific research."
+    },
+    {
+        "catalogID":"d498b46a43fa59b0f139bf7795b1def2587eee25",
+        "resourceName":"Moasher",
+        "resourceProvider":{
+            "name":"Moasher",
+            "displayname":"Moasher",
+            "url":"https://moasher.omren.om/"
+        },
+        "description":"Moasher"
+    },
+    {
+        "catalogID":"0af98b5f11ccbaf7211207faed0e7b80bd4d4bba",
+        "resourceName":"Mirsal",
+        "resourceProvider":{
+            "name":"Mirsal",
+            "displayname":"Mirsal",
+            "url":"https://mirsal.omren.om/"
+        },
+        "description":"Mirsal"
+    },
+    {
         "catalogID":"1b23194ad7e4d8ebc3b47fc6459c7804870dc1b4",
         "resourceName":"CNRST eduVPN",
         "resourceProvider":{
