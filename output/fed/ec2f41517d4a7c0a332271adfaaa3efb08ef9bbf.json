@@ -1,0 +1,207 @@
+{
+    "generated":"2023-04-17 20:21",
+    "en":[
+        {
+            "catalogID":"ec2f41517d4a7c0a332271adfaaa3efb08ef9bbf",
+            "entityID":"https://nyu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"New York University - CampusPress",
+            "resourceProvider":{
+                "name":"Edublogs",
+                "displayname":"Edublogs",
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"https://cpdemo.wp.nyu.edu/",
+            "privacy":"https://incsub.com/privacy-policy/",
+            "entityCategories":[
+                "https://refeds.org/category/personalized",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"ec2f41517d4a7c0a332271adfaaa3efb08ef9bbf",
+            "entityID":"https://nyu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"New York University - CampusPress",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://refeds.org/category/personalized",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"ec2f41517d4a7c0a332271adfaaa3efb08ef9bbf",
+            "entityID":"https://nyu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"New York University - CampusPress",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://refeds.org/category/personalized",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"ec2f41517d4a7c0a332271adfaaa3efb08ef9bbf",
+            "entityID":"https://nyu.campus.auth.edublogs.org/shibboleth",
+            "resourceName":"New York University - CampusPress",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://edublogs.org/"
+            },
+            "resourceAttributes":{
+                "required":[],
+                "requested":[
+                    "displayName",
+                    "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation",
+                    "givenName",
+                    "mail",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"CampusPress Support",
+                    "email":"mailto:contact@campuspress.com"
+                },
+                {
+                    "type":"technical",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                },
+                {
+                    "type":"security",
+                    "name":"Incsub SysAdmins",
+                    "email":"mailto:sysadmins@incsub.com"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://refeds.org/category/personalized",
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

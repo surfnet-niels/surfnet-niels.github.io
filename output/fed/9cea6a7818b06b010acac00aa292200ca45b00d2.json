@@ -9501,13 +9501,13 @@
     },
     {
         "catalogID":"7d87406faf4fe3918b307817586894cbdcb2b5c9",
-        "resourceName":"blogs.harvard.edu",
+        "resourceName":"Harvard University - CampusPress",
         "resourceProvider":{
             "name":"Edublogs",
             "displayname":"Edublogs",
             "url":"http://edublogs.org/"
         },
-        "description":"WordPress hosted by CampusPress"
+        "description":""
     },
     {
         "catalogID":"8c88893d5d70a0170280dce4a514e1378a11aacf",
@@ -9632,6 +9632,16 @@
     {
         "catalogID":"cd3e6f5c63bf61b009e3851e701a737aaebee9ad",
         "resourceName":"Northwestern University Blogs",
+        "resourceProvider":{
+            "name":"Edublogs",
+            "displayname":"Edublogs",
+            "url":"http://edublogs.org/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"ec2f41517d4a7c0a332271adfaaa3efb08ef9bbf",
+        "resourceName":"New York University - CampusPress",
         "resourceProvider":{
             "name":"Edublogs",
             "displayname":"Edublogs",
