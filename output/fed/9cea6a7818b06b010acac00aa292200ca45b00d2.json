@@ -29280,6 +29280,16 @@
         "description":"Learning Management System - Université de Tours"
     },
     {
+        "catalogID":"050d96044ae2fc1cb463a42c0c38e7291c5d2f19",
+        "resourceName":"CROCC-Toulouse",
+        "resourceProvider":{
+            "name":"Université de Toulouse",
+            "displayname":"Université de Toulouse",
+            "url":"http://www.univ-toulouse.fr"
+        },
+        "description":"Occtanie Research Cloud\nToulouse Area"
+    },
+    {
         "catalogID":"d4b8fab9493d84d1db38d2501188e2b9e3293ac9",
         "resourceName":"Digital Skills",
         "resourceProvider":{
@@ -33458,16 +33468,6 @@
             "url":"http://www.fz-juelich.de"
         },
         "description":"Helmholtz cloud services AAI"
-    },
-    {
-        "catalogID":"356fca7202a46ae394371a3506418f2ee89ba9f0",
-        "resourceName":"FZJ WAYF OIDC",
-        "resourceProvider":{
-            "name":"e234",
-            "displayname":"Forschungszentrum Jülich GmbH",
-            "url":"http://www.fz-juelich.de"
-        },
-        "description":"WAYF Discovery Service for FZJ OIDC Clients"
     },
     {
         "catalogID":"824b28161758d6a0a2b14ebad8ae1541553f6b18",
