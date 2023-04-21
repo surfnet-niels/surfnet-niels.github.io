@@ -33470,6 +33470,16 @@
         "description":"WAYF Discovery Service for FZJ OIDC Clients"
     },
     {
+        "catalogID":"824b28161758d6a0a2b14ebad8ae1541553f6b18",
+        "resourceName":"WAYF",
+        "resourceProvider":{
+            "name":"e234",
+            "displayname":"Forschungszentrum Jülich GmbH",
+            "url":"http://www.fz-juelich.de"
+        },
+        "description":"OIDC/SAML WAYF Broker"
+    },
+    {
         "catalogID":"83288e7131abe60a28c4f659b41cc88ba559541c",
         "resourceName":"Statista",
         "resourceProvider":{
