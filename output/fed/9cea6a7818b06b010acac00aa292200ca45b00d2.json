@@ -740,6 +740,16 @@
         "description":"http://fsso.metel.cn"
     },
     {
+        "catalogID":"db988b97412d85231b44fd0ce09a0ae09c620e98",
+        "resourceName":"https://sp-aimed.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"SEVEN(BEIJING)EDUCATION TECHNOLOGY CO.,LTD",
+            "displayname":"SEVEN(BEIJING)EDUCATION TECHNOLOGY CO.,LTD",
+            "url":"https://www.sevedu.com/"
+        },
+        "description":"https://sp-aimed.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"8ac93cd5e3b249ea9f5617b5c10b24d8e20f21b3",
         "resourceName":"https://sp-bookan.carsi.edu.cn/shibboleth",
         "resourceProvider":{
@@ -30800,6 +30810,16 @@
         "description":"Joint user authentication test service for CSC services"
     },
     {
+        "catalogID":"6ecaab7a087093b024ca4fca12e1597f14fba96a",
+        "resourceName":"Eunice allience Moodle",
+        "resourceProvider":{
+            "name":"Mediamaisteri",
+            "displayname":"Mediamaisteri",
+            "url":"http://www.mediamaisteri.com"
+        },
+        "description":"Eunice alliance Moodle learning management system"
+    },
+    {
         "catalogID":"28875c52c02f3829c0e16e8da274f3273d635fa4",
         "resourceName":"SoleMOVE",
         "resourceProvider":{
@@ -30818,16 +30838,6 @@
             "url":"http://www.csc.fi"
         },
         "description":"Attributes released by IdP-server can be tested against this SP."
-    },
-    {
-        "catalogID":"6ecaab7a087093b024ca4fca12e1597f14fba96a",
-        "resourceName":"Eunice allience Moodle",
-        "resourceProvider":{
-            "name":"Mediamaisteri",
-            "displayname":"Mediamaisteri",
-            "url":"http://www.mediamaisteri.com"
-        },
-        "description":"Eunice alliance Moodle learning management system"
     },
     {
         "catalogID":"d8a4208f63b261ee49e35be2f74ef6b9e0584dd5",
