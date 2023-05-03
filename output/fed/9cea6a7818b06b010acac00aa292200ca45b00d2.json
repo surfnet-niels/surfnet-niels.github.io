@@ -18000,6 +18000,16 @@
         "description":"UAA SP Service"
     },
     {
+        "catalogID":"5879ef73518cbd2651ae048763a313f494577a2e",
+        "resourceName":"Assetworks University of Alaska TEST SP",
+        "resourceProvider":{
+            "name":"AssetWorks",
+            "displayname":"AssetWorks",
+            "url":"https://www.assetworks.com/"
+        },
+        "description":"UAA TEST SP Service"
+    },
+    {
         "catalogID":"465aa1e1a85302915eb4219379961322800ca8ca",
         "resourceName":"Assetworks UMBCSP",
         "resourceProvider":{
@@ -19388,6 +19398,16 @@
             "url":"https://www.identityautomation.com/"
         },
         "description":"Purple"
+    },
+    {
+        "catalogID":"6f12e7cdfd215a73481b1d51a0804cf890806b61",
+        "resourceName":"RapidIdentity",
+        "resourceProvider":{
+            "name":"Identity Automation LP",
+            "displayname":"Identity Automation LP",
+            "url":"https://www.identityautomation.com/"
+        },
+        "description":""
     },
     {
         "catalogID":"c69a92e66ccb708d48459c67a9f341aa72930744",
