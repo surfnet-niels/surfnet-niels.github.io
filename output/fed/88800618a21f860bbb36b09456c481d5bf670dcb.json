@@ -1,5 +1,5 @@
 {
-    "generated":"2023-01-02 06:27",
+    "generated":"2023-05-04 10:22",
     "en":[
         {
             "catalogID":"88800618a21f860bbb36b09456c481d5bf670dcb",
@@ -11,14 +11,7 @@
                 "url":"https://www.eduid.africa"
             },
             "resourceAttributes":{
-                "required":[
-                    "email",
-                    "surname",
-                    "givenName",
-                    "eduPersonScopedAffiliation",
-                    "eduPersonPrincipalName",
-                    "eduPersonTargetedID"
-                ],
+                "required":[],
                 "requested":[]
             },
             "description":"eduID.africa Proxy SP",
@@ -36,7 +29,11 @@
             ],
             "info":"https://www.eduid.africa/",
             "privacy":"https://www.eduid.africa/",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -44,21 +41,14 @@
         {
             "catalogID":"88800618a21f860bbb36b09456c481d5bf670dcb",
             "entityID":"https://proxy.eduid.africa/sp/saml2",
-            "resourceName":"eduID.africa Proxy SP",
+            "resourceName":"https://proxy.eduid.africa/sp/saml2",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.eduid.africa"
             },
             "resourceAttributes":{
-                "required":[
-                    "email",
-                    "surname",
-                    "givenName",
-                    "eduPersonScopedAffiliation",
-                    "eduPersonPrincipalName",
-                    "eduPersonTargetedID"
-                ],
+                "required":[],
                 "requested":[]
             },
             "description":"",
@@ -76,7 +66,11 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -84,21 +78,14 @@
         {
             "catalogID":"88800618a21f860bbb36b09456c481d5bf670dcb",
             "entityID":"https://proxy.eduid.africa/sp/saml2",
-            "resourceName":"eduID.africa Proxy SP",
+            "resourceName":"https://proxy.eduid.africa/sp/saml2",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.eduid.africa"
             },
             "resourceAttributes":{
-                "required":[
-                    "email",
-                    "surname",
-                    "givenName",
-                    "eduPersonScopedAffiliation",
-                    "eduPersonPrincipalName",
-                    "eduPersonTargetedID"
-                ],
+                "required":[],
                 "requested":[]
             },
             "description":"",
@@ -116,7 +103,11 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
             "SirtfiSupport":[]
         }
     ],
@@ -124,21 +115,14 @@
         {
             "catalogID":"88800618a21f860bbb36b09456c481d5bf670dcb",
             "entityID":"https://proxy.eduid.africa/sp/saml2",
-            "resourceName":"eduID.africa Proxy SP",
+            "resourceName":"https://proxy.eduid.africa/sp/saml2",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.eduid.africa"
             },
             "resourceAttributes":{
-                "required":[
-                    "email",
-                    "surname",
-                    "givenName",
-                    "eduPersonScopedAffiliation",
-                    "eduPersonPrincipalName",
-                    "eduPersonTargetedID"
-                ],
+                "required":[],
                 "requested":[]
             },
             "description":"",
@@ -156,7 +140,11 @@
             ],
             "info":"",
             "privacy":"",
-            "entityCategories":[],
+            "entityCategories":[
+                "http://refeds.org/category/research-and-scholarship",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1",
+                "https://refeds.org/sirtfi"
+            ],
             "SirtfiSupport":[]
         }
     ]
