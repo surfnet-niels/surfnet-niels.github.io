@@ -1280,16 +1280,6 @@
         "description":"ACVP Admin Portal"
     },
     {
-        "catalogID":"471bf4608b72830960b82ef88282af373bf9b304",
-        "resourceName":"JUCC HPC-as-a-Service Web Portal",
-        "resourceProvider":{
-            "name":"jucc.edu.hk",
-            "displayname":"Joint Universities Computer Centre Ltd",
-            "url":"https://www.jucc.edu.hk"
-        },
-        "description":"JUCC-wide HPC-as-a-Service Platform"
-    },
-    {
         "catalogID":"c0fcc8f92afc332a2ea0ef0103130ec281bda259",
         "resourceName":"ACVP Student Portal",
         "resourceProvider":{
@@ -1298,6 +1288,16 @@
             "url":"https://www.jucc.edu.hk"
         },
         "description":"ACVP Student Portal"
+    },
+    {
+        "catalogID":"471bf4608b72830960b82ef88282af373bf9b304",
+        "resourceName":"JUCC HPC-as-a-Service Web Portal",
+        "resourceProvider":{
+            "name":"jucc.edu.hk",
+            "displayname":"Joint Universities Computer Centre Ltd",
+            "url":"https://www.jucc.edu.hk"
+        },
+        "description":"JUCC-wide HPC-as-a-Service Platform"
     },
     {
         "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
@@ -19410,7 +19410,7 @@
         "description":""
     },
     {
-        "catalogID":"868794d59d1de9144d05022b3a4f6209803ce7f9",
+        "catalogID":"e89ea1b96e0f5199ecceff47a656d4ac68a3375f",
         "resourceName":"RapidIdentity",
         "resourceProvider":{
             "name":"Identity Automation LP",
@@ -19430,7 +19430,7 @@
         "description":"Purple"
     },
     {
-        "catalogID":"6f12e7cdfd215a73481b1d51a0804cf890806b61",
+        "catalogID":"79bc828454d7e5aaf2f5ce96ebbbfacfb9fcbb08",
         "resourceName":"RapidIdentity",
         "resourceProvider":{
             "name":"Identity Automation LP",
