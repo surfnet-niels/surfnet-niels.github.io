@@ -1,5 +1,5 @@
 {
-    "generated":"2023-05-08 18:23",
+    "generated":"2023-05-08 20:19",
     "en":[
         {
             "catalogID":"e89ea1b96e0f5199ecceff47a656d4ac68a3375f",
@@ -11,7 +11,10 @@
                 "url":"https://www.identityautomation.com/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -49,14 +52,17 @@
         {
             "catalogID":"e89ea1b96e0f5199ecceff47a656d4ac68a3375f",
             "entityID":"https://ia5e3e1b321f024368b26619b2762c8e37.dev-rapididentity.com",
-            "resourceName":"https://ia5e3e1b321f024368b26619b2762c8e37.dev-rapididentity.com",
+            "resourceName":"RapidIdentity",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.identityautomation.com/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -94,14 +100,17 @@
         {
             "catalogID":"e89ea1b96e0f5199ecceff47a656d4ac68a3375f",
             "entityID":"https://ia5e3e1b321f024368b26619b2762c8e37.dev-rapididentity.com",
-            "resourceName":"https://ia5e3e1b321f024368b26619b2762c8e37.dev-rapididentity.com",
+            "resourceName":"RapidIdentity",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.identityautomation.com/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"",
@@ -139,14 +148,17 @@
         {
             "catalogID":"e89ea1b96e0f5199ecceff47a656d4ac68a3375f",
             "entityID":"https://ia5e3e1b321f024368b26619b2762c8e37.dev-rapididentity.com",
-            "resourceName":"https://ia5e3e1b321f024368b26619b2762c8e37.dev-rapididentity.com",
+            "resourceName":"RapidIdentity",
             "resourceProvider":{
                 "name":[],
                 "displayname":[],
                 "url":"https://www.identityautomation.com/"
             },
             "resourceAttributes":{
-                "required":[],
+                "required":[
+                    "eduPersonPrincipalName",
+                    "eduPersonScopedAffiliation"
+                ],
                 "requested":[]
             },
             "description":"",
