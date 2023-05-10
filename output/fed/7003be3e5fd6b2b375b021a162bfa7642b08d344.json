@@ -1,5 +1,5 @@
 {
-    "generated":"2023-05-10 18:29",
+    "generated":"2023-05-10 20:25",
     "en":[
         {
             "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
@@ -12,13 +12,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "eduPersonScopedAffiliation",
-                    "mail",
-                    "eduPersonAssurance",
                     "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonAssurance",
+                    "mail",
                     "commonName",
-                    "displayName"
+                    "displayName",
+                    "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "organizationName",
@@ -52,13 +52,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "eduPersonScopedAffiliation",
-                    "mail",
-                    "eduPersonAssurance",
                     "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonAssurance",
+                    "mail",
                     "commonName",
-                    "displayName"
+                    "displayName",
+                    "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "organizationName",
@@ -92,13 +92,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "eduPersonScopedAffiliation",
-                    "mail",
-                    "eduPersonAssurance",
                     "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonAssurance",
+                    "mail",
                     "commonName",
-                    "displayName"
+                    "displayName",
+                    "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "organizationName",
@@ -132,13 +132,13 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "eduPersonPrincipalName",
-                    "eduPersonScopedAffiliation",
-                    "mail",
-                    "eduPersonAssurance",
                     "eduPersonAffiliation",
+                    "eduPersonPrincipalName",
+                    "eduPersonAssurance",
+                    "mail",
                     "commonName",
-                    "displayName"
+                    "displayName",
+                    "eduPersonScopedAffiliation"
                 ],
                 "requested":[
                     "organizationName",
