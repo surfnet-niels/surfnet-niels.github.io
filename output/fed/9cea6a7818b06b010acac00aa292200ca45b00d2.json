@@ -17830,6 +17830,16 @@
         "description":""
     },
     {
+        "catalogID":"e53c448ae4508f1096c325032d25a1c84d7b2837",
+        "resourceName":"Stellic",
+        "resourceProvider":{
+            "name":"Stellic Inc",
+            "displayname":"Stellic Inc",
+            "url":"https://www.stellic.com/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"299991a40d78118c70c90e2c5b8ebfd23a387e11",
         "resourceName":"Ink Authentication Service",
         "resourceProvider":{
@@ -19398,6 +19408,16 @@
             "url":"https://www.fitchsolutions.com/"
         },
         "description":"Service Provider that provides access to Fitch Connect applications. This is temporary and for QA only."
+    },
+    {
+        "catalogID":"711a417820cea383cb5d997d19b4e7ebbaa17ad0",
+        "resourceName":"SLAC Atlassian Development Environment",
+        "resourceProvider":{
+            "name":"Stanford University",
+            "displayname":"SLAC National Accelerator Laboratory",
+            "url":"http://www.stanford.edu/"
+        },
+        "description":"SLAC Atlassian Development Environment"
     },
     {
         "catalogID":"b349c360483deaf70a379fe7199e088036b01f82",
