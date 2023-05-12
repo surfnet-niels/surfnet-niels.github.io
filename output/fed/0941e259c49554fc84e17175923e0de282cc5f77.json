@@ -1,5 +1,5 @@
 {
-    "generated":"2023-05-12 16:24",
+    "generated":"2023-05-12 18:23",
     "en":[
         {
             "catalogID":"0941e259c49554fc84e17175923e0de282cc5f77",
@@ -7,22 +7,21 @@
             "resourceName":"British Online Archives",
             "resourceProvider":{
                 "name":"LibLynx LLC",
-                "displayname":"British Online Archives",
+                "displayname":"LibLynx LLC",
                 "url":"http://www.britishonlinearchives.co.uk/"
             },
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonScopedAffiliation"
                 ]
             },
             "description":"Unique primary source collections for teaching and research within the Humanities and Social Sciences",
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"BOA Support",
-                    "email":"mailto:boa@microform.co.uk"
+                    "name":"Support",
+                    "email":"mailto:info@britishonlinearchives.co.uk"
                 },
                 {
                     "type":"technical",
@@ -30,8 +29,8 @@
                     "email":"mailto:paul@liblynx.com"
                 }
             ],
-            "info":"",
-            "privacy":"",
+            "info":"https://microform.digital/boa",
+            "privacy":"https://microform.digital/boa/privacy-policy",
             "entityCategories":[],
             "SirtfiSupport":[]
         }
@@ -49,16 +48,15 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonScopedAffiliation"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"BOA Support",
-                    "email":"mailto:boa@microform.co.uk"
+                    "name":"Support",
+                    "email":"mailto:info@britishonlinearchives.co.uk"
                 },
                 {
                     "type":"technical",
@@ -85,16 +83,15 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonScopedAffiliation"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"BOA Support",
-                    "email":"mailto:boa@microform.co.uk"
+                    "name":"Support",
+                    "email":"mailto:info@britishonlinearchives.co.uk"
                 },
                 {
                     "type":"technical",
@@ -121,16 +118,15 @@
             "resourceAttributes":{
                 "required":[],
                 "requested":[
-                    "eduPersonScopedAffiliation",
-                    "eduPersonTargetedID"
+                    "eduPersonScopedAffiliation"
                 ]
             },
             "description":"",
             "resourceContacts":[
                 {
                     "type":"support",
-                    "name":"BOA Support",
-                    "email":"mailto:boa@microform.co.uk"
+                    "name":"Support",
+                    "email":"mailto:info@britishonlinearchives.co.uk"
                 },
                 {
                     "type":"technical",
