@@ -1,5 +1,5 @@
 {
-    "generated":"2023-05-17 18:23",
+    "generated":"2023-05-17 20:20",
     "en":[
         {
             "catalogID":"7003be3e5fd6b2b375b021a162bfa7642b08d344",
@@ -12,12 +12,12 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "mail",
                     "displayName",
-                    "eduPersonAssurance",
                     "commonName",
+                    "eduPersonAssurance",
                     "eduPersonAffiliation",
                     "eduPersonPrincipalName",
-                    "mail",
                     "eduPersonScopedAffiliation"
                 ],
                 "requested":[
@@ -52,12 +52,12 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "mail",
                     "displayName",
-                    "eduPersonAssurance",
                     "commonName",
+                    "eduPersonAssurance",
                     "eduPersonAffiliation",
                     "eduPersonPrincipalName",
-                    "mail",
                     "eduPersonScopedAffiliation"
                 ],
                 "requested":[
@@ -92,12 +92,12 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "mail",
                     "displayName",
-                    "eduPersonAssurance",
                     "commonName",
+                    "eduPersonAssurance",
                     "eduPersonAffiliation",
                     "eduPersonPrincipalName",
-                    "mail",
                     "eduPersonScopedAffiliation"
                 ],
                 "requested":[
@@ -132,12 +132,12 @@
             },
             "resourceAttributes":{
                 "required":[
+                    "mail",
                     "displayName",
-                    "eduPersonAssurance",
                     "commonName",
+                    "eduPersonAssurance",
                     "eduPersonAffiliation",
                     "eduPersonPrincipalName",
-                    "mail",
                     "eduPersonScopedAffiliation"
                 ],
                 "requested":[
