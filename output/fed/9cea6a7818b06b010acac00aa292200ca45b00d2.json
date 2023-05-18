@@ -12780,6 +12780,26 @@
         "description":"Cirrus Identity Admin Console"
     },
     {
+        "catalogID":"1c7def4e6deea10e338978eedefcae65dfa4991f",
+        "resourceName":"CMU Authentication 2 Proxy",
+        "resourceProvider":{
+            "name":"Cirrus Identity, Inc.",
+            "displayname":"Cirrus Identity, Inc.",
+            "url":"http://cirrusidentity.com/"
+        },
+        "description":"CMU Authentication 2 Proxy"
+    },
+    {
+        "catalogID":"9b707ca851bfd7e41f88f54f0e1aebc45ece2642",
+        "resourceName":"CMU Test Authentication 2 Proxy",
+        "resourceProvider":{
+            "name":"Cirrus Identity, Inc.",
+            "displayname":"Cirrus Identity, Inc.",
+            "url":"http://cirrusidentity.com/"
+        },
+        "description":"CMU Test Authentication 2 Proxy"
+    },
+    {
         "catalogID":"597191fe03c71caa87850d15fe2cd6bc01cbb08a",
         "resourceName":"Digital Theatre Poc",
         "resourceProvider":{
