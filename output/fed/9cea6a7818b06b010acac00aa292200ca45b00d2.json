@@ -1200,6 +1200,16 @@
         "description":"The SA NREN Login Proxy provides federated and social logins for a number of services operated by the SA NREN (TENET + SANReN)."
     },
     {
+        "catalogID":"3b57d064ccb3b8bf1bf6508c5786ed7d93844c2e",
+        "resourceName":"Inter-university Institute for Data-Intensive Astronomy",
+        "resourceProvider":{
+            "name":"University of Cape Town",
+            "displayname":"Inter-university Institute for Data-Intensive Astronomy",
+            "url":"https://www.idia.ac.za"
+        },
+        "description":"Gateway to IDIA and Ilifu facilities"
+    },
+    {
         "catalogID":"7aaede58f437d5f5af93a2376e58df408d8237d4",
         "resourceName":"Intembeko ORCID Hub",
         "resourceProvider":{
