@@ -400,6 +400,16 @@
         "description":"https://sp-aimed.carsi.edu.cn/shibboleth"
     },
     {
+        "catalogID":"396edd24e2a6ddf2eebf50ae7593c9e073c08be6",
+        "resourceName":"https://sp-baidueduai.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"Beijing Baidu Netcom Science Technology Co., Ltd.",
+            "displayname":"Beijing Baidu Netcom Science Technology Co., Ltd.",
+            "url":"http://eduai.baidu.com"
+        },
+        "description":"https://sp-baidueduai.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"8ac93cd5e3b249ea9f5617b5c10b24d8e20f21b3",
         "resourceName":"https://sp-bookan.carsi.edu.cn/shibboleth",
         "resourceProvider":{
@@ -438,6 +448,16 @@
             "url":"http://bj.10086.cn"
         },
         "description":"https://sp-cmccclouddisk.carsi.edu.cn/shibboleth"
+    },
+    {
+        "catalogID":"e46a6ddb5acd727627f8a4c4a9fea81bcf0b626b",
+        "resourceName":"https://sp-cngbdb.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"China National GeneBank",
+            "displayname":"China National GeneBank",
+            "url":"https://www.cngb.org/"
+        },
+        "description":"https://sp-cngbdb.carsi.edu.cn/shibboleth"
     },
     {
         "catalogID":"d2ab9bebc45abbae47f76da3a4c16ddccd55f9d4",
