@@ -1,0 +1,211 @@
+{
+    "generated":"2023-05-23 16:26",
+    "en":[
+        {
+            "catalogID":"c143067713b20563316a36a7e6f5e9b80f8ac56e",
+            "entityID":"https://idp3.hig.se/idp/shibboleth",
+            "resourceName":"University of Gävle SP",
+            "resourceProvider":{
+                "name":"HIG",
+                "displayname":"University of Gävle",
+                "url":"https://www.hig.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "norEduPersonNIN"
+                ],
+                "requested":[]
+            },
+            "description":"The University of Gävle Identity Provider is used by employees and students at the university. SP",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Network Operations",
+                    "email":"mailto:nat@hig.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:nat@hig.se"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@hig.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Response Team",
+                    "email":"mailto:nat@hig.se"
+                }
+            ],
+            "info":"https://hig.se/Ext/En/University-of-Gavle/About-the-University.html",
+            "privacy":"https://www.hig.se/Ext/En/University-of-Gavle/Om-webbplatsen/About-the-website/Processing-of-personal-data---IDP.html",
+            "entityCategories":[
+                "https://refeds.org/category/code-of-conduct/v2",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"c143067713b20563316a36a7e6f5e9b80f8ac56e",
+            "entityID":"https://idp3.hig.se/idp/shibboleth",
+            "resourceName":"University of Gävle SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.hig.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "norEduPersonNIN"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Network Operations",
+                    "email":"mailto:nat@hig.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:nat@hig.se"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@hig.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Response Team",
+                    "email":"mailto:nat@hig.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://refeds.org/category/code-of-conduct/v2",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"c143067713b20563316a36a7e6f5e9b80f8ac56e",
+            "entityID":"https://idp3.hig.se/idp/shibboleth",
+            "resourceName":"University of Gävle SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.hig.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "norEduPersonNIN"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Network Operations",
+                    "email":"mailto:nat@hig.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:nat@hig.se"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@hig.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Response Team",
+                    "email":"mailto:nat@hig.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://refeds.org/category/code-of-conduct/v2",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"c143067713b20563316a36a7e6f5e9b80f8ac56e",
+            "entityID":"https://idp3.hig.se/idp/shibboleth",
+            "resourceName":"University of Gävle SP",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"https://www.hig.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "norEduPersonNIN"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"Network Operations",
+                    "email":"mailto:nat@hig.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"Operations",
+                    "email":"mailto:nat@hig.se"
+                },
+                {
+                    "type":"support",
+                    "name":"IT Support",
+                    "email":"mailto:itsupport@hig.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Security Response Team",
+                    "email":"mailto:nat@hig.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://refeds.org/category/code-of-conduct/v2",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

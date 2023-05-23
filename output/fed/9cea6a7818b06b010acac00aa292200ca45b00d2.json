@@ -31410,6 +31410,26 @@
         "description":"Linköping University"
     },
     {
+        "catalogID":"a87ed15780b6a807aa625c331ce44f70f4b43d49",
+        "resourceName":"Lulea University of Technology",
+        "resourceProvider":{
+            "name":"Lulea University of Technology",
+            "displayname":"Lulea University of Technology",
+            "url":"http://www.ltu.se"
+        },
+        "description":"Identity Provider for Lulea University of Technology"
+    },
+    {
+        "catalogID":"c143067713b20563316a36a7e6f5e9b80f8ac56e",
+        "resourceName":"University of Gävle SP",
+        "resourceProvider":{
+            "name":"HIG",
+            "displayname":"University of Gävle",
+            "url":"https://www.hig.se"
+        },
+        "description":"The University of Gävle Identity Provider is used by employees and students at the university. SP"
+    },
+    {
         "catalogID":"5dc11d23ee7ee842181a9803cf0137e794d5cdf6",
         "resourceName":"ECIU University",
         "resourceProvider":{

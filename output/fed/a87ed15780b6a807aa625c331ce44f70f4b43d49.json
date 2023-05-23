@@ -1,0 +1,211 @@
+{
+    "generated":"2023-05-23 16:26",
+    "en":[
+        {
+            "catalogID":"a87ed15780b6a807aa625c331ce44f70f4b43d49",
+            "entityID":"https://idp.ltu.se/idp/shibboleth",
+            "resourceName":"Lulea University of Technology",
+            "resourceProvider":{
+                "name":"Lulea University of Technology",
+                "displayname":"Lulea University of Technology",
+                "url":"http://www.ltu.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "norEduPersonNIN"
+                ],
+                "requested":[]
+            },
+            "description":"Identity Provider for Lulea University of Technology",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Incident Response Team",
+                    "email":"mailto:abuse@ltu.se"
+                }
+            ],
+            "info":"http://www.ltu.se/?l=en",
+            "privacy":"https://www.ltu.se/student/Tjanster-och-service/IT-support-student/Din-anvandare/Behandling-av-personuppgifter-vid-aktivering-och-losenordsaterstallning-av-studentkonton-1.224237?l=en",
+            "entityCategories":[
+                "https://refeds.org/category/code-of-conduct/v2",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"a87ed15780b6a807aa625c331ce44f70f4b43d49",
+            "entityID":"https://idp.ltu.se/idp/shibboleth",
+            "resourceName":"Lulea University of Technology",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ltu.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "norEduPersonNIN"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Incident Response Team",
+                    "email":"mailto:abuse@ltu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://refeds.org/category/code-of-conduct/v2",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"a87ed15780b6a807aa625c331ce44f70f4b43d49",
+            "entityID":"https://idp.ltu.se/idp/shibboleth",
+            "resourceName":"Lulea University of Technology",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ltu.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "norEduPersonNIN"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Incident Response Team",
+                    "email":"mailto:abuse@ltu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://refeds.org/category/code-of-conduct/v2",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"a87ed15780b6a807aa625c331ce44f70f4b43d49",
+            "entityID":"https://idp.ltu.se/idp/shibboleth",
+            "resourceName":"Lulea University of Technology",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.ltu.se"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "norEduPersonNIN"
+                ],
+                "requested":[]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"technical",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"support",
+                    "name":"LTU Servicedesk",
+                    "email":"mailto:its-idp@list.ltu.se"
+                },
+                {
+                    "type":"security",
+                    "name":"Incident Response Team",
+                    "email":"mailto:abuse@ltu.se"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "https://refeds.org/category/code-of-conduct/v2",
+                "http://www.geant.net/uri/dataprotection-code-of-conduct/v1"
+            ],
+            "SirtfiSupport":[
+                "http://www.swamid.se/policy/assurance/al1",
+                "http://www.swamid.se/policy/assurance/al2",
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}
