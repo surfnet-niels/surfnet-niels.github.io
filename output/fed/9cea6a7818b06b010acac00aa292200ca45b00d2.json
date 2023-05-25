@@ -31410,24 +31410,14 @@
         "description":"Czech National Corpus services."
     },
     {
-        "catalogID":"9acda21f4fe11fb6944cf2b3951810e831e13179",
-        "resourceName":"Jönköping University",
+        "catalogID":"62b46b832d3b9f3ad0d6ca4a0eab19f1ad6e9a88",
+        "resourceName":"Carbon Portal authentication service",
         "resourceProvider":{
-            "name":"HJ",
-            "displayname":"Jönköping University",
-            "url":"http://www.ju.se"
+            "name":"ICOS Carbon Portal",
+            "displayname":"Carbon Portal",
+            "url":"https://www.icos-cp.eu/"
         },
-        "description":"This service is used for login to services at Jönköping University."
-    },
-    {
-        "catalogID":"7c77aacbadf7c8b5bf1906d6d747e6dc3c4f294c",
-        "resourceName":"Umea University",
-        "resourceProvider":{
-            "name":"Umea University",
-            "displayname":"Umeå University",
-            "url":"http://www.umu.se/english/"
-        },
-        "description":"Umea University"
+        "description":"Single Sign On for services of ICOS Carbon Portal. Maintained by the Carbon Portal team at Physical Geography department (nateko.lu.se)."
     },
     {
         "catalogID":"b42d710c65e8309042866363f7a9d3cbbea49dd7",
@@ -31440,64 +31430,14 @@
         "description":"Linköping University"
     },
     {
-        "catalogID":"a87ed15780b6a807aa625c331ce44f70f4b43d49",
-        "resourceName":"Lulea University of Technology",
+        "catalogID":"7eed57e051bf88cedd30f477340ba12b75f27380",
+        "resourceName":"eduSign (Emergya)",
         "resourceProvider":{
-            "name":"Lulea University of Technology",
-            "displayname":"Lulea University of Technology",
-            "url":"http://www.ltu.se"
+            "name":"Emergya",
+            "displayname":"Emergya",
+            "url":"https://www.emergya.com"
         },
-        "description":"Identity Provider for Lulea University of Technology"
-    },
-    {
-        "catalogID":"c143067713b20563316a36a7e6f5e9b80f8ac56e",
-        "resourceName":"University of Gävle SP",
-        "resourceProvider":{
-            "name":"HIG",
-            "displayname":"University of Gävle",
-            "url":"https://www.hig.se"
-        },
-        "description":"The University of Gävle Identity Provider is used by employees and students at the university. SP"
-    },
-    {
-        "catalogID":"5dc11d23ee7ee842181a9803cf0137e794d5cdf6",
-        "resourceName":"ECIU University",
-        "resourceProvider":{
-            "name":"ECIU University",
-            "displayname":"ECIU University",
-            "url":"https://www.eciu.eu"
-        },
-        "description":"ECIU University"
-    },
-    {
-        "catalogID":"5fc1d050607c4844cdb1435d259b743f7dce1467",
-        "resourceName":"ECIU University",
-        "resourceProvider":{
-            "name":"ECIU University",
-            "displayname":"ECIU University",
-            "url":"https://eciu.eu"
-        },
-        "description":"ECIU University"
-    },
-    {
-        "catalogID":"634266eff12e0778e349c4c92916c48314696af9",
-        "resourceName":"AsiaPortal: Databases and other resources provided by the Nordic Institute of Asian Studies",
-        "resourceProvider":{
-            "name":"Nordic Institute of Asian Studies",
-            "displayname":"NIAS",
-            "url":"https://nias.ku.dk/"
-        },
-        "description":"Provides access to databases and other resources for Nias Nordic Council Member institutions"
-    },
-    {
-        "catalogID":"2a92569c3c8cdf22d96554100868a9eccee8a8c2",
-        "resourceName":"SITES Authentication Service",
-        "resourceProvider":{
-            "name":"SITES Data Portal",
-            "displayname":"SITES Data Portal",
-            "url":"https://www.fieldsites.se/sv-SE"
-        },
-        "description":"Single sign on for SITES data services"
+        "description":"Test site for eduSign (Emergya)."
     },
     {
         "catalogID":"c3ba81cede254454b64ee9743df19201fe34adc9",
@@ -31510,96 +31450,6 @@
         "description":"NORDUnet Box Service Access"
     },
     {
-        "catalogID":"62b46b832d3b9f3ad0d6ca4a0eab19f1ad6e9a88",
-        "resourceName":"Carbon Portal authentication service",
-        "resourceProvider":{
-            "name":"ICOS Carbon Portal",
-            "displayname":"Carbon Portal",
-            "url":"https://www.icos-cp.eu/"
-        },
-        "description":"Single Sign On for services of ICOS Carbon Portal. Maintained by the Carbon Portal team at Physical Geography department (nateko.lu.se)."
-    },
-    {
-        "catalogID":"eda7996ca259406000de854d657967cd2185d41f",
-        "resourceName":"NORDUnet Tools",
-        "resourceProvider":{
-            "name":"NORDUnet",
-            "displayname":"NORDUnet A/S",
-            "url":"http://www.nordu.net"
-        },
-        "description":"NORDUnet Project and Issue tracking tools (JIRA and Confluence)."
-    },
-    {
-        "catalogID":"de64748103587c017bb8aa8717b535858760ac95",
-        "resourceName":"Sunet Crowd Identity Management",
-        "resourceProvider":{
-            "name":"The Swedish Research Council",
-            "displayname":"Sunet",
-            "url":"https://www.sunet.se"
-        },
-        "description":"Sunet's Atlassian Crowd-service providing identity management for Sunet's Jira and Confluence"
-    },
-    {
-        "catalogID":"a80ce7c86d725c123fc868e7053e97cfe92d82cc",
-        "resourceName":"Demosite for seamlessaccess.org",
-        "resourceProvider":{
-            "name":"SeamlessAccess.org",
-            "displayname":"SeamlessAccess.org",
-            "url":"https://seamlessaccess.org/"
-        },
-        "description":"Demosite for seamlessaccess.org"
-    },
-    {
-        "catalogID":"9bf64322628a8a853c4d0bd6ed9732b3a5cff161",
-        "resourceName":"Demosite for seamlessaccess.org",
-        "resourceProvider":{
-            "name":"SeamlessAccess.org",
-            "displayname":"SeamlessAccess.org",
-            "url":"https://seamlessaccess.org/"
-        },
-        "description":"Demosite for seamlessaccess.org"
-    },
-    {
-        "catalogID":"717827b4a5c68d5d114b955f80ded5c010aa56cd",
-        "resourceName":"Sunet Drive Satosa GW",
-        "resourceProvider":{
-            "name":"The Swedish Research Council",
-            "displayname":"Sunet",
-            "url":"https://www.sunet.se"
-        },
-        "description":"Satosa GW to bridge SAML authentication for Sunet Drive"
-    },
-    {
-        "catalogID":"7619550ac396a98d9c539542b38b78642bc911a5",
-        "resourceName":"SUNET eduSIGN Service",
-        "resourceProvider":{
-            "name":"The Swedish Research Council",
-            "displayname":"Sunet",
-            "url":"https://www.sunet.se"
-        },
-        "description":"SUNET eduSIGN Service makes it easy to electronically sign documents"
-    },
-    {
-        "catalogID":"910d4d731a5d0a63dc95caccc8a61d688512be24",
-        "resourceName":"ErrorURL demo site",
-        "resourceProvider":{
-            "name":"The Swedish Research Council",
-            "displayname":"Swedish Academic Identity Federation (SWAMID)",
-            "url":"http://www.swamid.se"
-        },
-        "description":"An errorURL demo site for the REFEDS errorurl group"
-    },
-    {
-        "catalogID":"1625e38eb1721682a095b5ed25c8035197a15b78",
-        "resourceName":"Vetenskapsrådets reviewer database",
-        "resourceProvider":{
-            "name":"The Swedish Research Council",
-            "displayname":"The Swedish Research Council",
-            "url":"http://www.vr.se"
-        },
-        "description":"This service is for Vetenskapsrådet personell"
-    },
-    {
         "catalogID":"4c9a9f517688084e629a6e55839930aedca16ea8",
         "resourceName":"Fysikum Gitlab",
         "resourceProvider":{
@@ -31608,6 +31458,26 @@
             "url":"https://www.su.se/"
         },
         "description":"Gitlab version control service for Fysikum at Stockholm University"
+    },
+    {
+        "catalogID":"c05633976aca53948ba577e6e35b054414b4db82",
+        "resourceName":"Ladok for employees www.utbildning.ladok.se",
+        "resourceProvider":{
+            "name":"Ladok Consortium",
+            "displayname":"Ladok Consortium",
+            "url":"https://ladok.se/"
+        },
+        "description":"Ladok is a central service for study administration aimed at students and study administrative staff at higher education institutions in Sweden."
+    },
+    {
+        "catalogID":"9e938bfaf8cd7e4fe2c0b3720372b2ab764c37c2",
+        "resourceName":"Fysikum Nextcloud",
+        "resourceProvider":{
+            "name":"Fysikum",
+            "displayname":"Fysikum",
+            "url":"https://fysik.su.se"
+        },
+        "description":"Fysikum Nextcloud"
     },
     {
         "catalogID":"9078e2e87b63145b521a0b0426c391c370e8e431",
@@ -31620,64 +31490,144 @@
         "description":"A graylog server run by NORDUnet"
     },
     {
-        "catalogID":"7bff4d607b9ddbceb4339420c9a329e00119de90",
-        "resourceName":"Sunet Drive",
+        "catalogID":"a87ed15780b6a807aa625c331ce44f70f4b43d49",
+        "resourceName":"Lulea University of Technology",
         "resourceProvider":{
-            "name":"The Swedish Research Council",
-            "displayname":"Sunet",
-            "url":"https://sunet.se"
+            "name":"Lulea University of Technology",
+            "displayname":"Lulea University of Technology",
+            "url":"http://www.ltu.se"
         },
-        "description":"Sunet Drive"
+        "description":"Identity Provider for Lulea University of Technology"
     },
     {
-        "catalogID":"d8f0d2d57b44fea86211914757bd2d89edb87882",
-        "resourceName":"InAcademia Affiliation Validation Service",
+        "catalogID":"d510a95a8cd9656b291209434f0606589f00a44b",
+        "resourceName":"Ladok for employees www.integrationstest.ladok.se",
         "resourceProvider":{
-            "name":"InAcademia operated by GÉANT",
-            "displayname":"InAcademia",
-            "url":"https://inacademia.org/about"
+            "name":"Ladok Consortium",
+            "displayname":"Ladok Consortium",
+            "url":"https://ladok.se/"
         },
-        "description":"InAcademia validates the academic affiliation assigned to users by home institutions. This data is provided in pseudonymised form to registered services that request it."
+        "description":"Ladok is a central service for study administration aimed at students and study administrative staff at higher education institutions in Sweden."
     },
     {
-        "catalogID":"c108bfe703f4e36e1c895512f841cb0afdff111f",
-        "resourceName":"Fysikum Indico",
+        "catalogID":"d70a32b8e133d02fa22742cb32e4c9556e253ebb",
+        "resourceName":"Språkbanken Text",
         "resourceProvider":{
-            "name":"Stockholm Univerity",
-            "displayname":"Fysikum, Stockholm University",
-            "url":"https://www.su.se/fysikum/"
+            "name":"University of Gothenburg",
+            "displayname":"Department of Swedish, Multilingualism, Language Technology University of Gothenburg",
+            "url":"https://spraakbanken.gu.se/eng/"
         },
-        "description":"Fysikum Indico"
+        "description":"Språkbanken Text is a nationally and internationally acknowledged research unit at the Department of Swedish, Multilinguality, Language Technology, University of Gothenburg"
     },
     {
-        "catalogID":"d3249ba9f010faba48e04bff1369efc63493d557",
-        "resourceName":"Indico NORDUnet",
-        "resourceProvider":{
-            "name":"NORDUnet",
-            "displayname":"NORDUnet",
-            "url":"https://www.nordu.net"
-        },
-        "description":"Indico NORDUnet is a meeting, workshop and conference collaboration service."
-    },
-    {
-        "catalogID":"a6d5e87bbccbd7c76291daa07ae373d3a8112953",
-        "resourceName":"Indico",
+        "catalogID":"0e6c717ada3ae66721c31fedf52d88ba68a03918",
+        "resourceName":"The Staff Portal (Medarbetarportalen) at Uppsala University",
         "resourceProvider":{
             "name":"Uppsala University",
             "displayname":"Uppsala University",
             "url":"http://www.uu.se/en/"
         },
-        "description":"Indico is an event management system for meetings, conferences and lectures."
+        "description":"The Staff Portal (Medarbetarportalen) is an intranet for employees at Uppsala University, but it's also available for students and external users."
     },
     {
-        "catalogID":"345b311a37ad9c79347aefe8cca82a634edfff93",
-        "resourceName":"IPnett Cloud Services Beta",
+        "catalogID":"cb82ecea32af98ccaefc063f004a9bb546adb3aa",
+        "resourceName":"SND Service Provider",
+        "resourceProvider":{
+            "name":"Swedish National Data Service",
+            "displayname":"Swedish National Data Service",
+            "url":"https://snd.gu.se/en"
+        },
+        "description":"SSO service for SND."
+    },
+    {
+        "catalogID":"9acda21f4fe11fb6944cf2b3951810e831e13179",
+        "resourceName":"Jönköping University",
+        "resourceProvider":{
+            "name":"HJ",
+            "displayname":"Jönköping University",
+            "url":"http://www.ju.se"
+        },
+        "description":"This service is used for login to services at Jönköping University."
+    },
+    {
+        "catalogID":"4c7753e8c1b6129627738323df471946d70e9e94",
+        "resourceName":"Ladok for employees www.test.ladok.se",
+        "resourceProvider":{
+            "name":"Ladok Consortium",
+            "displayname":"Ladok Consortium",
+            "url":"https://ladok.se/"
+        },
+        "description":"Ladok is a central service for study administration aimed at students and study administrative staff at higher education institutions in Sweden."
+    },
+    {
+        "catalogID":"2a92569c3c8cdf22d96554100868a9eccee8a8c2",
+        "resourceName":"SITES Authentication Service",
+        "resourceProvider":{
+            "name":"SITES Data Portal",
+            "displayname":"SITES Data Portal",
+            "url":"https://www.fieldsites.se/sv-SE"
+        },
+        "description":"Single sign on for SITES data services"
+    },
+    {
+        "catalogID":"de64748103587c017bb8aa8717b535858760ac95",
+        "resourceName":"Sunet Crowd Identity Management",
         "resourceProvider":{
             "name":"The Swedish Research Council",
             "displayname":"Sunet",
-            "url":"https://sunet.se"
+            "url":"https://www.sunet.se"
         },
-        "description":"IPnett Cloud Services OpenStack"
+        "description":"Sunet's Atlassian Crowd-service providing identity management for Sunet's Jira and Confluence"
+    },
+    {
+        "catalogID":"7619550ac396a98d9c539542b38b78642bc911a5",
+        "resourceName":"SUNET eduSIGN Service",
+        "resourceProvider":{
+            "name":"The Swedish Research Council",
+            "displayname":"Sunet",
+            "url":"https://www.sunet.se"
+        },
+        "description":"SUNET eduSIGN Service makes it easy to electronically sign documents"
+    },
+    {
+        "catalogID":"717827b4a5c68d5d114b955f80ded5c010aa56cd",
+        "resourceName":"Sunet Drive Satosa GW",
+        "resourceProvider":{
+            "name":"The Swedish Research Council",
+            "displayname":"Sunet",
+            "url":"https://www.sunet.se"
+        },
+        "description":"Satosa GW to bridge SAML authentication for Sunet Drive"
+    },
+    {
+        "catalogID":"adf805231eb6afc3c727d76d6098c46d1a471b84",
+        "resourceName":"Ouriginal",
+        "resourceProvider":{
+            "name":"Prio Infocenter AB",
+            "displayname":"Ouriginal Group AB",
+            "url":"https://www.ouriginal.com/sv/"
+        },
+        "description":"Ouriginal is a similarity detection solution that combines text-matching with writing-style analysis to promote academic integrity and help combat plagiarism."
+    },
+    {
+        "catalogID":"9bf64322628a8a853c4d0bd6ed9732b3a5cff161",
+        "resourceName":"Demosite for seamlessaccess.org",
+        "resourceProvider":{
+            "name":"SeamlessAccess.org",
+            "displayname":"SeamlessAccess.org",
+            "url":"https://seamlessaccess.org/"
+        },
+        "description":"Demosite for seamlessaccess.org"
+    },
+    {
+        "catalogID":"9c8a85d82b013c303a93fcc395134ba8ff771dca",
+        "resourceName":"InAcademia stats qa-portal",
+        "resourceProvider":{
+            "name":"InAcademia",
+            "displayname":"InAcademia",
+            "url":"https://inacademia.org"
+        },
+        "description":"The stats qa-portal for InAcademia"
     },
     {
         "catalogID":"134aa9e2c457ebbec34e7d662a5608d175d84026",
@@ -31700,124 +31650,24 @@
         "description":"A tool for testing multi-factor authentication (MFA)."
     },
     {
-        "catalogID":"0e6c717ada3ae66721c31fedf52d88ba68a03918",
-        "resourceName":"The Staff Portal (Medarbetarportalen) at Uppsala University",
+        "catalogID":"a6d5e87bbccbd7c76291daa07ae373d3a8112953",
+        "resourceName":"Indico",
         "resourceProvider":{
             "name":"Uppsala University",
             "displayname":"Uppsala University",
             "url":"http://www.uu.se/en/"
         },
-        "description":"The Staff Portal (Medarbetarportalen) is an intranet for employees at Uppsala University, but it's also available for students and external users."
+        "description":"Indico is an event management system for meetings, conferences and lectures."
     },
     {
-        "catalogID":"9e938bfaf8cd7e4fe2c0b3720372b2ab764c37c2",
-        "resourceName":"Fysikum Nextcloud",
+        "catalogID":"d3249ba9f010faba48e04bff1369efc63493d557",
+        "resourceName":"Indico NORDUnet",
         "resourceProvider":{
-            "name":"Fysikum",
-            "displayname":"Fysikum",
-            "url":"https://fysik.su.se"
+            "name":"NORDUnet",
+            "displayname":"NORDUnet",
+            "url":"https://www.nordu.net"
         },
-        "description":"Fysikum Nextcloud"
-    },
-    {
-        "catalogID":"adf805231eb6afc3c727d76d6098c46d1a471b84",
-        "resourceName":"Ouriginal",
-        "resourceProvider":{
-            "name":"Prio Infocenter AB",
-            "displayname":"Ouriginal Group AB",
-            "url":"https://www.ouriginal.com/sv/"
-        },
-        "description":"Ouriginal is a similarity detection solution that combines text-matching with writing-style analysis to promote academic integrity and help combat plagiarism."
-    },
-    {
-        "catalogID":"c2fb8aeeea073a03c3018b3701daee3154a62317",
-        "resourceName":"URKUND",
-        "resourceProvider":{
-            "name":"Prio Infocenter AB",
-            "displayname":"URKUND / Prio Infocenter AB",
-            "url":"https://www.ouriginal.com/sv/"
-        },
-        "description":"URKUND is an online plagiarism checker service reserved for teachers"
-    },
-    {
-        "catalogID":"4a0d72340715f1aa16fea49d436654246407019b",
-        "resourceName":"SUNET signing service",
-        "resourceProvider":{
-            "name":"The Swedish Research Council",
-            "displayname":"Sunet",
-            "url":"https://www.sunet.se"
-        },
-        "description":"eduSign signing service"
-    },
-    {
-        "catalogID":"cb82ecea32af98ccaefc063f004a9bb546adb3aa",
-        "resourceName":"SND Service Provider",
-        "resourceProvider":{
-            "name":"Swedish National Data Service",
-            "displayname":"Swedish National Data Service",
-            "url":"https://snd.gu.se/en"
-        },
-        "description":"SSO service for SND."
-    },
-    {
-        "catalogID":"d70a32b8e133d02fa22742cb32e4c9556e253ebb",
-        "resourceName":"Språkbanken Text",
-        "resourceProvider":{
-            "name":"University of Gothenburg",
-            "displayname":"Department of Swedish, Multilingualism, Language Technology University of Gothenburg",
-            "url":"https://spraakbanken.gu.se/eng/"
-        },
-        "description":"Språkbanken Text is a nationally and internationally acknowledged research unit at the Department of Swedish, Multilinguality, Language Technology, University of Gothenburg"
-    },
-    {
-        "catalogID":"04dcd2d3d49e55e2dd4159b19744d61c6e1c04bc",
-        "resourceName":"Institute for Language and Folklore",
-        "resourceProvider":{
-            "name":"Institute for Language and Folklore",
-            "displayname":"Institute for Language and Folklore",
-            "url":"https://www.isof.se/"
-        },
-        "description":"Institute for Language and Folklore"
-    },
-    {
-        "catalogID":"c66edefde6df7177f2b6cb0cf1cbcc4fc0a9e4b4",
-        "resourceName":"InAcademia stats portal",
-        "resourceProvider":{
-            "name":"InAcademia",
-            "displayname":"InAcademia",
-            "url":"https://inacademia.org"
-        },
-        "description":"The stats portal for InAcademia"
-    },
-    {
-        "catalogID":"9c8a85d82b013c303a93fcc395134ba8ff771dca",
-        "resourceName":"InAcademia stats qa-portal",
-        "resourceProvider":{
-            "name":"InAcademia",
-            "displayname":"InAcademia",
-            "url":"https://inacademia.org"
-        },
-        "description":"The stats qa-portal for InAcademia"
-    },
-    {
-        "catalogID":"7eed57e051bf88cedd30f477340ba12b75f27380",
-        "resourceName":"eduSign (Emergya)",
-        "resourceProvider":{
-            "name":"Emergya",
-            "displayname":"Emergya",
-            "url":"https://www.emergya.com"
-        },
-        "description":"Test site for eduSign (Emergya)."
-    },
-    {
-        "catalogID":"d510a95a8cd9656b291209434f0606589f00a44b",
-        "resourceName":"Ladok for employees www.integrationstest.ladok.se",
-        "resourceProvider":{
-            "name":"Ladok Consortium",
-            "displayname":"Ladok Consortium",
-            "url":"https://ladok.se/"
-        },
-        "description":"Ladok is a central service for study administration aimed at students and study administrative staff at higher education institutions in Sweden."
+        "description":"Indico NORDUnet is a meeting, workshop and conference collaboration service."
     },
     {
         "catalogID":"5042845a3edf4e0bd932b3a40703f3985a0d8208",
@@ -31830,24 +31680,174 @@
         "description":"Ladok is a central service for study administration aimed at students and study administrative staff at higher education institutions in Sweden."
     },
     {
-        "catalogID":"4c7753e8c1b6129627738323df471946d70e9e94",
-        "resourceName":"Ladok for employees www.test.ladok.se",
+        "catalogID":"7c77aacbadf7c8b5bf1906d6d747e6dc3c4f294c",
+        "resourceName":"Umea University",
         "resourceProvider":{
-            "name":"Ladok Consortium",
-            "displayname":"Ladok Consortium",
-            "url":"https://ladok.se/"
+            "name":"Umea University",
+            "displayname":"Umeå University",
+            "url":"http://www.umu.se/english/"
         },
-        "description":"Ladok is a central service for study administration aimed at students and study administrative staff at higher education institutions in Sweden."
+        "description":"Umea University"
     },
     {
-        "catalogID":"c05633976aca53948ba577e6e35b054414b4db82",
-        "resourceName":"Ladok for employees www.utbildning.ladok.se",
+        "catalogID":"4a0d72340715f1aa16fea49d436654246407019b",
+        "resourceName":"SUNET signing service",
         "resourceProvider":{
-            "name":"Ladok Consortium",
-            "displayname":"Ladok Consortium",
-            "url":"https://ladok.se/"
+            "name":"The Swedish Research Council",
+            "displayname":"Sunet",
+            "url":"https://www.sunet.se"
         },
-        "description":"Ladok is a central service for study administration aimed at students and study administrative staff at higher education institutions in Sweden."
+        "description":"eduSign signing service"
+    },
+    {
+        "catalogID":"04dcd2d3d49e55e2dd4159b19744d61c6e1c04bc",
+        "resourceName":"Institute for Language and Folklore",
+        "resourceProvider":{
+            "name":"Institute for Language and Folklore",
+            "displayname":"Institute for Language and Folklore",
+            "url":"https://www.isof.se/"
+        },
+        "description":"Institute for Language and Folklore"
+    },
+    {
+        "catalogID":"1625e38eb1721682a095b5ed25c8035197a15b78",
+        "resourceName":"Vetenskapsrådets reviewer database",
+        "resourceProvider":{
+            "name":"The Swedish Research Council",
+            "displayname":"The Swedish Research Council",
+            "url":"http://www.vr.se"
+        },
+        "description":"This service is for Vetenskapsrådet personell"
+    },
+    {
+        "catalogID":"5dc11d23ee7ee842181a9803cf0137e794d5cdf6",
+        "resourceName":"ECIU University",
+        "resourceProvider":{
+            "name":"ECIU University",
+            "displayname":"ECIU University",
+            "url":"https://www.eciu.eu"
+        },
+        "description":"ECIU University"
+    },
+    {
+        "catalogID":"c108bfe703f4e36e1c895512f841cb0afdff111f",
+        "resourceName":"Fysikum Indico",
+        "resourceProvider":{
+            "name":"Stockholm Univerity",
+            "displayname":"Fysikum, Stockholm University",
+            "url":"https://www.su.se/fysikum/"
+        },
+        "description":"Fysikum Indico"
+    },
+    {
+        "catalogID":"910d4d731a5d0a63dc95caccc8a61d688512be24",
+        "resourceName":"ErrorURL demo site",
+        "resourceProvider":{
+            "name":"The Swedish Research Council",
+            "displayname":"Swedish Academic Identity Federation (SWAMID)",
+            "url":"http://www.swamid.se"
+        },
+        "description":"An errorURL demo site for the REFEDS errorurl group"
+    },
+    {
+        "catalogID":"5fc1d050607c4844cdb1435d259b743f7dce1467",
+        "resourceName":"ECIU University",
+        "resourceProvider":{
+            "name":"ECIU University",
+            "displayname":"ECIU University",
+            "url":"https://eciu.eu"
+        },
+        "description":"ECIU University"
+    },
+    {
+        "catalogID":"7bff4d607b9ddbceb4339420c9a329e00119de90",
+        "resourceName":"Sunet Drive",
+        "resourceProvider":{
+            "name":"The Swedish Research Council",
+            "displayname":"Sunet",
+            "url":"https://sunet.se"
+        },
+        "description":"Sunet Drive"
+    },
+    {
+        "catalogID":"d8f0d2d57b44fea86211914757bd2d89edb87882",
+        "resourceName":"InAcademia Affiliation Validation Service",
+        "resourceProvider":{
+            "name":"InAcademia operated by GÉANT",
+            "displayname":"InAcademia",
+            "url":"https://inacademia.org/about"
+        },
+        "description":"InAcademia validates the academic affiliation assigned to users by home institutions. This data is provided in pseudonymised form to registered services that request it."
+    },
+    {
+        "catalogID":"eda7996ca259406000de854d657967cd2185d41f",
+        "resourceName":"NORDUnet Tools",
+        "resourceProvider":{
+            "name":"NORDUnet",
+            "displayname":"NORDUnet A/S",
+            "url":"http://www.nordu.net"
+        },
+        "description":"NORDUnet Project and Issue tracking tools (JIRA and Confluence)."
+    },
+    {
+        "catalogID":"c143067713b20563316a36a7e6f5e9b80f8ac56e",
+        "resourceName":"University of Gävle SP",
+        "resourceProvider":{
+            "name":"HIG",
+            "displayname":"University of Gävle",
+            "url":"https://www.hig.se"
+        },
+        "description":"The University of Gävle Identity Provider is used by employees and students at the university. SP"
+    },
+    {
+        "catalogID":"a80ce7c86d725c123fc868e7053e97cfe92d82cc",
+        "resourceName":"Demosite for seamlessaccess.org",
+        "resourceProvider":{
+            "name":"SeamlessAccess.org",
+            "displayname":"SeamlessAccess.org",
+            "url":"https://seamlessaccess.org/"
+        },
+        "description":"Demosite for seamlessaccess.org"
+    },
+    {
+        "catalogID":"c2fb8aeeea073a03c3018b3701daee3154a62317",
+        "resourceName":"URKUND",
+        "resourceProvider":{
+            "name":"Prio Infocenter AB",
+            "displayname":"URKUND / Prio Infocenter AB",
+            "url":"https://www.ouriginal.com/sv/"
+        },
+        "description":"URKUND is an online plagiarism checker service reserved for teachers"
+    },
+    {
+        "catalogID":"634266eff12e0778e349c4c92916c48314696af9",
+        "resourceName":"AsiaPortal: Databases and other resources provided by the Nordic Institute of Asian Studies",
+        "resourceProvider":{
+            "name":"Nordic Institute of Asian Studies",
+            "displayname":"NIAS",
+            "url":"https://nias.ku.dk/"
+        },
+        "description":"Provides access to databases and other resources for Nias Nordic Council Member institutions"
+    },
+    {
+        "catalogID":"345b311a37ad9c79347aefe8cca82a634edfff93",
+        "resourceName":"IPnett Cloud Services Beta",
+        "resourceProvider":{
+            "name":"The Swedish Research Council",
+            "displayname":"Sunet",
+            "url":"https://sunet.se"
+        },
+        "description":"IPnett Cloud Services OpenStack"
+    },
+    {
+        "catalogID":"c66edefde6df7177f2b6cb0cf1cbcc4fc0a9e4b4",
+        "resourceName":"InAcademia stats portal",
+        "resourceProvider":{
+            "name":"InAcademia",
+            "displayname":"InAcademia",
+            "url":"https://inacademia.org"
+        },
+        "description":"The stats portal for InAcademia"
     },
     {
         "catalogID":"c65171710903a01c945005deb31b69024fc6ab62",
