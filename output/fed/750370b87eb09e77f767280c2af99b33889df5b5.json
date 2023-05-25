@@ -1,0 +1,195 @@
+{
+    "generated":"2023-05-25 20:20",
+    "en":[
+        {
+            "catalogID":"750370b87eb09e77f767280c2af99b33889df5b5",
+            "entityID":"https://identity-prod.slac.stanford.edu/shibboleth",
+            "resourceName":"SLAC Identity Services",
+            "resourceProvider":{
+                "name":"Stanford University",
+                "displayname":"SLAC National Accelerator Laboratory",
+                "url":"http://www.stanford.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"SLAC Identity Services",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                }
+            ],
+            "info":"https://iam.slac.stanford.edu",
+            "privacy":"https://www6.slac.stanford.edu/privacy-policy",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "fr":[
+        {
+            "catalogID":"750370b87eb09e77f767280c2af99b33889df5b5",
+            "entityID":"https://identity-prod.slac.stanford.edu/shibboleth",
+            "resourceName":"SLAC Identity Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.stanford.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "it":[
+        {
+            "catalogID":"750370b87eb09e77f767280c2af99b33889df5b5",
+            "entityID":"https://identity-prod.slac.stanford.edu/shibboleth",
+            "resourceName":"SLAC Identity Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.stanford.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ],
+    "de":[
+        {
+            "catalogID":"750370b87eb09e77f767280c2af99b33889df5b5",
+            "entityID":"https://identity-prod.slac.stanford.edu/shibboleth",
+            "resourceName":"SLAC Identity Services",
+            "resourceProvider":{
+                "name":[],
+                "displayname":[],
+                "url":"http://www.stanford.edu/"
+            },
+            "resourceAttributes":{
+                "required":[
+                    "eduPersonPrincipalName",
+                    "mail"
+                ],
+                "requested":[
+                    "givenName",
+                    "sn"
+                ]
+            },
+            "description":"",
+            "resourceContacts":[
+                {
+                    "type":"administrative",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                },
+                {
+                    "type":"technical",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                },
+                {
+                    "type":"security",
+                    "name":"SLAC IAM Team",
+                    "email":"mailto:slac-iam@slac.stanford.edu"
+                }
+            ],
+            "info":"",
+            "privacy":"",
+            "entityCategories":[
+                "http://id.incommon.org/category/registered-by-incommon"
+            ],
+            "SirtfiSupport":[
+                "https://refeds.org/sirtfi"
+            ]
+        }
+    ]
+}

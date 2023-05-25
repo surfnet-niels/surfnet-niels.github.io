@@ -6440,6 +6440,16 @@
         "description":""
     },
     {
+        "catalogID":"46a021eeb6e42d1a9da0e242b3182db87a695276",
+        "resourceName":"University of Missouri - I2B2",
+        "resourceProvider":{
+            "name":"University of Missouri System",
+            "displayname":"University of Missouri System",
+            "url":"http://umsystem.edu/"
+        },
+        "description":""
+    },
+    {
         "catalogID":"02524164cea34fc088f7888cbf5506ba027e0c42",
         "resourceName":"University of Missouri School of Medicine - REDCap",
         "resourceProvider":{
@@ -19482,6 +19492,36 @@
     {
         "catalogID":"d1136c405d7dce906d1c960a25242baaaf86f356",
         "resourceName":"SLAC COmanage Test Environment",
+        "resourceProvider":{
+            "name":"Stanford University",
+            "displayname":"SLAC National Accelerator Laboratory",
+            "url":"http://www.stanford.edu/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"c93b2d2abd246dad0f2990b2a963cefe3013a596",
+        "resourceName":"SLAC Identity Services Dev",
+        "resourceProvider":{
+            "name":"Stanford University",
+            "displayname":"SLAC National Accelerator Laboratory",
+            "url":"http://www.stanford.edu/"
+        },
+        "description":""
+    },
+    {
+        "catalogID":"750370b87eb09e77f767280c2af99b33889df5b5",
+        "resourceName":"SLAC Identity Services",
+        "resourceProvider":{
+            "name":"Stanford University",
+            "displayname":"SLAC National Accelerator Laboratory",
+            "url":"http://www.stanford.edu/"
+        },
+        "description":"SLAC Identity Services"
+    },
+    {
+        "catalogID":"ecf09c2c7367eacd037964087bc3b7bb573e9991",
+        "resourceName":"SLAC Identity Services Test",
         "resourceProvider":{
             "name":"Stanford University",
             "displayname":"SLAC National Accelerator Laboratory",
