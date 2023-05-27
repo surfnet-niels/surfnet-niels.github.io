@@ -1,5 +1,5 @@
 {
-    "generated":"2023-05-27 18:23",
+    "generated":"2023-05-27 20:20",
     "en":[
         {
             "catalogID":"617507e15e2bfd60a80924e79989f5e2610b4921",
@@ -12,11 +12,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
-                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonAffiliation",
                     "organizationName",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "eduPersonTargetedID",
                     "surname",
                     "mail"
                 ],
@@ -48,11 +48,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
-                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonAffiliation",
                     "organizationName",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "eduPersonTargetedID",
                     "surname",
                     "mail"
                 ],
@@ -84,11 +84,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
-                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonAffiliation",
                     "organizationName",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "eduPersonTargetedID",
                     "surname",
                     "mail"
                 ],
@@ -120,11 +120,11 @@
             },
             "resourceAttributes":{
                 "required":[
-                    "commonName",
-                    "eduPersonTargetedID",
                     "givenName",
-                    "eduPersonAffiliation",
                     "organizationName",
+                    "commonName",
+                    "eduPersonAffiliation",
+                    "eduPersonTargetedID",
                     "surname",
                     "mail"
                 ],
