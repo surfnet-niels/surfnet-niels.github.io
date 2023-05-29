@@ -810,6 +810,16 @@
         "description":"https://sp-cngbdb.carsi.edu.cn/shibboleth"
     },
     {
+        "catalogID":"4844dbe2ec15b62c40f729b173a104108d022fe9",
+        "resourceName":"https://sp-edupki.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"TrustAsia Technologies, Inc.",
+            "displayname":"TrustAsia Technologies, Inc.",
+            "url":"https://www.trustasia.com/"
+        },
+        "description":"https://sp-edupki.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"d2ab9bebc45abbae47f76da3a4c16ddccd55f9d4",
         "resourceName":"https://sp-epsplatform.carsi.edu.cn/shibboleth",
         "resourceProvider":{
