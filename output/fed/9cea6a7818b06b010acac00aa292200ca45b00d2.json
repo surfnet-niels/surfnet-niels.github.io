@@ -920,6 +920,16 @@
         "description":"https://sp-pubmedol.carsi.edu.cn/shibboleth"
     },
     {
+        "catalogID":"5e9f2d3fd59ef740ffe0feea42fc9a921012a2cc",
+        "resourceName":"https://sp-rucdigithotpot.carsi.edu.cn/shibboleth",
+        "resourceProvider":{
+            "name":"rucdigit",
+            "displayname":"rucdigit",
+            "url":"http://www.rucdigit.com/"
+        },
+        "description":"https://sp-rucdigithotpot.carsi.edu.cn/shibboleth"
+    },
+    {
         "catalogID":"bdd8cdac82e07b8c7aa06479e0cb30cfce706399",
         "resourceName":"https://sp-saiwenyixue.carsi.edu.cn/shibboleth",
         "resourceProvider":{
